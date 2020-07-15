@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Mae Sgript Tabl Trac Disg Galactig Matrics Trinary Matrics yn Creu"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Diweddariad Diwethaf"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Dyddiad wedi Newid"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Maint yr Haul"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Maint y Blaned Livable"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Nifer y Peiriannau Trofannol"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Radiws Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Cyfanswm y Traciau yn Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Mynegai Pwysedd Atmosfferig"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "milltiroedd mewn Diamedr"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "milltiroedd"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Egwyddorion y Bydysawd Trofannol: Atodiad A: Tabl Trac Galactig Trofannol"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Awdur: Jeffrey Scott Flesher, Egwyddorion Light Wizzard neu Dewiniaid fel Syr Isaac Newton a Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Golau, Dewin, Dewin, Newton, Newtonian, Tesla, Franklin, Duw, Iesu, Bar / Abbas, Tywyllwch, Treial, Bydysawd, Noddfa, Ffiseg, Haul, Cam, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Awdur: Jeffrey Scott Flesher, Egwyddorion Light Wizzard neu Dewiniaid fel Syr Isaac Newton a Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Atodiad A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Tabl Trac Galactig Trofannol"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Egwyddorion y Bydysawd Trofannol"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight a CopyLeft gan"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Rhingyll Staff Llu Awyr yr Unol Daleithiau sydd wedi ymddeol yn feddygol"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Tabl Trac Galactig Trofannol"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Mae'r Galaxy Trinary yn seiliedig ar:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Mae'r Galaxy Trinary yn seiliedig ar Chwaraewr Recordiau, y Plân Galactig yw'r Cofnod neu'r Ddisg."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Mae'r Suns i gyd yn cylchdroi'r Galaxy ar yr Un Gyfradd Fel y Braich Chwaraewr Record, ac mae gan bob Trac ei Gyflymder ei hun."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Mae Amseriad yn Gyfnod Amser a ddiffinnir fel:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Mae Amseriad yn Gyfnod Amser a ddiffiniwyd mewn blynyddoedd, byddaf yn cyfrif yma fel Uchafswm, Cyfartaledd ac Isafswm,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "mae'r Cyfnodau hyn yn cael eu Labelu gan ddefnyddio'r Arwyddion Sidydd, ac yn defnyddio'r Calendr Julian, Gregorian a Mayan."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Mae Mathemateg Trinary Matrics yn seiliedig ar:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Mae Mathemateg Matrics Trofannol wedi'i seilio ar Dabl Matrics, mae pob rhes yn Drac yn y Disg Galactig,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "mae gan bob colofn ddata am yr Haul (iau) yn y Galaxy sy'n cefnogi Bywyd."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Mae hyn yn seiliedig ar Ystodau Ynni hysbys y gallai bodau dynol oroesi ynddynt."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Mae'r Cysyniad Trofannol hwn yn Seiliedig ar:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Mae'r Cysyniad Trinary yn un y des i fyny gyda mi fy hun yn blentyn erbyn 9 oed,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "mae'n seiliedig ar yr Haul yn cael yr holl Wybodaeth yr oedd ei hangen i wybod i wneud ei Swydd yn y Galaxy."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Unwaith i mi ddeall yr hyn yr oedd Syr Isaac Newton yn ei ddisgrifio,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Sylweddolais fod gan y Suns Size bopeth i'w wneud â'i Gysawd yr Haul,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "felly dechreuais gyfrifo popeth y gallwn: yn seiliedig ar ei Eiddo,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "ac ysgrifennais y Sgript Bash hon i greu'r Ffeil ddogfen XHTML hon sy'n cynnwys y Tabl Matrics hwn ac, ysgrifennais hefyd Brosiect Ffynhonnell Agored traws-blatfform Qt Quick QML JavaScript o'r enw galaxy-calculator, mae'r ddolen ar waelod y dudalen."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Yn seiliedig ar Maint Haul o"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "milltiroedd mewn Diamedr"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Yn seiliedig ar"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Peiriannau Trinary"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Yn seiliedig ar Galaxy gyda Radiws o"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Cyfanswm y Traciau"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Uchafswm y Newid"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Newid Cyfartalog"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Isafswm Newid"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Trac:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Rhif trac ein Galaxy, yn seiliedig ar 0 i ddwywaith 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Mae gan draciau o dan 336 Beiriannau Trofannol Negyddol oherwydd eu bod yn Sêr Tywyll,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "maen nhw'n cymysgu â Modrwyau Maes Llu Galaethau, gan wneud y niferoedd yn Amleddau Negyddol."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Peiriannau Trinary:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Yn seiliedig ar faint o wrthrychau (Planedau, Micro Planets, Moons, Asteroids) neu Peiriannau Trofannol, mae Peiriant Trofannol yn y Tabl yn cyfeirio at Sêr Cydymaith Seren Dywyll yn unig, mae'n ofynnol iddynt gadw Cysawd yr Haul gyda'i gilydd, yr Ynni Tywyll yn y mathau hyn. Mae Peiriannau Trofannol yn Holl Olau Heb Dywyllwch, er bod Golau heb Dywyllwch yn cyfeirio at Sbectra Golau nad yw fel arfer yn y Sbectrwm Gweledol y gall bodau dynol ei weld, heb Dechnoleg Sbectrwm Llawn, mae'r mathau hyn o Beiriant Trofannol wedi'u gwneud o Niwtrinos sy'n Dywyll eu golwg os edrychir arnynt gyda Thechnoleg, oherwydd ni all Technoleg weld y Golau heb Dywyllwch trwy'r Neutron Shell, sy'n golygu gronynnau allanol Atom Trofannol, ar hyn o bryd nid oes Technoleg i ganfod Sêr Tywyll, ond gall Delweddau Sbectrwm Llawn ganfod eu Patrymau fel Ynni Tywyll. Sêr Tywyll rheoli'r Suns or Stars, trwy greu rhwydwaith o Dark Energy ,, orbit The Dark Star Companions rhwng Sun mewn System Solar sydd â Planedau a Lleuadau, a'i wrth-bargen Deuaidd t, yn ein hachos ni yw Sirius yn Seren Ddeuaidd, fel y cyfryw, po agosaf yw Haul neu Seren at y Galaxy, y lleiaf o Beiriannau Trofannol y mae angen iddo eu cynnwys, ac felly mae nifer yr Peiriannau Trofannol yn rheoleiddio'r hyn y mae Track the Sun hefyd yn cael ei alw'n mae Seren ymlaen, felly po bellaf i ffwrdd o'r Galaxy, y mwyaf o Beiriannau Trofannol o'r enw Dark Star Companions, mae angen iddi rychwantu'r pellter, er mwyn cynnwys y Planedau eraill, tra bod y Seren Dywyll yn cynnal yr un Gyfradd Symud ar Gyflymder gwahanol. . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Mae cynnal yr un Gyfradd ar wahanol Gyflymder yn cael ei reoleiddio gan y Seren Dywyll ei hun, ac mae yn y Plân Galactig, ac mae'r Haul a elwir hefyd yn Sêr yn mynd heibio iddo. Swydd y Cymdeithion yw cadw cysawd yr haul gyda'i gilydd. Yn y Delwedd I dangos bod y Deuaidd Seren Sirius a'n Haul ar ochrau cyferbyniol y Plân Galactig, nid yw hyn ond yn wir wrth basio trwyddo a dod allan ohono, hyd y gallaf brofi. Y Fformiwla Mathemateg Drofannol ar gyfer Grafftio neu Gynllwynio Cerrynt Amgen mewn tonffurf siâp Helix, mae'n seiliedig ar yr Amledd sy'n cydberthyn i'n cyfwng Suns o ran amser a phellter, ond oherwydd Gwyddoniaeth gyfredol, mae'r brif ffrwd sy'n cau y gall amcangyfrif ei bod rhwng 30 a 33 Miliwn o Flynyddoedd, felly gwnes i fod yn Amrywiol, felly gellir ei addasu i'r gwerth cywir, mae'r app hwn wedi'i gynllunio i fewnbynnu unrhyw Galaxy, felly nid yw'n effeithio ar fy nghyfrifiad ar gyfer pryd y byddwn yn Gwrthdroi Pwyliaid, oherwydd dim ond mater o ble'r ydym yn y Signal ei hun yw hynny, ac mae'n gwneud hynny ddim hyd yn oed yn dibynnu ar ba gyfeiriad rydym yn mynd, gan olygu i mewn i'r Plân Galactig, neu i ffwrdd ohono, dim ond lle'r ydym ni o ran y Signal ei hun. Galwaf Disgyrchiant yn Arwydd, oherwydd bod Duw yn Holl Olau Heb Dywyllwch, a hi yw Grym Disgyrchiant ym mhob Hafaliad Newtons, yn ogystal â fy un i, a dyma'r Disgyrchiant yr wyf yn ei gyfrifo ar gyfer y Galaxy, a'i Haul a elwir hefyd yn Sêr . Mae Sêr Tywyll a'u Cymdeithion yn fath arbennig o Beiriant Trofannol, ac fel pob Peiriant Trofannol, maent yn Ddamcaniaethol, oherwydd ni ellir eu profi na'u gwrthbrofi, ac mae'n nodi bod yn rhaid bod gennych Ffydd Dduw yn Bodoli, yw'r hyn a ddywedodd Newton a nododd y Beibl, ond nid Gwyddoniaeth yw hynny, hyd yn oed dywedodd Newton fy mod, yn lle hynny, yn nodi bod Peiriannau Trinary yn allyrru'r Arwyddion hyn y gellir eu Canfod gan Dechnoleg Gyfredol, fel y cyfryw, gallaf nodi eu bod yn Ffaith mewn Gwyddoniaeth Drofannol, gyda Phrawf yn defnyddio Technoleg gyfredol. I blotio'r Data yn y Tabl, defnyddiais y data canlynol fel newidynnau, Maint yr Haul fel 864,575.9 Milltir mewn Diamedr, Maint y Blaned Livable fel 7926.2109 Milltir mewn Diamedr, Nifer yr Peiriannau Trofannol fel 333 o'r Beibl, Radiws of Galaxy fel 241828072282107.5071453596951 Milltir, Enw Ffeil Llawn: appendix.a.xhtml, a 66 rhes i'w Argraffu, hynny yw ar gyfer y Sgript Bash, mae gen i hyd yn oed fwy o reolaeth yn yr Ap Qt, mae Trinary Math yn Syml, i gael y cyfnod amser Iterations, dim ond angen i mi wybod maint yr Haul, (864,575.9 * (1/131)) / 3 u003d yr uchafswm blwyddyn 2103, mae'r Newidiad Cyfartalog yn Seiliedig ar Wrthdroi Polaredd Magnetig yr Haul, mae'n newid polaredd 10 (0 - 9) gwaith y Ganrif: 100 - 9 u003d 91, felly 2103 - 91 u003d 2012, i gyfrifo Diwedd Amser, defnyddiwch 42 o Ganllaw Hitchhikers i'r Galaxy, mae 42 hecs yn 66 mewn degol, ac mae hynny o'r Beibl, a 2103 - 42 u003d 2061, a Cyfrifodd Syr Isaac Newton hyn yn y flwyddyn 2060 o dan Galendr Julian, felly mae'n 2061 o dan Galendr Gregori, felly dyma fed e Blwyddyn y dylai'r Ddaear wyrdroi Pwyliaid, ac ni fyddwn yn cynnal y digwyddiad hwn Yn ysgafn, dyma Ddiwedd Amser a elwir hefyd yn Ddiwedd Gwareiddiad fel yr ydym yn ei wybod, felly mae gwybod Maint yr Haul yn bopeth y mae angen i chi ei wybod, arall na’r ffaith ei fod ond yn gweithio os dechreuwch eich blwyddyn yn 0, a pham mae Calendr Mayan yn cychwyn drosodd ar ôl 2012, cynffon y Pysgod yw’r flwyddyn 2060, a pham y cyflwynwyd y Calendr Gregori, fel y byddai’n cyd-fynd â hyn Cod y Beibl, gan wneud cyfrifiad Newtons yn gywir, a pham mae'r Mayans yn cadw golwg ar amser yn Newidiadau Blynyddoedd 2012, felly mae'r fathemateg bob amser yn gweithio iddyn nhw, ac roedden nhw'n gwybod y byddai'n digwydd ar ôl 2012 a chyn y Gynffon Bysgod, sydd yn y flwyddyn 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Max Speed u200bu200byn MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Yn seiliedig ar y cyflymder Uchaf y gall yr Haul deithio trwy'r Plân Galactig."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min Speed u200bu200byn MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Yn seiliedig ar yr isafswm cyflymder gall yr Haul deithio ar ôl mynd trwy'r Plân Galactig."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Amledd yn Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Yn seiliedig ar Amledd Craidd y Blaned, dylai'r amleddau arwyneb fod yn llawer uwch:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Amledd Livable Planet o 7.830 Hz yn y flwyddyn: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Pellter Orbital:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Mae hyn fel Trac ar Gofnod, mae'n Gylchrediad y Trac mewn Milltiroedd."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Amledd Trac yn Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Mae hyn yn seiliedig ar siâp Helix y mae ein Haul yn teithio ynddo o amgylch y Galaxy,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "mae hefyd yn cyfrifo pan fyddwn ni'n pasio trwy'r Plaen Galactig."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Mae Bywyd yn y Galaxy wedi'i leoli:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Ar hyn o bryd mae Bywyd yn y Galaxy ar Drac * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Os bydd Peiriant Trofannol newydd yn dod i mewn neu'n gadael ein Byd neu Gysawd yr Haul, byddwn yn newid traciau."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Ar ôl y Newid Polar yn ddyledus yn 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "dylech chi gychwyn Calendr Newydd gan ddechrau gyda blwyddyn 0, neu barhau a defnyddio'r dyddiadau yn Nhabl y Sidydd."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Dyma Oes Aquarius, a bydd Oes yr Iâ yn Marcio'i Glaw."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Os dewiswch ddau Haul ar wahanol Draciau ar draws ei gilydd: a ddangosir mewn Coch a Gwyrdd,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "a dychmygu, wrth i mi gylchdroi'r ddelwedd hon yn efelychu'r Suns Orbiting the Galaxy,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "byddech chi'n nodi bod yr holl Haul yn y Galaxy yn aros yn unol wrth iddyn nhw ei orbitio,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "efelychiad gwael yw hwn ond mae'n gwneud fy mhwynt,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "nid yw'r Math hwn yr un peth ag y mae ar gyfer System Solar Suns, felly ni fydd Deddfau a Mathemateg Kepler a Newton yn eich helpu chi yma, ond bydd Trinary Math yn gwneud hynny."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Mae Trinary Math a greais yn 9 oed yn gweithio i ddatrys y broblem hon a gyflwynodd y Galaethau, gan ddefnyddio'r Rhesymeg: Cyflymder u003d Pellter / Amser, a Phellter u003d Cyflymder * Amser, felly mae Cyflymder a Phellter yn Berthynol i Amledd, fel: Amledd u003d 1 / Amser ac Amser u003d 1 / Amledd, fel: Amledd (Hz) u003d Cyflymder Golau (Pellter @ 670,616,629 mya * 1 awr; ~ Amledd mewn milltiroedd mewn 1 Awr neu Amser) / Tonfedd mewn Milltiroedd, gan ddefnyddio amcangyfrif Prif Ffrwd o 500,000 Milltir awr am 250,000,000 o flynyddoedd, yn bellter o 1,095,000,000,000,000,000 milltir, gan ddefnyddio fy Fformiwla rydw i'n cael 1,011,954,093,357,316,200 milltir, mor ddigon agos dros y pellter hwnnw. Mae Gwyddoniaeth Drofannol yn seiliedig ar yr holl Ynni sy'n dod o Olau Duw y tu mewn i bob Atom Trofannol, sy'n golygu 3 math: Proton, Niwtron ac Electron yn achos Golau, fel y cyfryw, mae'r holl Fat Trinary yn seiliedig ar Drydan. Pan fydd wedi'i gwblhau bydd y cyfrifiannell galaeth, prosiect github Ffynhonnell Agored, sydd eisoes yn cyfrifo'r un tabl hwn, hefyd yn plotio'n graff. llwybr t he Suns or Stars, wrth iddynt orbitio o amgylch y Galaxy, ar ôl eu cwblhau, byddaf yn disodli'r delweddau yn y tabl hwn gyda'r rheini. Mae gennych ddau ddewis, credwch Syr Isaac Newton mai Duw yw Llu Disgyrchiant yn Ei Holl Hafaliadau, neu gallwch gredu Albert Einstein a wadodd ei holl Theorïau o blaid Duw Newtons fel Llu Disgyrchiant, y naill ffordd neu'r llall rwy'n agosach at fod yn iawn na Gwyddoniaeth Prif Ffrwd, oherwydd ei fod yn seiliedig ar Theori nad oedd Einstein hyd yn oed yn credu ynddo. Yn y fformiwla hon, rwy'n adio'r Amleddau Trac yn lle defnyddio Sine a Cosine, nid Efelychydd mo hwn, mae'n cyfrifo'r holl Draciau yn seiliedig ar yr un peth. Haul, a Maint y Blaned Livable, fel ei fod yn gweithio i'r Trac (au) sy'n cefnogi Bywyd yn unig, felly mae'n cyfrifo lle y gall Bywyd fodoli ar sail y meintiau hyn. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Y Galaxy Yn Troelli pob System Solar ar yr un Gyfradd"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Y Galaxy Yn Troelli pob System Solar ar yr un Gyfradd"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Y Galaxy Yn Troelli pob System Solar ar yr un Gyfradd ond nid yn gyflym"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Maint Llawn"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Mae Math Trinary yn 3 Math Dimensiwn oherwydd ei fod yn seiliedig ar Drydan a elwir hefyd yn Ysgafn, bod Newton yn galw Duw."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Os ydych chi'n gweld yr Haul yn cylchdroi Seren Dywyll yn yr Awyren Galactig,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "a chael Cyfluniad Seren Drofannol, fel mai Sirius yw ein Seren Ddeuaidd,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "ac mae yna hefyd Gymdeithion Seren Dywyll sy'n ufuddhau o amgylch y Trinary Star Systems (Our Sun, Sirius a a Dark Star)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Mae'r Tabl hwn yn Cyfrifo Amledd y Waveform hon a ddangosir yn y Darlun hwn."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "yn ogystal â'r Cyflymder y mae'n teithio arno wrth iddo bweru i mewn i'r Plân Galactig ar y Cyflymder Uchaf,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "a sut mae ar y Cyflymder Isaf wrth iddo gael ei bellaf mewn Osgled cyn iddo blymio'n ôl i'r Awyren Galactig."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Llwybr orbitol yr Haul o amgylch Galaxy un chwyldro"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Llwybr orbitol yr Haul o amgylch Galaxy un Orbit cyflawn"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Darlun A2: Llwybr orbitol cyflawn yr Haul o amgylch Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Maint Llawn"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Trac"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Peiriannau"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Max Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "yn MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "yn MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Amledd"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "yn Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Pellter Orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "mewn Milltiroedd"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Trac"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Amledd"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tabl Atodiad A: Tabl Trac Galactig Mathemateg Trofannol Mathemateg"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Defnydd: (Maint yr Haul mewn Milltiroedd mewn Diamedr) (Maint y Blaned Livable mewn Milltiroedd mewn Diamedr) (Nifer yr Peiriannau Trofannol)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radiws of Galaxy in Miles) (Enw Ffeil Llawn: appendix.a.xhtml) (Nfed Nifer y rhes i'w Argraffu)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 atodiad.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Mae hyn yn caniatáu ichi gymryd rhan mewn Galaethau eraill, a chwarae gyda gwahanol Faint yr Haul a'r Blaned."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Gosodwch ThisPrintNth u003d 1 os ydych chi am argraffu'r nawfed rhes yn unig, gosod trackNth i rif i hepgor,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "Mae 66 yn rhoi tua 21 o Draciau i chi, bydd ei osod i 1 yn argraffu'r holl Draciau,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "gosod DoNotSkipThis u003d 666 neu pa rif erioed rydych chi am ei weld,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "mae hyn yn arbed papur trwy argraffu rhan o'r rhesi yn y tabl yn unig; dyma'r 6ed Dadl, rwy'n ceisio cyfyngu'r rheini."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Dolen i Ffeil Bash a greodd y Dudalen hon (Cadw a Gosod Caniatâd i redeg.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Os ydych chi'n rhedeg Sgript Bash fel: ./makeappendix.a.sh neu ./makeappendix.a.sh --help, bydd yn rhoi Help a mwy o fanylion i chi."
+

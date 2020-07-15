@@ -1,0 +1,188 @@
+/* Following EPUB 3 spec by the letter (applies to RS but let’s make sure it is respected because we never know) */
+nav[epub|type~="toc"] ol
+{
+    list-style: none !important;
+}
+/* [Opinionated] Default to prevent bloat in case linear="no" is rendered as linear="yes" */
+nav[epub|type~="landmarks"],
+nav[epub|type~="page-list"]
+{
+    display: none;
+}
+/* TYPOGRAPHY */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote p cite,
+dt,
+pre,
+address,
+table,
+caption,
+th,
+td,
+.align-left,
+.align-center,
+.align-right,
+.caption,
+.no-hyphens
+{
+    adobe-hyphenate: none;
+    -ms-hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    -epub-hyphens: none;
+}
+/* Text align */
+.justified
+{
+    adobe-hyphenate: auto;
+    hyphenate-limit-lines: 3;
+    hyphenate-limit-chars: 6 3 2;
+    hyphenate-limit-zone: 10%;
+    hyphenate-limit-last: always;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -epub-hyphens: auto;
+    /* before and after not in spec but iBooks support all three (-webkit-) */
+    -ms-hyphenate-limit-lines: 3;
+    -moz-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-lines: 3;
+    -webkit-hyphenate-limit-before: 2;
+    -webkit-hyphenate-limit-after: 2;
+    /* No support except Trident (Windows) */
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -moz-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-chars: 6 3 2;
+    /* No support except Trident (Windows) */
+    -ms-hyphenate-limit-zone: 10%;
+    -moz-hyphenate-limit-zone: 10%;
+    -webkit-hyphenate-limit-zone: 10%;
+    /* No support */
+    -ms-hyphenate-limit-last: always;
+    -moz-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-last: always;
+}
+/* *****************************
+ *  a_header
+ */
+.a_header
+{
+    adobe-hyphenate: none;
+    -ms-hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    -epub-hyphens: none;
+}
+/* *****************************
+ *  a_ref
+ */
+.a_ref
+{
+    adobe-hyphenate: none;
+    -ms-hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    -epub-hyphens: none;
+}
+/* *****************************
+ *  x
+ */
+.a_button
+{
+    -webkit-transition-duration: 0.4s; /* Safari */
+}
+/* *****************************
+ *  x
+ */
+.button_blank_target_link
+{
+    -webkit-transition-duration: 0.4s; /* Safari */
+}
+/* *****************************
+ *  x
+ */
+.a_button_notice
+{
+    -webkit-transition-duration: 0.4s; /* Safari */
+}
+/* *****************************
+ *  x
+ */
+.blank_target_link
+{
+    -webkit-transition-duration: 0.4s; /* Safari */
+}
+/* *****************************
+ *  x
+ */
+.blank_target_link_https
+{
+    -webkit-transition-duration: 0.4s; /* Safari */
+}
+/* *****************************
+ * toc_link
+ */
+a.toc_link
+{
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+}
+/* *****************************
+ *  x
+ */
+.zoomin img
+{
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -ms-transition: all 2s ease;
+}
+/* *****************************
+ *  x
+ */
+a.a_link
+{
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+}
+/* *****************************
+ *  x
+ */
+div.pretextarea
+{
+    -ms-tab-size: 3;
+    -moz-tab-size: 3;
+    -webkit-tab-size: 3;
+}
+/* *****************************
+ *  x
+ */
+div.pretag
+{
+    -ms-tab-size: 3;
+    -moz-tab-size: 3;
+    -webkit-tab-size: 3;
+}
+/* *****************************
+ *  x
+ */
+a
+{
+    -webkit-text-fill-color: inherit;
+}
+/* *****************************
+ *  x
+ */
+pre
+{
+    -ms-tab-size: 3;
+    -moz-tab-size: 3;
+    -webkit-tab-size: 3;
+}
+/* ****** End of File ****** */

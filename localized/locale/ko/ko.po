@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "3 차 행렬 수학 은하 디스크 트랙 테이블 스크립트 생성 중"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "마지막 업데이트"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "날짜 변경"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "일 크기"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "살기 좋은 행성 크기"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "3 차 엔진 수"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "은하 반경"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "갤럭시의 총 트랙 수"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "대기압 지수"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "직경 마일"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "마일"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "삼위 우주의 원리 : 부록 A : 삼차 은하 트랙 테이블"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "저자 : Jeffrey Scott Flesher, Light Wizzard의 원칙 또는 Isaac Newton 및 Nikola Tesla와 같은 마법사"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "빛, 마법사, 마법사, 뉴턴, 뉴턴, 테슬라, 프랭클린, 하나님, 예수, 바 / 아바, 어둠, 3 차, 우주, 성소, 물리학, 태양, 단계, 제프리 스콧 플레셔"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "저자 : Jeffrey Scott Flesher, Light Wizzard의 원칙 또는 Isaac Newton 및 Nikola Tesla와 같은 마법사"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "부록: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "삼차 은하 트랙 테이블"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "삼위 우주의 원리"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight 및 CopyLeft by"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "제프리 스콧 플레셔"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "의료 은퇴 한 미국 공군 직원 상사"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "삼차 은하 트랙 테이블"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Trinary Galaxy는 다음을 기반으로합니다."
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Trinary Galaxy는 레코드 플레이어를 기반으로하며, 은하 비행기는 레코드 또는 디스크입니다."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "모든 태양은 레코드 플레이어 암과 같은 속도로 갤럭시 궤도를 돌며, 각 트랙에는 고유 한 속도가 있습니다."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "반복은 다음과 같이 정의 된 기간입니다."
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "반복은 년으로 정의 된 기간입니다. 여기서는 최대, 평균 및 최소로 계산하겠습니다."
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "이 기간은 조디악 표지판을 사용하여 표시되며 Julian, Gregorian 및 Mayan Calendar를 사용합니다."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "삼차 행렬 수학은 다음을 기반으로합니다."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "3 차 매트릭스 수학은 매트릭스 테이블을 기반으로하며, 각 행은 은하 디스크의 트랙입니다."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "각 열에는 생명을 지원하는 은하계의 태양에 대한 데이터가 있습니다."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "이것은 인간이 생존 할 수있는 알려진 범위의 에너지를 기반으로합니다."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "이 3 차 개념은 다음을 기반으로합니다."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "삼위 일체 개념은 제가 9 세가되어 어린 시절에 생각해 낸 것입니다."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "그것은 갤럭시에서 자신의 일을하기 위해 알아야 할 모든 정보를 가지고있는 태양에 근거하고있다."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Isaac Newton 경이 무엇을 묘사했는지 이해했으면"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Suns Size가 태양계와 관련이 있다는 것을 깨달았습니다."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "그래서 속성에 따라 가능한 모든 것을 계산하기 시작했습니다."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "이 매트릭스 테이블을 포함하는이 XHTML 문서 파일을 작성하기 위해이 Bash 스크립트를 작성했으며, Galaxy-calculator라는 Qt Quick QML JavaScript 크로스 플랫폼 오픈 소스 프로젝트도 작성했습니다. 링크는 페이지 하단에 있습니다."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "태양의 크기에 따라"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "직경 마일"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "기반"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "3 차 엔진"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "반경의 은하계"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "총 트랙 수"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "최대 반복"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "평균 반복"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "최소 반복"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "과정:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "0에서 2,666 사이의 갤럭시 트랙 번호."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "336 개 미만의 트랙은 어두운 별이므로 네거티브 3 차 엔진을 가지고 있습니다."
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "이들은 은하계의 포스 필드 링과 혼합되어 숫자를 음의 주파수로 만듭니다."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "3 차 엔진 :"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "얼마나 많은 행성 (소성 행성, 위성, 위성, 소행성) 또는 삼차 엔진의 수에 근거하여, 표의 삼차 엔진은 다크 스타 동반자 u200bu200b별만을 참조하며, 태양계를 함께 유지해야하며, 이러한 유형의 암흑 에너지 삼차원 엔진은 어둠이없는 모든 빛입니다. 어둠이없는 빛은 가시 광선 스펙트럼에서 일반적으로 볼 수없는 빛의 스펙트럼을 나타냅니다. 기술은 삼중 원자의 외부 입자를 의미하는 Neutron Shell을 통해 어둠이없는 빛을 볼 수 없기 때문에 현재 어두운 별을 감지하는 기술이 없지만 풀 스펙트럼 이미지는 패턴을 어두운 에너지로 감지 할 수 있습니다. Dark Energy 네트워크를 만들어서 태양이나 별을 제어합니다 t, 우리의 경우 그것은 시리우스 이진 별입니다. 따라서 태양이나 별이 은하에 가까울수록 포함해야 할 삼차 엔진 수가 적으므로 삼차 엔진의 수는 태양 추적으로 알려진 것을 규제합니다 별이 켜져 있으므로 은하에서 멀어 질수록 다크 스타 컴패니언 (Dark Star Companions)이라 불리는 3 차 엔진이 많을수록 다른 행성을 포함하기 위해 거리를 확장해야하며 다크 스타는 다른 속도로 동일한 이동 속도를 유지합니다 "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "다른 속도로 같은 속도를 유지하는 것은 다크 스타 자체에 의해 규제되며, 은하 평면에 있으며, 별이라고도 알려진 태양이지나갑니다. 동반자 작업은 태양계를 함께 유지하는 것입니다. 이미지 I 이진 별 시리우스와 우리 태양이 은하 비행기의 반대편에 있다는 것을 보여주십시오. 이것은 내가 그것을 증명할 수있는 한 그것을 통과하고 나올 때만 사실입니다. 헬릭스 모양 파형에서 시간과 거리 측면에서 태양 간격과 상관되는 주파수를 기반으로하지만 현재 과학으로 인해 주류가 추정 할 수있는 마감은 3 천에서 3 천만 년 사이이므로 변수를 만들었습니다. 올바른 값으로 조정될 수 있습니다.이 앱은 Galaxy를 입력하도록 설계되었으므로, 신호 자체의 위치 만 문제가되기 때문에 역 극점을 계산할 때 계산에 영향을 미치지 않습니다. 어떤 방향에 의존하지 않아도 우리는 은하 비행기로 향하고 있거나 멀리 떨어져 있다는 것을 의미합니다. 그것은 신호 자체의 관점에서만 중요합니다. 나는 중력을 신호라고 부릅니다. 왜냐하면 하나님은 어둠이없는 모든 빛 이시며, 모든 뉴턴 방정식에서 중력의 힘이기도합니다. 그리고 이것은 제가 은하계를 계산하고있는 중력이며, 태양은 별이라고도합니다. . Dark Stars와 그 동반자는 특별한 유형의 Trinary Engine이며, 모든 Trinary Engine과 마찬가지로 증명이나 반증이 불가능하며 믿음의 신이 있어야 함을 나타 내기 때문에 이론적입니다. 뉴턴조차도 과학은 아니다. 대신에 나는 3 차 엔진이 현재 기술에 의해 감지 될 수있는 이러한 신호를 방출한다고 언급했다. 표의 데이터를 표시하기 위해 다음 데이터를 변수, 태양 크기 864,575.9 마일, 가동 가능한 행성 크기 7926.2109 마일, 직경 333, 삼차 엔진 수 333, 은하 반경 241828072282107.5071453596951 마일, 전체 파일 이름 : appendix.a.xhtml 및 66 행 인쇄, 즉 Bash 스크립트의 경우 Qt 앱에서 더 많은 제어권을 가지며 Trinary Math는 단순합니다. 반복 기간을 얻으려면 알면됩니다. 태양의 크기, (864,575.9 * (1/137)) / 3 u003d 최대 2103 년, 평균 반복은 Suns 자기 극성 반전을 기반으로하며 세기에 따라 극성을 10 (0-9) 번 변경합니다. 9 u003d 91, 따라서 2103-91 u003d 2012, 시간의 끝을 계산하려면 히치하이커 안내서에서 은하계까지 42를 사용하고, 16 진수는 16 진수는 66이며, 성경은 2103-42 u003d 2061입니다. 아이작 뉴턴 경은 2060 년에 율리우스 력으로 계산했으며, 그레고리력은 2061 년입니다. e 지구가 폴란드를 역전시켜야 할 때, 나는이 사건을 가볍게 받아들이지 않을 것입니다. 그것은 우리가 알고있는 것처럼, 그것은 문명의 끝이라고도 알려진 시간의 끝입니다. 따라서 태양의 크기를 아는 것만으로도 알 수 있습니다. 당신이 0에서 연도를 시작한 경우에만 작동한다는 사실과 2012 년 이후 마야 달력이 시작되는 이유, 물고기의 꼬리는 2060 년, 그레고리력이 소개 된 이유가 이것과 일치하도록 성경 코드, 뉴턴 계산을 올바르게하고 왜 마야인들이 2012 년 반복에서 시간을 추적하는지, 그래서 수학은 항상 효과가 있으며, 2012 년과 2103 년에 피쉬 테일 전에 일어날 것이라는 것을 알았습니다. "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "MPH의 최대 속도 :"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "태양이 은하 비행기를 통과 할 수있는 최대 속도를 기준으로합니다."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "MPH의 최소 속도 :"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "은하계를 통과 한 후 태양이 이동할 수있는 최소 속도를 기준으로합니다."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Hz의 주파수 :"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "지구의 핵심 주파수를 기준으로, 표면 주파수는 훨씬 높아야합니다."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "2019 년의 살아있는 행성 주파수 7.830 Hz : 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Orbital 거리 :"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "이것은 기록상의 트랙과 같으며, 마일의 트랙 둘레입니다."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Hz의 트랙 주파수 :"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "이것은 우리 태양이 은하 주위를 여행하는 나선 모양을 기반으로합니다."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "또한 우리가 은하 비행기를 통과 할 때 계산합니다."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "은하계의 삶은 :"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "현재 은하계의 삶은 궤도 * 666에 있습니다"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "새로운 Trinary Engine이 월드 나 솔라 시스템에 들어 오거나 나가면 트랙을 바꿀 것입니다."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "2060 년에 극지 근무 후"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "0 년부터 새 달력을 시작하거나 조디악 테이블의 날짜를 계속해서 사용해야합니다."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "이것은 물병 자리의 시대이며, 빙하기는 비가 올 것입니다."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "빨간색과 초록색으로 표시된 서로 다른 트랙에서 두 개의 태양을 선택하면"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "태양을 공전하는 태양을 시뮬레이트 한이 이미지를 회전시키면서"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "당신은 은하계의 모든 태양이 궤도를 돌면서 선을 유지한다는 것을 주목할 것입니다."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "이것은 시뮬레이션이 좋지 않지만 내 요점을 만듭니다."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "이 수학은 Suns 태양계와 동일하지 않으므로 케플러와 뉴턴의 법칙과 수학은 여기서 도움이되지 않지만 삼차 수학은 도움이 될 것입니다."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "9 세 때 내가 만든 삼차 수학은 속도 u003d 거리 / 시간 및 거리 u003d 속도 * 시간을 사용하여 은하가 제시 한이 문제를 해결하기 위해 작동합니다. 따라서 속도와 거리는 주파수와 관련이 있습니다. 주파수 u003d 1 / 시간 및 시간 u003d 1 / 주파수 : 주파수 (Hz) u003d 빛의 속도 (거리 : 670,616,629mph * 1 시간; ~ 1 마일 또는 시간의 마일 단위 빈도) / 500,000 마일의 주류 추정값을 사용한 마일 단위의 마일리지 250,000,000 년 동안의 시간은 1,095,000,000,000,000,000 마일이며, 공식 I을 사용하여 1,011,954,093,357,316,200 마일을 얻을 수 있습니다. 먼 거리에서 충분히 가깝습니다. 3 가지 유형 : 빛의 경우 양성자, 중성자, 전자 등 모든 3 차 수학은 전기를 기반으로하며, 은하 계산기가 완료되면 이미 동일한 테이블을 계산하는 오픈 소스 github 프로젝트가 그래픽으로 그려집니다. t의 경로 그는 갤럭시를 도는 선즈 나 스타즈가 완성되면이 표의 이미지를 그 이미지로 대체 할 것입니다. 아이작 뉴턴 경은 하나님이 그의 모든 방정식에서 중력의 힘이라고 믿거 나, 또는 모든 이론을 비난 한 알버트 아인슈타인이 중력의 힘으로 뉴턴의 신을 찬성한다고 생각할 수 있습니다. 그것은 아인슈타인이 믿지 않았던 이론을 기반으로하기 때문에 Mainstream Science보다 그렇습니다.이 공식에서는 Sine과 Cosine을 사용하는 대신 Track Frequencies를 합산합니다. 이것은 시뮬레이터가 아니며, 동일한 트랙을 기준으로 모든 트랙을 계산합니다 Sun과 Livable Planet Size는 Life를 지원하는 트랙에서만 작동하므로 이러한 크기를 기반으로 Life가 존재할 수있는 위치를 계산합니다. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "모든 태양계를 같은 속도로 회전시키는 은하"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "모든 태양계를 같은 속도로 회전시키는 은하"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "모든 태양계를 같은 속도로 돌리지 만 속도는 아니다"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "전체 크기"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "삼등 수학은 빛으로도 알려진 전기에 기초한 뉴턴이 신이라고 불렀기 때문에 3 차원 수학입니다."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "은하계에서 태양을 어두운 별을 도는 것으로 본다면,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "시리우스가 이진 별이되도록 삼차 별 구성을 가짐"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "또한 Trinary Star Systems (우리의 태양, 시리우스 및 다크 스타) 주위를 어둡게하는 다크 스타 동반자가 있습니다."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "이 표는이 그림에 표시된이 파형의 주파수를 계산합니다."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "최대 속도로 은하계로 다이빙 할 때 이동하는 속도뿐만 아니라"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "최소 속도에서 그것이 은하 평면으로 다시 돌아 가기 전에 진폭에서 가장 멀어 질 때의 방법"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "갤럭시 원 혁명을 중심으로 한 태양의 경로"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "갤럭시 하나의 완전한 궤도 주위의 태양의 원래 경로"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "그림 A2 : 은하 주위의 태양의 완전한 궤도 경로"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "전체 크기"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "과정"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "3 차"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "엔진"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "최대 속도"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "MPH에서"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "최소 속도"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "MPH에서"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "회수"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "오비탈 거리"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "마일"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "과정"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "회수"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "표 부록 A : 삼차 행렬 수학 은하 트랙 테이블"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "사용법 : (직경 마일의 태양 크기) (직경 마일의 살아있는 행성 크기) (3 차 엔진 수)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(마일 단위의 은하 반경) (전체 파일 이름 : appendix.a.xhtml) (N 번째 인쇄 할 행 수)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "이것은 다른 은하계에 들어가서 다른 태양과 행성 크기로 놀 수있게 해줍니다."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "n 번째 행만 인쇄하려면 TrackNth를 number로 설정하여 건너 뛰십시오."
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66은 약 21 개의 트랙을 제공합니다. 1로 설정하면 모든 트랙이 인쇄됩니다."
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "DoNotSkipThis u003d 666 또는 원하는 숫자를 설정하십시오."
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "이것은 테이블에있는 행의 일부만 인쇄하여 용지를 절약합니다. 이것은 6 번째 인수입니다. 제한을 시도합니다."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "이 페이지를 생성 한 Bash 파일에 대한 링크 (저장 및 실행 권한 설정) :"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "./makeappendix.a.sh 또는 ./makeappendix.a.sh --help와 같은 Bash 스크립트를 실행하면 도움말 및 자세한 정보가 표시됩니다."
+

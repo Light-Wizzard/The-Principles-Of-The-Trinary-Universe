@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Trinary Matrix Matematik Galaktik Disk Parça Tablo Script Oluşturuyor"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Son Güncelleme"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Tarih Değişti"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Güneş Boyu"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Yaşanabilir Gezegen Boyutu"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Trinary Motor Sayısı"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Gökada Yarıçapı"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Galaxy'deki Toplam Parça Sayısı"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Atmosferik Basınç Endeksi"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "Mil Çapı"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "Mil"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Trinary Evrenin İlkeleri: Ek A: Trinary Galaktik Parça Tablosu"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Yazar: Jeffrey Scott Flesher, Light Wizzard İlkeleri veya Sir Isaac Newton ve Nikola Tesla gibi Büyücüler"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Işık, Wizzard, Büyücü, Newton, Newton, Tesla, Franklin, Tanrı, İsa, Bar / Abbas, Karanlık, Kutsal Kitap, Evren, Kutsal, Fizik, Güneş, Adım, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Yazar: Jeffrey Scott Flesher, Light Wizzard İlkeleri veya Sir Isaac Newton ve Nikola Tesla gibi Büyücüler"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Ek A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Trinary Galaktik Palet Tablosu"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Kutsal Kitap Evreninin İlkeleri"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight ve CopyLeft by"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Tıbben Emekli ABD Hava Kuvvetleri Personel Çavuş"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Trinary Galaktik Palet Tablosu"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Trinary Galaxy şunlara dayanmaktadır:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Trinary Galaxy bir Record Player'a dayanıyor, Galaktik Düzlem Rekor veya Disk."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Tüm Güneşler, Kayıt Oyuncu Kolu ile Aynı Hızda Galaksinin yörüngesinde dönüyor ve her bir Parça kendi Hızına sahip."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Yineleme, şu şekilde tanımlanan bir Dönemdir:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Yineleme, yıl olarak tanımlanan bir Süre, burada Maksimum, Ortalama ve Minimum olarak hesaplayacağım"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "Bu Dönemler Zodyak İşaretleri kullanılarak etiketlenir ve Julian, Gregoryen ve Maya Takvimini kullanır."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Trinary Matrix Mathematics şunlara dayanmaktadır:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Trinary Matrix Mathematics bir Matrix Tablosuna dayanmaktadır, her satır Galaktik Diskteki bir Track'dir."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "Her sütunda Galaksideki Hayatı destekleyen Güneş (ler) hakkında veriler bulunur."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Bu, İnsanların Hayatta Kalabileceği Bilinen Enerji Aralıklarına dayanmaktadır."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Bu Trinary Kavramı Dayalı:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Kutsal Kitap Kavramı, 9 yaşına geldiğimde kendimle çocukken ortaya koyduğum kavram"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "İşini Galakside yapmak için ihtiyaç duyduğu tüm bilgilere sahip olan Güneş'e dayanır."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Bir keresinde Sir Isaac Newton'un neyi tanımladığını anladım,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Güneş Boyutunun Güneş Sistemi ile ilgili her şeyi olduğunu fark ettim."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "bu yüzden yapabildiğim her şeyi hesaplamaya başladım: Özelliklerine göre,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "yazdı ve bu Matrix Tablosunu içeren bu XHTML belge Dosyasını oluşturmak için bu Bash Script'i yazdım ve ayrıca galaksi-hesap makinesi adı verilen bir Qt Quick QML JavaScript çapraz platform Açık Kaynak Projesi yazdım, bağlantı sayfanın altında."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Güneş Boyutuna Göre"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "Mil Çapı"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Dayalı"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Trinary Motorları"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Yarıçapı olan bir Gökadaya dayanır"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Toplam Parça Sayısı"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Maksimum Yineleme"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Ortalama Yineleme"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Minimum Yineleme"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Izlemek:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Galaksimizin parça numarası, 0 ile iki kez 666'ya dayanıyor."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "336'nın altındaki parçaların Negatif Trinary Motorları var, çünkü onlar Karanlık Yıldızlar,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "Galaksiler Kuvvet Alan Halkaları ile karışarak sayıları Negatif Frekanslar haline getiriyorlar."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Trinary Motorları:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Kaç tane nesneye (Gezegenler, Mikro Gezegenler, Aylar, Asteroitler) veya Trinary Motorlarına dayanarak, Tablodaki Trinary Motoru sadece Karanlık Yıldız Eşlik Yıldızlarına atıfta bulunur, Güneş Sistemini bir arada tutmaları gerekir, Karanlık Enerji bu türlerde Karanlıkta Işık Yok, Karanlık Olmadan Işık, Görünür Spektrumda normalde olmayan bir Işık Spektrumuna işaret etse de, İnsanlar Tam Spektrum Teknolojisi olmadan, bu Trinary Motor tipleri, görüntülendiğinde görünüşte Karanlık olan Nötrinolardan yapılmıştır. Teknoloji ile, çünkü Kutsal Bir Atomun dış parçacıkları anlamına gelen Nötron Kabuğu ile Karanlık olmadan Işığı Göremez, şu anda Karanlık Yıldızları tespit etmek için bir Teknoloji yoktur, ancak Tam Spektrum Görüntüleri Desenlerini Karanlık Enerji olarak algılayabilir. Karanlık Enerji ağı oluşturarak Güneşleri veya Yıldızları kontrol etmek, Gezegenler ve Aylar içeren bir Güneş Sisteminde Güneş arasında Karanlık Yıldız Yoldaşları yörüngesi ve İkili karşılığı t, bizim durumumuzda bu bir İkili Yıldız Sirius'dur, bu nedenle Güneş veya Yıldız Galaksiye ne kadar yakınsa, onu içermesi gereken daha az sayıda Trinary Motoru, bu nedenle Trinary Motorlarının sayısı, Güneşin İzini de denir Bir Yıldız açıktır, bu nedenle Galaksiden ne kadar uzakta, Karanlık Yıldız Yoldaşları olarak adlandırılan daha Trinary Motorlar ise, diğer Gezegenleri içermek için mesafeyi uzatmak gerekirken, Karanlık Yıldız farklı Hızlarda aynı Hareket Hızı tutar ."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Farklı Hızlarda aynı Hızı korumak Karanlık Yıldız'ın kendisi tarafından düzenlenir ve Galaktik Düzlemdedir ve Yıldız olarak da bilinen Güneş de geçer. Yoldaşların işi güneş sistemini bir arada tutmaktır. Resim I İkili Yıldız Sirius'un ve Güneşimizin Galaktik Düzlemin karşı taraflarında olduğunu gösterir, bu sadece içinden geçerken ve dışarı çıkarken, kanıtlayabildiğim kadarıyla doğrudur. Helix şeklinde bir dalga formunda, Güneşlerimizle zaman ve mesafe açısından ilişkili olan Frekansa dayanır, ancak mevcut Bilim nedeniyle Ana akımın tahmin edebileceği kapanmalar 30 ila 33 Milyon Yıl arasındadır, bu yüzden Değişken, bu yüzden doğru değere ayarlanabilir, bu uygulama herhangi bir Galaksi girmek için tasarlanmıştır, bu yüzden Polonyalıları ne zaman tersine çevireceğimi hesaplamamı etkilemez, çünkü bu sadece Sinyalin kendisinde olduğumuz bir konudur ve hangi yöne bile bağlı değil Biz Galaktik Düzlem'e doğru yola çıkıyoruz, ya da ondan uzağa, sadece Sinyalin kendisi olduğumuz yerde önemlidir. Yerçekimi'ne bir Sinyal diyorum, çünkü Tanrı Karanlık Olmadan Tüm Işıktır ve Tüm Newton Denklemlerinde ve Benimki Yerçekimi Gücüdür ve bu Galaksi için hesapladığım Yerçekimi ve Güneşleri de Yıldız olarak bilinir . Karanlık Yıldızlar ve Yoldaşları, özel bir Trinary Motoru türüdür ve tüm Trinary Motorları gibi, Teoriktirler, çünkü kanıtlanamazlar veya çürütülemezler ve İnanç Tanrı Varoluşuna sahip olmanız gerektiğini söylemek, Newton'un İncil'in söylediği şeydir, ancak yapmayan bilimdir, Newton bile, bunun yerine, Trinary Motorlarının Güncel Teknoloji tarafından Algılanabilecek bu Sinyalleri yaydığını belirtiyorum, bu nedenle, mevcut Teknolojiyi kullanarak Kanıt ile, Trinary Biliminde bir Gerçek olduğunu söyleyebilirim. Tablodaki Verileri Çizmek için aşağıdaki verileri değişken olarak kullandım, Güneş Boyutu 864.575,9 Mil Çap olarak, Yaşanabilir Gezegen Boyutu 7926.2109 Mil Çapı, Kutsal Kitapların Sayısı 333 İncil'den, Gökada Yarıçapı 241828072282107.5071453596951 Mil, Tam Dosya Adı: appendix.a.xhtml ve Yazdırmak için 66 satır, yani Bash Script için, Qt Uygulamasında daha fazla kontrole sahibim, Trinary Math Basit, Yinelemeler zamanını elde etmek için, sadece bilmem gerek Güneş'in büyüklüğü, (864.575.9 * (1/137)) / 3 u003d Maksimum yıl 2103, Ortalama İterasyon Suns Manyetik Polarite Tersine Dayalı, polariteyi Yüzyılda 10 (0 - 9) kez değiştirir: 100 - 9 u003d 91, böylece 2103 - 91 u003d 2012, Zaman Sonunu hesaplamak için, Otostopçunun Galaksiye Kılavuzu'ndan 42'yi kullanın, 42 hex ondalık olarak 66 ve İncil'den ve 2103 - 42 u003d 2061 ve Sir Isaac Newton bunu 2060 yılında Julian Takvimi altında hesapladı, bu yüzden Gregoryen Takvimi altında 2061. e Yeryüzü Kutupları tersine çevirmeli ve bu olayı hafifçe yapmamalıyım Hafifçe, bildiğimiz gibi Medeniyetin Sonu olarak da bilinen Zamanın Sonu, bu yüzden Güneşin Boyutunu bilmek, bilmeniz gereken tek şey, diğer sadece seneye 0'dan başlarsan işe yarıyor ve Maya Takvimi neden 2012'den sonra başlıyor, Balığın kuyruğu 2060 yılı ve Gregoryen Takvimi'nin neden tanıtıldığını, İncil Yasası, Newton hesaplamasını doğru yapan ve Mayaların neden 2012 Yılı İterasyonlarında zaman izlediklerini, böylece matematik her zaman onlar için çalışıyor ve 2012'den sonra ve 2103 yılında Balık Kuyruğu'ndan önce olacağını biliyorlardı. ."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "MPH cinsinden Maksimum Hız:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Güneş'in Galaktik Düzlemden geçebileceği Maksimum hıza dayanarak."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "MPH cinsinden Minimum Hız:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Güneş'in Galaktik Düzlem'den geçtikten sonra gidebileceği Minimum hıza dayanarak."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Hz cinsinden frekans:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Gezegenin Çekirdek Frekansına dayanarak, yüzey frekansları çok daha yüksek olmalıdır:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Yılda 7.830 Hz Yaşanabilir Gezegen Frekansı: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Yörünge Mesafesi:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Bu bir Pistteki Pist gibi, Pistin Mil cinsinden Çevresi."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Hz'deki İz Frekansı:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Bu, Güneşimizin Galaksinin etrafında dolaştığı Helix şekline dayanıyor,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "Galaktik Düzlemden geçtiğimizde de hesaplıyor."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Galaksideki Yaşam Bulunmaktadır:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Şu Anda Galaksideki Yaşam Pistte * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Eğer yeni bir Trinary Engine dünyamıza veya Güneş Sistemimize girerse veya çıkarsa, parçaları değiştireceğiz."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Polar Vardiya'dan sonra 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "0 yılından başlayarak Yeni bir Takvim başlatmalı veya Zodyak Tablosundaki tarihleri u200bu200bkullanmaya devam etmelisiniz."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Bu Kova Çağı ve Buzul Çağı Yağmurunu İşaretleyecek."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Birbirinden farklı Parçalarda iki Güneş seçerseniz: Kırmızı ve Yeşil ile gösterilir,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "ve bu görüntüyü döndürürken, Galaksinin Yörüngesindeki Güneşleri simüle ettiğimi hayal ettim,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "Galaksideki tüm Güneşlerin yörüngeye oturdukları sırada kaldıklarını not edersiniz,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "Bu kötü bir simülasyon ama benim açımdan,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "Bu Matematik, Suns Güneş Sistemi ile aynı değildir, bu nedenle Kepler ve Newton Yasaları ve Matematik burada size yardımcı olmayacak, ancak Trinary Math yardımcı olacaktır."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "9 yaşında oluşturduğum Trinary Math, Mantık kullanarak Gökadaların sunduğu bu sorunu çözmeye çalışıyor: Hız u003d Mesafe / Zaman ve Mesafe u003d Hız * Zaman, bu nedenle Hız ve Mesafe, Frekansla Göreceli, örneğin: Frekans u003d 1 / Zaman ve Zaman u003d 1 / Frekans, öyle ki: Frekans (Hz) u003d Işık Hızı (Mesafe @ 670,616,629 mil / saat * 1 saat; ~ 1 Saat veya Zaman cinsinden mil cinsinden frekans) / 500.000 Mil Ana Akış tahminini kullanarak Mil olarak Dalga Boyu 250.000.000 yıl için bir saat, 1.095.000.000.000.000.000 mil mesafedir, Formülüm'ü kullanarak 1.011.954.093.357.316.200 mil alırsınız, bu kadar uzak bir mesafeden yeterince yakındır.Terlik Bilimi, her Kutsal Kitap Atomunun içindeki Tanrı'nın Işığından gelen tüm Enerjiye dayanır, yani 3 tip: Işık durumunda Proton, Nötron ve Elektron, tüm Trinary Math'ın Elektriğe dayanmasıdır Galaksi hesap makinesi tamamlandığında, aynı tabloyu zaten hesaplayan bir Açık Kaynak github projesi de grafiksel olarak çizilecektir. t yolu o Güneşler veya Yıldızlar, Galaksinin etrafında yörüngeye girdiklerinde, tamamlandığında, bu tablodaki görüntüleri bunlarla değiştireceğim. İki seçeneğiniz var, Sir Isaac Newton'a Tanrı'nın Tüm Denklemlerinde Yerçekimi Gücü olduğuna inanıyorum ya da tüm teorilerini Newton'un Yerçekimi Gücü olarak Tanrı lehine kınan Albert Einstein'a, her iki şekilde de ben daha yakınım Ana Bilim'den daha doğru, çünkü Einstein'ın inanmadığı bir Teoriye dayanıyor. Bu formülde, Sinüs ve Kosinüs kullanmak yerine Parça Frekanslarını ekliyorum, bu bir Simülatör değil, tüm Parçaları aynı şekilde hesaplıyor Güneş ve Yaşanabilir Gezegen Boyutu, öyle ki sadece Hayatı destekleyen Pist (ler) için çalışır, böylece Yaşamın bu boyutlara göre nerede var olabileceğini hesaplar. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Tüm Güneş Sistemlerini Aynı Hızda Döndüren Galaxy"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Tüm Güneş Sistemlerini Aynı Hızda Döndüren Galaxy"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Galaksi Tüm Güneş Sistemlerini Hızla Değil Aynı Hızda Döndürüyor"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Tam Boy"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Trinary Math 3 Boyutlu Matematiktir, çünkü Newton'a Tanrı olarak adlandırdığı Işık olarak da bilinen Elektrik temelli."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Güneş'i Galaktik Düzlemde Karanlık Bir Yıldızın etrafında dönen olarak görüyorsanız,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "ve Sirius bizim İkili Yıldızımız olacak şekilde bir Trinary Star Yapılandırmasına sahip olmak,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "Ayrıca Trinary Star Sistemleri'nin (Güneşimiz, Sirius'umuz ve bir Karanlık Yıldızımız) etrafında dönen Karanlık Yıldız Yoldaşları da var."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Bu Tablo, bu Resimde gösterilen Dalga Formunun Frekansını Hesaplar"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "Gücü Galaktik Düzlem'e Maksimum Hızda daldıkça kat ettiği Hızlar"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "ve Galaktik Düzlem'e geri dönmeden önce Genlik olarak en uzağa gittiği için Minimum Hızda."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Galaksinin bir devrimi etrafında Güneş'in yörünge yolu"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Gökada Güneş'in Gökada Yolu Bir Tam Yörünge"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Resim A2: Güneş'in Gökada'nın Yörüngesel Tam Yolu"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Tam Boy"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Izlemek"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Motorlar"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Max hız"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "MPH olarak"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Minimum Hız"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "MPH olarak"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Sıklık"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "Hz cinsinden"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Yörünge Mesafesi"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "Mil cinsinden"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Izlemek"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Sıklık"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tablo Ek A: Trinary Matrix Matematik Galaktik Parça Tablosu"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Kullanım: (Mil cinsinden güneş büyüklüğü) (mil cinsinden yaşanabilir gezegen büyüklüğü) (Trinary motor sayısı)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Milimetrede Gökada Yarıçapı) (Tam Dosya Adı: appendix.a.xhtml) (N. Yazdırılacak Satır Sayısı)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Bu, diğer Galaksilere girmenizi ve farklı Güneş ve Gezegen Boyutları ile oynamanızı sağlar."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Yalnızca n. Satırları yazdırmak istiyorsanız ThisPrintNth u003d 1'i ayarlayın, trackNth'i atlanacak sayıya ayarlayın,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 size yaklaşık 21 Parça verir, 1 olarak ayarlandığında tüm Parçalar yazdırılır"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "DoNotSkipThis u003d 666 veya görmek istediğiniz herhangi bir sayıyı ayarlayın"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Bu, tablodaki satırların yalnızca bir kısmını yazdırarak kağıt tasarrufu sağlar; bu 6. Argüman, bunları sınırlamaya çalışıyorum."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Bu Sayfayı Oluşturan Bash Dosyasına Bağlantı (Çalıştırmak için İzinleri Kaydet ve Ayarla.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Bash Script'i: ./makeappendix.a.sh veya ./makeappendix.a.sh --help gibi çalıştırırsanız, size Yardım ve daha fazla Ayrıntı verir."
+

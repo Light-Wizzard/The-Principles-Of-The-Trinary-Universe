@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "「Trinary Matrix Math Galactic Disk Track Table Scriptが作成しています」"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "最後の更新"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "「日付が変更されました」"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "「サンサイズ」"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "「生きている惑星サイズ」"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "「三元エンジンの数」"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "「銀河半径」"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "「ギャラクシーのトラックの総数」"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "「大気圧指数」"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "「直径のマイル」"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "「マイル」"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "「三元宇宙の原理：付録A：三元銀河の軌道表」"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "「著者：ジェフリー・スコット・フレッシャー、光の魔法の原理、またはアイザック・ニュートンirやニコラ・テスラのようなウィザード」"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "「光、ウィザード、ウィザード、ニュートン、ニュートン、テスラ、フランクリン、神、イエス、バー/アッバス、暗闇、三位一体、宇宙、聖域、物理学、太陽、ステップ、ジェフリー・スコット・フレッシャー」"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "「著者：ジェフリー・スコット・フレッシャー、光の魔法の原理、またはアイザック・ニュートンirやニコラ・テスラのようなウィザード」"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "「付録A：」"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "「三次銀河軌道表」"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "「三元宇宙の原理」"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "「CopyRightおよびCopyLeft by」"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "「ジェフリー・スコット・フレッシャー」"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "「医学的に引退した米国空軍スタッフ軍曹」"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "「三次銀河軌道表」"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "「三星銀河は以下に基づいています：」"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "「三星銀河はレコードプレーヤーに基づいており、銀河面はレコードまたはディスクです。」"
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "「すべての太陽は、レコードプレイヤーアームと同じ速度で銀河を周回し、各トラックには独自の速度があります。」"
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "「反復とは、次のように定義された期間です。」"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "「反復とは年単位で定義される期間であり、ここでは最大、平均、最小として計算します」"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "「これらの期間は星座を使用してラベル付けされ、ユリウス暦、グレゴリオ暦、マヤ暦を使用します。」"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "「Trinary Matrix Mathematicsは以下に基づいています。」"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "「Trinary Matrix MathematicsはMatrix Tableに基づいており、各行はGalactic Diskのトラックです」"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "「各列には、生命を支える銀河系の太陽に関するデータがあります。」"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "「これは、人間が生き残ることができる既知のエネルギー範囲に基づいています。」"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "「この3項の概念は以下に基づいています。」"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "「三位一体の概念は、9歳までに子供の頃に思いついたものです」"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "「それは、銀河で仕事をするために知る必要があるすべての情報を太陽が持っていることに基づいています。」"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "「アイザック・ニュートンirの説明が理解できたら」"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "「サンズサイズは太陽系と関係があることを知りました」"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "「だから私はできることすべてを計算し始めた：そのプロパティに基づいて」"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "「このマトリックステーブルを含むこのXHTMLドキュメントファイルを作成するためにこのBashスクリプトを作成し、galaxy-calculatorと呼ばれるQt Quick QML JavaScriptクロスプラットフォームオープンソースプロジェクトを作成しました。リンクはページの下部にあります。」"
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "「太陽のサイズに基づいて」"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "「直径のマイル」"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "に基づく"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "「三次エンジン」"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "「半径のある銀河系」"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "「トラックの総数」"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "「最大反復」"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "「平均反復」"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "「最小反復」"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "トラック："
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "「0〜2回の666に基づくGalaxyのトラック番号。」"
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "「336以下のトラックは、ダークスターであるため、負のトリナリーエンジンを備えています」"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "「彼らは銀河フォースフィールドリングと混ざり合って、数字を負の周波数にします。」"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "「三次エンジン：」"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "「惑星、微小惑星、月、小惑星）または三次エンジンの数に基づいて、表の三次エンジンはダークスターコンパニオンスターのみを参照し、これらのタイプの太陽系、ダークエネルギーを維持するために必要です。 Trinary Enginesのすべては暗闇のない光であるが、暗闇のない光は通常可視スペクトルにない光のスペクトルを指しますが、フルスペクトルテクノロジーなしでは、これらのタイプのTrinaryエンジンは、見たときに外観が暗いニュートリノでできていますテクノロジーを使用すると、テクノロジーは三元原子の外側の粒子である中性子シェルを介して暗闇なしでは光を見ることができないため、現在、ダークスターを検出するテクノロジーはありませんが、フルスペクトル画像はパターンをダークエネルギーとして検出できます。ダークエネルギーのネットワークを作成することにより、太陽または星を制御します。惑星と月を含む太陽系の太陽とそのバイナリカウンターパーのダークスターコンパニオン軌道t、私たちの場合、それはSirius a Binary Starです。そのため、太陽または星が銀河に近いほど、それを含める必要があるTrinaryエンジンの数が少なくなります。したがって、Trinのエンジンの数は、太陽の追跡とも呼ばれるものを規制します星がオンになっているため、ギャラクシーから遠くなるほど、ダークスターコンパニオンと呼ばれる3次エンジンが増え、他の惑星を封じ込めるために距離を広げる必要がありますが、ダークスターは異なる速度で同じ移動速度を維持します」"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "「異なる速度で同じ速度を維持することは、ダークスター自体によって規制されており、それは銀河面にあり、スターとしても知られている太陽が通過します。コンパニオンの仕事は、太陽系をまとめることです。連星であるシリウスと太陽が銀河面の反対側にあることを示していますが、これは、私が証明できる限り、それを通過してそこから出てくるときにのみ当てはまります。らせん形状の波形では、時間と距離の点で太陽の間隔に相関する周波数に基づいていますが、現在の科学により、メインストリームが推定できる終値は3000万年から3300万年であるため、変数、正しい値に調整できるので、このアプリは任意のGalaxyを入力するように設計されているため、信号のどこにいるのかという問題だけなので、極を反転するタイミングの計算には影響しません。どの方向にも依存しません私たちは、銀河面に向かう、または銀河面から遠ざかる方向に向かっています。それは、私たちが信号自体に関してどこにいるのかということだけです。神は暗闇のないすべての光であり、すべてのニュートン方程式における重力の力であり、私のものであるため、私は重力をシグナルと呼びます。これは私が銀河のために計算している重力であり、その太陽は星とも呼ばれています。ダークスターとその仲間は特別なタイプのトリナリーエンジンであり、他のすべてのトリナリーエンジンと同様に理論的です。それは科学ではありません、ニュートンでさえ、代わりに、私は、Trinary Enginesが現在の技術で検出できるこれらの信号を発することを述べているので、私はそれらがTrinary Scienceの事実であり、現在の技術を使用する証拠があると述べることができます表のデータをプロットするために、変数として次のデータを使用しました。太陽サイズ864,575.9マイルの直径、住みやすい惑星サイズ直径7926.2109マイル、三次エンジンの数は聖書から333、銀河の半径241828072282107.5071453596951マイル、完全なファイル名：appendix.a.xhtml、および印刷する66行。これはBashスクリプト用です。Qtアプリでさらに制御できます。TrinaryMath is Simpleで、反復期間を取得するために必要なのは、太陽のサイズ、（864,575.9 *（1/137））/ 3 u003d最大年2103、平均反復は太陽の磁気極性反転に基づいており、極性は1世紀あたり10（0-9）回：100- 9 u003d 91、したがって2103-91 u003d 2012、時間の終わりを計算するには、Hitchhikers Guide to the Galaxyの42を使用します。42hexは10進数で66であり、それは聖書からです。2103-42 u003d 2061アイザック・ニュートンirは、2060年にユリウス暦でこれを計算したため、グレゴリオ暦で2061であるため、これはe地球は極を逆転させるべきであり、私はこの出来事を軽く受け止めないだろう、それは我々が知っているように文明の終わりとしても知られている時間の終わりであるので、太陽の大きさを知ることはあなたが知る必要があるすべてである、他年を0で開始する場合にのみ機能するという事実、およびマヤ暦が2012年以降に始まる理由、魚の尾が2060年である理由、グレゴリオ暦が導入された理由、ニュートンの計算を正しいものにする聖書のコード、およびマヤ人が2012年の反復で時間を追跡する理由は、数学が常に機能するためであり、2012年以降およびフィッシュテール（2103年）の前に発生することを知っていました」"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "「MPHの最大速度：」"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "「太陽が銀河面を移動できる最大速度に基づきます。」"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "「MPHの最小速度：」"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "「銀河面を通過した後、太陽が移動できる最小速度に基づきます。」"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "「Hz単位の周波数：」"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "「惑星のコア周波数に基づいて、表面周波数ははるかに高くなるはずです。」"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "「年間の7.830 Hzの生きている惑星の周波数：2019。」"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "「軌道距離：」"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "「これはレコード上のトラックのようなもので、マイルのトラックの周長です。」"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "「周波数をHzで追跡：」"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "「これは、太陽が銀河の周りを移動するヘリックスの形状に基づいています」"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "「銀河面を通過するときも計算します。」"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "「ギャラクシーでの生活の位置：」"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "「ギャラクシーの現在の生活は軌道に乗っています* 666」"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "「新しい三元エンジンが世界または太陽系に出入りする場合、軌道を変更します。」"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "「2060年のポーラーシフト後」"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "「0年目から新しいカレンダーを開始するか、継続してゾディアックテーブルの日付を使用する必要があります。」"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "「これは水瓶座の時代であり、氷河期はその雨をマークします。」"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "「互いに異なるトラックの2つの太陽を選択した場合：赤と緑で表示されます」"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "「そして、この画像を回転させて、銀河を周回する太陽をシミュレートすることを想像しました」"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "「銀河系内のすべての太陽は、軌道を周回する際に一直線に並ぶことに注意してください」"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "「これは貧弱なシミュレーションですが、私のポイントになります」"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "「この数学は太陽系のそれと同じではないので、ケプラーとニュートンの法則と数学はここでは助けになりませんが、トリナリー数学は助けになります。」"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "「9歳で作成した3次数学は、速度：距離/時間、距離u003d速度*時間を使用して、銀河が提示するこの問題を解決するために機能します。したがって、速度と距離は周波数に関連します。 / Time and Time u003d 1 / Frequency、such as：周波数（Hz）u003d光の速度（距離@ 670,616,629 mph * 1時間;〜1時間または時間でのマイルの周波数）/ 500,000マイルの主流推定値を使用したマイルでの波長250,000,000年の1時間は1,095,000,000,000,000,000マイルの距離で、フォーミュラを使用すると1,011,954,093,357,316,200マイルが得られるので、その距離を超える距離に十分近づきます。 3種類：光の場合のプロトン、中性子、電子など、すべてのTrinary Mathは電気に基づいています。galaxy-calculatorを完了すると、すでに同じテーブルを計算するオープンソースgithubプロジェクトもグラフィカルにプロットされます。 tのパス彼は銀河の周りを周回するため、太陽や星が完成したら、この表の画像をそれらに置き換えます。あなたには2つの選択肢があります、神は彼のすべての方程式の重力の力であるとアイザック・ニュートンirを信じるか、ニュートンの神を重力の力として支持して彼のすべての理論を非難したアルバート・アインシュタインを信じることができますこれは、アインシュタインが信じていなかった理論に基づいているためです。この式では、サインとコサインを使用する代わりにトラック周波数を加算します。これはシミュレータではなく、同じに基づいてすべてのトラックを計算しますSun、およびLivable PlanetSize。Lifeをサポートするトラックでのみ機能するため、これらのサイズに基づいてLifeが存在できる場所を計算します。」"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "「すべての太陽系を同じ速度で回転させる銀河」"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "「すべての太陽系を同じ速度で回転させる銀河」"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "「すべての太陽系を同じ速度で回転させているが、速度は上げていない」"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "「フルサイズ」"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "「三次数学は、ニュートンが神と呼んだ光とも呼ばれる電気に基づいているため、三次元数学です。」"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "「太陽を銀河面で暗い星の周りを回っていると見ると、」"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "「そして、Siriusが私たちのバイナリスターであるような、Trinary Star構成を持つ」"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "「そして、Trinary Star Systems（Our Sun、Sirius、A Dark Star）の周りにあるDark Star Companionsもあります。」"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "「この表は、この図に示されているこの波形の周波数を計算します」"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "「パワーが最大速度で銀河面に飛び込むときの速度と同様に、」"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "「そして、銀河面に戻る前に、振幅で最も遠くなると、どのように最小速度になりますか。」"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "「ギャラクシーワン革命の周りの太陽の軌道」"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "「ギャラクシーワン完全軌道の周りの太陽の軌道」"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "「図A2：銀河の周りの太陽の完全な軌道経路」"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "「フルサイズ」"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "トラック"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "「三位一体」"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "「エンジン」"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "マックス・スピード"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "「in MPH」"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "「最低速度」"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "「in MPH」"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "周波数"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "「Hzで」"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "「軌道距離」"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "「マイルで」"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "トラック"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "周波数"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "「表付録A：三元マトリックス数学銀河軌道表」"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "「使用法：（直径のマイルでの太陽のサイズ）（直径のマイルでの生きている惑星のサイズ）（三元エンジンの数）」"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "「（マイルズの銀河の半径）（完全なファイル名：appendix.a.xhtml）（印刷する行のN番目の数）」"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "「./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66」"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "「これにより、他の銀河に入り、異なる太陽と惑星サイズで遊ぶことができます。」"
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "「n行目だけを印刷する場合はThisPrintNth u003d 1を設定し、trackNthをスキップする番号に設定する」"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "「66は約21トラックを提供し、1に設定するとすべてのトラックが印刷されます」"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "「DoNotSkipThis u003d 666または表示する番号を設定します」"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "「これにより、表の行の一部のみを印刷することで紙を節約できます。これは6番目の引数です。これらを制限しようとしています。」"
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "「このページを作成したBashファイルへのリンク（保存して実行するアクセス許可を設定します。）：」"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "「./makeappendix.a.shまたは./makeappendix.a.sh --helpのようなBashスクリプトを実行すると、ヘルプと詳細が表示されます。」"
+

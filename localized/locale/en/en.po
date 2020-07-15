@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Trinary Matrix Math Galactic Disk Track Table Script is Creating"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Last Update"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Date Changed"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Sun Size"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Livable Planet Size"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Number of Trinary Engines"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Total number of Tracks in Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Atmospheric Pressure Index"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "miles in Diameter"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "miles"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "The Principles of the Trinary Universe: Appendix A: Trinary Galactic Track Table"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Author: Jeffrey Scott Flesher, Principles of Light Wizzard or Wizards like Sir Isaac Newton and Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Light,Wizzard,Wizard,Newton,Newtonian,Tesla,Franklin,God,Jesus,Bar/Abbas,Darkness,Trinary,Universe,Sanctuary,Physics,Sun,Step,Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Author: Jeffrey Scott Flesher, Principles of Light Wizzard or Wizards like Sir Isaac Newton and Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Appendix A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "The Principles of the Trinary Universe"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight and CopyLeft by"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Medically Retired United States Air Force Staff Sergeant"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "The Trinary Galaxy is based on:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "The Trinary Galaxy is based on a Record Player, the Galactic Plane is the Record or Disk."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "All the Suns orbit the Galaxy at the Same Rate Like the Record Player Arm, and each Track has its own Speed."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "An Iteration is a Time Period defined as: "
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "An Iteration is a Time Period defined in years, I will calculate here as Maximum, Average, and Minimum,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "these Periods are Labeled using the Zodiac Signs, and use the Julian, Gregorian and Mayan Calendar."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Trinary Matrix Mathematics is based on:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Trinary Matrix Mathematics is based on a Matrix Table, each row is a Track in the Galactic Disk,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "each column has data about the Sun(s) in the Galaxy that supports Life."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "This is based on known Ranges of Energy that Humans could Survive in."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "This Trinary Concept is Based on:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "The Trinary Concept is one that I came up with myself as a child by age 9,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "it is based on the Sun having all the Information it needed to know to do its Job in the Galaxy."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Once I understood what Sir Isaac Newton was describing,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "I realized that the Suns Size has everything to do with its Solar System,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "so I started calculating everything I could: based on its Properties,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "and wrote this Bash Script to create this XHTML document File that contains this Matrix Table and, I also wrote a Qt Quick QML JavaScript cross platform Open Source Project called galaxy-calculator, link is at bottom of page."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Based on a Sun Size of"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "miles in Diameter"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Based on"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Trinary Engines"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Based on a Galaxy with a Radius of"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Total number of Tracks"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Maximum Iteration"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Average Iteration"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Minimum Iteration"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Track:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Track number of our Galaxy, based on 0 to twice 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Tracks below 336 have Negative Trinary Engines because they are Dark Stars,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "they mix with the Galaxies Force Field Rings, making the numbers Negative Frequencies."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Trinary Engines:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Based on how many objects (Planets, Micro Planets, Moons, Asteroids) or Trinary Engines, Trinary Engine in the Table is only referring to Dark Star Companion Stars, they are required to keep the Solar System together, the Dark Energy in these types of Trinary Engines is All Light without Darkness, although Light without Darkness refers to a Spectra of Light not normally in the visible Spectrum Humans can see, without Full Spectrum Technology, these types of Trinary Engine are made of Neutrinos that are Dark in appearance if viewed with Technology, because Technology can not see the Light without Darkness though the Neutron Shell, meaning the outer particles of a Trinary Atom, currently there is no Technology to detect Dark Stars, but Full Spectrum Images can detect their Patterns as Dark Energy. Dark Stars control the Suns or Stars, by creating a network of Dark Energy, , The Dark Star Companions orbit between Sun in a Solar System that has Planets and Moons, and its Binary counterpart, in our case it is Sirius a Binary Star, as such, the closer a Sun or Star is to the Galaxy, the fewer Trinary Engines it needs to contain it, thus the number of Trinary Engines regulate what Track the Sun also known as a Star is on, thus the farther away from the Galaxy, the more Trinary Engines called Dark Star Companions, it requires to span the distance, in order to contain the other Planets, while the Dark Star maintains the same Rate of Movement at different Speeds."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Maintaining the same Rate at different Speeds is regulated by the Dark Star itself, and it is in the Galactic Plane, and the Sun also known as Stars pass by it. The Companions job is to keep the solar system together. In the Image I show that the Binary Star Sirius and our Sun are on opposite sides of the Galactic Plane, this is only true when passing through it and coming out of it, as far as I can prove. The Trinary Math Formula for Grafting or Plotting out Alternating Current in a Helix shape waveform, is based on the Frequency that correlates to our Suns interval in terms of time and distance, but due to current Science, the closes Mainstream can estimate is between 30 and 33 Million Years, so I made that a Variable, so it can be adjusted to the correct value, this app is designed to input any Galaxy, thus it does not affect my calculation for when we will Reverse Poles, because that is only a matter of where we are in the Signal itself, and does not even depend on what direction we are heading, meaning into the Galactic Plane, or away from it, it only matters where we are in terms of the Signal itself. I call Gravity a Signal, because God is All Light without Darkness, and is the Force of Gravity in All Newtons Equations, as well as mine, and this is the Gravity that I am calculating for the Galaxy, and its Suns also known as Stars. Dark Stars and their Companions are a special type of Trinary Engine, and like all Trinary Engines,  they are Theoretical, because they can not be proved nor disproved, and stating you must have Faith God Exist, is what Newton said the Bible stated, but that does not make is Science, even Newton said that, instead I state that Trinary Engines emit these Signals that can be Detected by Current Technology, as such I can state they are a Fact in Trinary Science, with Proof using current Technology. To Plot the Data in the Table, I used the following data as variables, Sun Size as 864,575.9 Miles in Diameter, Livable Planet Size as 7926.2109 Miles in Diameter, Number of Trinary Engines as 333 from the Bible, Radius of Galaxy as 241828072282107.5071453596951 Miles, Full File Name: appendix.a.xhtml, and 66 rows to Print, that is for the Bash Script, I have even more control in the Qt App, Trinary Math is Simple, to get the Iterations time period, I only need to know the size of the Sun,  ( 864,575.9 * (1 / 137) ) / 3 = the Maximum year 2103, the Average Iteration is Based on the Suns Magnetic Polarity Reversals, it changes polarity 10 (0 - 9) times a Century: 100 - 9 = 91, thus 2103 - 91 = 2012, to calculate the End of Time, use 42 from the Hitchhikers Guide to the Galaxy, 42 hex is 66 in decimal, and that is from the Bible, and 2103 - 42 = 2061, and Sir Isaac Newton calculated this in the year 2060 under the Julian Calendar, so it is 2061 under the Gregorian Calendar, so this is the Year the Earth should reverse Poles, and I would not take this event Lightly, it is the End of Time also known as the End of Civilization as we know it, so knowing the Size of the Sun is all you need to know, other than the fact that it only works if you start your year at 0, and why the Mayan Calendar starts over after 2012, the tail of the Fish is the year 2060, and why the Gregorian Calendar was introduced, so that it would align with this Bible Code, making Newtons calculation correct, and why the Mayans keep track of time in Iterations of 2012 Years, so the math always works for them, and they knew it would happen after 2012 and before the Fish Tail, which is in the year 2103."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Max Speed in MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Based on the Maximum speed the Sun can travel through the Galactic Plane."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min Speed in MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Based on the Minimum speed the Sun can travel after going through the Galactic Plane."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Frequency in Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Based on the Core Frequency of the Planet, the surface frequencies should be much higher:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Livable Planet Frequency of 7.830 Hz in the year: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Orbital Distance:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "This is like a Track on a Record, it is the Circumference of the Track in Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Track Frequency in Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "This is based on the Helix shape our Sun travels in around the Galaxy,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "it also calculates when we pass through the Galactic Plane."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Life in the Galaxy is Located:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Currently Life in the Galaxy is on Track *666 "
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "If a new Trinary Engine enters or leaves our World or Solar System, we will change tracks."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "After the Polar Shift due in 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "you should start a New Calendar starting with year 0, or continue and use the dates in the Zodiac Table."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "This is the Age of Aquarius, and an Ice Age will Mark its Rain."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "If you pick out two Suns on different Tracks across from each other: shown in Red and Green,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "and imagined that as I rotated this image simulating the Suns Orbiting the Galaxy,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "you would note that all the Suns in the Galaxy stay in line as they orbit it,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "this is a poor simulation but it makes my point,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "this Math is not the same as it is for the Suns Solar System, so Kepler&#39;s and Newton&#39;s Laws and Math will not help you here, but Trinary Math will."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Trinary Math that I created at age 9 works to solve this problem the Galaxies presented, using the Logic: Speed = Distance/Time, and Distance = Speed * Time, so Speed and Distance are Relative to Frequency, such that: Frequency = 1/Time and Time = 1/Frequency, such that: Frequency (Hz) = Speed of Light (Distance @ 670,616,629 mph * 1 hour; ~ Frequency in miles in 1 Hour or Time) / Wavelength in Miles, using Mainstream estimate of 500,000 Miles an hour for 250,000,000 years, is a distance of 1,095,000,000,000,000,000 miles, using my Formula I get 1,011,954,093,357,316,200 miles, so close enough over that far of a distance. Trinary Science is based on all Energy coming from the Light of God inside every Trinary Atom, meaning 3 types: Proton, Neutron and Electron in the case of Light, as such, all Trinary Math is based on Electricity. When completed the galaxy-calculator, an Open Source github project, which already calculates this same table, will also graphically plot out the path of the Suns or Stars, as they orbit around the Galaxy, once completed, I will replace the images in this table with those. You have two choices, believe Sir Isaac Newton that God is the Force of Gravity in All his Equations, or you can believe Albert Einstein who Denounced all his Theories in favor of Newtons God as the Force of Gravity, either way I am closer to being right than Mainstream Science, because it is based on a Theory Einstein did not even believe in. In this formula, I add up the Track Frequencies instead of using Sine and Cosine, this is not a Simulator, it calculates all Tracks based on the same Sun, and Livable Planet Size, such that it only works for the Track(s) that supports Life, thus it calculates where Life can exist based on these sizes."
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "The Galaxy Spinning all Solar Systems at the same Rate"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "The Galaxy Spinning all Solar Systems at the same Rate"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "The Galaxy Spinning all Solar Systems at the same Rate but not speed"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Full Size"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Trinary Math is 3 Dimensional Math because its based on Electricity also known as Light, that Newton called God."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "If you view the Sun as orbiting a Dark Star in the Galactic Plane,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "and having a Trinary Star Configuration, such that Sirius is our Binary Star,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "and there is also Dark Star Companions that obit around the Trinary Star Systems (Our Sun, Sirius and a Dark Star)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "This Table Calculates the Frequency of this Waveform shown in this Illustration"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "as well as the Speeds it travels at as it power dives into the Galactic Plane at Maximum Speed,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "and how its at Minimum Speed as it gets its farthest in Amplitude before it dives back into the Galactic Plane."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Orbital path of Sun around Galaxy one revolution"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Orbital path of Sun around Galaxy one complete Orbit"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Illustration A2: Complete Orbital path of Sun around Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Full Size"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Track"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Engines"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Max Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Frequency"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "in Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Orbital Distance"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "in Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Track"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Frequency"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Table Appendix A: Trinary Matrix Mathematics Galactic Track Table"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Usage: (Sun Size in Miles in Diameter) (Livable Planet Size in Miles in Diameter) (Number of Trinary Engines)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius of Galaxy in Miles) (Full File Name: appendix.a.xhtml) (Nth Number of row to Print)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "This allows you to enter in other Galaxies, and play with different Sun and Planet Sizes."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Set ThisPrintNth=1 if you want to only print the nth rows, set trackNth to number to skip,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 gives you about 21 Tracks, setting it to 1 will print all Tracks,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "set DoNotSkipThis=666 or what ever number you want to see,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "this saves paper by only printing part of the rows in the table; this is the 6th Argument, I try to limit those."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Link to Bash File that created this Page (Save and Set Permissions to run.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "If you run the Bash Script like: ./makeappendix.a.sh or ./makeappendix.a.sh --help, it will give you Help and more Details."
+

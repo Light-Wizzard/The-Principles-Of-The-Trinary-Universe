@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "La seqüència de taules de la pista de discs de matriu de la matriu trinitària està creant"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Darrera actualització"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Data canviada"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Mida del sol"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Mida del planeta enviable"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Nombre de motors trinitaris"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Radi de galàxia"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Nombre total de pistes a Galàxia"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Índex de pressió atmosfèrica"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "milles de diàmetre"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "milles"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Els Principis de l'Univers Trinari: Apèndix A: Taula de la pista trinitària galàctica"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Autor: Jeffrey Scott Flesher, Principles of Light Wizzard o Mags com Sir Isaac Newton i Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Llum, bruixot, bruixot, Newton, newtonià, Tesla, Franklin, Déu, Jesús, Bar / Abbas, foscor, trinitari, univers, santuari, física, sol, pas, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Autor: Jeffrey Scott Flesher, Principles of Light Wizzard o Mags com Sir Isaac Newton i Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Apèndix A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Taula de la pista trinitària galàctica"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Els Principis de l'Univers Trinari"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight i CopyLeft per"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Sargent de personal de la força aèria dels Estats Units amb retirada"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Taula de la pista trinitària galàctica"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "La galàxia trinitària es basa en:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "La galàxia trinària es basa en un reproductor de discos; el plànol galàctic és el disc o disc."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Tots els Suns orbiten la galàxia al mateix ritme, com el braç del reproductor de discos, i cada pista té la seva pròpia velocitat."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Una iteració és un període de temps definit com:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Una iteració és un període de temps definit en anys; calcularé aquí com a Màxim, Mitjà i Mínim,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "S'han etiquetat aquests períodes amb els signes del zodíac i s'utilitza el calendari Julià, Gregorià i Maya."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Les matemàtiques de la matriu trinària es basen en:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Matemàtiques de la matriu trinària es basa en una taula de matrius, cada fila és una pista del disc galàctic"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "cada columna té dades sobre el (s) Sol (s) de la Galàxia que admet la vida."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Això es basa en els rangs d'energia coneguts que els humans podrien sobreviure."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Aquest concepte trinari es basa en:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "El concepte trinitari és el que vaig tenir com a nen a partir dels 9 anys"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "es basa en que el Sol tingui tota la informació que necessitava per fer el seu treball a la Galàxia."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Una vegada vaig entendre el que estava descrivint Sir Isaac Newton"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Em vaig adonar que la mida del Suns té tot a veure amb el seu sistema solar,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "Així que vaig començar a calcular tot el que podia: a partir de les seves propietats"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "i vaig escriure aquest Bash Script per crear aquest fitxer de document XHTML que conté aquesta taula de matrius i, també vaig escriure un projecte de codi obert de codi de codi Open QML JavaScript de codi obert anomenat galàxia calculadora, l'enllaç es troba al final de la pàgina."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Basat en una mida de"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "milles de diàmetre"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Basat en"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Motors del trinari"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Basat en una galàxia amb un radi de"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Nombre total de pistes"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Màxima iteració"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Iteració mitjana"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Iteració mínima"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Pista:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Número de seguiment de la nostra galàxia, basat en 0 a dues vegades 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Les pistes inferiors a 336 tenen motors trinaris negatius perquè són estrelles fosques,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "es barregen amb els anells de camp de la força de les galàxies, fent que els nombres siguin freqüències negatives."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Motors del trinari:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "En funció de quants objectes (planetes, micro planetes, llunes, asteroides) o motors trinaris, el motor trinitari de la taula només es refereix a les estrelles d'estelades fosques, necessiten mantenir el sistema solar juntament amb l'energia fosca en aquests tipus. de Motors Trinaris és tota Llum sense foscor, tot i que Llum sense foscor fa referència a un Espectre de Llum que no normalment a l'espectre visible Els humans poden veure, sense la tecnologia d'espectre complet, aquest tipus de motor trinitari estan fets de neutrons que tenen aspecte fosc si es veuen. amb Tecnologia, perquè la Tecnologia no pot veure la Llum sense la foscor encara que la Neutron Shell, que significa les partícules externes d’un Atom Trinari, actualment no hi ha tecnologia per detectar les Estrelles fosques, però les imatges d’espectre complet poden detectar els seus patrons com a energia fosca. controlar els Suns o Estrelles, creant una xarxa d’energia fosca., The Dark Star Companions òrbita entre el Sol en un Sistema Solar que té Planetes i Llunes, i el seu contrapàs binari. t, en el nostre cas és Sirius una estrella binària, com a tal, com més proper estigui un Sol o Estrella a la Galàxia, menys motors trinaris necessita per contenir-lo, així el nombre de motors trinaris regula el que rastreja el Sol també conegut com a una Estrella està en marxa, per tant més lluny de la Galàxia, més motors trinaris anomenats Companys d’estrelles fosques, requereix recórrer la distància per tal de contenir els altres planetes, mentre que l’Estrella fosca manté la mateixa velocitat de moviment a diferents velocitats. ."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Mantenir el mateix ritme a diferents velocitats està regulat per l'Estel Fosc, i es troba en el Pla Galàctic, i el Sol també conegut com a Estrelles hi passa. El treball de Companys és mantenir el sistema solar junts. A la imatge I demostren que el Star Binary Sirius i el nostre Sol es troben en els costats oposats del Plàctic Galàctic, això només és cert quan el passen per ell i surten d'ell, fins on puc demostrar. La fórmula de matemàtiques trinitàries per elaborar o representar corrent altern. en forma d'ona de forma Helix, es basa en la freqüència que es correlaciona amb el nostre interval de Suns en termes de temps i distància, però, a causa de la ciència actual, el tancament de la corrent principal es pot estimar entre 30 i 33 milions d'anys, així que vaig fer que una variable, de manera que es pot ajustar al valor correcte, aquesta aplicació està dissenyada per introduir qualsevol galàxia, de manera que no afecta el meu càlcul per a quan invertirem els pols, perquè només es tracta d’on estem en el propi senyal. ni tan sols depenen de quina direcció ens dirigim, que vol dir cap al Pla Galàctic, o allunyat d'aquest, només importa allà on estiguem en termes del propi Senyal. Jo anomeno Gravity a Signal, perquè Déu és tota la llum sense foscor i és la força de la gravetat en totes les equacions de Newtons, així com la meva, i aquesta és la gravetat que estic calculant per a la Galàxia, i els seus sols també coneguts com a estrelles . Les estrelles fosques i els seus companys són un tipus especial de motor trinari i, com tots els motors trinaris, són teòrics, perquè no es poden demostrar ni rebutjar, i afirmant que ha de tenir fe de Déu existir, és el que Newton va dir que la Bíblia va afirmar, però No fa res Ciència, fins i tot Newton va dir que, en comptes d'això, afirmo que els motors trinitaris emeten aquests senyals detectables per la tecnologia actual, ja que puc afirmar que són un fet en la ciència trinitària, amb la prova que utilitza la tecnologia actual. Per representar les dades de la taula, he utilitzat les dades següents com a variables, la mida del sol com a 864.575,9 milles per diàmetre, la mida del planeta enviable com a 7926.2109 milles de diàmetre, el nombre de motors trinaris com 333 de la Bíblia, el radi de galàxia com a 241828072282107.5071453596951 milles, Nom complet del fitxer: apèndix.a.xhtml, i 66 files per imprimir, és a dir per a l'script Bash, tinc un control encara més gran en l'aplicació Qt, la matemàtica Trinary és senzilla, per obtenir el període de temps de les iteracions, només he de saber la mida del Sol, (864.575,9 * (1/137)) / 3 u003d l'any màxim 2103, la iteració mitjana es basa en les reversions de polaritat magnètica de Suns, canvia la polaritat 10 (0 - 9) vegades al segle: 100 - 9 u003d 91, per tant, 2103 - 91 u003d 2012, per calcular el final del temps, utilitzeu 42 de la guia Hitchhikers de la galàxia, 42 hexàgraf és 66 en decimals, i això és de la Bíblia, i 2103 - 42 u003d 2061, i Sir Isaac Newton ho va calcular l'any 2060 sota el calendari juliano, de manera que es troba el 2061 en el calendari gregorià. e Any que la Terra hauria de revertir els pols, i jo no assumiria aquest esdeveniment a la lleugera, és el final del temps també conegut com a fi de la civilització tal com el coneixem, de manera que conèixer la mida del Sol és tot el que necessiteu saber. que el fet que només funciona si comences l'any 0, i per què el calendari maia comença després del 2012, la cua del peix és l'any 2060 i per què es va introduir el calendari gregorià, de manera que s'alinearia amb això Codi bíblic, fent que el càlcul de Newtons sigui correcte, i per què els maies fan un seguiment del temps en les iteracions dels anys 2012, de manera que les matemàtiques sempre funcionen per a ells, i sabien que passaria després del 2012 i abans de la cua del peix, que és l'any 2103 ."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Velocitat màxima en MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Basat en la velocitat màxima que el Sol pot recórrer a través del Pla Galàctic."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Velocitat mínima en MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Basat en la velocitat mínima que pot recórrer el Sol després de passar pel Pla Galàctic."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Freqüència en Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Basat en la Freqüència Core del Planeta, les freqüències de superfície haurien de ser molt més altes:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Freqüència del planeta transmissible de 7.830 Hz l'any: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Distància orbital:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Això és com una pista d'un registre, és la circumferència de la pista en milles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Freqüència de seguiment en Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Això es basa en la forma de l'Hèlix que el nostre Sol viatja a la Galàxia."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "també calcula quan passem pel pla galàctic."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "La vida a la galàxia està situada:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Actualment la vida a la galàxia és a la pista * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Si un nou Motor Trinary entra o abandona el nostre Món o Sistema Solar, canviarem de pistes."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Després del canvi polar de l'any 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "Hauríeu de començar un nou calendari a partir de l'any 0 o continuar i utilitzar les dates de la taula del zodíac."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Aquesta és l'edat d'Aquarius, i una era glacial marcarà la seva pluja."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Si trieu dos Suns a pistes diferents entre ells: mostrats en vermell i verd,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "i vaig imaginar que mentre girava aquesta imatge simulant els Suns que orbiten la galàxia"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "Tindríeu en compte que tots els Suns de la Galàxia es mantenen en la línia de l'òrbita."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "Aquesta és una mala simulació, però fa que sigui el meu punt"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "Aquesta matemàtica no és el mateix que ho és per al sistema solar de Suns, de manera que les lleis i les matemàtiques de Kepler i Newton no us ajudaran aquí, però les matemàtiques de Trinary."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Les matemàtiques trinitàries que vaig crear als 9 anys treballen per resoldre aquest problema de les galàxies presentades mitjançant la lògica: velocitat u003d distància / temps i distància u003d velocitat * temps, de manera que la velocitat i la distància són relatives a la freqüència, de manera que: freqüència u003d 1 / Hora i hora u003d 1 / Freqüència, de manera que: Freqüència (Hz) u003d Velocitat de la llum (Distància @ 670.616.629 mph * 1 hora; ~ Freqüència en milles en 1 hora o hora) / Longitud d'ona a Miles, utilitzant l'estimació principal de 500.000 milles una hora durant 250.000.000 d’anys, és una distància de 1.095.000.000.000.000.000 de milles, utilitzant la meva Fórmula I obtinc 1.011.954.093.357.316.200 milles, tan a prop de la distància de la distància. 3 tipus: Protó, Neutró i Electró en el cas de la Llum, per tant, tota la Matemàtica Trinària es basa en l'electricitat, quan finalitzi la calculadora de galàxies, un projecte de github Open Source, que ja calcula aquesta mateixa taula, també representarà gràficament el camí de t els Suns o Stars, quan orbiten al voltant de la Galàxia, un cop finalitzats, substituiré les imatges d’aquesta taula per aquelles. Teniu dues opcions, creieu que sir Isaac Newton que Déu és la força de la gravetat en totes les seves equacions, o podeu creure a Albert Einstein que va denunciar totes les seves teories a favor de Newtons God com la força de la gravetat, de qualsevol manera que estic més a prop de ser bé que Mainstream Science, ja que es basa en una teoria en què Einstein no hi creia ni. En aquesta fórmula, afegeixo les freqüències de pista en lloc d’utilitzar Sine i Cosine, no és un simulador, sinó que calcula totes les pistes basades en la mateixa Sol i la mida del planeta distribuïble, de manera que només funciona per a la pista (s) que admet la vida, per tant, calcula on pot existir la vida basada en aquestes mides. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "La galàxia girant tots els sistemes solars al mateix ritme"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "La galàxia girant tots els sistemes solars al mateix ritme"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "La galàxia fa girar tots els sistemes solars al mateix ritme, però no a la velocitat"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Mida completa"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Les matemàtiques trinitàries són matemàtiques tridimensionals, ja que es basa en l'electricitat també coneguda com a llum, que Newton anomenava Déu."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Si veus el Sol orbitant una estrella fosca al pla galàctic"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "i teniu una configuració d'estrella trinitària, de manera que Sirius és la nostra estrella binària,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "I també hi ha companys d'estels foscos que obtenen al voltant dels sistemes estel·lars trinaris (El nostre Sol, Sirius i una estrella fosca)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Aquesta taula calcula la freqüència d'aquesta forma d'ona mostrada en aquesta il·lustració"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "A més de la velocitat en què viatja a mesura que es pot submergir en el pla galàctic a velocitat màxima,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "i com és a la seva velocitat mínima, ja que es troba en el més llunyà en amplitud abans de caure de nou en el pla galàctic."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Ruta orbital del Sol al voltant de Galaxy una revolució"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Ruta orbital del Sol al voltant de Galaxy una òrbita completa"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Il·lustració A2: Ruta orbital completa del Sol al voltant de Galàxia"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Mida completa"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Track"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Motors"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Velocitat màxima"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "a MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Velocitat mínima"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "a MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Freqüència"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "en Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Distància orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "a Milers"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Track"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Freqüència"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Taula Apèndix A: Taula de pista de galàctic de matemàtiques de matrius trinitàries"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Ús: (Dimensió del sol en milles en diàmetre) (mida del planeta distribuïble en milles en diàmetre) (nombre de motors trinitaris)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radi de galàxia a quilòmetres) (nom complet del fitxer: apèndix.a.xhtml) (enèsim número de fila a imprimir)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 apèndix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Això permet entrar a altres galàxies i jugar amb diferents mides del Sol i del Planeta."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Establiu ThisPrintNth u003d 1 si només voleu imprimir les enèsimes files, configureu TrackNth com a número per saltar-se,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 us ofereix aproximadament 21 pistes, definint-lo a 1 imprimirà totes les pistes,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "configure DoNotSkipThis u003d 666 o el nombre que vulgueu veure"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Això desa paper només imprimint part de les files de la taula; aquest és el sisè argument, que intento limitar."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Enllaç al fitxer Bash que ha creat aquesta pàgina (Desa i estableix els permisos per executar-los.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Si executeu el script Bash com: ./makeappendix.a.sh o ./makeappendix.a.sh --help, us donarà ajuda i més detalls."
+

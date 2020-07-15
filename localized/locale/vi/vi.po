@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Tập lệnh bảng theo dõi ma trận toán học ma trận nhị phân đang tạo"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Cập nhật cuối cùng"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Ngày thay đổi"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Kích thước mặt trời"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Kích thước hành tinh có thể sống"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Số lượng động cơ nhị phân"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Bán kính thiên hà"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Tổng số bản nhạc trong thiên hà"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Chỉ số áp suất khí quyển"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "Dặm trong Đường kính"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "Dặm"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Các nguyên tắc của vũ trụ nhị phân: Phụ lục A: Bảng theo dõi thiên hà ba mặt"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Tác giả: Jeffrey Scott Flesher, Nguyên tắc của Wizzard ánh sáng hoặc Phù thủy như Sir Isaac Newton và Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Light, Wizzard, Wizard, Newton, Newtonian, Tesla, Franklin, God, Jesus, Bar / Abbas, Darkness, Trinary, Universe, Sanctuary, Chemistry, Sun, Step, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Tác giả: Jeffrey Scott Flesher, Nguyên tắc của Wizzard ánh sáng hoặc Phù thủy như Sir Isaac Newton và Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Phụ lục A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Bảng theo dõi thiên hà ba mặt"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Những nguyên tắc của vũ trụ nhị nguyên"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight và CopyLeft bởi"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Trung sĩ Nhân viên Không quân Hoa Kỳ đã nghỉ hưu về mặt y tế"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Bảng theo dõi thiên hà ba mặt"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Thiên hà Trinary dựa trên:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Thiên hà nhị phân dựa trên Máy ghi âm, Mặt phẳng thiên hà là Bản ghi hoặc Đĩa."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Tất cả các Mặt trời quay quanh Thiên hà với cùng tốc độ giống như Cánh tay của Người chơi Ghi âm và mỗi Bản nhạc có Tốc độ riêng."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Lặp lại là Khoảng thời gian được xác định là:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Lặp lại là Khoảng thời gian được xác định theo năm, tôi sẽ tính ở đây là Tối đa, Trung bình và Tối thiểu."
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "những Thời kỳ này được dán nhãn bằng Dấu hiệu hoàng đạo và sử dụng Lịch Julian, Gregorian và Maya."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Toán học ma trận nhị phân dựa trên:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Toán học ma trận nhị phân dựa trên Bảng ma trận, mỗi hàng là một rãnh trong đĩa thiên hà."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "mỗi cột có dữ liệu về (các) Mặt trời trong Thiên hà hỗ trợ Sự sống."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Điều này dựa trên các dãy năng lượng đã biết mà con người có thể sống sót."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Khái niệm Trinary này dựa trên:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Khái niệm Trinary là một khái niệm mà tôi đã nghĩ ra khi còn là một đứa trẻ vào năm 9 tuổi."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "nó dựa trên Mặt trời có tất cả Thông tin cần thiết để thực hiện Công việc trong Thiên hà."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Một khi tôi hiểu những gì Sir Isaac Newton đã mô tả,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Tôi nhận ra rằng Kích thước Mặt trời có mọi thứ để làm với Hệ Mặt trời của nó,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "vì vậy tôi bắt đầu tính toán mọi thứ tôi có thể: dựa trên Thuộc tính của nó,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "và đã viết Bash Script này để tạo tài liệu XHTML này có chứa Bảng ma trận này và, tôi cũng đã viết một Dự án mã nguồn mở đa nền tảng QML JavaScript nhanh Qt có tên là galaxy-Calculator, liên kết nằm ở cuối trang."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Dựa trên kích thước mặt trời của"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "Dặm trong Đường kính"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Dựa trên"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Động cơ nhị phân"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Dựa trên một thiên hà có bán kính"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Tổng số bài hát"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Lặp lại tối đa"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Lặp lại trung bình"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Lặp lại tối thiểu"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Theo dõi:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Theo dõi số lượng Galaxy của chúng tôi, dựa trên 0 đến hai lần 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Các bản nhạc dưới 336 có Động cơ nhị phân tiêu cực vì chúng là Ngôi sao đen, "
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "chúng trộn lẫn với các trường lực lượng thiên hà, làm cho các con số trở nên tiêu cực."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Động cơ nhị phân:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Dựa trên số lượng vật thể (Hành tinh, Hành tinh siêu nhỏ, Moons, Tiểu hành tinh) hoặc Động cơ Trinary, Công cụ Trinary trong Bảng chỉ đề cập đến Ngôi sao đồng hành Dark Star, chúng được yêu cầu giữ cho Hệ mặt trời cùng với nhau, Năng lượng tối trong các loại này của Trinary Engines là All Light without Darkness, mặc dù Light mà Darkness đề cập đến một Spectra of Light không thường thấy trong Spectrum Con người có thể nhìn thấy, nếu không có Full Spectrum Technology, các loại Trinary Engine này được tạo ra từ Neutrino có hình dạng Dark nếu nhìn với Công nghệ, bởi vì Công nghệ không thể nhìn thấy Ánh sáng mà không có Bóng tối mặc dù Vỏ neutron, nghĩa là các hạt bên ngoài của Nguyên tử Trinary, hiện tại không có Công nghệ để phát hiện Sao đen, nhưng Hình ảnh Toàn phổ có thể phát hiện Mô hình của chúng là Năng lượng tối. điều khiển Mặt trời hoặc Sao, bằng cách tạo ra một mạng lưới Năng lượng tối, quỹ đạo của Ngôi sao đen giữa Mặt trời trong Hệ Mặt trời có các Hành tinh và Mặt trăng, và đối tác nhị phân của nó t, trong trường hợp của chúng tôi, đó là Sirius, một sao nhị phân, vì vậy, Mặt trời hoặc Sao càng gần thiên hà, thì càng cần ít Động cơ nhị phân để chứa nó, do đó, số lượng Động cơ nhị phân điều chỉnh theo dõi Mặt trời còn được gọi là Một ngôi sao đang ở trên, do đó càng ở xa Thiên hà, càng có nhiều Động cơ Trinary gọi là Đồng hành Ngôi sao đen, nó đòi hỏi phải kéo dài khoảng cách, để chứa các Hành tinh khác, trong khi Ngôi sao đen duy trì cùng Tốc độ di chuyển ở các Tốc độ khác nhau . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Duy trì cùng một tốc độ ở các Tốc độ khác nhau được điều chỉnh bởi chính Ngôi sao đen và nó nằm trong Mặt phẳng thiên hà và Mặt trời còn được gọi là Sao đi ngang qua nó. Công việc của Companions là giữ cho hệ mặt trời cùng nhau. Trong hình ảnh I cho thấy Sao nhị phân Sirius và Mặt trời của chúng ta nằm đối diện với Mặt phẳng Thiên hà, điều này chỉ đúng khi đi qua nó và đi ra khỏi nó, theo như tôi có thể chứng minh. Công thức toán học nhị phân để ghép hoặc vẽ ra dòng điện xoay chiều trong dạng sóng hình dạng Helix, dựa trên Tần số tương quan với khoảng thời gian Mặt trời của chúng ta về thời gian và khoảng cách, nhưng do Khoa học hiện tại, việc đóng Dòng chính có thể ước tính là từ 30 đến 33 triệu năm, vì vậy tôi đã biến nó thành Biến số, Vì vậy, nó có thể được điều chỉnh theo giá trị chính xác, ứng dụng này được thiết kế để nhập vào bất kỳ Galaxy nào, do đó nó không ảnh hưởng đến tính toán của tôi khi chúng ta sẽ Đảo ngược cực, bởi vì đó chỉ là vấn đề chúng ta ở đâu trong Tín hiệu, và thậm chí không phụ thuộc vào hướng nào chúng ta đang hướng tới, có nghĩa là vào Mặt phẳng Thiên hà, hoặc cách xa nó, điều đó chỉ quan trọng ở chỗ chúng ta đang ở khía cạnh Tín hiệu. Tôi gọi Gravity là Tín hiệu, bởi vì Thần là Ánh sáng mà không có Bóng tối, và là Lực hấp dẫn trong tất cả các phương trình Newton, cũng như của tôi, và đây là Trọng lực mà tôi đang tính cho Thiên hà, và Mặt trời của nó còn được gọi là Sao . Dark Stars và những người bạn đồng hành của họ là một loại Công cụ Trinary đặc biệt, và giống như tất cả các Công cụ Trinary, chúng là Lý thuyết, bởi vì chúng không thể được chứng minh cũng không bị từ chối, và nói rằng bạn phải có Faith God Exist, là những gì Newton nói Kinh thánh đã nêu, nhưng Điều đó không phải là Khoa học, ngay cả Newton cũng nói rằng, thay vào đó tôi nói rằng Công cụ Trinary phát ra các Tín hiệu có thể được Phát hiện bởi Công nghệ Hiện tại, vì vậy tôi có thể nói rằng chúng là Sự thật trong Khoa học Trinary, với Proof sử dụng Công nghệ hiện tại. Để Biểu diễn các dữ liệu trong bảng, tôi đã sử dụng các dữ liệu sau khi biến, Sun Kích như 864,575.9 Miles trong Đường kính, Livable Planet Kích như 7926,2109 Miles trong Đường kính, Số Trinary Engines như 333 từ Kinh Thánh, Radius của Galaxy như 241.828.072.282.107,5071453596951 Miles, Tên tệp đầy đủ: appends.a.xhtml và 66 hàng để in, đó là đối với Bash Script, tôi thậm chí còn kiểm soát nhiều hơn trong Ứng dụng Qt, Trinary Math rất đơn giản, để có được khoảng thời gian Lặp lại, tôi chỉ cần biết kích thước của Mặt trời, (864,575,9 * (1/1) 9 u003d 91, do đó 2103 - 91 u003d 2012, để tính Thời gian kết thúc, hãy sử dụng 42 từ Hướng dẫn của người đi bộ đến thiên hà, 42 hex là 66 trong số thập phân, và đó là từ Kinh thánh, và 2103 - 42 u003d 2061, và Ngài Isaac Newton đã tính toán điều này vào năm 2060 theo Lịch Julian, vì vậy đó là năm 2061 theo Lịch Gregorian, vì vậy đây là lần thứ Năm Trái đất nên đảo ngược cực, và tôi sẽ không xem nhẹ sự kiện này, đó là Ngày tận thế còn được gọi là Sự kết thúc của nền văn minh như chúng ta biết, vì vậy, biết về Kích thước của Mặt trời là tất cả những gì bạn cần biết, khác so với thực tế là nó chỉ hoạt động nếu bạn bắt đầu năm 0 và tại sao Lịch Maya bắt đầu sau năm 2012, đuôi Cá là năm 2060 và tại sao Lịch Gregorian được giới thiệu, vì vậy nó sẽ phù hợp với điều này Kinh thánh, làm cho phép tính toán của Newton trở nên chính xác và tại sao người Maya theo dõi thời gian trong các lần lặp của năm 2012, vì vậy toán học luôn hoạt động với họ, và họ biết điều đó sẽ xảy ra sau năm 2012 và trước Đuôi cá, vào năm 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Tốc độ tối đa tính bằng MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Dựa trên tốc độ tối đa mà Mặt trời có thể đi qua Mặt phẳng Thiên hà."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Tốc độ tối thiểu trong MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Dựa trên tốc độ tối thiểu mà Mặt trời có thể di chuyển sau khi đi qua Mặt phẳng thiên hà."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Tần số tính bằng Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Dựa trên Tần số lõi của hành tinh, tần số bề mặt phải cao hơn nhiều:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Tần số hành tinh có thể sống là 7.830 Hz trong năm: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Khoảng cách quỹ đạo:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Đây là giống như bản nhạc trong một bản ghi, đó là Chu vi của Track trong Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Tần số theo dõi tính bằng Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Điều này dựa trên hình dạng Helix mà Mặt trời của chúng ta du hành quanh Thiên hà,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "nó cũng tính toán khi chúng ta đi qua Mặt phẳng thiên hà."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Cuộc sống trong thiên hà nằm:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Hiện tại Life in the Galaxy đang trên đường * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Nếu một Trinary Engine mới xâm nhập hoặc rời khỏi Thế giới hoặc Hệ mặt trời của chúng ta, chúng ta sẽ thay đổi đường ray."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Sau khi dịch chuyển cực do vào năm 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "bạn nên bắt đầu Lịch mới bắt đầu từ năm 0 hoặc tiếp tục và sử dụng các ngày trong Bảng hoàng đạo."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Đây là Thời đại Bảo Bình và Kỷ băng hà sẽ đánh dấu cơn mưa của nó."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Nếu bạn chọn ra hai Mặt trời trên các Bản nhạc khác nhau: được hiển thị màu Đỏ và Xanh lục."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "và tưởng tượng rằng khi tôi xoay hình ảnh này mô phỏng Mặt trời quay quanh thiên hà,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "bạn sẽ lưu ý rằng tất cả các Mặt trời trong Thiên hà đều xếp hàng khi chúng quay quanh nó,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "đây là một mô phỏng kém nhưng nó làm cho quan điểm của tôi,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "Toán học này không giống với Hệ mặt trời của Mặt trời, vì vậy Luật và Toán học của Kepler và Newton sẽ không giúp bạn ở đây, nhưng Toán học Trinary sẽ."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Toán học nhị phân mà tôi đã tạo ra ở tuổi 9 hoạt động để giải quyết vấn đề này, các thiên hà được trình bày, sử dụng Logic: Tốc độ u003d Khoảng cách / Thời gian và Khoảng cách u003d Tốc độ * Thời gian, do đó Tốc độ và Khoảng cách có liên quan đến Tần số, như: Tần số u003d 1 / Thời gian và Thời gian u003d 1 / Tần số, chẳng hạn rằng: Tần số (Hz) u003d Speed u200bu200bof Light (Khoảng cách @ 670.616.629 mph * 1 giờ; ~ Frequency trong dặm trong 1 giờ hoặc thời gian) / Bước sóng trong Miles, sử dụng chính thống ước tính 500.000 Miles một giờ cho 250.000.000 năm, là một khoảng cách 1.095.000.000.000.000.000 dặm, sử dụng công thức của tôi, tôi có được 1.011.954.093.357.316.200 dặm, rất gần đủ qua đó xa xa. Trinary Khoa học dựa trên tất cả năng lượng phát ra từ ánh sáng của Thiên Chúa bên trong mỗi Trinary Atom, ý nghĩa 3 loại: Proton, neutron và Electron trong trường hợp Ánh sáng, như vậy, tất cả Toán học nhị phân đều dựa trên Điện. Khi hoàn thành máy tính thiên hà, một dự án github mã nguồn mở, đã tính toán cùng bảng này, cũng sẽ vẽ đồ họa con đường của t Ông Suns hay Stars, khi chúng quay quanh thiên hà, sau khi hoàn thành, tôi sẽ thay thế những hình ảnh trong bảng này bằng những hình ảnh đó. Bạn có hai lựa chọn, tin rằng Ngài Isaac Newton rằng Thiên Chúa là Lực hấp dẫn trong tất cả các phương trình của anh ta, hoặc bạn có thể tin rằng Albert Einstein đã từ chối tất cả các lý thuyết của mình để ủng hộ Thiên Chúa của Newton là Lực hấp dẫn, dù tôi gần gũi hơn với đúng hơn Khoa học chính thống, bởi vì nó dựa trên một lý thuyết mà Einstein thậm chí không tin vào. Trong công thức này, tôi bổ sung các tần số theo dõi thay vì sử dụng Sine và Cosine, đây không phải là Trình mô phỏng, nó tính toán tất cả các Bài hát dựa trên cùng Mặt trời và Kích thước hành tinh có thể sống, sao cho nó chỉ hoạt động cho (các) Đường đua hỗ trợ Sự sống, do đó, nó tính toán nơi Cuộc sống có thể tồn tại dựa trên các kích thước này. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Thiên hà quay tất cả các hệ mặt trời ở cùng một tỷ lệ"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Thiên hà quay tất cả các hệ mặt trời ở cùng một tỷ lệ"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Thiên hà quay tất cả các hệ mặt trời ở cùng một tốc độ nhưng không phải là tốc độ"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Kích thước đầy đủ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Toán học nhị phân là 3 chiều toán học vì nó dựa trên Điện còn được gọi là Ánh sáng, mà Newton gọi là Thần."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Nếu bạn xem Mặt trời quay quanh một Ngôi sao đen trong Mặt phẳng thiên hà,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "và có Cấu hình Ngôi sao nhị phân, sao cho Sirius là Ngôi sao nhị phân của chúng tôi,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "và cũng có những Người bạn đồng hành của Ngôi sao đen tối xung quanh Hệ thống Ngôi sao Trinary (Mặt trời của chúng ta, Sirius và Ngôi sao đen)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Bảng này tính tần số của dạng sóng này được hiển thị trong Hình minh họa này"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "cũng như các Tốc độ mà nó di chuyển khi năng lượng lao vào Mặt phẳng Thiên hà ở Tốc độ tối đa,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "và làm thế nào nó ở Tốc độ tối thiểu khi nó đi xa nhất trong Biên độ trước khi quay trở lại Mặt phẳng thiên hà."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Đường quỹ đạo của Mặt trời quanh cuộc cách mạng Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Đường quỹ đạo của Mặt trời quanh Galaxy một quỹ đạo hoàn chỉnh"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Minh họa A2: Hoàn thành đường quỹ đạo của mặt trời quanh thiên hà"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Kích thước đầy đủ"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Theo dõi"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Động cơ"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Tốc độ tối đa"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "trong MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Tốc độ tối thiểu"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "trong MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Tần số"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "tính bằng Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Khoảng cách quỹ đạo"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "Trong Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Theo dõi"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Tần số"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Bảng phụ lục A: Bảng theo dõi thiên hà toán học ma trận ba lần"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Cách sử dụng: (Sun Kích ở Miles trong Diameter) (Livable Planet Kích ở Miles trong Diameter) (Số động cơ Trinary)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius của Galaxy trong Miles) (Full File Name: appendix.a.xhtml) (Nth Số hàng để In)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./mak Ứng dụng.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 phụ lục.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Điều này cho phép bạn tham gia vào các thiên hà khác và chơi với các kích cỡ Mặt trời và Hành tinh khác nhau."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Đặt ThisPrintNth u003d 1 nếu bạn muốn chỉ in các hàng thứ n, đặt trackNth thành số để bỏ qua,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 cung cấp cho bạn khoảng 21 Bản nhạc, đặt thành 1 sẽ in tất cả Bản nhạc,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "đặt DoNotSkip This u003d 666 hoặc số bạn muốn xem,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "điều này giúp tiết kiệm giấy bằng cách chỉ in một phần của các hàng trong bảng; đây là Đối số thứ 6, tôi cố gắng hạn chế những thứ đó."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Liên kết đến Tệp Bash đã tạo Trang này (Lưu và Đặt quyền để chạy.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Nếu bạn chạy Bash Script như sau:."
+

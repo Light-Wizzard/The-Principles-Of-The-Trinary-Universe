@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "A Trinary Matrix Math galaktikus lemezkövetési táblázata parancsfájlt készít"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Utolsó frissítés"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Dátum megváltoztatva"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Napméret"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Élhető bolygóméret"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Hármas motorok száma"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxis sugara"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "A pályák teljes száma a galaxisban"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Légköri nyomás index"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "mérföld átmérőben"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "„Mérföld”"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "A hármas univerzum alapelvei: A. függelék: A Háromság galaktikus vonalának táblája"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Szerző: Jeffrey Scott Flesher, a Light Wizzard alapelvei vagy olyan varázslók, mint Sir Isaac Newton és Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Világos, Wizzard, Varázsló, Newton, Newtoni, Tesla, Franklin, Isten, Jézus, Bár / Abbas, Sötétség, Háromság, Univerzum, Szentély, Fizika, Nap, Lépés, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Szerző: Jeffrey Scott Flesher, a Light Wizzard alapelvei vagy olyan varázslók, mint Sir Isaac Newton és Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "A Függelék: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "A hármas univerzum alapelvei"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight és CopyLeft by"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Orvosilag nyugdíjas amerikai egyesült államokbeli légierő törzsőrmester"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "A Háromság-galaxis alapja:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "A Szentháromság-galaxis egy lemezjátszón alapul, a galaktikus sík pedig a lemez vagy lemez."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Az összes Nap kering a galaxison ugyanolyan sebességgel, mint a lemezjátszó kar, és minden egyes sávnak megvan a saját sebessége."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Az iteráció egy következő időszak:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Az iteráció egy években meghatározott időtartam, itt maximális, átlagos és minimális értékként számolom."
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "ezeket az időszakokat az állatöv jelekkel címkézik, és a júliai, Gergely és Maja naptárt használják."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "A hármas mátrix matematika az alábbiakon alapszik:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "A hármas mátrix matematika mátrix táblázatokon alapul, minden sor egy sáv a galaktikus lemezen"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "minden oszlopban vannak adatok a Galaxisban levő Nap (ok) ról, amely támogatja az életet."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Ez azon ismert energiatartományokon alapul, amelyekben az emberek túlélhetnek."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Ez a háromsági koncepció alapja:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "A Szentháromság-koncepció az, amelyre 9 éves koromban gyerekkoromban jöttem fel."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "azon alapszik, hogy a Nap minden olyan információval rendelkezik, amelyre szüksége van ahhoz, hogy tudjon munkát a galaxisban."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Amint megértettem, amit Sir Isaac Newton leír."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Rájöttem, hogy a Nap méretének minden köze van a Naprendszerhez"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "tehát mindent elkezdtem kiszámítani: a tulajdonságai alapján"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "és elkészítette ezt a Bash Script-et, hogy elkészítse ezt az XHTML dokumentumfájlt, amely tartalmazza ezt a mátrixtáblát, és egy Qt Quick QML JavaScript keresztplatformos projektet írtam galaxis-kalkulátornak, a link az oldal alján."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "A napméret alapján"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "mérföld átmérőben"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Alapján"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Hármas motorok"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Egy sugárú galaxison alapul"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "A számok összes száma"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Maximális iteráció"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Átlagos iteráció"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Minimális iteráció"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Nyomon követni:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "A galaxisunk számszáma 0-tól kétszer 666-ig."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "A 336 alatti sávok negatív hármas motorral rendelkeznek, mert sötét csillagok"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "keverednek a galaxisok erőtér gyűrűivel, negatív frekvenciákká válnak."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Hármas motorok:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Annak alapján, hogy hány objektum (bolygó, mikrobolygó, holdak, aszteroidák) vagy háromféles motorok, a táblázatban szereplő hároméves motor csak a Sötét Csillag társcsillagokra utal, szükségük van arra, hogy a Naprendszert együtt tartsák, az ilyen típusú Sötét Energia mellett A hármas motorok teljes fénye sötétség nélkül, bár a fény sötétség nélkül olyan fényspektrumra utal, amely általában nem szerepel a látható spektrumban. Az emberek a teljes spektrumtechnika nélkül láthatják, hogy ezek a háromféle motorok olyan neutrinókból készülnek, amelyek megjelenésüknél sötétek. mivel a technológia nem látja a fényt sötétség nélkül, bár a neutronhéj, vagyis a Háromsági atom külső részecskéi, jelenleg nincs technológia a sötét csillagok detektálására, de a teljes spektrumú képek meg tudják mutatni mintájukat sötét energiaként. irányíthatja a Napot vagy a Csillagokat egy Sötét Energia hálózat létrehozásával, a Sötét Csillagok Keringő pályájával a Nap között egy olyan bolygókat és holdokat tartalmazó Naprendszerben és bináris ellenértékével t, a mi esetünkben a Sirius egy bináris csillag, mint olyan, minél közelebb van egy nap vagy csillag a galaxishoz, annál kevesebb hármas motorra van szüksége ahhoz, hogy benne legyen, tehát a háromkomponensű motorok száma befolyásolja azt, amit a nap követ. egy csillag be van kapcsolva, tehát minél távolabb a galaxistól, annál inkább a Sötét Csillagoknak nevezett trináris motoroknak át kell számolniuk a távolságot ahhoz, hogy a többi bolygót tartalmazzák, míg a Sötét Csillag ugyanazt a mozgási sebességet tartja fenn különböző sebességeknél .”"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "„Fenntartása azzal a sebességgel, különböző sebességgel szabályozza a Dark Star magát, és ez a Galaktikus Sík, és a Nap is ismert Csillag át azt. A társak feladata az, hogy a Naprendszer együtt. A fényképek I azt mutatják, hogy a bináris csillag Sirius és a Nap ellentétes oldalán a galaktikus sík, ez csak akkor igaz, ha a rajta áthaladó és jön ki belőle, amennyire tudom bizonyítani. a Trinary Math Formula oltása vagy Plotting ki váltakozó áramú egy Helix alakú hullámforma alapul Frequency hogy korrelál a Suns intervallum az idő és a távolság, de mivel a jelenlegi tudomány, az bezárul Mainstream tudja becsülni 30 és 33 millió év, így tettem, hogy egy változó, így beállítható a megfelelő értékre, ezt az alkalmazást bármilyen galaxis bevitelére tervezték, tehát nem befolyásolja a számításomat arra az időre, amikor visszafordítjuk a lengyeleket, mert ez csak az a kérdés, hogy hol vagyunk maga a jel, és nem még attól sem függ, hogy milyen irányba haladunk, vagyis a Galaktikus Sík, vagy tőle, csak az számít, hogy hol vagyunk szempontjából maga a jel. Hívom Gravity egy jel, mert Isten minden fény sötétség nélkül, és a gravitációs erő All Newton-egyenletek, valamint az enyém, és ez a Gravity hogy én kiszámítsa a Galaxy és a Suns is ismert csillag . Sötét Csillag és társaik egy speciális típusú Trinary motor, és mint minden Trinary motorok, ezek elméleti, mert nem bizonyítható, sem cáfolni, és kijelenti, hinned kell Istent létezik, amit Newton szerint a Biblia határozva, de ez nem teszi a tudomány, még Newton azt mondta, hogy ahelyett, hogy azt állítják, hogy Trinary motorok bocsátanak ki ezeket a jeleket, hogy ki lehet mutatni a jelenlegi technológia, mint például azt mondhatom, ők egy tényt Trinary Science, a Proof a jelenlegi technológia. A táblázat adatainak ábrázolásához a következő adatokat használtam változóként: Napméret mint 864 575,9 mérföldes átmérő, Élhető bolygóméret 7926,2109 mérföldes átmérőben, Hármas motorok száma 333-ként a Bibliából, A galaxis sugara mint 241828072282107.5071453596951 mérföld, teljes fájl neve: appendix.a.xhtml és 66 sorok nyomtatása, azaz a Bash Script, akkor még több ellenőrzés a Qt App Trinary Math egyszerű, hogy a ismétlések ideig, én csak azt kell tudni a méret a Nap, (864,575.9 * (1/137)) / 3 u003d a maximális év 2103, az átlagos ismétlés alapján a Suns Magnetic polaritásváltásoknak, megváltoztatja polaritását 10 (0-9) alkalommal Century: 100 - 9 u003d 91, tehát 2103-91 u003d 2012, kiszámításához az End of Time, használat 42 a Hitchhikers galaxis útikalauz 42 hex 66 decimális, és ez a Biblia, és 2103-42 u003d 2061, és Sir Isaac Newton számított ez a 2060 a Julián naptár, így 2061 alatt Gergely-naptár, így ez th e A Föld évfordulójának meg kell fordítania a lengyeleket, és ezt az eseményt nem könnyedén veszem figyelembe. Ez az Idő Vége, amelyet a civilizáció végeként is ismertünk, amint azt tudjuk, tehát a Nap méretének ismerete minden, amit tudnod kell, egyéb mint az a tény, hogy csak akkor működik, ha az évét 0-val indítja, és miért kezdődik a maja naptár 2012 után, a Hal farka a 2060-os év, és miért vezették be a Gergely-naptárat, hogy az összhangban álljon ezzel Biblia kódja, ami newton számítás helyes, és miért a maják nyomon követni az idő ismétlések 2012 év, így a matek mindig működik nekik, és tudták, hogy ez fog történni 2012 után, és mielőtt a Fish Tail, amely ebben az évben 2103 .”"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Maximális sebesség MPH-ban:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "A maximális sebesség alapján a Nap át tud haladni a galaktikus síkon."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Minimális sebesség MPH-ban:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "A Minimális sebesség alapján a Nap haladhat a galaktikus síkon való áthaladás után."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Frekvencia Hz-ben:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "A bolygó alapfrekvenciája alapján a felületi frekvenciáknak sokkal magasabbnak kell lenniük:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Az élhető bolygó frekvenciája 7,830 Hz az évben: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Orbitális távolság:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Ez olyan, mint egy műsorszám egy lemezen, ez a sáv kerülete a mérföldekben."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "A sáv frekvenciája Hz-ben:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Ez azon a spirál alakon alapul, amelyet Napunk a Galaxis körül utazik"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "azt is kiszámítja, amikor áthaladunk a galaktikus síkon."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Az élet a galaxisban található:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Jelenleg az élet a galaxisban a pályán van * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Ha egy új hároméves motor belép a világba vagy a Naprendszerbe, vagy elhagyja azt, akkor megváltoztatjuk a sávokat."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "A 2060-ban esedékes Polar Shift után"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "Indítson el egy új naptárt a 0. évvel kezdve, vagy folytassa és használja a Zodiákus táblázatban szereplő dátumokat."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Ez a Vízöntő kora, és egy jégkorszak jelzi az esőjét."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Ha két napot választ ki egymástól különböző sávokon: piros és zöld színben,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "és elképzeltem, hogy ahogy elforgatom ezt a képet, amely a galaxist körül keringő Napokat szimulálja"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "Megjegyezzük, hogy a galaxisban minden Nap egy vonalban van, amikor keringnek rajta"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "ez egy gyenge szimuláció, de felveszi a véleményem"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "ez a matematika nem ugyanaz, mint a Suns Naprendszerben, tehát Kepler és Newton törvényei és matematikai adatai itt nem segítenek, de a Szentháromság matematikája fog."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "A hároméves matematika, melyet 9 éves koromban készítettem, úgy működik, hogy megoldja ezt a problémát a bemutatott galaxisokon, a logika segítségével: Sebesség u003d Távolság / Idő és Távolság u003d Sebesség * Idő, tehát a sebesség és a távolság a frekvenciához viszonyítva legyen, így: Frekvencia u003d 1 / Idő és idő u003d 1 / Frekvencia, úgy, hogy: Frekvencia (Hz) u003d A fény sebessége (távolság @ 670,616,629 mph * 1 óra; ~ Frekvencia mérföldekben 1 órán vagy időnként) / Hullámhossz mérföldekben, 500 000 mérföld mainstream becslésének felhasználásával egy óra 250 000 000 évig, 1 095 000 000 000 000 000 mérföldes távolság, és a képlet segítségével 1,011,954,093,357,316,200 mérföldet érek el, olyan közel ahhoz, hogy a távolság nagyon messze legyen. 3 típus: proton, neutron és elektron a fény esetében, mint olyan, az összes háromság-matematika villamos energián alapszik.A galaxis-számológép kitöltésekor egy Open Source github projekt, amely már kiszámítja ugyanazt a táblát, grafikusan ábrázolja t útja A Nap vagy a Csillagok, amint a galaxis körül keringnek, mihelyt elkészültek, cserélem az ebben a táblázatban szereplő képeket a képekre. Két választási lehetősége van: higgye el Sir Isaac Newtonnak, hogy Isten a gravitáció hatalma minden egyenletében, vagy higgy Albert Einsteinnek, aki minden elméletét elítélte a Newtoni Isten, mint a gravitáció erője mellett, akárhogyan is közelebb vagyok ahhoz, hogy jobb, mint a mainstream Science, mert egy elméletre épül, amiben Einstein még nem is hitt. Ebben a képletben összeadom a sávfrekvenciákat a szinusz és a koszinusz használata helyett. Ez nem szimulátor, hanem az összes sávot ugyanazon alapján számítja ki Nap és Livable Planet méret, olyan, hogy csak az Életet támogató pálya (ok) ra működik, így ezen méretek alapján kiszámítja, hol létezhet az élet. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "A galaxis az összes Naprendszert azonos sebességgel forog"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "A galaxis az összes Naprendszert azonos sebességgel forog"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "A galaxis az összes Naprendszert azonos sebességgel forog, de nem forog"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Teljes méret"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "A háromsági matematika háromdimenziós matematika, mert a villamos energiaon alapuló, más néven fénynek nevezett Newtonot Istennek hívták."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Ha úgy látja, hogy a Nap sötét csillagot kering a galaktikus síkon,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "és olyan Háromság-csillag-konfigurációjúak, hogy Sirius a mi bináris csillagunk"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "és vannak olyan Sötét Csillagok, amelyek kijátszanak a Háromság Csillagok Rendszerei körül (Napunk, Sirius és Sötét Csillag)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Ez a táblázat kiszámítja az ebben az ábrán bemutatott hullámforma frekvenciáját"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "valamint a sebességeket, amelyekkel halad, amikor a hatalom maximális sebességgel merül a galaktikus síkba,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "és hogyan minimális sebességgel, ahogy a legtávolabb esik az amplitúdóban, mielőtt visszamerül a galaktikus síkba."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "A Nap körüli pályája a galaxis egyik forradalma körül"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "A Nap körüli pályája a galaxis körül egy teljes pálya"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "A2. Ábra: A Nap teljes körüli pályája a galaxis körül"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Teljes méret"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Nyomon követni"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "„Motorok”"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Teljes sebesség"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "MPH-ban"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min sebesség"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "MPH-ban"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Frekvencia"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "Hz-ben"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Orbitális távolság"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "Milesben"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Nyomon követni"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Frekvencia"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "A. táblázat: Függelék: Háromsávos matematikai galaktikus nyomkövetési táblázat"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Használat: (Napméret mérföldeken mért mérföldekben) (Élhető bolygóméret mérföldeken mért átmérőben) (Hármas motorok száma)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(A galaxis sugara mérföldekben) (Teljes fájlnév: appendix.a.xhtml) (A nyomtatandó sorok száma n.)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 függelék.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Ez lehetővé teszi más galaxisokba való belépést, valamint a különböző Nap és Bolygó méretekkel való játékot."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Állítsa be ezt aPrintNth u003d 1 értéket, ha csak az n. Sorokat szeretné kinyomtatni, állítsa a trackNth számát az átugorásra."
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "A 66 körülbelül 21 számot ad, 1-re állítva kinyomtatja az összes számot"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "állítsa be a DoNotSkipThis u003d 666-ot, vagy azt a számot, amelyet valaha látni szeretne"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Ez papírmegtakarítást jelent azáltal, hogy a táblázat sorainak csak egy részét nyomtatja ki; ez a 6. érv, ezeket megpróbálom korlátozni."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Link ehhez az oldalhoz készített bash fájlhoz (Mentés és a futtatáshoz szükséges engedélyek beállítása):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Ha a Bash parancsfájlt úgy futtatja, mint: ./makeappendix.a.sh vagy ./makeappendix.a.sh --help, akkor ez segít és további részletekkel szolgál."
+

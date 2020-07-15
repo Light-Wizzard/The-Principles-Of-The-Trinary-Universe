@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "สคริปต์ตารางติดตามดิสก์ Galactic Matrix ของคณิตศาสตร์กำลังสร้าง"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "การปรับปรุงครั้งล่าสุด"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "เปลี่ยนวันที่"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "ขนาดดวงอาทิตย์"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "ขนาดดาวเคราะห์น่าอยู่"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "จำนวนของโปรแกรม Trinary"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "จำนวนแทร็กทั้งหมดใน Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "ดัชนีความกดอากาศ"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "ไมล์ในเส้นผ่านศูนย์กลาง"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "ไมล์"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "หลักการของจักรวาล Trinary: ภาคผนวก A: ตารางติดตามกาแล็กซี่ทางกาแลคซี"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "ผู้แต่ง: Jeffrey Scott Flesher, หลักการของ Light Wizzard หรือพ่อมดอย่าง Sir Isaac Newton และ Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "แสงวิซาร์ดพ่อมดนิวตันนิวตันเทสลาแฟรงคลินพระเจ้าพระเยซูบาร์ / อับบาสความมืด Trinary จักรวาลสถานที่ศักดิ์สิทธิ์ฟิสิกส์อาทิตย์ขั้นเจฟฟรีย์สก็อต Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "ผู้แต่ง: Jeffrey Scott Flesher, หลักการของ Light Wizzard หรือพ่อมดอย่าง Sir Isaac Newton และ Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "ภาคผนวก A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "ตารางติดตามกาแลกติก"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "หลักการของจักรวาลแห่งจักรวาล"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "ลิขสิทธิ์และคัดลอกซ้ายโดย"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "จ่าเจ้าหน้าที่กองทัพอากาศสหรัฐเกษียณ"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "ตารางติดตามกาแลกติก"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "กาแล็กซี่ Trinary ขึ้นอยู่กับ:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "กาแล็กซี่แบบ Trinary นั้นมีพื้นฐานมาจากเครื่องเล่นแผ่นเสียงเครื่องบินกาแลคซีคือ Record หรือ Disk"
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "ดวงอาทิตย์ทั้งหมดโคจรรอบกาแล็กซี่ด้วยอัตราเดียวกันเหมือน Record Player Arm และแต่ละ Track จะมีความเร็วของมันเอง"
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "การทำซ้ำเป็นช่วงเวลาที่กำหนดเป็น:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "การทำซ้ำเป็นช่วงเวลาที่กำหนดไว้เป็นปีฉันจะคำนวณที่นี่เป็นค่าสูงสุดค่าเฉลี่ยและค่าต่ำสุด"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "ช่วงเวลาเหล่านี้ติดป้ายกำกับโดยใช้สัญญาณราศีและใช้ปฏิทิน Julian, Gregorian และ Mayan"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "เมทริกซ์คณิตศาสตร์แบบอิงตาม:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Trinary Matrix Mathematics อิงจากตาราง Matrix แต่ละแถวคือ Track in the Galactic Disk"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "แต่ละคอลัมน์มีข้อมูลเกี่ยวกับดวงอาทิตย์ใน Galaxy ที่สนับสนุนชีวิต"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "นี่ขึ้นอยู่กับช่วงพลังงานที่มนุษย์รู้จักซึ่งมนุษย์สามารถอยู่รอดได้"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "แนวคิดของ Trinary นี้มีพื้นฐานมาจาก:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "แนวคิดเรื่อง Trinary เป็นสิ่งที่ฉันคิดขึ้นมาตอนเป็นเด็กตอนอายุ 9"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "มันขึ้นอยู่กับดวงอาทิตย์ที่มีข้อมูลทั้งหมดที่จำเป็นต้องรู้เพื่อทำงานในจักรวาล"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "เมื่อฉันเข้าใจสิ่งที่ Sir Isaac Newton อธิบายไว้"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "ฉันรู้ว่าขนาดของดวงอาทิตย์มีทุกอย่างเกี่ยวกับระบบสุริยะ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "ดังนั้นฉันจึงเริ่มคำนวณทุกอย่างที่ทำได้: ขึ้นอยู่กับคุณสมบัติของมัน"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "และเขียน Bash Script นี้เพื่อสร้างไฟล์เอกสาร XHTML ที่มีตารางเมทริกซ์นี้และฉันยังเขียน Qt Quick QML JavaScript ข้ามแพลตฟอร์มโอเพ่นซอร์สโปรเจ็กต์ที่เรียกว่ากาแลคซี - เครื่องคิดเลขลิงค์อยู่ที่ด้านล่างของหน้า"
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "ขึ้นอยู่กับขนาดของดวงอาทิตย์"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "ไมล์ในเส้นผ่านศูนย์กลาง"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "ขึ้นอยู่กับ"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "เครื่องมือทดลอง"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "ขึ้นอยู่กับ Galaxy ที่มีรัศมีของ"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "จำนวนเพลงทั้งหมด"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "การทำซ้ำสูงสุด"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "ค่าเฉลี่ยซ้ำ"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "การวนซ้ำขั้นต่ำ"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "ติดตาม"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "หมายเลขการติดตามของ Galaxy ของเราอ้างอิงจาก 0 ถึงสองครั้ง 666"
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "แทร็กที่ต่ำกว่า 336 มีเอ็นจิ้นเชิงลบเชิงลบเพราะเป็นดาวมืด"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "พวกเขาปะปนกับวงแหวนสนามพลังกาแลคซี่ทำให้ความถี่ลบเป็นลบ"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "เครื่องมือทดลอง:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "จากจำนวนวัตถุ (ดาวเคราะห์, ดาวเคราะห์ขนาดเล็ก, ดวงจันทร์, ดาวเคราะห์น้อย) หรือเครื่องมือแบบ Trinary, โปรแกรม Trinary ในตารางจะอ้างถึงดาวคู่หูของดาวมืดพวกเขาจำเป็นต้องรวมระบบสุริยะเข้าด้วยกัน, พลังงานมืดในประเภทนี้ ของ Trinary เอ็นจิ้นคือแสงทั้งหมดที่ไม่มีความมืดถึงแม้ว่าแสงที่ไม่มีความมืดหมายถึง Spectra of Light ที่ไม่ปกติในมนุษย์สเปกตรัมที่มองเห็นสามารถมองเห็นได้โดยปราศจากเทคโนโลยี Full Spectrum เครื่องยนต์ Trinary ประเภทนี้ทำจาก Neutrinos ที่มืด ด้วยเทคโนโลยีเนื่องจากเทคโนโลยีไม่สามารถมองเห็นแสงที่ปราศจากความมืดได้แม้ว่านิวตรอนเชลล์หมายถึงอนุภาคชั้นนอกของ Trinary Atom ปัจจุบันไม่มีเทคโนโลยีในการตรวจจับดาวมืด แต่ภาพสเปกตรัมเต็มสามารถตรวจจับรูปแบบพลังงานมืดได้ ควบคุมดวงอาทิตย์หรือดวงดาวโดยสร้างเครือข่ายพลังงานมืด, กลุ่มดาวมืดโคจรรอบดวงอาทิตย์ในระบบสุริยะที่มีดาวเคราะห์และดวงจันทร์และไบนารีแบบคู่ t ในกรณีของเรามันคือ Sirius a Binary Star ยิ่งใกล้ดวงอาทิตย์หรือดวงดาวมากยิ่งขึ้นกับกาแลคซียิ่งเครื่องยนต์ Trinary น้อยลงที่จำเป็นต้องมีมันดังนั้นจำนวนของ Trinary Engines ที่ควบคุมสิ่งที่ติดตามดวงอาทิตย์ยังเป็นที่รู้จัก ดาวดวงหนึ่งอยู่ไกลออกไปจากกาแล็กซี่ยิ่งเครื่องยนต์ Trinary เรียกว่า Dark Star Companions มันจะต้องขยายระยะทางเพื่อที่จะมีดาวเคราะห์ดวงอื่น ๆ ในขณะที่ดาวมืดรักษาอัตราการเคลื่อนที่ที่ความเร็วแตกต่างกัน ."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "การคงอัตราเดิมไว้ที่ความเร็วที่แตกต่างกันนั้นควบคุมโดยดาวมืดและมันก็อยู่ในระนาบกาแลคซีและดวงอาทิตย์ยังเป็นที่รู้จักกันในนามดาวผ่านมันงานของสหายคือการรักษาระบบสุริยะไว้ด้วยกันในภาพ I แสดงให้เห็นว่าไบนารีซิเรียสและดวงอาทิตย์ของเราอยู่ฝั่งตรงข้ามของเครื่องบินกาแล็กซี่นี่เป็นเรื่องจริงเมื่อผ่านมันและออกมาจากมันเท่าที่ฉันสามารถพิสูจน์ได้สูตรคณิตศาสตร์สำหรับการกราฟต์หรือการพล็อตออกกระแสสลับ ในรูปคลื่นรูปร่าง Helix ขึ้นอยู่กับความถี่ที่สัมพันธ์กับช่วงเวลาของดวงอาทิตย์ของเราในแง่ของเวลาและระยะทาง แต่เนื่องจากวิทยาศาสตร์ปัจจุบันการปิดกระแสหลักสามารถประมาณการได้ระหว่าง 30 และ 33 ล้านปีดังนั้นฉันจึงทำให้ตัวแปร ดังนั้นมันจึงสามารถปรับให้เป็นค่าที่ถูกต้องแอพนี้ออกแบบมาเพื่อป้อน Galaxy ใด ๆ ดังนั้นจึงไม่ส่งผลกระทบต่อการคำนวณของฉันเมื่อเราจะย้อนกลับขั้วเพราะนั่นเป็นเพียงเรื่องของที่เราอยู่ในสัญญาณเองและไม่ ไม่ได้ขึ้นอยู่กับว่าทิศทางใด เรากำลังมุ่งหน้าไปสู่ความหมายในระนาบกาแล็กซี่หรือห่างจากมันมันสำคัญเฉพาะที่เราอยู่ในแง่ของสัญญาณเอง ฉันเรียกสัญญาณแรงโน้มถ่วงเพราะพระเจ้าทรงเป็นแสงสว่างโดยปราศจากความมืดและเป็นพลังแห่งแรงโน้มถ่วงในสมการนิวตันทั้งหมดเช่นเดียวกับฉันและนี่คือแรงโน้มถ่วงที่ฉันคำนวณจักรวาลและดวงอาทิตย์ที่รู้จักกันในนามดาว . ดาวมืดและสหายของพวกเขาเป็นประเภทพิเศษของ Trinary Engine และเช่นเดียวกับ Trinary Engine พวกเขามีทฤษฎีเพราะพวกเขาไม่สามารถพิสูจน์ได้หรือพิสูจน์หักล้างและระบุว่าคุณต้องมีศรัทธาพระเจ้าอยู่นั่นคือสิ่งที่นิวตันกล่าวไว้ในพระคัมภีร์ สิ่งนั้นไม่ได้เป็นวิทยาศาสตร์แม้แต่นิวตันก็บอกว่าฉันบอกว่าเครื่องมือ Trinary ปล่อยสัญญาณเหล่านี้ที่สามารถตรวจจับได้โดยเทคโนโลยีปัจจุบันเช่นนี้ฉันสามารถระบุได้ว่าพวกเขาเป็นข้อเท็จจริงในวิทยาศาสตร์ Trinary ด้วยการพิสูจน์โดยใช้เทคโนโลยีปัจจุบัน ในการพล็อตข้อมูลในตารางฉันใช้ข้อมูลต่อไปนี้เป็นตัวแปรขนาดดวงอาทิตย์เป็น 864,575.9 ไมล์ในเส้นผ่านศูนย์กลางขนาดดาวเคราะห์ที่น่าอยู่เป็น 7926.2109 ไมล์ในเส้นผ่าศูนย์กลางจำนวนเครื่องยนต์ Trinary 333 จากพระคัมภีร์รัศมีของกาแล็กซี่เป็น 2418280722823559596951 ชื่อไฟล์แบบเต็ม: appendix.a.xhtml, และ 66 แถวสำหรับพิมพ์, สำหรับ Bash Script, ฉันมีการควบคุมที่มากขึ้นในแอป Qt, Trinary Math เป็นเรื่องง่าย, เพื่อให้ได้ช่วงเวลาการพูดซ้ำ, ฉันแค่ต้องรู้ ขนาดของดวงอาทิตย์, (864,575.9 * (1/137)) / 3 u003d ปีสูงสุด 2103, ค่าเฉลี่ยซ้ำจะขึ้นอยู่กับการพลิกกลับขั้วแม่เหล็กของดวงอาทิตย์, มันเปลี่ยนขั้ว 10 (0 - 9) คูณศตวรรษ: 100 - 9 u003d 91 ดังนั้น 2103 - 91 u003d 2012 ในการคำนวณ End of Time ให้ใช้ 42 จาก Hitchhikers Guide to Galaxy 42 ฐานสิบหกคือ 66 ในทศนิยมและนั่นคือจากพระคัมภีร์และ 2103 - 42 u003d 2061 และ Sir Isaac Newton คำนวณสิ่งนี้ในปี 2060 ภายใต้ปฏิทิน Julian ดังนั้นมันคือ 2061 ภายใต้ Gregorian Calendar ดังนั้นนี่คือ ปีโลกควรย้อนกลับขั้วและฉันจะไม่ใช้เหตุการณ์นี้เบา ๆ มันเป็นจุดสิ้นสุดของเวลาที่รู้จักกันว่าจุดจบของอารยธรรมที่เรารู้ดังนั้นการรู้ขนาดของดวงอาทิตย์เป็นสิ่งที่คุณต้องรู้อื่น ๆ กว่าความจริงที่ว่ามันใช้งานได้เฉพาะถ้าคุณเริ่มปีของคุณที่ 0 และทำไมปฏิทินมายาเริ่มต้นหลังจากปี 2012 ส่วนหางของปลาคือปี 2060 และทำไมปฏิทินเกรโกเรียนถูกนำมาใช้เพื่อให้สอดคล้องกับสิ่งนี้ รหัสพระคัมภีร์ทำให้การคำนวณของนิวตันถูกต้องและทำไมชาวมายันติดตามเวลาในการทำซ้ำปี 2012 ดังนั้นคณิตศาสตร์จึงทำงานได้ดีสำหรับพวกเขาเสมอและพวกเขารู้ว่ามันจะเกิดขึ้นหลังจากปี 2012 และก่อนที่ Fish Tail ซึ่งอยู่ในปี 2103 ."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "ความเร็วสูงสุดใน MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "จากความเร็วสูงสุดที่ดวงอาทิตย์สามารถเดินทางผ่านระนาบกาแล็กซี่ได้"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "ความเร็วต่ำสุดในไมล์ต่อชั่วโมง:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "จากความเร็วต่ำสุดที่ดวงอาทิตย์สามารถเดินทางได้หลังจากผ่านกาแลคซีเพลท"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "ความถี่เป็นเฮิร์ต:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "จากความถี่หลักของดาวเคราะห์ความถี่พื้นผิวควรสูงกว่านี้มาก:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "ความถี่ดาวเคราะห์น่าอยู่ที่ 7.830 เฮิร์ตซ์ในปี: 2019"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "ระยะทางโคจร:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "นี่เป็นเหมือนแทร็กในบันทึกมันคือเส้นรอบวงของแทร็กเป็นไมล์"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "ติดตามความถี่ในเฮิร์ตซ์:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "สิ่งนี้ขึ้นอยู่กับรูปร่างของดวงอาทิตย์ที่ดวงอาทิตย์ของเราเดินทางไปทั่วกาแลคซี"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "มันยังคำนวณเมื่อเราผ่านกาแล๊กซี่ด้วย"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "ชีวิตในจักรวาลตั้งอยู่:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "ชีวิตในจักรวาลปัจจุบันอยู่ในเส้นทาง * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "หาก Trinary Engine ใหม่เข้าหรือออกจากโลกหรือระบบสุริยะของเราเราจะเปลี่ยนแทร็ก"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "หลังจาก Polar Shift ครบกำหนดในปี 2060"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "คุณควรเริ่มต้นปฏิทินใหม่เริ่มต้นด้วยปี 0 หรือดำเนินการต่อและใช้วันที่ในตารางนักษัตร"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "นี่คือยุคของกุมภ์และยุคน้ำแข็งจะทำเครื่องหมายฝนของมัน"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "ถ้าคุณเลือกดาวทองสองดวงบนแทร็กที่แตกต่างกัน: แสดงเป็นสีแดงและเขียว"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "และจินตนาการว่าเมื่อฉันหมุนภาพนี้จำลองดวงอาทิตย์โคจรรอบกาแลคซี"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "คุณจะสังเกตได้ว่าดวงอาทิตย์ทั้งหมดในกาแล็กซี่อยู่ในแนวเดียวกันขณะที่มันโคจร"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "นี่เป็นการจำลองสถานการณ์ที่ไม่ดี แต่มันทำให้ประเด็นของฉัน"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "คณิตศาสตร์นี้ไม่เหมือนกับระบบสุริยะของ Suns ดังนั้นกฎหมายและคณิตศาสตร์ของเคปเลอร์และนิวตันจะไม่ช่วยคุณที่นี่"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "คณิตศาสตร์ Trinary ที่ฉันสร้างเมื่ออายุ 9 ปีทำงานเพื่อแก้ไขปัญหานี้ที่กาแลคซีนำเสนอโดยใช้ลอจิก: ความเร็ว u003d ระยะทาง / เวลาและระยะทาง u003d ความเร็ว * เวลาดังนั้นความเร็วและระยะทางจะสัมพันธ์กับความถี่เช่น: ความถี่ u003d 1 / เวลาและเวลา u003d 1 / ความถี่เช่น: ความถี่ (Hz) u003d ความเร็วของแสง (ระยะทาง @ 670,616,629 mph * 1 ชั่วโมง; ~ ความถี่เป็นไมล์ใน 1 ชั่วโมงหรือเวลา) / ความยาวคลื่นเป็นไมล์โดยใช้การประมาณกระแสหลัก 500,000 ไมล์ หนึ่งชั่วโมงเป็นเวลา 250,000,000 ปีคือระยะทาง 1,095,000,000,000,000,000 ไมล์โดยใช้สูตรของฉันฉันได้ 1,011,954,093,357,316,200 ไมล์ดังนั้นฉันจึงอยู่ใกล้กับระยะทางไกลพอสมควรวิทยาศาสตร์แบบ Trinary ใช้พลังงานทั้งหมดที่มาจากความสว่างของพระเจ้าในทุกๆอะตอมของอะตอม 3 ประเภท: Proton, Neutron และ Electron ในกรณี Light เช่นนี้คณิตศาสตร์ Trinary ทั้งหมดจะขึ้นอยู่กับไฟฟ้าเมื่อเสร็จสิ้นกาแลคซี - เครื่องคิดเลขโครงการ Open Source github ซึ่งคำนวณตารางเดียวกันนี้แล้ว เส้นทางของ t เขา Suns หรือ Stars ขณะที่พวกเขาโคจรรอบกาแล็กซี่เมื่อเสร็จแล้วฉันจะแทนที่ภาพในตารางนี้ด้วยเหล่านั้น คุณมีทางเลือกสองทางเชื่อว่าเซอร์ไอแซกนิวตันว่าพระเจ้าคือพลังแห่งแรงโน้มถ่วงในสมการทั้งหมดของเขาหรือคุณสามารถเชื่อได้ว่าอัลเบิร์ตไอน์สไตน์ผู้ประณามทฤษฎีทั้งหมดของเขาในความโปรดปรานของพระเจ้านิวตัน ถูกกว่า Mainstream Science เพราะมันเป็นไปตามทฤษฎี Einstein ที่ไม่เชื่อในสูตรนี้ฉันเพิ่ม Track ความถี่แทนการใช้ Sine และ Cosine นี่ไม่ใช่ Simulator มันคำนวณเพลงทั้งหมดตามเดียวกัน ขนาดของดวงอาทิตย์และดาวเคราะห์ที่น่าอยู่อาศัยซึ่งใช้ได้กับแทร็กที่รองรับชีวิตเท่านั้นจึงคำนวณได้ว่าชีวิตจะมีขนาดใดขึ้นอยู่กับขนาดเหล่านี้ "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "กาแล็กซี่หมุนระบบสุริยะทั้งหมดด้วยอัตราเดียวกัน"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "กาแล็กซี่หมุนระบบสุริยะทั้งหมดด้วยอัตราเดียวกัน"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "กาแลคซีหมุนระบบสุริยะทั้งหมดด้วยอัตราเดียวกัน แต่ไม่เร่ง"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "ขนาดเต็ม"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "คณิตศาสตร์ Trinary เป็นคณิตศาสตร์ 3 มิติเพราะมันขึ้นอยู่กับไฟฟ้าที่รู้จักกันว่าแสงนิวตันเรียกว่าพระเจ้า"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "ถ้าคุณมองว่าดวงอาทิตย์กำลังโคจรรอบดาวมืดในระนาบกาแลคซี"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "และมีการกำหนดค่า Trinary Star เช่นนั้น Sirius คือ Binary Star ของเรา"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "และยังมีสหายของสตาร์สตาร์ที่โอบรอบระบบดาวฤกษ์ (ดวงอาทิตย์ของเราซิเรียสและดาวมืด)"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "ตารางนี้คำนวณความถี่ของรูปคลื่นที่แสดงในภาพประกอบนี้"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "เช่นเดียวกับความเร็วที่มันเคลื่อนที่ขณะที่มันพุ่งเข้าสู่กาแลคซีด้วยความเร็วสูงสุด"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "และวิธีการที่ความเร็วขั้นต่ำในขณะที่มันได้รับมากที่สุดใน Amplitude ก่อนที่มันจะดำดิ่งกลับสู่กาแลคซีเครื่องบิน"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "เส้นทางการโคจรของดวงอาทิตย์รอบกาแลคซีวันปฏิวัติ"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "เส้นทางการโคจรของดวงอาทิตย์รอบกาแล็กซีหนึ่งวงโคจรที่สมบูรณ์"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "ภาพประกอบ A2: เส้นทางโคจรของดวงอาทิตย์รอบกาแลคซี"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "ขนาดเต็ม"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "ติดตาม"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "เครื่องยนต์"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "ความเร็วสูงสุด"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "ใน MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "ความเร็วต่ำสุด"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "ใน MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "ความถี่"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "ในเฮิร์ต"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "ระยะทางโคจร"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "ในไมล์"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "ติดตาม"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "ความถี่"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "ภาคผนวกตาราง A: ตารางคำนวณเมทริกซ์ติดตามกาแลกติกทางคณิตศาสตร์"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "การใช้งาน: (ขนาดเส้นผ่านศูนย์กลางของดวงอาทิตย์เป็นไมล์) (ขนาดดาวเคราะห์ที่น่าอยู่เป็นไมล์ในเส้นผ่านศูนย์กลาง) (จำนวนของโปรแกรม Trinary)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius of Galaxy in Miles) (ชื่อไฟล์เต็ม: appendix.a.xhtml) (จำนวนแถวที่จะพิมพ์ที่ Nth)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "สิ่งนี้ช่วยให้คุณสามารถเข้าไปในกาแลคซีแห่งอื่นและเล่นกับดวงอาทิตย์และดาวเคราะห์ขนาดอื่น"
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Set ThisPrintNth u003d 1 หากคุณต้องการพิมพ์แถวที่ n เท่านั้นให้ตั้งค่า trackNth เป็นตัวเลขเพื่อข้าม"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 ให้คุณประมาณ 21 แทร็กการตั้งค่าเป็น 1 จะพิมพ์แทร็กทั้งหมด"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "set DoNotSkipThis u003d 666 หรือจำนวนที่คุณต้องการดู"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "สิ่งนี้ช่วยประหยัดกระดาษโดยการพิมพ์เพียงบางส่วนของแถวในตารางนี่คืออาร์กิวเมนต์ที่ 6 ฉันพยายาม จำกัด กระดาษเหล่านั้น"
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "ลิงก์ไปยังไฟล์ Bash ที่สร้างหน้านี้ (บันทึกและตั้งค่าสิทธิ์เพื่อเรียกใช้):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "ถ้าคุณเรียกใช้สคริปต์ Bash เช่น: ./makeappendix.a.sh หรือ ./makeappendix.a.sh - ช่วยมันก็จะให้ความช่วยเหลือและรายละเอียดเพิ่มเติม"
+

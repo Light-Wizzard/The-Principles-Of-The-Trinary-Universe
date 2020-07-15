@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "“三叉矩阵数学银河磁盘跟踪表脚本正在创建”"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "“最后更新”"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "“日期已更改”"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "“太阳大小”"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "“宜居星球尺寸”"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "“三引擎的数量”"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "“银河半径”"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "“银河中的曲目总数”"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "“大气压指数”"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "“直径的英里”"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "“英里”"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "“三元宇宙的原理：附录A：三元银河轨迹表”"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "“作者：杰弗里·斯科特·弗莱瑟（Jeffrey Scott Flesher），“光速向导”或艾萨克·牛顿爵士和尼古拉·特斯拉等巫师"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "“光，向导，向导，牛顿，牛顿，特斯拉，富兰克林，神，耶稣，酒吧/阿巴斯，黑暗，三重，宇宙，保护区，物理，太阳，步骤，杰弗里·斯科特·弗莱瑟”"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "“作者：杰弗里·斯科特·弗莱瑟（Jeffrey Scott Flesher），“光速向导”或艾萨克·牛顿爵士和尼古拉·特斯拉等巫师"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "“附录A：”"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "“三银河轨道表”"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "“三元宇宙的原理”"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "“ CopyRight和CopyLeft by”"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "“杰弗里·斯科特·弗舍尔”"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "“医疗退休的美国空军参谋长”"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "“三银河轨道表”"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "“三合星系基于：”"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "“三合星系基于唱片机，银河系飞机是唱片或磁盘。”"
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "“所有太阳都像电唱机一样以相同的速度绕着银河轨道运行，每个轨道都有自己的速度。”"
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "“迭代是一个时间段，定义为：”"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "“迭代是一个以年为单位的时间段，我将在此处计算为最大值，平均值和最小值”"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "“这些时期使用十二生肖来标记，并使用儒略历，公历和玛雅历法。”"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "“三级矩阵数学基于：”"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "“三进制矩阵数学基于矩阵表，每一行都是银盘中的磁道，”"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "“每列都有有关支持生命的Galaxy中太阳的数据。”"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "“这是基于人类可以生存的已知能量范围。”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "“此三级概念基于：”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "“三位一体概念是我9岁时就想到的一个概念。”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "“它基于太阳，拥有在银河系中完成其工作所需的所有信息。”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "“一旦我了解了艾萨克·牛顿爵士的描述，”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "“我意识到太阳的大小与太阳系有关。”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "“所以我开始计算一切：根据其属性，”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "“并且编写了这个Bash脚本来创建包含该矩阵表的XHTML文档文件，并且我还编写了一个名为galaxy-calculator的Qt Quick QML JavaScript跨平台开源项目，链接位于页面底部。”"
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "“基于太阳的大小”"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "“直径的英里”"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "“基于”"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "“三引擎”"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "“基于半径为”的星系"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "“曲目总数”"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "“最大迭代次数”"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "“平均迭代”"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "“最小迭代”"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "“跟踪：”"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "“我们的银河系的跟踪号，基于0到两次666。”"
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "“低于336的航迹是负星，因为它们是暗星。”"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "“它们与星系力场环混合在一起，使数字为负频率。”"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "“三引擎：”"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "“根据表中的物体（行星，微行星，卫星，小行星）或三合一引擎的数量，三合一引擎仅指暗星伴星，它们需要将太阳系保持在一起，这些类型的暗能量三元引擎的“全光无暗”，尽管“无暗光”是指人类无法看到的可见光谱中通常不可见的光谱，如果没有全谱技术，这些三元引擎是由中微子构成的。在技u200bu200b术方面，由于技术无法通过中子壳（即三元原子的外部粒子）看到没有黑暗的光，因此目前尚无技术可以检测暗星，但是全光谱图像可以将其模式检测为暗能量。通过创建暗能量网络来控制太阳或星星，暗星伴侣在具有行星和月亮的太阳系中的太阳与其二元对等体之间运行t，在我们的例子中，它是天狼星双星，因此，太阳或恒星离银河越近，容纳它的三叉戟引擎就越少，因此，三叉戟引擎的数量决定了跟踪太阳的方式一颗恒星正开着，因此离银河越远，被称为“暗星伴侣”的三进制引擎越多，它就需要跨越一定距离，以容纳其他行星，而暗星在不同速度下保持相同的运动速率。”"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "“以不同的速度保持相同的速率是由暗星本身调节的，它在银河系飞机上，太阳也被称为恒星经过它。同伴的工作是使太阳系保持在一起。在图像I中表明二元星天狼星和我们的太阳位于银河系平面的相对两侧，据我所知，只有当穿过它并从中出来时，这才是正确的。在Helix形状的波形中，基于与时间和距离相关的与我们的太阳间隔相关的频率，但是由于当前的《科学》杂志，主流可以估计的关闭时间在30到3300万年之间，因此我将变量设为因此可以将其调整为正确的值，此应用程序旨在输入任何Galaxy，因此它不会影响我何时计算反转极点，因为这仅取决于我们在Signal本身中的位置，甚至不取决于方向我们正在前进，意味着进入银河平面，或者远离银河平面，这仅取决于信号本身对我们的影响。我称重力为信号，是因为上帝是没有黑暗的全光，并且是所有牛顿方程以及我的重力，这就是我为银河及其太阳计算的重力。 。暗星及其伴星是三元引擎的一种特殊类型，就像所有三元引擎一样，它们也是理论的，因为它们无法得到证明或反驳，并且牛顿说圣经说的是，你必须拥有信仰神存在，但是那不是科学，甚至牛顿也说过，相反，我声明三进制引擎发出这些可以被当前技术检测到的信号，因此我可以说它们是三级科学的事实，并使用当前技术进行证明。为了在表格中绘制数据，我使用以下数据作为变量：太阳大小为864,575.9英里直径，宜居行星大小为7926.2109英里直径，三元引擎数为333（圣经中的数字），银河半径为241828072282107.57.5071453596951英里，完整文件名：appendix.a.xhtml，有66行要打印，即用于Bash脚本，我在Qt App中具有更多控制权，“三进制数学很简单”，要获得迭代时间段，我只需要知道太阳的大小，（864,575.9 *（1/137））/ 3 u003d最大年份2103，平均迭代基于太阳的磁极性反转，它改变极性10倍（0-9）倍，世纪：100- 9 u003d 91，即2103-91 u003d 2012，要计算时间的结束，请使用《银河系漫游指南》中的42，十六进制的42十六进制是66，也就是圣经中的数字，以及2103-42 u003d 2061，并且艾萨克·牛顿爵士在朱利安历法下于2060年对此进行了计算，因此在公历下为2061，因此这是地球应该逆转波兰的一年，我不会轻易接受这一事件，正如我们所知，它是时间的终结，也被称为文明的终结，因此，了解太阳的大小是您所需要了解的，其他比它只有在您将年份从0开始时起作用，为什么玛雅历法从2012年以后重新开始，鱼的尾巴是2060年以及为什么引入格里高利历法这一事实就可以了，圣经代码，使牛顿计算正确，以及为什么玛雅人在2012年的迭代中跟踪时间，所以数学始终对他们有效，他们知道这会在2012年之后和鱼尾（2103年）之前发生。”"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "“ MPH中的最大速度：”"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "“基于太阳可以在银河系平面上传播的最大速度。”"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "“ MPH的最低速度：”"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "“基于太阳经过银河系飞机后可以行驶的最低速度。”"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "“频率（Hz）：”"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "“基于行星的核心频率，地表频率应该更高：”"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "“ 2019年宜居星球的频率为7.830 Hz，”。"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "“轨道距离：”"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "“这就像唱片上的曲目，是曲目的周长（以英里为单位）。”"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "“以Hz为单位的跟踪频率：”"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "“这是基于我们的太阳在银河系中旅行的螺旋形状，”"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "“它还计算我们经过银河飞机的时间。”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "“银河中的生活位于：”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "“当前银河中的生命正步入正轨* 666”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "“如果有新的三引擎进入或离开我们的世界或太阳系，我们将改变轨道。”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "“在2060年发生极地转移之后，”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "“您应该从0年开始创建新日历，或者继续并使用黄道十二宫表中的日期。”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "“这是水瓶座时代，一个冰河时代将标志着它的雨。”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "“如果您在彼此不同的轨道上挑选出两个太阳：以红色和绿色显示，”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "“并且想象当我旋转这张图像来模拟太阳绕银河系飞行时，”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "“您会注意到，银河系中的所有太阳在绕轨道运行时都保持一致，”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "“这是一个糟糕的模拟，但它说明了我的意思，”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "“此数学与太阳系不同，因此开普勒和牛顿定律与数学对您无济于事，但三进制数学将对您有所帮助。”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "“我9岁时创建的三项数学可以解决以下问题，即使用逻辑：速度u003d距离/时间，距离u003d速度*时间，因此速度和距离与频率有关，即：频率u003d 1 /时间和时间u003d 1 / Frequency，例如：频率（Hz）u003d光速（距离@ 670,616,629 mph * 1小时；〜以英里为单位的频率，以1小时或时间表示）/以英里为单位的波长，使用500,000英里的主流估算值一个250百万年的小时，是1,095,000,000,000,000,000英里的距离，使用我的公式I可以得到1,011,954,093,357,316,200英里，如此远的距离如此之近。 3种类型：在光的情况下，质子，中子和电子都是这样，所有的三进制数学都是基于电的。完成银河计算器后，已经计算出相同表格的开源github项目也将以图形方式绘制出来t的路径太阳或星星围绕银河系绕行时，一旦完成，我将用这些图像替换这张表中的图像。您有两种选择，可以相信艾萨克·牛顿爵士认为上帝是他所有方程式中的引力，或者您可以相信艾伯特·爱因斯坦（Albert Einstein）谴责他所有的理论，赞成牛顿神作为引力，无论哪种方式我都更接近比主流科学更合适，因为它基于爱因斯坦甚至不相信的理论。在此公式中，我将轨迹频率相加而不是使用正弦和余弦，这不是模拟器，它基于相同的公式计算所有轨迹太阳和宜居星球的大小，这样它仅适用于支持生命的轨道，因此它会根据这些大小来计算生命可以存在的位置。”"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "“银河系以相同的速度旋转所有太阳系”"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "“银河系以相同的速度旋转所有太阳系”"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "“银河系以相同的速度而不是速度旋转所有太阳系”"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "“全尺寸”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "“三级数学是三维数学，因为它基于电又被称为光，牛顿称之为上帝。”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "“如果您将太阳视作银河系中的一颗暗星，”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "“并且具有三叉星构型，以使小天狼星成为我们的双星，”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "“在三合星系统（我们的太阳，天狼星和暗星）周围也有暗星伴侣。”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "“此表计算了此图中所示的该波形的频率”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "“以及动力以最大速度潜入银河飞机时的行驶速度，”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "“以及它在返回到银河系飞机之前在幅度上达到最远时的最低速度的方式。”"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "“太阳围绕银河系一圈的轨道”"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "“太阳围绕银河系一完整轨道的轨道”"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "“插图A2：太阳围绕银河系的完整轨道”"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "“全尺寸”"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "“跟踪”"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "“三级”"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "“引擎”"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "“最大速度”"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "“在MPH中”"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "“最低速度”"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "“在MPH中”"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "“频率”"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "“以Hz为单位”"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "“轨道距离”"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "“以英里为单位”"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "“跟踪”"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "“频率”"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "“表附录A：三进制矩阵数学银河轨迹表”"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "“用途：（直径以英里为单位的太阳尺寸）（直径以英里为单位的宜居行星尺寸）（三引擎的数量）”"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "“（Galaxy半径，以英里为单位）（完整文件名：appendix.a.xhtml）（要打印的第N行数）”"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "“ ./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66”"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "“这使您可以进入其他星系，并以不同的太阳和行星尺寸进行游戏。”"
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "“如果只想打印第n行，则设置ThisPrintNth u003d 1，将trackNth设置为要跳过的数字，”"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "“ 66为您提供了大约21条轨道，将其设置为1将打印所有轨道，”"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "“设置DoNotSkipThis u003d 666或您想看到的任何数字，”"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "“这仅通过打印表中的部分行来节省纸张；这是第六个参数，我试图限制这些行。”"
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "“链接到创建此页面的Bash文件（运行保存和设置权限。）：”"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "“如果您以如下方式运行Bash脚本：./makeappendix.a.sh或./makeappendix.a.sh --help，它将为您提供帮助和更多详细信息。”"
+

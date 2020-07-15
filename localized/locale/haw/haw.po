@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Palapala Haʻawina Lele Matrix Matika"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Hōʻike Hou"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Ua hoʻololi ʻia ka lā"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Kiʻahi Leka"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Livable Planet Size"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Ka helu o nā kaha hele wāwae"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Ka huina o ka nui ma nā alanui"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Mālama ʻauhikua."
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "mile ma Diameter "
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "mile mau"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "ʻO nā lula o ka honua Trinary: Hoʻopili A: Papa Kūʻai ʻo Galactic."
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Mea kākau: ʻO Jeffrey Scott Flesher, nā loina o ka Wizzard Light a me nā Wizards e like me Sir Isaac Newton a me Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Light, Wizzard, Wizard, Newton, Newtonian, Tesla, Franklin, God, Jesus, Bar / Abbas, Pōʻele, Trinary, Universe, Sanctuary, Physics, Sun, Hana, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Mea kākau: ʻO Jeffrey Scott Flesher, nā loina o ka Wizzard Light a me nā Wizards e like me Sir Isaac Newton a me Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Lākahi A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Mele Inoa Lele"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Nā loina o ka honua kuʻuna"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "ʻO CopyRight a me CopyLeft e"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Hoʻolima Lākela ʻAmelika Huipū ʻia ʻo ʻAmelika Hui Pū ʻIa"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Mele Inoa Lele"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Ua hoʻokumu ʻia ke kahua kaua."
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Hoʻokumu ʻia ka Trinary Galaxy ma kahi Pūnaewele Hoʻopaʻa, ʻo ka Galactic Plane ka Palapala a i ʻole Kōpae."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Ke kuhi nei ka lā āpau i nā leki i ka Waihona Kipa e like me ka Pūnaewele Hoʻopaʻa Pepa, a ʻo kēlā me kēia Pūnaewele kekahi Hōʻō i kona Holo ponoʻī."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "He Weteration kahi manawa Hoʻohālikelike e like me:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "He Weteration he manawa Hoʻohālike i wehewehe ʻia i nā makahiki"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "E kāhea ʻia kēia mau manawa me ka hoʻohana ʻana i nā hōʻailona Zodiac, a hoʻohana i ka Kalena Julian, Gregorian a me Mayan."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Ua hoʻokumu ʻia ke kauā ʻana o Matrix Matrix."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Hoʻokumu ʻia nā Matrix Matrixs ma kahi Papa Matrix, kēlā me kēia laina he Track i ka Galactic Disk,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "'O kēlā me kēia kolamu i nā' ikepili e pili ana i ka Lā (s) i ke Galaxy e kākoʻo ana i ke Ola."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Kuhi ʻia kēia ma Ranges Energy Energy i hiki i ke kanaka ke ola i loko o."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Kuhi ʻia kēia manaʻo kuʻuna."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "ʻO ka ʻānela kuahiwi kahi i hele mai ai iaʻu me kaʻu keiki i ka wā 9."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "kau ʻia ia ma ka Lā i loaʻa ka ʻike āpau e pono ai ke ʻike e hana i kāna Imi ma Galaxy."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Ua hoʻomaopopo wau i ke ʻano o Sir Isaac Newton e wehewehe nei,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Ua maopopo iaʻu ua pili nā mea a ka Suns Size i kāna Pūnaewele Kūlana."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "no laila hoʻomaka wau e helu i nā mea āpau i hiki iaʻu: pili i kāna mau Properties,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "a kākau i kēia Bash Script e hana i kēia palapala XHTML pepa kiʻi e loaʻa ana i kēia Matrix Table a, kākau nō wau i kahi kahua Qt Quick QML JavaScript Open Source Project i kapa ʻia ʻo galaxy-calculator, ma lalo o lalo ʻaoʻao."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "E pili ana i ka Lahi Lā o"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "mile ma Diameter "
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Ma muli o"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "ʻInarylelo Papahini"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "E pili ana i kahi Galaxy me kahi leoni o"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Ka huina o ka nui"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Kahuli Kiʻo"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Iteration Averageation"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Iteration Ka liʻiliʻi"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Track:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "E helu i ka helu o kā mākou Galaxy, e pili ana i 0 i ʻelua i ka 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "He ʻili ma lalo o 336 e loaʻa nā Negative Trinary Engines no ka mea he Pale Pale lākou,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "Ua kāwili lākou me ka Pūlena Pūnaewele Makau ʻo Galaxies, e hana ana i nā helu Negative Frequencies."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Hoʻopuka Laulau:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "E pili ana i ka nui o nā mea (Nā Mālama, Nā Moku Kiʻi, nā Moʻo, a ʻAlipela) a i ʻole Trinary Engines, ʻo Trinary Engine ma ka Papa e hōʻike wale nei i nā Poʻomanaʻo Star Star Wars, pono lākou e hoʻomau pū me ka Pūnaewele Kūʻai, nā ʻeleʻele Dark i kēia mau ʻano of the Trinary Engines is All Light without Darkness, ʻoiai ke kukui me ka pouli ʻole e pili i kahi Spectra o ke kukui ʻaʻole maʻamau i loko o nā Spectrum Humans can see, without Full Spectrum Technology, ʻike ʻia kēia mau ʻano Trinary Engine e Neutrinos he Dark i ka helehelena inā nānā ʻia me ka ʻenehana, no ka mea, ʻaʻole hiki i ka ʻenehana ke ʻike i ka mālamalama me ka pouli ʻole ʻo ka Neutron Shell, ka manaʻo o nā ʻāpana kūwaho o kahi Trinary Atom, i kēia manawa ʻaʻohe ʻano ʻenehana e ʻike i nā hōkūʻeleʻele, akā hiki i nā kiʻi Spectrum holoʻokoʻa ke ʻike i kā lākou Kaola like me ka Dark Dark. kāohi i ka Suns a i nā hōkū, ma ka hoʻokumu ʻana i kahi ʻoihana pūnaewele o ka Energy Energy,, ʻO The Dark Star Kamaions orbit ma waena o Sun i kahi Pūnaehana Pūnaewele i loaʻa nā Pālā a me nā Moons, a me kāna hoa Binary t, i kā mākou hihia ʻo ia ʻo Sirius he Binary Star, no ka mea, ʻo ka kokoke loa o ka lā a i ʻole Star i ka Galaxy, ʻo ka liʻiliʻi ʻana o ka Trinary Engines e pono ai iā ia ke ʻano, no laila ʻo ka nui o nā Trinary Engines e hoʻoponopono ai i ka Track ʻo ka lā i ʻike pū ʻia. Ana kahi Hōkele, inā ʻo ia kahi mamao loa mai ka Galaxy, ʻoi aku ka nui o ka Trinary Engines i kapa ʻia ʻo Dark Star Sāmia, pono e hoʻokuʻi i ka mamao, i mea e hoʻopili ai i nā Pihi ʻē aʻe, ʻoiai ʻo ka Hōkū Kānō e mālama i ka helu o ka neʻe ʻana i nā ʻōlelo like ʻole. . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "ʻO ka mālama ʻana i ka helu like ma nā Kōkua ʻē aʻe e hoʻoponopono ʻia ʻo ia e ka Dark Star ponoʻī, a i loko o ka Palaki ʻo Galactic, a ʻo ka Lā i ʻike ʻia ma nā leʻaleʻa e nā Koina. Hōʻike i ka Binary Star Sirius a me kā mākou La e kū pono ʻole ana i nā ʻaoʻao o ka Plate Galactic, heʻoiaʻiʻo maoli kēia i ka wā e hele ana a puka mai ana, mai kahi hiki iaʻu ke hōʻoia. i loko o kahi ʻano hawewe Helix, ka mea e pili ana i ka Frequency e pili ana i kā mākou Suns interval ma nā ʻano o ka manawa a me ka mamao, akā ma muli o Science i kēia manawa, nā kuhi ʻo Mainstream hiki ke kuhi ma waena o 30 a 33 Mole Tausia, no laila ua hana wau i kahi Pila. no laila hiki iā ia ke hoʻoponopono ʻia i ka waiwai kūpono, hoʻāla ʻia kēia app e hoʻokomo i kekahi Galaxy, no laila ʻaʻole ia e hoʻopilikia i kaʻu helu ʻana no ka wā e hoʻohuli kākou i nā Polika, no ka mea aia wale nō kahi o mākou i loko o ka Signal iā ia iho, a ʻaʻole nō hoʻi i hilinaʻi i kēia ala ke hele nei mākou i ke ʻano, i loko o ka Plate Galactic, i kahi mamao aku, kahi mea wale nō mākou ma ke ʻano o ka ʻalpana ponoʻī. Ke kapa nei wau iā Gravity he hōʻailona, u200bu200bno ka mea, he kukui a pau ke Akua me ka pouli, a ʻo ka Force Gravity i nā Newtons Equations, pū me aʻu, a me kēia ka Gravity aʻu e helu nei no ka Galaxy, a ʻo kona mau Lāhoʻike hoʻi i ʻike ʻia ʻo Stars . ^ E Ha yM. He ʻano kūikawā o Trine Engine a me ko lākou mau hoaʻi, a e like me nā Trinary Engines, he theoretical lākou, no ka mea ʻaʻole hiki ke hōʻoia ʻia a i ʻole leʻa ʻole ʻia, a ʻo ka ʻōlelo e pono ai ʻoe e loaʻa ka Faith God Exist, ʻo ia ka mea a Newton i ʻōlelo ai i ka Baibala, akā, ʻAʻole ia e hana ʻo ia ka ʻepekema, a ʻōlelo hoʻi ʻo Newton e haʻi aku nei, ua hoʻokumu ʻo Trinary Engines i kēia mau hōʻailona e hiki ai ke ʻimi ʻia e nā ʻenehana o kēia manawa, e like me kaʻu e ʻōlelo ai he Fact in Trinary Science, me Proof e hoʻohana ana i kēia ʻenehana. To Plot the Data in the Table, I used the following data as variable, Sun Size as 864,575.9 Miles in Diameter, Livable Planet Size as 7926.2109 Miles in Diameter, Number of Trinary Engines as 333 from the Bible, Radius of Galaxy as 241828072282107.5071453596951 Miles, ʻO ka inoa piha kiina: appendix.a.xhtml, a me nā lālani 66 e paʻi, ʻo ia no ka Bash Script, ʻoi aku ka mana o kaʻu mana ma ka Qt App, He maʻalahi nā hana maʻa, e loaʻa ka manawa Iterations, pono wau e ʻike wale ʻia. ka nui o ka Lā, (864,575.9 * (1/137)) / 3 u003d ka makahiki nui loa 2103, Kahi Ka Hoʻohālikelike ʻia e pili ana i nā Suns Magnetic Polarity Reversals, hoʻololi ia i ka poli 10 (0 - 9) mau manawa he 100: 9 u003d 91, a laila 2103 - 91 u003d 2012, e helu ai i ka hopena o ka manawa, e hoʻohana i ka 42 mai ka Hitchhikers Guide i ka Galaxy, he 42 hex ka 66, a ʻo ia hoʻi mai ka Baibala, a me 2103 - 42 u003d 2061, a Ua helu ʻo Sir Isaac Newton i kēia ma ka makahiki 2060 ma lalo o ka Kalepa ʻo Julian, no laila ʻo 2061 ma lalo o ka kaleponi Gregorian, no laila ʻo ia kēia e makahiki e hoʻohuli ʻo ka Honua i nā polu, a ʻaʻole au e hana i kēia hanana maʻalahi, ʻo ia ka hopena o ka manawa i ʻike ʻia ʻo ka hopena o ka ʻĀina e like me kā mākou e ʻike ai, no laila ʻo ka ʻike ʻana i ka nui o ka Lā ʻo nā mea āu e pono ai e ʻike, ʻokoʻa ʻO ka hana ma mua wale nō o ia hana inā hoʻomaka ʻoe i kāu makahiki i 0, a no ke kumu ke hoʻomaka nei ka Mayan Calendar ma hope o ka makahiki 2012, ʻo ka huelo o ka iʻa o ka makahiki 2060, a no ke kumu he kumu i hoʻokumu ʻia ai ke Kalena Gregorian, no laila e hui pū ia Bible Code, e hana ana i ka helu ʻo Newtons e pololei, a no ke aha e mālama ai ka poʻe Mei i ka manawa ma Iterations o ka makahiki 2012, no laila ua hana mau ʻia ka pā ma iā lākou, a ʻike lākou e hiki mai ana ma hope o 2012 a ma mua o ka Fish Tail, aia i ka makahiki 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Max Speed u200bu200bma MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "E pili ana i ka wikiwiki kūpono loa e hiki i ka lā ke hele ma loko o ka Palapala Galactic."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min Speed u200bu200bma MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "E pili ana i ka wikiwiki liʻiliʻi hiki i ka lā ke hele ma hope o ka hele ʻana i ka Palapala Galactic."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Keleka ʻia ma Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "E pili ana i ka Core Frequency o ka Papa, ʻoi aku ka nui o nā maka o ka ihu."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Livable Planet Frequency o 7.830 Hz i ka makahiki: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Pahu Orbital:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Ua like kēia me kahi Kele ma kahi Pūʻali, ʻo ia ka Circumference o ka Track ma Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Track Frequency ma Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Hoʻolālā ʻia kēia ma ka hoʻohālikelike ʻia o Helix i kā mākou Sun huakaʻi e puni ana i ke Kūʻai,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "E helu ana i ka wā e hele ai mākou ma ka Plate Galactic."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Aia ke ola ma ke Galaxy."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "ʻO kēia manawa ke ola ma ke hāmeʻa ma Track * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Inā hoʻokomo kahi Trinary Engine hou a waiho aku i ko mākou honua a i ʻole ka'ōnaehana Solar, e hoʻololi mākou i nā ala."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Ma hope o ka Polar Shift e pono ai i ka 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "e hoʻomaka ʻoe i kahi Alemanaka Hou e hoʻomaka ana me ka makahiki 0, a hoʻomau paha a hoʻohana i nā lā i ka Zodiac Table."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "ʻO kēia ka makahiki o Aquarius, a e haʻi aku kahi Ice Age i kāna ua."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Inā ʻoe e koho i nā Suns ʻelua ma nā wahi like ʻole ma luna o kekahi: i hōʻike ʻia ma Red and Green,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "a noʻonoʻo wau i koʻu hoʻohuli ʻana i kēia kiʻi e hoʻohālike ana i ka Suns Orbiting o ke Gālana,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "e nānā ʻoe i ka wā e pili ana ka Lā a pau i ka Galaxy ma ke ʻano ʻoiai lākou e kuhi ana,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "he simulation maikaʻi kēia akā akā e hana nei ia i kaʻu wahi,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "ʻAʻole like kēia matematika ma ka Suns Solar System, no laila ʻo Kōler's a me Newton Laws a Mathton e kōkua ʻole iā ʻoe ma ʻaneʻi, akā ʻo Trinary Math e lilo."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "He hana hoʻāno aʻu i hana ai ma ka makahiki 9 i hana e hoʻoponopono i kēia pilikia ka hōʻike ʻia o ka Galaxies, me ka hoʻohana ʻana i ka Logic: Speed u200bu200bu003d Wehewehe / Hoʻomaka, a me kahi mamao u003d Speed u200bu200b* ka manawa, no laila ʻo ka wikiwiki a me ka mamao e pili ana i nā pinepine pinepine, e like me: Frequency u003d 1 / Ke manawa a me ka manawa u003d 1 / Kuʻikahi, e like me: Kekahi alapine (Hz) u003d Kēlā māmā o ka mālamalama (mamao @ 670,616,629 mph * 1 hola; ~ Pānihi i mau mile i 1 mau hola a i ʻole Kau manawa) / Waahi o nā Miles, e hoʻohana ana i ka manaʻo nui ma ka 500,000 mau pahu. he hola no 250,000,000 mau makahiki, he lōʻihi ka lōʻihi o 1,095,000,000,000,000,000 mile, e hoʻohana ana i kaʻu Formula kahi i loaʻa ai iaʻu ka 1111,954,093,357,316,200 mau mile, kokoke loa i kahi mamao o kahi mamao loa. Ua hoʻokumu ʻia ko Trinary Science e pili ana i ka ikehu āpau e hele mai ana mai ka mālamalama o ke Akua i loko o kēlā me kēia Trinary Atom. 3 mau ʻano: ʻo Proton, Neutron a me Electron e pili ana i ka māmā, e like me ia, ua hoʻokumu ʻia ʻo Trinary Math āpau ma ka ʻĀina Kīwī. A pau ke ʻano kalaha-calculator, kahi papahana Open Source github, ka mea e helu ana i kēia papa ʻaina, e hoʻolālā pū me ka pale kiʻi. ke ala o t ʻo ia ka Suns a i ka Stars, e like me ka e pili ana iā lākou a puni ka Galaxy, ke hoʻopau i ka manawa, e koho wau i nā kiʻi i kēia papa me ka poʻe. ʻElua oʻu koho ʻana, e manaʻoʻiʻo Sir Isaac Newton he Akua ka ikaika o ke Gravity ma kāna ʻoihana ponoʻī, a i ʻole ʻoe e manaʻo iā Albert Einstein nāna i kuhihewa i kāna mau ʻōkua a ke aloha nei iā Newtons ke Akua me ka puʻu o Gravity, a ʻo kahi hoʻi ua kokoke loa wau i kahi i lilo ai. pololei ma mua o ka Mainstream Science, no ka mea, ua kau ʻia ʻo ma ka Theory Einstein ʻaʻole i manaʻoʻiʻo. Ma kēia ʻano hoʻohālike, hoʻohui wau i ka Track Frequencies ma mua o ka hoʻohana ʻana iā Sine lāua ʻo Cosine, ʻaʻole kēia he Simulator, ua helu pōpilikia ia nā mea āpau e pili ana i ka like ʻO ka Lā, a me ka Livable Planet Size, e hana wale nō ia no ka Track (s) e kākoʻo ana i ke Ola, no laila e helu ai i kahi e hiki ai ke ola e pili ana i kēia mau kikoʻī. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "ʻO Galaxy ke kau nei i nā ʻōlehana solar ma ka papa like"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "ʻO Galaxy ke kau nei i nā ʻōlehana solar ma ka papa like"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "ʻO Galaxy ke kīwaha i nā ʻōnaehana Solar āpau i ka helu like ʻole akā ʻaʻole wikiwiki"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Ka ʻaha piha"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Trinary Math is 3 Dimensional Math no ka mea ua hoʻokumu ma luna o Electricity kahi i kapa ʻia ʻo Light, kapa ʻia ʻo Newton i ke Akua."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Inā ʻoe e nānā i ka Lā e waiho ana i ka hōkū ma kahi pouli i loko o ka Palapala Galactic,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "A loaʻa iā mākou kahi Confinite Star Confencing, ʻo ia ʻo Sirius ko kā mākou Binary Star,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "A aia nō kekahi mau hoa hana pū e ʻo Star Star e kū nei a puni nā Trinary Star Systems (ʻO kā mākou Lā, Sirius a me kahi Hōkū Hōʻike)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Kuhi kēia papa i ka nui o kēia Waveform i hōʻike ʻia ma kēia Hōʻike Hola"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "e like me nā Kēia Holo ka huakaʻi ma ka hele ʻana i ke mana ma loko o ka Palapala Galactic ma ka wikiwiki loa,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "a pehea kona mea ma ka Minimum Speed u200bu200be lilo ana i kona mamao loa ma Amplitude ma mua e hoʻi i loko o ka Palapala Galactic."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Ala orbital o Sun a puni ke ʻano o kekahi hōkū"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "ʻOihana ala Orima a puni o Galaxy i hoʻokahi Orbit paʻa"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Hōʻikeʻike A2: ʻAi ala Orbital ma ke ao a puni ʻo Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Ka ʻaha piha"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Hoʻoikaika"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Kaukaukau"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Pūnaewele"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "ʻĀwalu wikiwiki"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "ma MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min wikiwiki"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "ma MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Kahi"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "in Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Polokalamu Orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "i ka momi"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Hoʻoikaika"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Kahi"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "ʻ Apppepa Lāʻau A: Nā Palapala Kau Līkika Helu"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Hoʻohana: (Lahi Lā ma nā Miles ma Diameter) (Lihi Pūnaewele Uila Lūkini ma nā Miles ma Diameter) (Ka helu o nā hana lāʻau ponoʻī)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "."
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Mālama kēia iā ʻoe e komo i loko o nā ʻĀpana ʻē aʻe, a e pāʻani pū me nā Sun a me nā Pūnaewele Kūʻai ʻē aʻe."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "E hoʻonohonoho i kēiaPrintNth u003d 1 inā makemake ʻoe e paʻi wale i nā lā nth, e hoʻonohonoho iā trackNth e helu i ka wana."
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "E hāʻawi ana ʻo 66 iā ʻoe ma kahi o 21 mau Kuhi, ke kau nei iā 1 e paʻi i nā Kapu āpau,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "hoʻonohonoho iā DoNotSkipThis u003d 666 a i kahi helu āu e makemake ai e ʻike."
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Mālama kēia i ka pepa ma o ka paʻi wale ʻana i ka ʻāpana o nā lālani i ka papaʻaina; ʻo ia ka 6th Argument, ke hoʻāʻo nei au e kaupalena i kēlā."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Hono i Bash File i hana i kēia ʻaoʻao (Mālama a hoʻonohonoho i nā ʻae e holo.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Inā ʻoe e holo nei i ka Bash Script e like me.."
+

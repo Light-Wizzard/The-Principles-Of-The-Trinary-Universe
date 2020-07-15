@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Lo script della tabella della traccia del disco galattico Math Trinrix Matrix sta creando"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Ultimo aggiornamento"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Data modificata"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Formato Sun"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Abitabile Planet Size"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Numero di motori Trinary"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Numero totale di tracce in Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Indice di pressione atmosferica"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "miglia di diametro"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "miglia"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "I principi dell'universo trinitario: Appendice A: Tabella della pista galattica trinaria"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Autore: Jeffrey Scott Flesher, Principles of Light Wizzard o Wizards come Sir Isaac Newton e Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Light, Wizzard, Wizard, Newton, Newton, Tesla, Franklin, God, Jesus, Bar / Abbas, Darkness, Trinary, Universe, Sanctuary, Physics, Sun, Step, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Autore: Jeffrey Scott Flesher, Principles of Light Wizzard o Wizards come Sir Isaac Newton e Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Appendice A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Tavolo Trinary Galactic Track"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "I principi dell'universo trinitario"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight e CopyLeft by"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Sergente istruttore delle forze aeree degli Stati Uniti in pensione"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Tavolo Trinary Galactic Track"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "La Trinary Galaxy si basa su:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "La Trinary Galaxy si basa su un giradischi, il piano galattico è il disco o il disco."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Tutti i soli orbitano attorno alla Galassia alla stessa velocità del braccio del giradischi e ogni traccia ha la sua velocità."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Un'iterazione è un periodo di tempo definito come:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Un'iterazione è un periodo di tempo definito in anni, che calcolerò qui come massimo, medio e minimo"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "questi periodi sono etichettati usando i segni zodiacali e usano il calendario giuliano, gregoriano e maya."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Trinary Matrix Mathematics si basa su:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Trinary Matrix Mathematics si basa su una tabella Matrix, ogni riga è una traccia nel disco galattico,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "ogni colonna contiene dati sul Sole (i) nella Galassia che supporta la Vita."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Questo si basa su intervalli di energia noti in cui gli umani potrebbero sopravvivere."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Questo concetto trinitario si basa su:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Il Trinary Concept è uno che mi è venuto in mente da bambino all'età di 9 anni"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "si basa sul fatto che il Sole abbia tutte le informazioni necessarie per fare il suo lavoro nella Galassia."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Una volta ho capito cosa stava descrivendo Sir Isaac Newton"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Mi sono reso conto che la dimensione dei soli ha tutto a che fare con il suo sistema solare,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "così ho iniziato a calcolare tutto quello che potevo: in base alle sue proprietà"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "e ho scritto questo Bash Script per creare questo documento XHTML File che contiene questa tabella Matrix e, ho anche scritto un Qt Quick QML JavaScript multipiattaforma Open Source Project chiamato galaxy-calcolatrice, il link è in fondo alla pagina."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Basato su una dimensione del sole di"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "miglia di diametro"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Basato su"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Motori trinitari"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Basato su una galassia con un raggio di"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Numero totale di tracce"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Iterazione massima"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Iterazione media"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Iterazione minima"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Traccia:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Traccia il numero della nostra galassia, basato su 0 a due volte 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Le tracce inferiori a 336 hanno motori Trinary negativi perché sono stelle scure,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "si mescolano con gli anelli del campo di forza delle galassie, rendendo i numeri Frequenze negative."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Motori trinitari:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "In base al numero di oggetti (pianeti, micropianti, lune, asteroidi) o motori trinitari, il motore trinitario nella tabella si riferisce solo alle stelle compagne della stella scura, sono tenuti a tenere insieme il sistema solare, l'energia oscura in questi tipi of Trinary Engines è All Light without Darkness, sebbene Light senza Darkness si riferisca a spettri di luce non normalmente nello spettro visibile Gli esseri umani possono vedere, senza la tecnologia Full Spectrum, questi tipi di Trinary Engine sono fatti di neutrini che hanno un aspetto oscuro se visti con la Tecnologia, perché la Tecnologia non può vedere la Luce senza Oscurità attraverso il Neutron Shell, che significa le particelle esterne di un Atomo trinitario, attualmente non c'è Tecnologia per rilevare le Stelle Oscure, ma le Immagini Full Spectrum possono rilevare i loro Schemi come Energia Oscura. controllare i soli o le stelle, creando una rete di energia oscura, i compagni della stella oscura orbitano tra il sole in un sistema solare che ha pianeti e lune e la sua controparte binaria t, nel nostro caso si tratta di Sirius una stella binaria, in quanto tale, più un Sole o una Stella è più vicino alla Galassia, meno motori Trinary sono necessari per contenerlo, quindi il numero di Motori Trinary regola ciò che Traccia il Sole noto anche come una stella è accesa, quindi più lontana dalla Galassia, più motori trinitari chiamati Dark Star Companions, richiede di coprire la distanza, al fine di contenere gli altri pianeti, mentre la Dark Star mantiene lo stesso ritmo di movimento a diverse velocità ."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Il mantenimento della stessa velocità a velocità diverse è regolato dalla stessa Stella Oscura, ed è nel Piano Galattico, e il Sole noto anche come Stelle che vi passano accanto. Il compito dei Compagni è di tenere insieme il sistema solare. Nell'immagine I mostra che la Stella Binaria Sirio e il nostro Sole si trovano sui lati opposti del Piano Galattico, questo è vero solo quando lo attraversi e ne esci, per quanto posso provare. La Formula Trinary Math per innestare o tracciare corrente alternata in una forma d'onda a forma di elica, si basa sulla frequenza correlata al nostro intervallo di soli in termini di tempo e distanza, ma a causa della scienza corrente, il flusso principale chiuso può stimare tra 30 e 33 milioni di anni, quindi ho fatto che una variabile, quindi può essere regolato sul valore corretto, questa app è progettata per inserire qualsiasi Galaxy, quindi non influisce sul mio calcolo per quando invertiremo i poli, perché è solo una questione di dove siamo nel segnale stesso, e lo fa non dipende nemmeno da quale direzione stiamo andando, intendendo nel Piano Galattico, o lontano da esso, importa solo dove siamo in termini del Segnale stesso. Chiamo la gravità un segnale, perché Dio è tutta luce senza oscurità, ed è la forza di gravità in tutte le equazioni di Newton, così come la mia, e questa è la gravità che sto calcolando per la galassia, e i suoi soli conosciuti anche come stelle . Le stelle oscure e i loro compagni sono un tipo speciale di motore trinitario e, come tutti i motori trinari, sono teorici, perché non possono essere provati né smentiti, e affermare che devi avere Faith God Exist, è ciò che Newton afferma che la Bibbia afferma, ma ciò che non fa è la scienza, persino Newton ha affermato che, invece, dichiaro che i motori trinitari emettono questi segnali che possono essere rilevati dalla tecnologia attuale, in quanto tale posso affermare che sono un fatto nella scienza trinaria, con la prova che utilizza la tecnologia corrente. Per tracciare i dati nella tabella, ho usato i seguenti dati come variabili, Dimensione del sole come 864.575,9 Miglia di diametro, Dimensione del pianeta vivibile come 7926.2109 Miglia di diametro, Numero di motori Trinary come 333 dalla Bibbia, Raggio della galassia come 241828072282107.5071453596951 Miglia, Nome file completo: appendix.a.xhtml e 66 righe da stampare, ovvero per lo script Bash, ho ancora più controllo nell'app Qt, Trinary Math è semplice, per ottenere il periodo di tempo delle iterazioni, ho solo bisogno di sapere la dimensione del Sole, (864.575,9 * (1/137)) / 3 u003d l'anno massimo 2103, l'Iterazione media si basa sulle inversioni di polarità magnetiche del Sole, cambia la polarità 10 (0-9) volte al secolo: 100 - 9 u003d 91, quindi 2103 - 91 u003d 2012, per calcolare la fine dei tempi, usa 42 dalla Guida degli autostoppisti alla Galassia, 42 esadecimale è 66 in decimale, ovvero dalla Bibbia, e 2103 - 42 u003d 2061, e Sir Isaac Newton lo ha calcolato nell'anno 2060 sotto il Calendario giuliano, quindi è il 2061 sotto il Calendario gregoriano, quindi questo è il L'anno in cui la Terra dovrebbe invertire i poli, e non accetterei questo evento alla leggera, è la fine del tempo conosciuta anche come la fine della civiltà come la conosciamo, quindi conoscere le dimensioni del sole è tutto ciò che devi sapere, altro del fatto che funziona solo se inizi l'anno a 0 e perché il calendario Maya ricomincia dopo il 2012, la coda del pesce è l'anno 2060 e perché è stato introdotto il calendario gregoriano, in modo che si allinei con questo Codice biblico, rendendo corretto il calcolo di Newton e perché i Maya tengono traccia del tempo in Iterazioni degli Anni 2012, quindi la matematica funziona sempre per loro, e sapevano che sarebbe successo dopo il 2012 e prima della Coda di Pesce, che è nell'anno 2103 ."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Velocità massima in MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Basato sulla massima velocità che il Sole può percorrere attraverso il Piano Galattico."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Velocità minima in MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "In base alla velocità minima che il Sole può percorrere dopo aver attraversato il Piano Galattico."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Frequenza in Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "In base alla frequenza centrale del pianeta, le frequenze di superficie dovrebbero essere molto più alte:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Frequenza del pianeta vivibile di 7.830 Hz nell'anno: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Distanza orbitale:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Questo è come una traccia su un record, è la circonferenza della traccia in miglia."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Traccia frequenza in Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Questo si basa sulla forma dell'elica in cui il nostro Sole viaggia attorno alla Galassia,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "calcola anche quando passiamo attraverso il Piano Galattico."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "La vita nella galassia si trova:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Attualmente Life in the Galaxy è sulla buona strada * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Se un nuovo motore trinitario entra o esce dal nostro mondo o dal nostro sistema solare, cambieremo traccia."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Dopo lo spostamento polare previsto per il 2060"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "dovresti iniziare un nuovo calendario a partire dall'anno 0 o continuare e utilizzare le date nella tabella zodiacale."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Questa è l'Era dell'Acquario e un'era glaciale segnerà la sua pioggia."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Se scegli due soli su tracce diverse l'una di fronte all'altra: mostrate in rosso e verde"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "e immaginavo che mentre ruotavo questa immagine simulando i soli in orbita attorno alla galassia,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "noterai che tutti i soli della galassia restano in linea mentre lo orbitano attorno"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "questa è una simulazione scadente ma mi fa capire"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "questa matematica non è la stessa del sistema solare di Suns, quindi le leggi e la matematica di Keplero e Newton non ti aiuteranno qui, ma Trinary Math lo farà."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Trinary Math che ho creato all'età di 9 anni lavora per risolvere questo problema presentato dalle Galassie, usando la Logica: Velocità u003d Distanza / Tempo e Distanza u003d Velocità * Tempo, quindi Velocità e Distanza sono relative alla Frequenza, in modo che: Frequenza u003d 1 / Tempo e tempo u003d 1 / Frequenza, in modo tale che: Frequenza (Hz) u003d Velocità della luce (Distanza a 670.616.629 mph * 1 ora; ~ Frequenza in miglia in 1 ora o tempo) / Lunghezza d'onda in miglia, utilizzando una stima Mainstream di 500.000 miglia un'ora per 250.000.000 di anni, è una distanza di 1.095.000.000.000.000.000.000 di miglia, usando la mia Formula I ottengo 1.011.954.093.357.316.200 miglia, così abbastanza vicine su quella distanza. Trinity Science si basa su tutta l'energia proveniente dalla luce di Dio all'interno di ogni atomo trinitario, il che significa 3 tipi: Proton, Neutron ed Electron nel caso di Light, in quanto tale, tutta la Trinary Math si basa sull'elettricità. Una volta completato il calcolatore galassia, un progetto github Open Source, che calcola già questa stessa tabella, traccerà graficamente il percorso di t I Suns o Stars, mentre orbitano attorno alla Galassia, una volta completato, sostituirò le immagini in questa tabella con quelle. Hai due scelte, credi a Sir Isaac Newton che Dio è la forza di gravità in tutte le sue equazioni, oppure puoi credere ad Albert Einstein che ha denunciato tutte le sue teorie a favore di Dio di Newton come forza di gravità, in entrambi i casi sono più vicino all'essere giusto di Mainstream Science, perché si basa su una teoria in cui Einstein non ci credeva nemmeno. In questa formula, sommo le Frequenze delle tracce invece di usare Sine and Cosine, questo non è un simulatore, calcola tutte le tracce in base allo stesso Sole e Dimensione del pianeta vivibile, in modo tale che funzioni solo per le Tracce che supportano la Vita, quindi calcola dove può esistere la Vita in base a queste dimensioni. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "La galassia fa girare tutti i sistemi solari alla stessa velocità"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "La galassia fa girare tutti i sistemi solari alla stessa velocità"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "La galassia che gira tutti i sistemi solari alla stessa velocità ma non alla velocità"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Dimensione piena"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Trinary Math è una matematica tridimensionale perché basata sull'elettricità conosciuta anche come Luce, che Newton chiamava Dio."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Se vedi il Sole come in orbita attorno a una Stella Oscura nel Piano Galattico,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "e con una configurazione a stella trinaria, tale che Sirius è la nostra stella binaria,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "e ci sono anche compagni di stelle oscure che obbediscono attorno ai sistemi di stelle trinarie (Il nostro sole, Sirio e una stella scura)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Questa tabella calcola la frequenza di questa forma d'onda mostrata in questa illustrazione"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "così come le velocità a cui viaggia mentre si tuffa nel piano galattico alla massima velocità"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "e come è alla sua velocità minima mentre diventa più lontana in ampiezza prima che si ritorni nel Piano Galattico."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Percorso orbitale del Sole attorno alla Galassia una rivoluzione"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Percorso orbitale del Sole attorno alla Galassia un'Orbita completa"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Illustrazione A2: percorso orbitale completo del Sole attorno alla Galassia"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Dimensione piena"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Traccia"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Motori"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Massima velocità"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Velocità minima"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Frequenza"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "in Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Distanza orbitale"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "in miglia"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Traccia"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Frequenza"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tabella Appendice A: Tabella delle tracce galattiche della matrice trinaria"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Utilizzo: (dimensione del sole in miglia di diametro) (dimensione del pianeta vivibile in miglia di diametro) (numero di motori trinitari)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Raggio di galassia in miglia) (Nome file completo: appendix.a.xhtml) (Nth Numero di righe da stampare)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Questo ti permette di entrare in altre Galassie e giocare con diverse dimensioni di Sole e Pianeta."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Impostare ThisPrintNth u003d 1 se si desidera stampare solo l'ennesima riga, impostare trackNth su numero da saltare,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 ti dà circa 21 tracce, impostandola su 1 stamperà tutte le tracce"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "imposta DoNotSkipThis u003d 666 o qualunque numero tu voglia vedere,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "questo consente di risparmiare carta stampando solo una parte delle righe nella tabella; questo è il sesto argomento, cerco di limitare quelli."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Link al file Bash che ha creato questa pagina (Salva e imposta le autorizzazioni per l'esecuzione.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Se esegui Bash Script come: ./makeappendix.a.sh o ./makeappendix.a.sh --help, ti darà Aiuto e maggiori dettagli."
+

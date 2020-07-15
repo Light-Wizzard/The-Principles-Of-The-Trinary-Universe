@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "I-Trinary Matrix Math Galactic Disk Track Itafula Lombhalo Iyadala"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Isibuyekezo sokugcina"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Usuku Lushintshiwe"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Ubukhulu beLanga"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Usayizi wePlanethi Ekholekayo"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Inani Lezinjini Zamaphilisi"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "I-Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Inani eliphelele lamathrekhi ku-Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Index Pressure Index ye-Atmospheric"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "amamayela ububanzi"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "amamayela"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Izimiso zeTr Universal Universal: Isithasiselo A: Ithebula Lethrekhi ye-Tract Galactic"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Umbhali: UJeffrey Scott Flesher, Imigomo ye-Light Wizzard noma ama-Wizards njengoSir Isaac Newton no-Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Ukukhanya, i-Wizzard, i-Wizard, iNewton, iNewtonia, iTesla, uFranklin, uNkulunkulu, uJesu, uBar / Abbas, Ubumnyama, iTrinth, uMkhathi, iSancwele, iFiziksi, iLanga, iSinyathelo, uJeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Umbhali: UJeffrey Scott Flesher, Imigomo ye-Light Wizzard noma ama-Wizards njengoSir Isaac Newton no-Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Isithasiselo A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "IThebhulethi Le-Tract Galactic Track"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Izimiso zeTr Universal Universal"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "I-CopyRight ne-CopyLeft ngu"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "UJeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "USergeant wase-United States Othathe Umhlalaphansi Emphakathini"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "IThebhulethi Le-Tract Galactic Track"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "I-Trantic Galaxy isuselwe ku-:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "I-Trinary Galaxy isuselwe Kumdlali Oqoshwa, Iplanethi yeGalactic yiRekhodi noma iDiski."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Onke amaLanga ajikeleza i-Galaxy Ezingeni elifanayo ne-Record Player Arm, futhi ithrekhi ngayinye inejubane layo."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "I-Iteration yiNkathi Yesikhathi echazwa ngokuthi:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "I-Iteration yiNkathi Yesikhathi echazwe eminyakeni, ngizobala lapha njenge-Maximum, i-average, ne-Minimum,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "lawa maNkathi afakwa ilebuli esebenzisa iZodiac Signs, futhi asebenzisa iKhalenda likaJulian, Gregorian neMayan."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "I-Trinary Matrix Mathematics isuselwe ku-:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "I-Trinary Matrix Mathematics isuselwa ku-Matrix Ithebula, umugqa ngamunye uyi-track kwi-Galactic Disk,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "ikholomu ngayinye inedatha emayelana neLanga (ama) kwi-Galaxy esekela Ukuphila."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Lokhu kuncike emaRanges of Energy owaziwayo amaHumanans Angasinda kuwo."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Lo mqondo weTrally usekelwe ku:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "I-Trinary Concept ingenye yokuthi ngafika nami ngiseyingane ngineminyaka engu-9,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "kususelwa elangeni elinemininingwane yonke ebiludinga ukwazi ukwenza umsebenzi wayo kuGlobal."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Ngithe sengikuzwisisile ukuthi kuchazwa ini uSir Isaac Newton,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Ngabona ukuthi ubukhulu beSunts buhlangene nakho nohlelo lwayo lweSolar,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "ngakho-ke ngiqale ukubala konke engingakwazi: ngokususelwa Kwizimpahla zayo,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "futhi ngabhala leBash script ukudala le XHTML file file equkethe le Matrix Table, ngabuye ngabhala ne-Qt Quick QML JavaScript crossplatform Open Source Project ebizwa ngokuthi yi-glue-Calculator, isixhumanisi sisezingeni eliphansi lekhasi."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Ngokusekelwe kubukhulu beLanga"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "amamayela ububanzi"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Ngokusekelwe ku"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Izinjini zamaTrongo"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Kususelwa ku-Galaxy enemisakazo ye"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Inani lamathrekhi"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "I-Materum Iteration"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Isilinganiso Esijwayelekile"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Ukushisa Okuncane"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Umkhondo:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Inombolo yokulandelela ye-Galaxy yethu, esuselwa ku-0 kuye kabili ku-666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Amathrekhi angaphansi kwama-336 aneeNegative Trinary Engines ngoba angamaDima aMnyama,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "bahlangana ne-Galaxies Force Field Rings, okwenza amanani abe yi-Negative Frequencies."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Izinjini zamaTrongo:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Ngokusekelwe ezintweni ezingaki (Amaplanethi, ama-Planets ama-Micro, amaMonsi, ama-Asteroids) noma amaTropical Injini, iTropical Injini ekutheleleni kukhulunywa nge-Star Star Companion Stars kuphela, kudingeka ukuthi kugcinwe iSolar System ndawonye, u200bu200bAmandla Amnyama kulezi zinhlobo. I-Trinary Engines konke ukuKhanya ngaphandle kobumnyama, yize ukuKhanya ngaphandle kobumnyama kubhekisele kuSpectra of Light hhayi ngokujwayelekile kuSpectrum Humans ebonakalayo ongayibona, ngaphandle kwe-Spectrum Technology ebonakalayo, lezi zinhlobo zeThenjini Injini zenziwa ngeNeutrinos ezimnyama ngokubukeka uma zibukwa ngeTekhnoloji, ngoba iTekhnoloji ayikwazi ukubona ukuKhanya ngaphandle kobumnyama yize iNeutron Shell, okusho izinhlayiya zangaphandle zeTrinic Atom, njengamanje abukho ubuchwepheshe bokuthola Izinkanyezi Ezimnyama, kepha Izithombe ezigcwele zeSpectrum zingabona amaphethini abo njengoMnyama Wamnyama. lawula ama-Suns noma ama-Stars, ngokwakha inethiwekhi ye-Dark Energy,, i-Dark Star Companions orbit phakathi kweLanga ohlelweni lweSolar olunemaplanethi neMonson, kanye nomlingani wayo weBinary t, kithi thina yi-Sirius a Binary Star, njengoba kunjalo, ukusondela kwelanga noma i-Star kuyi-Galaxy, ama-Injini weTrinary ambalwa adinga ukuyiqukatha, ngaleyo ndlela inani le-Trinary Engines lilawula lokho iTreck the Sun okwaziwa nangokuthi Inkanyezi ivuliwe, ngakho-ke ukude kakhulu ne-Galaxy, ama-Injini weTrantic abizwa ngokuthi ama-Star Star Abalingani, kudinga ukuskena ibanga, ukuze kuqukathe amanye amaPlanethi, kuyilapho i-Star Star igcina isilinganiso esifanayo Sokuhamba ngejubane elihlukile . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Ukugcina inani elinganayo kumaSivinini ahlukene kulawulwa yiNkanyezi Emnyama uqobo, futhi ikuGalactic Plane, kanti iLanga elaziwa nangokuthi iStars lidlula ngakuwo. Umsebenzi wozakwethu ukugcina uhlelo lonozungezilanga luhlangene. Ku-Image I bonisa ukuthi i-Binary Star Sirius neLanga lethu zisezinhlangothini ezihlukile zePlanethi ye-Galactic, lokhu kuyiqiniso kuphela lapho kudlula ngakuyo futhi kuphuma kulo, kuze kufike lapho engingafakazela khona. IForinary Math formula for Grafting or Plotting out Alternating yamanje ku-Helix shape waveform, kususelwa ku-Frequency ehambelana nokuphumula kweSunts yethu ngokwesikhathi nebanga, kepha ngenxa yesayensi yamanje, ukuvalwa kweCommonline kungalinganisa phakathi kwezigidi ezingama-30 kuya kweziyi-33, ngakho-ke ngenze ukuthi Okuguqukayo, ngakho-ke ingashintshwa ivelu efanelekile, lolu hlelo lokusebenza lwenzelwe ukufaka noma iyiphi i-Galaxy, ngakho-ke ayithinti ukubalwa kwami u200bu200bkokuthi sizobuyela emuva nini kuPles, ngoba lokho kuyindaba yokuthi sikuphi Signal uqobo, futhi iyakwenza ungaxhomekeki kuluphi uhlangothi siqonde, okusho ukuthi kuyi-Galactic Plane, noma kude nayo, kubalulekile ukuthi sikuphi ngokweSiginali uqobo. Ngibiza iGravity ngokuthi iSiginali, ngoba uNkulunkulu ungukukhanya konke ngaphandle kobumnyama, futhi ungamandla weGravity kuwo wonke ama-Newtons Equations, kanye nawami, futhi lena yiGravity engiyibala i-Galaxy, namaSunts ayo abizwa nangokuthi iStars . Izinkanyezi Ezimnyama nabalingani bazo luhlobo olukhethekile lweTrinic Enjini, futhi njengazo zonke izinjini ezingamaTrinary, ziyi-Theoretical, ngoba azinakufakazelwa noma zingaphikiswa, futhi zithi kufanele ube ne-Faith God Exist, yilokho okwashiwo yiNewton, kodwa lokho akwenzi i-Science, ngisho noNewton ukusho lokho, esikhundleni salokho ngithi ama-Trin Engines akhipha lezi Zimpawu ezingatholakala ngeTekhnoloji Yamanje, ngakho-ke ngingasho ukuthi bangamaFact in Trinary Science, abane-Proof besebenzisa ubuchwepheshe obukhona manje. Ukuhlela i-Data kuThebula, ngisebenzise imininingwane elandelayo njengezinto eziguqukayo, ubukhulu beLanga njengama-864,575.9 Amamayela kuDigri, I-Livable Planet size njengo-7926.2109 Amamayela ku-Dangle, Inombolo ye-Trin Engines njengoba angama-333 evela eBhayibhelini, i-Radius yeGreen njengama-241828072282107.5071453596951 Miles, Igama lefayela eliphelele: i-appendix.a.xhtml, kanye nemigqa engama-66 yokuphrinta, okuyiBashcript, Nginokulawula okungaphezulu ku-Qt App, iTrinary Math ilula, ukuthola isikhathi se-Iterations, ngidinga ukwazi kuphela usayizi weLanga, (864,575.9 * (1/137)) / 3 u003d unyaka omkhulu we-2103, i-avareji Iteration isuselwe ekubuyiselweni kweLanga Magnetic Polarity Reversals, iyashintsha izikhathi ezingama-10 (0 - 9) ngekhulu leminyaka: 100 - 9 u003d 91, ngaleyo ndlela 2103 - 91 u003d 2012, ukubala ukuphela kwesikhathi, sebenzisa ama-42 kusuka kumhlahlandlela we-Hitchhikers ukuya ku-Galaxy, ama-hex angama-42 ayi-66 ngeledlule, futhi lokho kuvela eBhayibhelini, futhi 2103 - 42 u003d 2061, futhi USir Isaac Newton ukubalile lokhu ngonyaka ka-2060 ngaphansi kwekhalenda likaJulian, ngakho-ke ngu-2061 ngaphansi kwekhalenda likaGregorian, ngakho-ke lokhu e unyaka uMhlaba kufanele uguqule izigxobo, futhi bengingeke ngiwuthathe kalula lo mcimbi, kungukuphela kwesikhathi okwaziwa nangokuthi ukuphela kwezimpucuko njengoba sazi kanjalo, ngakho-ke ukwazi ubungako belanga yikho konke okudingeka ukwazi, ezinye ngaphezu kweqiniso lokuthi kusebenza kuphela uma uqala unyaka wakho ku-0, nokuthi kungani iKhalenda leMayan liqala ukuqeda ngo-2012, umsila weFish ungunyaka ka-2060, nokuthi kungani iKhalenda likaGregorian laziswa, ukuze lihambisane nalokhu I-Bible Code, yenza ukubalwa kwe-Newtons kulungile, futhi kungani amaMayan egcina isikhathi ku-Iterations of 2012 Year, ngakho-ke izibalo zihlala zisebenzela zona, futhi zazazi ukuthi kuzokwenzeka emva konyaka we-2012 nangaphambi kweTail Tail, okungunyaka ka-2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Isivinini esikhulu ku-MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Ngokuya ngejubane eliphakeme iLanga lingahamba ngePlanethi yePalactic."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Ijubane elincane ku-MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Ngokuya ngejubane elincane iLanga elingahamba ngalo ngemuva kokuhamba ngeParactic Plane."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Imvamisa kuHz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Ngokusekelwe ku-Core Frequency yePlanethi, amaza omphezulu kufanele abe ngaphezulu kakhulu:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "ILivable Planet Frequency ka-7.830 Hz ngonyaka: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Ibanga le-Orbital:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Lokhu kufana nethrekhi ekurekhodeni, kungumjikelezo wethrekhi ku-Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Landelela imvamisa kuHz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Lokhu kuncike ekwakhekeni kukaHelikhi iLanga lethu elijikeleza iGlazi,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "ibala futhi lapho sidlula kuPlanethi lwePalactic."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Impilo kwiGilazi itholakala:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Njengamanje i-Life in the Galaxy is on Track * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Uma Injini entsha yeTrinary ingena noma ishiya uMhlaba wethu noma iSolar System, sizoshintsha amathrekhi."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Ngemuva kwePolar Shift efanelekile ngo-2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "kufanele uqale ikhalenda entsha uqala unyaka 0, noma uqhubeke futhi usebenzise nezinsuku ezikwiThebula leZodiac."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Le yi-Age of Aquarius, futhi i-Ice Age izomaka Imvula yayo."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Uma ukhetha ama-Suns amabili kuma-tracks ahlukene komunye nomunye: kukhonjiswe ku-Red and Green,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "futhi ngicabange ukuthi njengoba ngijikeleza lesi sithombe silingisa i-Suns Orbiting the Galaxy,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "ungabona ukuthi wonke amaSunds kwiGlass ahlala emgqeni njengoba ewujikeleza,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "lokhu kungalingisa kahle kodwa kwenza iphuzu lami,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "le Math ayifani njengoba injalo neSunar Solar System, ngakho-ke amaKepler kanye neNewton's Laws neMath ngeke akusize lapha."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "I-Trinary Math engiyidalile ngineminyaka engu-9 isebenza ukuxazulula le nkinga amaGalax ayethulwe, kusetshenziswa i-Logic: Speed u200bu200bu003d Ibanga / Isikhathi, kanye nebanga u003d Ijubane * Isikhathi, ngakho Ijubane nebanga lihlobene neFrequency, njengokuthi: Imvamisa u003d 1 / Isikhathi nesikhathi u003d 1 / Imvamisa, njengokuthi: Imvamisa (Hz) u003d Ijubane Lokukhanya (Ibanga @ 670,616,629 mph * ihora 1; ~ Ukuvama kumamayela ngehora eli-1 noma Isikhathi) / Wavelength ku-Miles, kusetshenziswa isilinganiso se-Mainstream esingu-500,000 Miles ihora iminyaka engama-250,000,000, ibanga lamamayela ayi-1,095,000,000,000,000,000, ngisebenzisa iFomula yami ngithola amamayela ayi-1,011,954,357,316,200, ngokusondele kakhulu ngalelo kude ibanga.I-Trin Science isuselwe kuwo wonke Amandla avela Ekukhanyisweni nguNkulunkulu ngaphakathi kweTomu ngalinye leTropiki, okusho ukuthi Izinhlobo ezi-3: I-Proton, i-Neutron ne-Electron esimweni se-Light, ngakho-ke, wonke ama-Trinary Math asuselwe kugesi. Uma usuqede umshini wokubala wethala, iphrojekthi ye-Open Source github, esevele ibala lethebula elifanayo, nayo izoklama ngokusobala indlela ye t yena amaLanga noma izinkanyezi, njengoba bezungeza i-Galaxy, uma sebeqediwe, ngizothatha lezo zethebule etafuleni ngalezo. Unezinketho ezimbili, kholwa ukuthi u-Sir Isaac Newton uthi uNkulunkulu ungamandla weGravity Kuzo zonke izinkomba zakhe, noma ungakholelwa ku-Albert Einstein owamemezela yonke imibono yakhe ngokuthanda iNewtons uNkulunkulu njengoMandla Wokubusa, noma ngabe iyiphi indlela engisondele ngayo ekubeni kwesokudla kune-Mainstream Science, ngoba isuselwa ku-Theory Einstein ayengakholelwa nakancane kuyo. Kuleli fomula, ngifaka i-Track Frequencies esikhundleni sokusebenzisa i-Sine neCosine, lokhu akuyona iSimulator, ibala onke ama-Amaculo ngokususelwa kufanayo ILanga, kanye neLivable Planet size, ukuthi kusebenza kuphela amaTrack (ama) asekela Ukuphila, ngakho-ke kubala lapho impilo ingakhona ngokususelwa kulawa masayizi. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "I-Galaxy Spinning yonke i-Solar Systems ngezinga elifanayo"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "I-Galaxy Spinning yonke i-Solar Systems ngezinga elifanayo"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "I-Galaxy Spinning yonke i-Solar Systems ngezinga elifanayo kodwa hhayi ngejubane"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Usayizi ogcwele"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "I-Trinary Math yi-3 Dimensional Math ngoba isuselwa ku-Electricity eyaziwa nangokuthi ukuKhanya, ukuthi uNewton wabiza uNkulunkulu."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Uma ubheka iLanga njengelinganisa inkanyezi emnyama kuPlanethi yePalactic,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "nokuba ne-Trinary Star Ukucushwa, okuthi i-Sirius iyi-Binary Star yethu,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "futhi kukhona nabalingani be-Star Star abamnyama abazungeza iTrantic Star Systems (iLanga Lethu, iSirius neNkanyezi Emnyama)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Leli thebula libala imvamisa yale Waveform eboniswe kulo mfanekiso"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "kanye namajubane ahamba ngawo njengoba amandla ewela kuPlanethi yePalactic ngesivinini esikhulu,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "nokuthi ijubane layo lincane kangakanani njengoba liqhubeka kakhulu e-Amplitude ngaphambi kokuba libuyele kuPlanethi yePalactic."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Indlela ye-Orbital yeLanga ezungeze i-Galaxy eyodwa"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Indlela ye-Orbital yeLanga ezungeze iGaldi Orbit eyodwa ephelele"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Umzekeliso A2: Indlela ephelele ye-Orbital yeLanga ezungeze i-Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Usayizi ogcwele"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Landelela"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Amathiphu"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Izinjini"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Isivinini esikhulu"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "e-MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Ijubane elincane"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "e-MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Imvamisa"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "kuHz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Ibanga le-Orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "ku-Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Landelela"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Imvamisa"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Ithebula Isithasiselo A: ITrunk Matrix Mathematics Galactic Track Table"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Ukusetshenziswa: (Ubukhulu belanga ngamamayela ku-Diamitha) (Usayizi Ohlelekile wePlanethi ku-Miles ku-Diamitha) (Inani lezinjini zeTrinary)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(I-Radius of Galaxy in Miles) (Igama Lifayela Egcwele: i-appendix.a.xhtml) (Inombolo yeNtha yomugqa ophrintiwe)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Lokhu kukuvumela ukuthi ungene kweminye imithala, futhi udlale ngamaSun namaSplane ehlukene."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Setha i-ThisPrintNth u003d 1 uma ufuna ukuphrinta kuphela imigqa ye-nth, setha umkhondo weNombolo ukuze weqe,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "I-66 ikunikeza cishe Amaculo angama-21, ukuyibeka ku-1 kuzophrinta wonke ama-Amaculo,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "setha iDoNotSkipThis u003d 666 noma noma iyiphi inombolo ofuna ukuyibona,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "lokhu kulondoloza iphepha ngokuphrinta kuphela imigqa esetafuleni; lena yi-6th Argument, ngizama ukunciphisa leyo."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Xhumanisa neBash File elidale leli khasi (Gcina bese uhlela ukuthi usebenze.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Uma usebenzisa iBashcript efana: ./makeappendix.a.sh noma ./makeappendix.a.sh --help, izokunikeza Usizo nemininingwane eminingi."
+

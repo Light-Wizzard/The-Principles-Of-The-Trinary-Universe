@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Tha Sgriobt Clàr Clàr Diosg Galactic Trinary Matrix Math a’ cruthachadh "
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Ùrachadh mu dheireadh"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Ceann-latha air atharrachadh"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Meud na grèine"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Meud Livable Planet"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Àireamh de einnseanan deuchainn"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Àireamh iomlan de thracan ann an Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Clàr-amais cuideam àile"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "mìltean ann an trast-thomhas"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "mìltean"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Prionnsapalan na Cruinne Deuchainneach: Pàipear-taice A: Clàr Rian Galactic Trinary"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Ùghdar: Jeffrey Scott Flesher, Prionnsapalan Light Wizzard no Wizards mar Sir Isaac Newton agus Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Solas, Wizzard, Draoidh, Newton, Newtonian, Tesla, Franklin, Dia, Iosa, Bar / Abbas, Dorchadas, Deuchainn, Cruinne, Comraich, Fiosaigs, Grian, Ceum, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Ùghdar: Jeffrey Scott Flesher, Prionnsapalan Light Wizzard no Wizards mar Sir Isaac Newton agus Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Eàrr-ràdh A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Clàr slighe Galactic Trinary"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Prionnsapalan na Cruinne Trinary"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight agus CopyLeft le"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Seàirdeant Luchd-obrach Feachd Adhair na Stàitean Aonaichte a tha air a dhreuchd a leigeil dheth"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Clàr slighe Galactic Trinary"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Tha an Trinary Galaxy stèidhichte air:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Tha an Trinary Galaxy stèidhichte air cluicheadair clàir, is e an Galactic Plane an Clàr no an Diosg."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Bidh na Suns gu lèir a’ cuairteachadh an Galaxy aig an aon reata coltach ris a ’ghàirdean cluicheadair clàir, agus tha a astar fhèin aig gach trac."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Is e Ùine Ùine Ùine a tha air a mhìneachadh mar:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Is e Ùine Ùine Ùine a chaidh a mhìneachadh ann am bliadhnachan, bidh mi ag obrachadh a-mach an seo mar an ìre as àirde, cuibheasach agus as ìsle,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "tha na h-amannan sin air an lipéadú le bhith a’ cleachdadh Soidhnichean Zodiac, agus a ’cleachdadh Mìosachan Julian, Gregorian agus Mayan."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Tha Matamataig Trinary Matrix stèidhichte air:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Tha Matamataig Trinary Matrix stèidhichte air Clàr Matrix, tha gach sreath na Rian anns an diosc Galactic,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "tha dàta anns gach colbh mun Ghrèin (ean) anns an Galaxy a tha a’ toirt taic do Bheatha. "
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Tha seo stèidhichte air raointean lùth aithnichte a dh’ fhaodadh daoine a bhith beò annta. "
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Tha am bun-bheachd deuchainn seo stèidhichte air:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Is e am Bun-bheachd Trinary aon a thàinig mi suas leam fhìn mar phàiste ro aois 9,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "tha e stèidhichte air a’ Ghrian a bhith a ’faighinn a h-uile fiosrachadh a dh’ fheumadh fios a bhith aige gus a h-obair a dhèanamh anns an Galaxy. "
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Cho luath‘ s a thuig mi na bha Sir Isaac Newton a ’toirt cunntas air,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Thuig mi gu bheil a h-uile càil aig an Suns Size ris an t-Siostam Solar aige,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "mar sin thòisich mi ag obrachadh a-mach gach rud a b’ urrainn dhomh: stèidhichte air na feartan aige, "
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "agus sgrìobh mi an Sgriobt Bash seo gus am faidhle sgrìobhainn XHTML seo a chruthachadh anns a bheil an Clàr Matrix seo agus, sgrìobh mi cuideachd Pròiseact Stòr Open Qt Quick QML JavaScript ris an canar galaxy-calculator, tha an ceangal aig bonn na duilleige."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Stèidhichte air meud grèine de"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "mìltean ann an trast-thomhas"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Stèidhichte air"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Einnseanan Trinary"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Stèidhichte air Galaxy le Radius de"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Àireamh iomlan de thracan"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Iteration as àirde"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Ìre cuibheasach"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Iteration as ìsle"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Rian:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Àireamh àireamh den Galaxy againn, stèidhichte air 0 gu dà uair 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Tha Einnseanan Deuchainneach àicheil aig slighean fo 336 seach gu bheil iad nan Rionnagan Dorcha,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "bidh iad a’ measgachadh le Cearcaill Raon Feachd Galaxies, a ’dèanamh na h-àireamhan Freiceadan àicheil."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Einnseanan deuchainn:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "“A rèir cia mheud rud (Planets, Micro Planets, Moons, Asteroids) no Einnseanan Deuchainneach, chan eil Einnsean Deuchainneach sa Chlàr a’ toirt iomradh ach air Dark Star Companion Stars, feumaidh iad an Siostam Solar a chumail còmhla, an Cumhachd Dorcha anns na seòrsaichean sin of Trinary Engines is All Light without Darkness, ged a tha Solas gun Dorchadas a ’toirt iomradh air Spectra of Light nach àbhaist a bhith anns na Spectrum Humans a chì daoine, às aonais Teicneòlas Làn Spectrum, tha na seòrsaichean de Einnsean Trinary seo air an dèanamh de Neutrinos a tha dorcha ann an coltas ma choimheadas tu orra le Teicneòlas, oir chan urrainn dha Teicneòlas an Solas gun Dorchadas fhaicinn ged a tha an Neutron Shell, a ’ciallachadh mìrean a-muigh Atom Trinary, an-dràsta chan eil Teicneòlas ann gus Rionnagan Dorcha a lorg, ach faodaidh Ìomhaighean Làn Spectrum na Pàtrain aca a lorg mar lùth dorcha. smachd a chumail air na Suns or Stars, le bhith a ’cruthachadh lìonra de Lùth Dorcha ,, orbit The Dark Star Companions eadar a’ ghrian ann an siostam grèine aig a bheil planaidean agus gealach, agus a counterpar Binary t, anns a ’chùis againn is e Sirius a Binary Star, mar sin, mar as fhaisge a tha Sun no Star air an Galaxy, is ann as lugha a tha na h-einnseanan deuchainn a dh’ fheumas a bhith ann, agus mar sin tha an àireamh de Einnseanan Deuchainneach a ’riaghladh na tha Track the Sun ris an canar cuideachd tha Rionnag air adhart, mar sin nas fhaide air falbh bhon Galaxy, na h-einnseanan as motha ris an canar Dark Star Companions, feumaidh e a dhol thairis air an astar, gus na planaidean eile a chumail a-steach, fhad ‘s a bhios an Rionnag Dorcha a’ cumail suas an aon ìre de ghluasad aig diofar astar. . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Tha a bhith a’ cumail suas an aon reat aig diofar astar a ’riaghladh leis an Rionnag Dorcha fhèin, agus tha e anns an Galactic Plane, agus tha a’ Ghrian ris an canar Stars a ’dol seachad air. Is e obair nan companach siostam na grèine a chumail còmhla. Anns an Ìomhaigh I sealltainn gu bheil an Binary Star Sirius agus a ’ghrian againn air gach taobh den Plèana Galactic, chan eil seo fìor ach nuair a thèid mi troimhe agus a’ tighinn a-mach às, cho fad ‘s as urrainn dhomh a dhearbhadh. Am Foirmle Math Deuchainneach airson a bhith a’ grafadh no a ’dealbhadh sruthan gnàthach eile. ann an cruth tonn Helix, stèidhichte air an tricead a tha a ’buntainn ris an eadar-ama Suns againn a thaobh ùine agus astar, ach air sgàth Saidheans gnàthach, tha an dùnadh Prìomh Shruth a dh’ fhaodadh a bhith eadar 30 agus 33 Millean Bliadhna, agus mar sin rinn mi gu bheil Caochlaideach, mar sin faodar a atharrachadh chun luach cheart, tha an aplacaid seo air a dhealbhadh gus Galaxy sam bith a chuir a-steach, agus mar sin chan eil e a ’toirt buaidh air mo àireamhachadh airson cuin a bheir sinn air ais Pòlaichean, oir chan eil sin ach ceist càite a bheil sinn anns a’ Chomharra fhèin, agus bidh e a ’dèanamh chan eil eadhon an urra ri dè an taobh tha sinn a ’dol, a’ ciallachadh a-steach don Plèana Galactic, no air falbh bhuaithe, chan eil e gu diofar càite a bheil sinn a thaobh an t-soidhne fhèin. Tha mi a ’gairm Gravity na Chomharradh, oir tha Dia na Solas gun Dorchadas, agus is e Force of Gravity anns a h-uile co-aontar Newtons, a bharrachd air an fhear agamsa, agus is e seo an Gravity a tha mi a’ tomhas airson an Galaxy, agus na Suns ris an canar Stars cuideachd . Tha Rionnagan Dorcha agus an companaich mar sheòrsa sònraichte de Einnsean Deuchainneach, agus mar a tha a h-uile Inneal Deuchainneach, tha iad Teòiridheach, oir chan urrainnear an dearbhadh no an dearbhadh, agus ag ràdh gum feum thu Faith God Exist a bhith agad, is e sin a thuirt Newton a thuirt am Bìoball, ach chan eil sin a ’dèanamh Saidheans, thuirt eadhon Newton, an àite sin tha mi ag ràdh gu bheil Innealan Trinary a’ leigeil a-mach na comharran sin a dh ’fhaodar a dhearbhadh le teicneòlas gnàthach, mar sin is urrainn dhomh a ràdh gu bheil iad nam fìrinn ann an saidheans deuchainn, le dearbhadh a’ cleachdadh teicneòlas gnàthach. Gus an dàta anns a ’chlàr a dhealbhadh, chleachd mi an dàta a leanas mar chaochladairean, Meud na grèine mar 864,575.9 mìle ann an trast-thomhas, meud plana Livable mar 7926.2109 mìle ann an trast-thomhas, àireamh nan einnseanan deuchainn mar 333 bhon Bhìoball, Radius of Galaxy mar 241828072282107.5071453596951 Miles, Ainm faidhle slàn: appendix.a.xhtml, agus 66 sreathan ri Clò-bhualadh, is e sin airson Sgriobt Bash, tha eadhon barrachd smachd agam anns an App Qt, tha Trinary Math sìmplidh, gus an ùine ùine Iterations fhaighinn, chan fheum mi ach fios a bhith agam meud na grèine, (864,575.9 * (1/137)) / 3 u003d a ’bhliadhna as àirde 2103, tha an atharrachadh cuibheasach stèidhichte air ais-ghluasad polarity magnetach na grèine, bidh e ag atharrachadh polarity 10 (0 - 9) uair sa linn: 100 - 9 u003d 91, mar sin 2103 - 91 u003d 2012, gus Deireadh na h-Ùine obrachadh a-mach, cleachd 42 bho Stiùireadh Hitchhikers chun an Galaxy, tha 42 hex 66 ann an deicheach, agus tha sin bhon Bhìoball, agus 2103 - 42 u003d 2061, agus Rinn Sir Isaac Newton cunntas air seo anns a ’bhliadhna 2060 fo Mìosachan Julian, mar sin tha e 2061 fo Mìosachan Gregorian, mar sin is e seo th e Bliadhna bu chòir don Talamh Pòlaichean a thionndadh air ais, agus cha ghabhainn an tachartas seo gu h-aotrom, is e Deireadh na h-Ùine ris an canar cuideachd Deireadh Sìobhaltachd mar a tha fios againn air, agus mar sin is e a bhith eòlach air meud na grèine gach rud a dh ’fheumas tu a bhith eòlach, eile na an fhìrinn nach obraich e ach ma thòisicheas tu do bhliadhna aig 0, agus carson a thòisicheas Mìosachan Maya thairis air às deidh 2012, is e earball an èisg a ’bhliadhna 2060, agus carson a chaidh Mìosachan Gregorian a thoirt a-steach, gus am biodh e a’ co-thaobhadh ris an seo. Còd a ’Bhìobaill, a’ dèanamh àireamhachadh Newtons ceart, agus carson a bhios na Mayans a ’cumail sùil air ùine ann an Iterations of 2012 Years, agus mar sin bidh am matamataigs an-còmhnaidh ag obair dhaibh, agus bha fios aca gun tachradh e às deidh 2012 agus ron Earball Èisg, a tha sa bhliadhna 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Max Speed u200bu200bann am MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Stèidhichte air an astar as motha as urrainn don Ghrian siubhal tron u200bu200bPlèana Galactic."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min Speed u200bu200bann am MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Stèidhichte air an astar as ìsle as urrainn don Ghrian siubhal às deidh dha a dhol tron u200bu200bPlèana Galactic."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Tricead ann an Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "A rèir prìomh tricead a’ phlanaid, bu chòir na triceadan uachdar a bhith mòran nas àirde: "
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Tricead Livable Planet de 7.830 Hz sa bhliadhna: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Astar Orbital:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Tha seo coltach ri Rian air Clàr, is e Cuairt an t-slighe ann am Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Freiceadan a’ chlàir ann an Hz: "
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Tha seo stèidhichte air cumadh Helix a bhios a’ ghrian againn a ’siubhal timcheall air an Galaxy,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "bidh e cuideachd a’ tomhas nuair a thèid sinn tron u200bu200bPlèana Galactic. "
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Tha beatha anns an Galaxy suidhichte:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "An-dràsta tha beatha anns an Galaxy air Track * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Ma thig Einnsean Deuchainneach ùr a-steach no ma dh’ fhàgas e an Siostam Cruinne no Solar againn, atharraichidh sinn slighean. "
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Às deidh an Polar Shift ri thighinn ann an 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "bu chòir dhut Mìosachan Ùr a thòiseachadh a’ tòiseachadh le bliadhna 0, no leantainn air adhart agus na cinn-latha ann an Clàr an Zodiac a chleachdadh. "
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Is e seo Linn Aquarius, agus bidh Linn Deighe a’ comharrachadh a h-uisge. "
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Ma thaghas tu dà ghrèin air diofar shlighean tarsainn bho chèile: air an sealltainn ann an Dearg is Uaine,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "agus smaoinich mi nuair a thionndaidh mi an ìomhaigh seo a’ dèanamh atharrais air na Suns Orbiting the Galaxy, "
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "bheireadh tu fa-near gu bheil na Suns anns an Galaxy a’ fuireach a rèir mar a bhios iad ga reubadh, "
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "is e droch atharrais a tha seo ach tha e a’ dèanamh mo phuing, "
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "chan eil am Math seo an aon rud mar a tha e airson Siostam Solar Suns, agus mar sin cha chuidich Laghan is Math Kepler agus Newton thu an seo, ach cuidichidh Trinary Math."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "“Bidh Trinary Math a chruthaich mi aig aois 9 ag obair gus fuasgladh fhaighinn air an duilgheadas seo a chuir na Galaxies air adhart, a’ cleachdadh an Logic: Speed u200bu200bu003d Distance / Time, agus Distance u003d Speed u200bu200b* Time, agus mar sin tha astar agus astar an coimeas ri tricead, mar sin: Tricead u003d 1 / Ùine is Ùine u003d 1 / Tricead, mar sin: Tricead (Hz) u003d astar solais (astar @ 670,616,629 msu u200bu200b* 1 uair; ~ tricead ann am mìltean ann an 1 uair no uair) / tonn-tonn ann am mìltean, a ’cleachdadh tuairmse prìomh-shruthach de 500,000 mìle uair a thìde airson 250,000,000 bliadhna, astar 1,095,000,000,000,000,000 mìle, a ’cleachdadh am Formula agam gheibh mi 1,011,954,093,357,316,200 mìle, cho faisg gu leòr thairis air an astar sin. Tha Saidheans Deuchainneach stèidhichte air a h-uile lùth a’ tighinn bho Solas Dhè taobh a-staigh gach Atom Trinary, a ’ciallachadh 3 seòrsa: Proton, Neutron agus Electron a thaobh Solas, mar sin, tha a h-uile Math Trinary stèidhichte air Dealan. Nuair a thèid a chrìochnachadh bidh an galaxy-calculator, pròiseact github Open Source, a tha mar-thà a ’tomhas an aon chlàr seo, cuideachd a’ dealbhadh gu grafaigeach slighe t he Suns or Stars, fhad ‘s a bhios iad a’ gluasad timcheall an Galaxy, aon uair ‘s gu bheil iad deiseil, cuiridh mi an àite na h-ìomhaighean sa chlàr seo. Tha dà roghainn agad, creid Sir Isaac Newton gur e Dia Feachd Gravity anns a h-uile co-aontar aige, no faodaidh tu a bhith a ’creidsinn Albert Einstein a chaidh às àicheadh u200bu200ba chuid teòiridhean uile airson Dia Newtons mar Fheachd Gravity, an dàrna cuid tha mi nas fhaisge air a bhith ceart na Saidheans Prìomh-shruthach, seach gu bheil e stèidhichte air teòiridh nach robh Einstein eadhon a ’creidsinn ann. Anns an fhoirmle seo, bidh mi a’ cur suas na Freiceadan Rianachd an àite a bhith a ’cleachdadh Sine agus Cosine, chan e Simulator a tha seo, bidh e a’ tomhas a h-uile slighe stèidhichte air an aon rud Sun, agus Meud Livable Planet, gus nach obraich e ach airson na Track (s) a tha a ’toirt taic do Bheatha, agus mar sin bidh e a’ tomhas far am faod Beatha a bhith stèidhichte air na meudan sin. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "An Galaxy a’ snìomh a h-uile siostam grèine aig an aon ìre "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "An Galaxy a’ snìomh a h-uile siostam grèine aig an aon ìre "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "An Galaxy a’ snìomh a h-uile siostam grèine aig an aon ìre ach gun astar "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Meud slàn"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Is e 3 Math Dimensional a th’ ann an Trinary Math oir tha e stèidhichte air Dealan ris an canar Solas cuideachd, ris an canar Newton Dia. "
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Ma tha thu a’ faicinn a ’Ghrian mar a bhith ag atharrachadh rionnag dorcha anns a’ phlèana Galactic, "
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "agus a bhith a’ rèiteachadh Rionnag Trinary, mar sin is e Sirius an Rionnag Binary againn, "
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "agus tha cuideachd Dark Star Companions a bhios a’ dol timcheall nan Siostaman Rionnag Trinary (Our Sun, Sirius agus Rionnag Dorcha). "
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Tha an clàr seo a’ tomhas tricead an Waveform seo a chithear san dealbh seo. "
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "a bharrachd air na Speeds ris am bi e a’ siubhal fhad ‘s a bhios e a’ dàibheadh u200bu200ba-steach don Plèana Galactic aig an astar as àirde, "
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "agus mar a tha e aig an astar as ìsle mar a gheibh e an ìre as fhaide ann an Amplitude mus tum e air ais dhan Plèana Galactic."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Slighe orbital na grèine timcheall air Galaxy aon tionndadh"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Slighe orbital na grèine timcheall air Galaxy aon Orbit iomlan"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Dealbh A2: Slighe Orbital coileanta na grèine timcheall air Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Meud slàn"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Rian"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Einnseanan"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Max Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "ann am MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "ann am MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Tricead"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "ann an Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Astar Orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "ann am Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Rian"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Tricead"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Pàipear-taice Clàr A: Clàr Rian Galactic Matamataig Deuchainneach Matrix"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Cleachdadh: (Meud na grèine ann am mìltean ann an trast-thomhas) (Meud Planet Livable ann am Mìltean ann an Trast-thomhas) (Àireamh de Einnseanan Deuchainneach)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius of Galaxy in Miles) (Ainm faidhle slàn: appendix.a.xhtml) (Nth Àireamh an t-sreath airson clò-bhualadh)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Leigidh seo dhut a dhol a-steach do Galaxies eile, agus cluich le diofar mheudan Sun agus Planet."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Suidhich ThisPrintNth u003d 1 ma tha thu airson dìreach na naoidheamh sreathan a chlò-bhualadh, suidhich trackNth gu àireamh airson sgiobadh,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "Bheir 66 dhut mu 21 Ceòl, ma shuidhicheas tu e gu 1 clò-bhualaidh e a h-uile Trac,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "suidhich DoNotSkipThis u003d 666 no dè an àireamh a-riamh a tha thu airson fhaicinn,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "bidh seo a’ sàbhaladh pàipear le bhith a ’clò-bhualadh dìreach pàirt de na sreathan sa chlàr; is e seo an 6mh Argamaid, bidh mi a’ feuchainn ris an fheadhainn sin a chuingealachadh. "
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Ceangal gu faidhle Bash a chruthaich an duilleag seo (Sàbhail is suidhich ceadan ri ruith.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Ma ruitheas tu Sgriobt Bash mar: ./makeappendix.a.sh no ./makeappendix.a.sh --help, bheir e cuideachadh agus barrachd mion-fhiosrachaidh dhut."
+

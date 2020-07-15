@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "                                                                                                                                                                                                                                       תרצוי תיראנירטמ הקיטמתמל יטקלגה קסידה לולסמ לש הלבטה טפירקס"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "                                                                                                                                                                                                                                                                                      ןורחא ןוכדעה"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "                                                                                                                                                                                                                                                                                       הנתשה ךיראת"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "                                                                                                                                                                                                                                                                                          שמש לדוג"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "                                                                                                                                                                                                                                                                                    םייח בכוכ לדוג"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "                                                                                                                                                                                                                                                                               הירנירטה יעונמ רפסמ"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "                                                                                                                                                                                                                                                                                      יסקלג סוידלג"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "                                                                                                                                                                                                                                                                    יסקלגב םילולסמה לש ללוכה רפסמה"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "                                                                                                                                                                                                                                                                                  ירפסומטא ץחל דדמ"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "                                                                                                                                                                                                                                                                                      רטוקב םיליימ"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "                                                                                                                                                                                                                                                                                            םיליימ"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "                                                                                                                                                                                                                                      תיראנירטה תיטקלגה לולסמה תלבט :א חפסנ :ירנירטה םוקיה תונורקע"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "                                                                                                                                                                                                              הלסט הלוקינו ןוטוינ קזיא רס ומכ םיפשכמ וא דראזיוו רוא תונורקע ,רשלפ טוקס ירפ'ג :רבחמ"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "                                                                                                                                                           רשלפ טוקס ירפ'ג ,פטס ,שמש ,הקיזיפ ,טלקמ ,םוקי ,ירנירט ,ךשוח ,סאבע / רב ,ושי ,םיהולא ,ןילקנרפ ,הלסט ,ינוטוינ ,ןוטוינ ,םסוק ,דראזיוו ,רוא"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "                                                                                                                                                                                                              הלסט הלוקינו ןוטוינ קזיא רס ומכ םיפשכמ וא דראזיוו רוא תונורקע ,רשלפ טוקס ירפ'ג :רבחמ"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "                                                                                                                                                                                                                                                                                           :א חפסנ"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "                                                                                                                                                                                                                                                                           ינירט יטקלג לולסמ ןחלוש"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "                                                                                                                                                                                                                                                                             ירנירטה םוקיה תונורקע"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight ו- CopyLeft תאמ"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "                                                                                                                                                                                                                                                                                   רשלפ טוקס ירפ'ג"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "                                                                                                                                                                                                                                             יאופר סומידב ינקירמאה ריוואה ליחu200bu200b לש הטמ למס"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "                                                                                                                                                                                                                                                                           ינירט יטקלג לולסמ ןחלוש"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "                                                                                                                                                                                                                                                                       :לע תססובמ תירנירטה היסקלגה"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "                                                                                                                                                                                                                         .קסידה וא טילקתה אוה יטקלגה סוטמה ,םיטילקת ןגנ לע תססובמ תירנירטה היסקלגה"
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "                                                                                                                                                                                                            .ולשמ תוריהמ שי לולסמ לכלו ,םיטילקתה ןגנ עורז ומכ בצק ותואב היסקלגה תא םיפיקמ סנאסה לכ"
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "                                                                                                                                                                                                                                                                  :כ תרדגומה ןמז תפוקת איה היצרטיא"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "                                                                                                                                                                                                                       ,םומינימו עצוממ ,םומיסקמכ ןאכ בשחא ינא .םינשב הרדגוהש ןמז תפוקת איה היצרטיא"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "                                                                                                                                                                                                     .היאמהו ינאירוגרגה ,ינאילו'גה הנשה חולב תושמתשמו תולזמה לגלג ינמיס תועצמאב תונמוסמ הלא תופוקת"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "                                                                                                                                                                                                                                                                  :לע ססובמ ירנירטמ סקירטמ הקיטמתמ"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "                                                                                                                                                                                                         .יטקלגה קסידב לולסמ איה הרוש לכ .תוצירטמ תלבט לע תססובמ תירנירטמu200bu200b הצירטמ הקיטמתמ"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "                                                                                                                                                                                                                                                .םייחב םיכמותה היסקלגב םי / שמשה לע םינותנ רוט לכל"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "                                                                                                                                                                                                                                          .םהב דורשל םילוכי םישנאש םיעודי היגרנא יחווט לע ססובמ הז"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "                                                                                                                                                                                                                                                                      :לע ססובמ הזה ירנירטה ןויערה"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "                                                                                                                                                                                                                                               ,9 ליגב דליכ ימצע םע יתיליגש הזכ אוה ירנירטה ןויערה"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "                                                                                                                                                                                                               .היסקלגב ולש הדובעה תא תושעל ידכ תעדל ךירצ היהש עדימה לכ תא שי שמשלש ךכ לע ססובמ הז"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "                                                                                                                                                                                                                                                               ,ןוטוינ קיזייא רס ראתמ המ יתנבה םעפ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "                                                                                                                                                                                                                                                      ,ולש שמשה תכרעמל רשק לכ שי זייס סנאסלש יתנבה"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "                                                                                                                                                                                                                                               ,ולש םינייפאמה ךמס לע :יתלוכיש המ לכ בשחל יתלחתה זא"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "                                                                                  .דומעה תיתחתב אצמנ רושיקה ,ןובשחמ-יסקלג ארקנש Qt Quick QML JavaScript cross platform platform Open Source Project יתבתכ םגו ,וזה סקירטמה תלבט תא ליכמש הז XHTML ךמסמ ץבוק רוציל ידכ הזה Bash -ה טפירקס תא יתבתכו"
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "                                                                                                                                                                                                                                                                              לש שמש לדוג לע ססובמ"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "                                                                                                                                                                                                                                                                                      רטוקב םיליימ"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "                                                                                                                                                                                                                                                                                          לע ססובמ"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "                                                                                                                                                                                                                                                                                     הירנירט יעונמ"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "                                                                                                                                                                                                                                                                       לש סוידר םע היסקלג לע ססובמ"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "                                                                                                                                                                                                                                                                           םילולסמה לש ללוכה רפסמה"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "                                                                                                                                                                                                                                                                                     תיברמ היצרטיא"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "                                                                                                                                                                                                                                                                                    תעצוממ היצרטיא"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "                                                                                                                                                                                                                                                                                  תילמינימ היצרטיא"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "                                                                                                                                                                                                                                                                                            :לולסמ"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "                                                                                                                                                                                                                                             .666 םיימעפ דע 0 לע ססובמ ,ונלש היסקלגה רפסמ רחא בוקע"
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "                                                                                                                                                                                                                                ,םיהכ םיבכוכ םהש ןוויכמ םיילילש הנירט יעונמ שי 336- ל תחתמ תועוצרל"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "                                                                                                                                                                                                                      .םיילילש םירדתל םירפסמה תא םיכפוהו תויסקלגה חוכ לש הדשה תועבט םע םיבברעתמ םה"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "                                                                                                                                                                                                                                                                                    :הירנירט יעונמ"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr " . תונוש תויוריהמב העונת בצק ותוא לע רמוש לפאה בכוכה וליאו ,םירחאה תכלה יבכוכ תא ליכהל ידכב ,קחרמה תא ביחרהל שרדנ אוה ,םילפאה םיבכוכה רתוי םיארקנש הירנירטה יעונמ ךכ ,היסקלגהמ רתוי קוחר אוהש לככש ךכ ,לעופ בכוכ כ םג עודיה שמשה לולסמ תא םירידסמ הירנירטה יעונמ רפסמ ךכו ,ותוא ליכהל ידכ הנירנרט י"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr " . 2103 תנשב אצמנש ,םיגדה בנז ינפלו 2012 ירחא הרקי הזש ועדי םהו ,םרובע תדבוע דימת הקיטמתמהש ךכ ,2012 תנש לש תויצארטיאב ןמזה רחא םיבקוע היאמה עודמו ,ןוכנל ןוטוינה בושיח תא ךפוהש המ ,ךנתה דוק הז םע וק רשיי אוהש ךכ ,ינאירוגרגה הנשה חול גצוה עודמו ,2060 תנש אוה גדה לש בנזה ,2012 ירחא חתפיהל לי"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "                                                                                                                                                                                                                                                                          :MPH -ב תילאמיסקמ תוריהמ"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "                                                                                                                                                                                                                                           .יטקלגה סוטמה ךרד עונל הלוכי שמשה תיברמה תוריהמה ךמס לע"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "                                                                                                                                                                                                                                                                            :MPH -ב תוריהמ םומינימ"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "                                                                                                                                                                                                                          .יטקלגה סוטמה תא הרבעש ירחא עונל הלוכי שמשהש תילמינימה תוריהמה לע ססבתהב"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "                                                                                                                                                                                                                                                                                        :Hz -ב רדת"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "                                                                                                                                                                                                                            :הברהב םיהובג תויהל םיכירצ חטשה ירדת ,ץראה רודכ לש הבילה רדת לע ססבתהב"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "                                                                                                                                                                                                                                                            .2019 :הנשב ץרה 7.830 לש םייח בכוכ רדת"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "                                                                                                                                                                                                                                                                                       :לולסמ קחרמ"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "                                                                                                                                                                                                                                                        .ליימב לולסמה ףקיה הז ,דרוקרב לולסמ ומכ הז"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "                                                                                                                                                                                                                                                                               :Hz -ב רדת רחא בוקע"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "                                                                                                                                                                                                                                               ,היסקלגה ביבס הענ ונלש שמשהש סקילה תרוצ לע ססובמ הז"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "                                                                                                                                                                                                                                                        .יטקלגה סוטמה תא םירבוע ונחנאשכ בשחמ םג הז"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "                                                                                                                                                                                                                                                                            :םימקוממ היסקלגב םייחה"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "                                                                                                                                                                                                                                                                     666 לולסמב היסקלגב םייחה עגרכ"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "                                                                                                                                                                                                                        .לולסמ הנשנ ,ונלש שמשה תכרעמ וא םלועה תא בוזעי וא סנכיי שדח ירנירט עונמ םא"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "                                                                                                                                                                                                                                                                ,2060 תנשב היופצש בטוקה תרמשמ ירחא"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "                                                                                                                                                                                                                    .תולזמה לגלג תלבטב םיכיראתב שמתשהלו ךישמהל וא ,0 תנשמ שדח הנש חול ליחתהל םכילע"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "                                                                                                                                                                                                                                                            .םשג תא ןמסת חרק תפוקתו ,ילדה ןדיע והז"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "                                                                                                                                                                                                                                  ,קוריו םודאב גצומ :הזמ הז םינוש םילולסמ לע תושמש יתש רחוב התא םא"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "                                                                                                                                                                                                                           ,היסקלגה תא תופקמה תושמשה תא המדמה וזה הנומתה תא יתבבוס ינאשכש יתניימדו"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "                                                                                                                                                                                                                                       ,הז תא תופקמ ןהשכ רותב תוראשנ היסקלגב תושמשה לכש ןייצמ תייה"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "                                                                                                                                                                                                                                                          ,יתעד תא ןיינעמ הז לבא העורג היצלומיס וז"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "                                                                                                                                                                  .תאז השעת תידמימ-תלת הקיטמתמ לבא ,ןאכ ךל ורזעי אל ןוטוינהו רלפק לש הקיטמתמהו םיקוחהש ךכ ,סנאס לש שמשה תכרעמל ההז הניא וז הקיטמתמ"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr " .הלאה םילדגה לע ססבתהב םייקתהל םילוכי םייחה ןכיה בשחמ אוה ךכו ,םייחב םיכמותה (םי) לולסמה רובע קר דבוע אוהש ךכ ,Planetable Livable Size -ו ,שמש רבד ותוא סיסב לע תועוצרה לכ תא בשחמ אוה ,רוטלומיס אל הז ,Cosine -ו Sine -ב שמתשהל םוקמב לולסמה ירדת תא ףיסומ ינא וז החסונב .הב ןימאה אל וליפא ןייטש"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "                                                                                                                                                                                                                                                       בצק ותואב שמשה תוכרעמ לכ תא תררחתסמ היסקלגה"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "                                                                                                                                                                                                                                                       בצק ותואב שמשה תוכרעמ לכ תא תררחתסמ היסקלגה"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "                                                                                                                                                                                                                                         תוריהמב אל ךא בצק ותואב שמשה תוכרעמ לכ תא תררחתסמ היסקלגה"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "                                                                                                                                                                                                                                                                                          אלמ לדוג"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "                                                                                                                                                                                           .םיהולא הניכ ןוטוינ ותוא ,רוא םג הנוכמה למשח לע תססובמ איהש ןוויכמ תידממ תלת הקיטמתמ איה תשלושמ הקיטמתמ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "                                                                                                                                                                                                                                                     ,יטקלגה סוטמב לפא בכוכ ףיקמכ שמשב האור התא םא"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "                                                                                                                                                                                                                                       ,ונלש יראניבה בכוכה אוה סויריסש ךכ ,ירנירט בכוכ תרוצת ילעבו"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "                                                                                                                                                                                                   .(לפא בכוכו סויריס ,ונלש שמשה) םיירנירטה םיבכוכה תוכרעמ ביבס םיבבותסמש לפאה בכוכל םיוולנ םג שיו"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "                                                                                                                                                                                                                                            הז רויאב תגצומה וז לג תרוצ לש תורידתה תא תבשחמ וז הלבט"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "                                                                                                                                                                                                                        ,תיברמה תוריהמב יטקלגה רושימל ללוצ חוכ איהש ןמזב תרבוע איהש תוריהמה םג ומכ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "                                                                                                                                                                                                        .יטקלגה רושימל הרזח ללוצ אוהש ינפל תערשמב קוחר יכה עיגמ אוהש לככ תילמינימה תוריהמב הז ךיאו"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "                                                                                                                                                                                                                                                       תחא הכפהמ היסקלג ביבס שמשה ביבס ליבשה לולסמ"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "                                                                                                                                                                                                                                                      דחא םלש לולסמ היסקלג ביבס שמש לש לולסמ לולסמ"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "                                                                                                                                                                                                                                                      היסקלגה ביבס שמש לש אלמ לולסמ לולסמ :A2 רויא"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "                                                                                                                                                                                                                                                                                          אלמ לדוג"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "                                                                                                                                                                                                                                                                                             לולסמ"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "                                                                                                                                                                                                                                                                                            ירנירט"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "                                                                                                                                                                                                                                                                                            םיעונמ"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "                                                                                                                                                                                                                                                                                   תילמיסקמ תוריהמ"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "                                                                                                                                                                                                                                                                                            MPH -ב"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "                                                                                                                                                                                                                                                                                       תוריהמ תוקד"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "                                                                                                                                                                                                                                                                                            MPH -ב"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "                                                                                                                                                                                                                                                                                            תורידת"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "                                                                                                                                                                                                                                                                                             Hz -ב"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "                                                                                                                                                                                                                                                                                       ילולסמ קחרמ"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "                                                                                                                                                                                                                                                                                            סליימב"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "                                                                                                                                                                                                                                                                                             לולסמ"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "                                                                                                                                                                                                                                                                                            תורידת"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "                                                                                                                                                                                                                                            יטקלג לולסמ הלבט תינורטמ תירנירטמ הקיטמתמ :א הלבט חפסנ"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "                                                                                                                                                                                                (הנירנרט יעונמ רפסמ) (רטוקב רטמוליקב תויחל ןתינ ץראה רודכ לדוג) (רטוקב םירטמוליקב שמש לדוג) :שומיש"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "                                                                                                                                                                                                                           (סיפדהל הרושה רפסמ) (a.xhtml.חפסנ :אלמ ץבוק םש) (םיליימב היסקלגה סוידר)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 חפסנ.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "                                                                                                                                                                                                                               .םינוש םיבכוכו שמש ילדג םע קחשלו ,תורחא תויסקלגל סנכיהל ךל רשפאמ הז"
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "                                                                                                                                                                                                ,וילע גלדל רפסמל trackNth תא רדגה ,תויעישתה תורושה תא קר סיפדהל ךנוצרב םא ThisPrintNth u003d 1 עבק"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "                                                                                                                                                                                                                                     ,םילולסמה לכ תא סיפדת 1- ל הז תרדגה ,םיריש 21 ךרעב ךל ןתונ 66"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "                                                                                                                                                                                                                                  ,תוארל הצור התא םעפ יא רפסמ הזיא וא DoNotSkipThis u003d 666 רדגה"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "                                                                                                                                                                                                          .הלא תא ליבגהל הסנמ ינא .תישישה הנעטה הז ;הלבטב תורושהמ קלח תספדה ידי לע קר ריינ ךסוח הז"
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "                                                                                                                                                                                                                                          :(.הלעפהל תואשרה רדגהו רומש) הז ףד רציש Bash ץבוקל רושיק"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "                                                                                                                                                                                 .םיפסונ םיטרפו הרזע ךל ןתיי הז ,makeappendix.a.sh --help/. וא makeappendix.a.sh/. :ומכ שבה טפירקס תא ליעפמ התא םא"
+

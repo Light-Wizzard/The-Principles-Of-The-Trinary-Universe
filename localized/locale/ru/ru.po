@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Скрипт таблицы трэков Matrix Math Galactic Disk Track создается"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Последнее обновление"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "«Дата изменена»"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Размер Солнца"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Размер Живой Планеты"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "«Количество триных двигателей»"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Галактика Радиус"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "«Общее количество треков в галактике»"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "«Индекс атмосферного давления»"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "миль в диаметре"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "«мили»"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "«Принципы Тройной Вселенной: Приложение A: Таблица Тройной Галактической Треки»"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "«Автор: Джеффри Скотт Флешер, Принципы Светлого Волшебника или Волшебники, такие как сэр Исаак Ньютон и Никола Тесла»"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Свет, Волшебник, Волшебник, Ньютон, Ньютон, Тесла, Франклин, Бог, Иисус, Бар / Аббас, Тьма, Тринар, Вселенная, Святилище, Физика, Солнце, Шаг, Джеффри Скотт Флешер"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "«Автор: Джеффри Скотт Флешер, Принципы Светлого Волшебника или Волшебники, такие как сэр Исаак Ньютон и Никола Тесла»"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Приложение: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "«Стол трёхмерной галактической дорожки»"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "«Принципы Тройной Вселенной»"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "«CopyRight и CopyLeft by»"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Джеффри Скотт Флешер"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "«Сержант военно-воздушных сил США в отставке с медицинской точки зрения»"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "«Стол трёхмерной галактической дорожки»"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "«Тройная галактика основана на:»"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "«Тройная галактика основана на проигрывателе записей, галактический самолет - это запись или диск»."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "«Все Солнца вращаются вокруг Галактики с одинаковой скоростью, как и рука Рекордного игрока, и каждый трек имеет свою собственную скорость»."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "«Итерация - это период времени, определяемый как:»"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "«Итерация - это период времени, определенный в годах, здесь я буду рассчитывать как максимум, среднее и минимальное»"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "«Эти периоды обозначены знаками зодиака и используют юлианский, григорианский и майянский календарь»."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "«Матрица Тройной Матрицы основана на:»"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "«Матрица Тройной Матрицы основана на Матричной Таблице, каждая строка - это Дорожка в Галактическом Диске»"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "«В каждом столбце есть данные о Солнце (ах) в Галактике, которое поддерживает Жизнь»."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "«Это основано на известных энергетических диапазонах, в которых люди могут выжить»."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "«Эта троичная концепция основана на:»"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "«Концепция Trinary - это концепция, которую я придумал в детстве к 9 годам»."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "«Оно основано на том, что Солнце обладает всей необходимой ему информацией для работы в Галактике»."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "«Однажды я понял, что описывал сэр Исаак Ньютон»"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "«Я понял, что Размер Солнца имеет все отношение к его Солнечной системе»"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "«поэтому я начал вычислять все, что мог: на основе его свойств»"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "«и написал этот Bash Script для создания этого файла документа XHTML, который содержит эту матричную таблицу, и я также написал кроссплатформенный проект с открытым исходным кодом JavaScript Qt Quick QML под названием galaxy-calculator, ссылка находится внизу страницы»."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "На основании Солнечного размера"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "миль в диаметре"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "«На основании»"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Тройные Двигатели"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "«На основе галактики с радиусом»"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "«Общее количество треков»"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "«Максимальная итерация»"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "«Средняя итерация»"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "«Минимальная итерация»"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "«Трек:»"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "«Отслеживайте номер нашей Галактики, от 0 до 666»."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "«Треки ниже 336 имеют Отрицательные Тринарные Двигатели, потому что они Темные Звезды»"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "«они смешиваются с Кольцами Силового Поля Галактик, делая числа Отрицательными Частотами»."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Трина:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "«Исходя из того, сколько объектов (планет, микропланет, лун, астероидов) или тринарных двигателей, тринарный двигатель в таблице относится только к темным звездам-компаньонам, они обязаны сохранять Солнечную систему вместе, темную энергию в этих типах. Триных Двигателей - это Весь Свет без Тьмы, хотя Свет без Тьмы относится к Спектрам Света, которые обычно не видимы в видимом спектре. Люди могут видеть, без технологии полного спектра, эти типы Тринарного Двигателя состоят из Нейтрино, которые являются темными по внешнему виду, если их рассматривать. с технологией, потому что технология не может видеть свет без тьмы через нейтронную оболочку, то есть внешние частицы Тройного Атома, в настоящее время нет технологии для обнаружения темных звезд, но изображения полного спектра могут определять свои паттерны как темную энергию. управляйте Солнцами или Звездами, создавая сеть Темной Энергии, спутники Темной Звезды, вращающиеся между Солнцем в Солнечной системе с Планетами и Лунами и его Двойным аналогом. t, в нашем случае это Сириус, Двойная Звезда, поэтому, чем ближе Солнце или Звезда к Галактике, тем меньше Тройных Двигателей, необходимых для ее удержания, таким образом, число Тройных Двигателей регулирует то, что Отслеживает Солнце, также известное как Звезда включена, поэтому чем дальше от Галактики, тем больше Тройных Двигателей, называемых Компаньонами Темной Звезды, требуется, чтобы охватить расстояние, чтобы содержать другие Планеты, в то время как Темная Звезда поддерживает одинаковую скорость движения на разных скоростях. «."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "«Поддержание одной и той же Скорости на разных скоростях регулируется самой Темной Звездой, и она находится на Галактическом Плане, и Солнце, также известное как Звезды, проходит мимо него. Работа Компаньонов состоит в том, чтобы сохранять солнечную систему вместе. В изображении I покажите, что Бинарная Звезда Сириус и наше Солнце находятся на противоположных сторонах Галактического Плана, это верно только при прохождении через него и выходе из него, насколько я могу доказать. Тринарная математическая формула для прививки или нанесения переменного тока в форме волны спирали, основывается на частоте, которая коррелирует с нашим интервалом Солнца с точки зрения времени и расстояния, но из-за современной науки, мейнстрим закрытия может рассчитывать между 30 и 33 миллионами лет, поэтому я сделал переменную, так что его можно настроить на правильное значение, это приложение предназначено для ввода любой галактики, таким образом, оно не влияет на мои расчеты, когда мы перевернем полюса, потому что это только вопрос того, где мы находимся в самом сигнале, и делает даже не зависит от того, в каком направлении мы направляемся, то есть на Галактический План или от него, это имеет значение только там, где мы находимся в терминах самого Сигнала. Я называю Гравитацию Сигналом, потому что Бог - это Весь Свет без Тьмы, и это Сила Гравитации во всех Уравнениях Ньютонов, как и у меня, и это Гравитация, которую я рассчитываю для Галактики и ее Солнц, также известных как Звезды , Темные Звезды и их Спутники - это особый тип Тринарного Двигателя, и, как и все Тринарные Двигатели, они являются Теоретическими, потому что их нельзя ни доказать, ни опровергнуть, и заявляя, что у вас должна быть Вера, Бог существует, это то, что Ньютон сказал в Библии, но это не наука, даже Ньютон сказал, что вместо этого я утверждаю, что тринарные двигатели испускают эти сигналы, которые могут быть обнаружены современной технологией, поэтому я могу утверждать, что они являются фактом в тринарной науке, а доказательство - с использованием текущей технологии. Чтобы отобразить данные в таблице, я использовал следующие данные в качестве переменных: размер Солнца - 864 575,9 миль в диаметре, размер пригодной для жизни планеты - 7926,2109 миль в диаметре, число триных двигателей - 333 из Библии, радиус галактики - 241828072282107.5071453596951 миль, Полное имя файла: appendix.a.xhtml и 66 строк для печати, то есть для Bash Script, у меня есть еще больше контроля в приложении Qt, Trinary Math - это просто, чтобы получить период итераций, мне нужно только знать размер Солнца, (864 575,9 * (1/137)) / 3 u003d максимальный год 2103, средняя итерация основана на магнитных инверсиях полярности Солнца, она меняет полярность 10 (0 - 9) раз в столетие: 100 - 9 u003d 91, то есть 2103 - 91 u003d 2012, чтобы вычислить Конец Времени, используйте 42 из Справочника Автостопщика по Галактике, 42 гексагон - это 66 в десятичном виде, то есть из Библии, и 2103 - 42 u003d 2061, и Сэр Исаак Ньютон рассчитал это в 2060 году по юлианскому календарю, поэтому по григорианскому календарю это 2061 год, так что это Год, когда Земля должна повернуть вспять Полюсов, и я бы не стал воспринимать это событие как-то Легко, это Конец Времени, также известный как Конец Цивилизации, каким мы его знаем, поэтому знание Величины Солнца - это все, что вам нужно знать, чем тот факт, что он работает, только если вы начинаете свой год с 0, и почему календарь майя начинается заново после 2012 года, хвост рыбы - это 2060 год, и почему был введен григорианский календарь, чтобы он соответствовал этому Библейский код, делающий правильный расчет Ньютонов, и почему майя следят за временем в итерациях 2012 года, поэтому математика всегда работает для них, и они знали, что это произойдет после 2012 года и до «Хвоста рыбы», то есть в 2103 году «."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "«Максимальная скорость в милях в час:»"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "«Исходя из максимальной скорости, Солнце может путешествовать через Галактический План»."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Минимальная скорость в милях в час:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "«Исходя из минимальной скорости, Солнце может путешествовать после прохождения Галактического Плана»."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "«Частота в Гц:»"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "«Исходя из частоты ядра планеты, поверхностные частоты должны быть намного выше:»"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "«Частота жизни на планете 7,830 Гц в год: 2019.»"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Орбитальное расстояние:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "«Это похоже на дорожку на записи, это окружность дорожки в милях»."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "«Частота следа в Гц:»"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "«Это основано на форме спирали, в которой наше Солнце движется вокруг Галактики»"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "«Он также рассчитывает, когда мы проходим через Галактический План»."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "«Жизнь в Галактике находится:»"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "«В настоящее время жизнь в Галактике идет по следу * 666»"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "«Если новый двигатель Trinary войдет в наш Мир или Солнечную систему или покинет ее, мы поменяем треки»."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "«После Полярного сдвига в 2060 году»"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "«Вы должны начать новый календарь, начиная с года 0, или продолжить и использовать даты в таблице зодиака»."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "«Это Эра Водолея, и Ледниковый период отметит его дождь»."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "«Если вы выберете два Солнца на разных дорожках напротив друг друга: показаны красным и зеленым»"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "«И вообразил, что когда я поворачиваю это изображение, имитирующее Солнца, вращающиеся вокруг Галактики»"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "«Вы бы заметили, что все Солнца в Галактике остаются на одной линии, когда они вращаются вокруг нее»"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "«Это плохая симуляция, но она делает мою точку зрения»"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "«эта Математика не такая же, как для Солнечной Солнечной системы, поэтому законы и математика Кеплера и Ньютона не помогут вам здесь, но поможет Тринарная математика»."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "«Тринарная математика, которую я создал в возрасте 9 лет, работает над решением этой проблемы, представленной галактиками, используя логику: скорость u003d расстояние / время и расстояние u003d скорость * время, поэтому скорость и расстояние относятся к частоте, так что: частота u003d 1 / Время и время u003d 1 / Частота, такая, что: частота (Гц) u003d скорость света (расстояние @ 670 616 629 миль / ч * 1 час; ~ частота в милях за 1 час или время) / длина волны в милях с использованием оценки основного потока в 500 000 миль час в течение 250 000 000 лет - это расстояние 1 095 000 000 000 000 000 миль, используя мою формулу, я получаю 1 011 954 093 357 316 200 миль, достаточно близко на таком большом расстоянии. 3 типа: Протон, Нейтрон и Электрон в случае Света, как таковые, вся Тринарная Математика основана на Электричестве.После завершения галактического калькулятора, проект с открытым исходным кодом github, который уже вычисляет эту же таблицу, также будет графически отображать путь т Когда Солнца или Звезды, когда они будут вращаться вокруг Галактики, после завершения, я заменю изображения в этой таблице на те, что были. У вас есть два варианта, поверьте сэру Исааку Ньютону, что Бог является силой гравитации во всех его уравнениях, или вы можете верить Альберту Эйнштейну, который осудил все его теории в пользу ньютоновского Бога как силы гравитации, в любом случае, я ближе к тому, чтобы быть прямо как Mainstream Science, потому что она основана на теории, в которую Эйнштейн даже не верил. В этой формуле я добавляю частоты треков вместо использования синуса и косинуса, это не симулятор, он рассчитывает все треки на основе одного и того же Солнце и Размер Живой Планеты, так что он работает только для Трека (-ов), который поддерживает Жизнь, поэтому он рассчитывает, где Жизнь может существовать, основываясь на этих размерах »."
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "«Галактика вращает все солнечные системы с одинаковой скоростью»"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "«Галактика вращает все солнечные системы с одинаковой скоростью»"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "«Галактика вращает все солнечные системы с одинаковой скоростью, но не со скоростью»"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Полный размер"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "«Тринарная Математика - это Трехмерная Математика, потому что она основана на Электричестве, также известном как Свет, который Ньютон называл Богом»."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "«Если вы рассматриваете Солнце как вращение вокруг Темной Звезды на Галактическом Плане»"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "«и имея конфигурацию Trinary Star, такую, что Сириус является нашей двоичной звездой»"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "«И есть также Компаньоны Темной Звезды, которые обитают вокруг Тринарных Звездных Систем (Наше Солнце, Сириус и Темная Звезда)»."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "«Эта таблица вычисляет частоту этой формы волны, показанной на этой иллюстрации»"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "«а также скорости, с которыми он движется, когда его сила погружается в Галактический План с максимальной скоростью»"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "«и как он работает на минимальной скорости, так как он получает максимальную амплитуду до того, как погрузится обратно в галактический план»."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "«Орбитальный путь Солнца вокруг Галактики за один оборот»"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Орбитальный путь Солнца вокруг Галактики одна полная орбита"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "«Иллюстрация A2: Завершить орбитальный путь Солнца вокруг Галактики»"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Полный размер"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "«Трек»"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "«Двигатели»"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Максимальная скорость"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "в милях в час"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "в милях в час"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "«Частота»"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "в Гц"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Орбитальная дистанция"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "в милях"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "«Трек»"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "«Частота»"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "«Таблица Приложение A: Таблица галактических треков по трёхмерной математике»"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "«Использование: (Размер Солнца в милях в диаметре) (Размер пригодной для жизни планеты в милях в диаметре) (Количество триных двигателей)»"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "«(Радиус Галактики в милях) (Полное имя файла: appendix.a.xhtml) (N-й номер строки для печати)»"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "«Это позволяет вам входить в другие галактики и играть с разными размерами Солнца и Планеты»."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "«Установите ThisPrintNth u003d 1, если вы хотите печатать только n-ые строки, установите trackNth на число, чтобы пропустить»"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "«66 дает вам около 21 трека, если установить значение 1, будут напечатаны все треки»."
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "установите DoNotSkipThis u003d 666 или любой номер, который вы хотите увидеть"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "«это экономит бумагу, печатая только часть строк в таблице; это 6-й аргумент, я пытаюсь ограничить их»."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Ссылка на файл Bash, который создал эту страницу (сохранить и установить разрешения на запуск.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "«Если вы запустите скрипт Bash, например: ./makeappendix.a.sh или ./makeappendix.a.sh --help, он предоставит вам справку и дополнительные сведения»."
+

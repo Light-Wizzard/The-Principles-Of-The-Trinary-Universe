@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Trinary Matrix Math Galactic Disk Track Table Script opretter"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Sidste ændring"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Dato ændret"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Solstørrelse"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Livable Planet Size"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Antal trinmotorer"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Samlet antal spor i Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Atmosfærisk trykindeks"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "miles i diameter"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "miles"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Principperne for det trinære univers: Tillæg A: Trinært galaktisk sporbord"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Forfatter: Jeffrey Scott Flesher, Principles of Light Wizzard eller troldmænd som Sir Isaac Newton og Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Lys, Wizzard, Troldmand, Newton, Newtonian, Tesla, Franklin, Gud, Jesus, Bar / Abbas, mørke, Trinary, Universet, Sanctuary, Fysik, Sun, Step, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Forfatter: Jeffrey Scott Flesher, Principles of Light Wizzard eller troldmænd som Sir Isaac Newton og Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Bilag A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Principperne for det trinære univers"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight og CopyLeft by"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Medicinsk pensioneret De Forenede Staters luftvåbens stabssergeant"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Den Trinary Galaxy er baseret på:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Trinary Galaxy er baseret på en pladespiller, det galaktiske plan er posten eller disken."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Alle solerne kredser om galaksen i samme takt som pladespillerens arm, og hvert spor har sin egen hastighed."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "En Iteration er en tidsperiode defineret som:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "En Iteration er en tidsperiode defineret i år, jeg beregner her som maksimum, gennemsnit og minimum,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "Disse perioder er mærket ved hjælp af stjernetegnene og bruger den julianske, gregorianske og maya-kalenderen."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Trinematrixmatematik er baseret på:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Trinematrixmatematik er baseret på en matrixtabel, hver række er et spor på den galaktiske disk,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "hver søjle har data om solen (e) i galaksen, der understøtter livet."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Dette er baseret på kendte energiområder, som mennesker kunne overleve i."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Dette Trinary Concept er baseret på:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Det Trinære Koncept er et, som jeg kom med mig selv som barn i en alder af 9,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "det er baseret på, at Solen har al den information, den havde brug for at vide, for at gøre sit job i galaksen."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "”En gang forstod jeg, hvad Sir Isaac Newton beskrev,”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Jeg indså, at Suns Size har alt at gøre med sit solsystem,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "så jeg begyndte at beregne alt hvad jeg kunne: baseret på dets egenskaber,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "og skrev dette Bash-script for at oprette dette XHTML-dokument Fil, der indeholder denne matrixtabel, og jeg skrev også et Qt Quick QML JavaScript cross platform Open Source Project kaldet galakse-regnemaskine, linket er nederst på siden."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Baseret på en solstørrelse på"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "miles i diameter"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Baseret på"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Trine motorer"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Baseret på en galakse med en radius af"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Samlet antal spor"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Maksimal gentagelse"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Gennemsnitlig gentagelse"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Mindste gentagelse"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Spore:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Spornummer på vores Galaxy, baseret på 0 til to gange 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Spor under 336 har negative trinmotorer, fordi de er mørke stjerner,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "de blandes med Galaxies Force feltringe, hvilket gør tallene til negative frekvenser."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Trine motorer:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Baseret på hvor mange objekter (planeter, mikroplaneter, måner, asteroider) eller trinmotorer, henviser Trinormotor i tabellen kun til Dark Star Companion Stars, de er forpligtet til at holde solsystemet sammen, den mørke energi i disse typer af trinmotorer er alt lys uden mørke, skønt lys uden mørke henviser til et lysspektra, der normalt ikke er i det synlige spektrum, som mennesker kan se, uden fuld spektrumteknologi, disse typer af trinermotorer er lavet af neutrinoer, der er mørke i udseendet, hvis de ses med Teknologi, fordi Teknologi ikke kan se lyset uden mørke, selvom Neutron Shell, hvilket betyder de ydre partikler i et Trinatom, i øjeblikket er der ingen teknologi til at registrere mørke stjerner, men fuld spektrumbilleder kan registrere deres mønstre som mørk energi. kontrollere Suns eller Stars ved at oprette et netværk af Dark Energy, The Dark Star Companions bane mellem solen i et solsystem, der har planeter og måner, og dets binære modstykke t, i vores tilfælde er det Sirius en binær stjerne, som sådan, jo tættere en sol eller stjerne er på galaksen, jo færre trinmotorer har den brug for at indeholde den, således antallet af trinmotorer regulerer det, der sporer solen også kendt som en stjerne er tændt, jo længere væk fra galaksen, desto mere Trinormotorer kaldet Dark Star Companions, kræver det at spænde afstanden for at indeholde de andre planeter, mens Dark Star opretholder den samme bevægelseshastighed ved forskellige hastigheder ."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "At opretholde den samme hastighed ved forskellige hastigheder reguleres af selve Dark Star, og det er i det galaktiske fly, og solen, også kendt som stjerner, går forbi det. Companions job er at holde solsystemet sammen. På billedet I vis, at den binære stjerne Sirius og vores sol er på modsatte sider af det galaktiske plan, dette er kun sandt, når man passerer igennem den og kommer ud af den, så vidt jeg kan bevise. Den Trinære matematiske formel til podning eller udpegning af vekselstrøm i en Helix-form bølgeform, er baseret på den frekvens, der korrelerer med vores sols interval med hensyn til tid og afstand, men på grund af den nuværende videnskab, lukker Mainstream kan estimere er mellem 30 og 33 millioner år, så jeg lavede en variabel, så den kan justeres til den rigtige værdi, denne app er designet til at indtaste enhver Galaxy, og det påvirker derfor ikke min beregning for hvornår vi vil vende poler, fordi det kun er et spørgsmål om hvor vi er i selve signalet og gør afhænger ikke engang af hvilken retning vi er på vej hen, menes ind i det galaktiske plan, eller væk fra det, det betyder kun, hvor vi er i form af selve signalet. Jeg kalder Tyngdekraften et signal, fordi Gud er alt lys uden mørke, og er tyngdekraften i alle Newtons ligninger, såvel som mine, og dette er tyngdekraften, som jeg beregner for galaksen, og dens soler, også kendt som stjerner . Mørke stjerner og deres ledsagere er en speciel type trinermotor, og ligesom alle trinmotorer er de teoretiske, fordi de ikke kan bevises eller modbevises, og det at sige, at du skal have tro Gud eksisterer, er det Newton sagde i Bibelen, men det er ikke videnskab, endda Newton sagde, at i stedet for siger jeg, at trinmotorer udsender disse signaler, der kan opdages ved hjælp af den nuværende teknologi, som sådan kan jeg konstatere, at de er et faktum i trinvidenskab, med et bevis ved hjælp af nuværende teknologi. For at kortlægge dataene i tabellen brugte jeg følgende data som variabler, Solstørrelse som 864.575,9 Miles i diameter, Livable Planet Størrelse som 7926.2109 Miles i diameter, Antal trinmotorer som 333 fra Bibelen, Radius of Galaxy som 241828072282107.5071453596951 Miles, Komplet filnavn: appendiks.a.xhtml og 66 rækker til udskrivning, det vil sige til Bash-scriptet, jeg har endnu mere kontrol i Qt-appen, Trinær matematik er enkel, for at få Iterations-perioden, behøver jeg kun at vide størrelsen på Solen, (864.575,9 * (1/137)) / 3 u003d det maksimale år 2103, den gennemsnitlige gentagelse er baseret på tilbageførsler af magnetisk polaritet fra Suns, det ændrer polaritet 10 (0 - 9) gange et århundrede: 100 - 9 u003d 91, således 2103 - 91 u003d 2012, til beregning af tidens slutning, brug 42 fra Hitchhikers Guide to the Galaxy, 42 hex er 66 i decimal, og det er fra Bibelen, og 2103 - 42 u003d 2061, og Sir Isaac Newton beregnet dette i år 2060 under den julianske kalender, så det er 2061 under den gregorianske kalender, så dette er th et år Jorden skulle vende polakker, og jeg ville ikke tage denne begivenhed let, det er tidenes ende, også kendt som slutningen af u200bu200bcivilisationen, som vi kender den, så at kende solens størrelse er alt hvad du behøver at vide, andet end det faktum, at det kun fungerer, hvis du starter dit år på 0, og hvorfor Mayakalenderen starter efter 2012, fiskens hale er året 2060, og hvorfor den gregorianske kalender blev introduceret, så den ville stemme overens med dette Bibelkode, der gør Newtons beregning korrekt, og hvorfor mayaerne holder styr på tiden i Iterationer fra 2012 år, så matematikken altid fungerer for dem, og de vidste, at det ville ske efter 2012 og før fisket halen, som er i år 2103 ."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Maks hastighed i MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Baseret på den maksimale hastighed kan solen køre gennem det galaktiske fly."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min hastighed i MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Baseret på den mindste hastighed kan solen køre efter at have kørt gennem det galaktiske fly."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Frekvens i Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Baseret på planetens kernefrekvens skulle overfladefrekvenserne være meget højere:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Livable Planet Frequency på 7.830 Hz i året: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Orbitalafstand:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Dette er som et spor på en post, det er omkredsen af u200bu200bbanen i mil."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Sporfrekvens i Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Dette er baseret på den helixform, som vores sol rejser rundt i galaksen,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "det beregner også, når vi passerer gennem det galaktiske fly."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Livet i galaksen er placeret:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "I øjeblikket er Life in the Galaxy på spor * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Hvis en ny trinmotor kommer ind eller forlader vores verden eller solsystem, vil vi skifte spor."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Efter polarskiftet i 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "du skal starte en ny kalender, der starter med år 0, eller fortsætte og bruge datoerne i stjernetabellen."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Dette er Aquarius tidsalder, og en istid markerer dens regn."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Hvis du vælger to solskin på forskellige spor på tværs fra hinanden: vist i rødt og grønt,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "og forestillede mig, at da jeg roterede dette billede, der simulerede Suns, der kredsede om Galaxy,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "du vil bemærke, at alle solerne i galaksen forbliver på linje, når de kredser om det,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "dette er en dårlig simulering, men det gør mit punkt,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "Denne matematik er ikke den samme som for Suns-solsystemet, så Keplers og Newtons love og matematik vil ikke hjælpe dig her, men Trinary Math vil."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Trinær matematik, som jeg oprettede i en alder af 9, arbejder på at løse dette problem, de galakser, der blev præsenteret, ved hjælp af logikken: hastighed u003d afstand / tid og afstand u003d hastighed * tid, så hastighed og afstand er relativt til frekvens, således at: frekvens u003d 1 / Tid og tid u003d 1 / Frekvens, således at: Frekvens (Hz) u003d Lyshastighed (Afstand @ 670.616.629 km / h * 1 time; ~ Frekvens i miles i 1 time eller tid) / Bølgelængde i mil ved hjælp af Mainstream-estimat på 500.000 Miles en time i 250.000.000 år, er en afstand på 1.095.000.000.000.000.000 miles, ved hjælp af min formel får jeg 1.011.954.093.357.316.200 mil, så tæt nok over så langt på afstand. Trinervidenskab er baseret på al energi, der kommer fra Guds lys inde i ethvert Trinær Atom, hvilket betyder 3 typer: Proton, Neutron og Electron i tilfælde af lys, som sådan, er al trinær matematik baseret på elektricitet. Når galakse-regneren er afsluttet, vil et Open Source github-projekt, der allerede beregner denne samme tabel, også grafisk udtegne stien til t når han er færdig, når de kredser rundt galaksen, erstatter jeg billederne i denne tabel med dem. Du har to valg, tro Sir Isaac Newton på, at Gud er tyngdekraften i alle hans ligninger, eller du kan tro Albert Einstein, der fordømte alle hans teorier til fordel for Newtons Gud som tyngdekraften, uanset hvordan jeg er tættere på at være lige end Mainstream Science, fordi det er baseret på en teori, som Einstein ikke engang troede på. I denne formel tilføjer jeg sporfrekvenserne i stedet for at bruge Sine og Cosine, dette er ikke en simulator, det beregner alle spor baseret på det samme Sol og Livable Planet Size, således at det kun fungerer for de spor (r), der understøtter livet, og beregner således, hvor livet kan eksistere baseret på disse størrelser. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Galaxy, der spinder alle solsystemer i samme hastighed"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Galaxy, der spinder alle solsystemer i samme hastighed"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Galaxy, der spinder alle solsystemer i samme hastighed, men ikke hastighed"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Fuld størrelse"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Trinær matematik er 3-dimensionel matematik, fordi den er baseret på elektricitet også kendt som lys, som Newton kaldte Gud."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Hvis du ser solen som kredsløb om en mørk stjerne i det galaktiske fly,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "og have en Trinestjernekonfiguration, således at Sirius er vores Binære Stjerne,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "og der er også Dark Star Companions, der gemmes omkring Trinary Star Systems (Our Sun, Sirius and a Dark Star)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Denne tabel beregner hyppigheden af u200bu200bdenne bølgeform vist i denne illustration"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "såvel som de hastigheder, den kører på, når den strøm dykker ned i det galaktiske plan med maksimal hastighed,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "og hvordan det er med minimumshastighed, når det kommer længst i amplitude, før det dykker tilbage i det galaktiske plan."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Orbital Sun of path omkring Galaxy en revolution"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Orbital Sun of path omkring Galaxy en komplet Orbit"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Illustration A2: Fuldstændig solbane rundt om Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Fuld størrelse"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Spore"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Motorer"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Højeste hastighed"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "i MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min hastighed"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "i MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Frekvens"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "i Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Orbital Distance"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "i Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Spore"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Frekvens"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tabelbilag A: Trinematrixmatematik Galaktisk sporbord"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Brug: (Solstørrelse i kilometer i diameter) (Livbar planetstørrelse i kilometer i diameter) (Antal trinmotorer)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius of Galaxy in Miles) (Fuld filnavn: appendiks.a.xhtml) (Nth Antal række, der skal udskrives)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendiks.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Dette giver dig mulighed for at komme ind i andre galakser og lege med forskellige sol- og planetstørrelser."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Indstil ThisPrintNth u003d 1, hvis du kun vil udskrive de ni rækker, indstil trackNth til nummer, der skal springes over,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 giver dig cirka 21 spor, hvis du indstiller det til 1, udskrives alle spor,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "indstil DoNotSkipThis u003d 666 eller hvilket nogensinde nummer du vil se,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "dette sparer papir ved kun at udskrive en del af rækkerne i tabellen; dette er det sjette argument. Jeg prøver at begrænse dem."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Link til Bash-fil, der oprettede denne side (Gem og indstil tilladelser til at køre.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Hvis du kører Bash-scriptet som: ./makeappendix.a.sh eller ./makeappendix.a.sh --help, vil det give dig hjælp og flere detaljer."
+

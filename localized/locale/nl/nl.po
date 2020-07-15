@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Trinary Matrix Math Galactic Disk Track Table Script is aan het maken"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Laatste update"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Datum gewijzigd"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Sun Size"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Leefbare planeetgrootte"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Aantal trinaire motoren"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Totaal aantal nummers in Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Atmosferische drukindex"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "mijl in diameter"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "Mijl"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "De principes van het Trinary Universum: Bijlage A: Trinary Galactic Track Table"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Auteur: Jeffrey Scott Flesher, Principles of Light Wizzard of Wizards zoals Sir Isaac Newton en Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Licht, Wizzard, Wizard, Newton, Newtonian, Tesla, Franklin, God, Jezus, Bar / Abbas, Darkness, Trinary, Universum, Sanctuary, Physics, Sun, Step, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Auteur: Jeffrey Scott Flesher, Principles of Light Wizzard of Wizards zoals Sir Isaac Newton en Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Bijlage A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "De principes van het Trinary Universum"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight en CopyLeft door"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Medisch gepensioneerde sergeant van de luchtmachtstaf van de Verenigde Staten"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "De Trinary Galaxy is gebaseerd op:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "De Trinary Galaxy is gebaseerd op een platenspeler, het Galactic Plane is het record of de schijf."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Alle zonnen draaien rond de Melkweg in dezelfde snelheid als de platenspelerarm, en elke track heeft zijn eigen snelheid."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Een herhaling is een tijdsperiode gedefinieerd als:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Een herhaling is een tijdsperiode gedefinieerd in jaren, ik zal hier berekenen als maximum, gemiddelde en minimum,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "deze periodes zijn gelabeld met behulp van de sterrenbeelden en gebruiken de Juliaanse, Gregoriaanse en Maya-kalender."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Trinary Matrix Mathematics is gebaseerd op:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Trinary Matrix Mathematics is gebaseerd op een matrixtabel, elke rij is een track in de galactische schijf,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "elke kolom bevat gegevens over de zon (en) in de Melkweg die het leven ondersteunt."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Dit is gebaseerd op bekende reeksen van energie waarin mensen kunnen overleven."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Dit Trinary Concept is gebaseerd op:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Het Trinary Concept is er een dat ik zelf als kind heb bedacht toen ik 9 jaar oud was,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "het is gebaseerd op het feit dat de Zon alle informatie heeft die het nodig had om zijn Werk in de Melkweg te kunnen doen."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Ooit begreep ik wat Sir Isaac Newton aan het beschrijven was,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Ik realiseerde me dat de grootte van de zon alles te maken heeft met zijn zonnestelsel,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "dus begon ik alles te berekenen wat ik kon: op basis van de eigenschappen,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "en schreef dit Bash Script om dit XHTML-documentbestand te maken dat deze Matrix-tabel bevat en ik schreef ook een Qt Quick QML JavaScript-platform open source project genaamd galaxy-calculator, de link staat onderaan de pagina."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Gebaseerd op een zongrootte van"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "mijl in diameter"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Gebaseerd op"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Trinary Engines"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Gebaseerd op een Galaxy met een straal van"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Totaal aantal nummers"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Maximale herhaling"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Gemiddelde herhaling"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Minimale herhaling"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Track:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Tracknummer van onze Galaxy, gebaseerd op 0 tot tweemaal 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Tracks onder 336 hebben negatieve trinary-motoren omdat ze Dark Stars zijn,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "ze vermengen zich met de Galaxies Force Field Rings, waardoor het aantal negatieve frequenties wordt."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Trinary Engines:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Gebaseerd op het aantal objecten (planeten, microplaneten, manen, asteroïden) of Trinary Engines, verwijst Trinary Engine in de tabel alleen naar Dark Star Companion Stars, ze zijn vereist om het zonnestelsel bij elkaar te houden, de Dark Energy in deze typen van Trinary Engines is All Light without Darkness, hoewel Light without Darkness verwijst naar een spectrum van licht dat normaal gesproken niet zichtbaar is Spectrum Mensen kunnen zien, zonder Full Spectrum Technology, zijn dit soort Trinary Engine gemaakt van Neutrino's die er donker uitzien als ze worden bekeken met technologie, omdat technologie het licht niet kan zien zonder duisternis, hoewel de neutronenmantel, wat betekent dat de buitenste deeltjes van een trinair atoom, momenteel is er geen technologie om donkere sterren te detecteren, maar Full Spectrum-afbeeldingen kunnen hun patronen detecteren als donkere energie. controleer de Suns of Stars, door een netwerk van Dark Energy te creëren, The Dark Star Companions in een baan tussen Sun in een zonnestelsel met planeten en manen, en zijn binaire tegenhanger t, in ons geval is het Sirius een binaire ster, dus hoe dichter een zon of ster zich bij de Melkweg bevindt, hoe minder Trinary-motoren het nodig heeft, dus het aantal Trinary-motoren reguleert wat Track the Sun ook bekend staat een ster staat aan, dus hoe verder weg van de Melkweg, hoe meer Trinary-motoren Dark Star-metgezellen worden genoemd, het moet de afstand overbruggen om de andere planeten te bevatten, terwijl de Dark Star dezelfde bewegingssnelheid bij verschillende snelheden handhaaft ."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Het handhaven van dezelfde snelheid bij verschillende snelheden wordt gereguleerd door de donkere ster zelf, en het bevindt zich in het galactische vlak en de zon ook bekend als sterren passeert het. De taak van de metgezellen is om het zonnestelsel bij elkaar te houden. In de afbeelding I laten zien dat de binaire ster Sirius en onze zon zich aan weerszijden van het galactische vlak bevinden, dit is alleen waar wanneer het erdoorheen gaat en eruit komt, voor zover ik kan bewijzen.De Trinary Math-formule voor het enten of uitzetten van wisselstroom in een Helix-vormgolfvorm, is gebaseerd op de frequentie die overeenkomt met ons Suns-interval in termen van tijd en afstand, maar vanwege de huidige wetenschap kan de gesloten Mainstream schatten tussen 30 en 33 miljoen jaar, dus ik heb een variabele gemaakt, dus het kan worden aangepast aan de juiste waarde, deze app is ontworpen om elke Galaxy in te voeren, dus het heeft geen invloed op mijn berekening voor wanneer we Polen omkeren, want dat is alleen een kwestie van waar we ons in het signaal zelf bevinden, en doet zelfs niet afhangen van welke richting we gaan op weg, dat wil zeggen naar het Galactische Vliegtuig, of er vanaf, het maakt alleen uit waar we zijn in termen van het Signaal zelf. Ik noem zwaartekracht een signaal, omdat God al het licht is zonder duisternis, en de zwaartekracht is in alle Newton-vergelijkingen, evenals de mijne, en dit is de zwaartekracht die ik bereken voor de Melkweg, en zijn zonnen ook bekend als sterren . Dark Stars en hun metgezellen zijn een speciaal type Trinary Engine, en net als alle Trinary Engines zijn ze theoretisch, omdat ze niet kunnen worden bewezen of weerlegd, en beweren dat je Faith God Exist moet hebben, is wat Newton zei, maar dat maakt niet is Science, zelfs Newton zei dat, in plaats daarvan stel ik dat Trinary Engines deze signalen uitzenden die kunnen worden gedetecteerd door de huidige technologie, als zodanig kan ik zeggen dat ze een feit zijn in Trinary Science, met bewijs dat de huidige technologie gebruikt. Om de gegevens in de tabel te plotten, gebruikte ik de volgende gegevens als variabelen, zongrootte als 864.575,9 mijl in diameter, leefbare planeetgrootte als 7926.2109 mijl in diameter, aantal trinaire motoren als 333 uit de Bijbel, Radius of Galaxy als 241828072282107.5071453596951 mijl, Volledige bestandsnaam: appendix.a.xhtml en 66 rijen om af te drukken, dat is voor het Bash-script, ik heb nog meer controle in de Qt-app, Trinary Math is Simple, om de iteratieperiode te krijgen, ik hoef het alleen te weten de grootte van de zon, (864,575,9 * (1/137)) / 3 u003d het maximale jaar 2103, de gemiddelde herhaling is gebaseerd op de magnetische polariteitomkeringen van de zon, het verandert de polariteit 10 (0 - 9) keer per eeuw: 100 - 9 u003d 91, dus 2103 - 91 u003d 2012, gebruik 42 uit de Hitchhikers Guide to the Galaxy, 42 hex is 66 in decimaal en dat komt uit de Bijbel, en 2103 - 42 u003d 2061, om het einde van de tijd te berekenen en Sir Isaac Newton berekende dit in het jaar 2060 onder de Juliaanse kalender, dus het is 2061 onder de Gregoriaanse kalender, dus dit is de e Jaar zou de aarde Polen omkeren, en ik zou deze gebeurtenis niet lichtvaardig beschouwen, het is het einde van de tijd, ook bekend als het einde van de beschaving zoals we die kennen, dus wetende dat de grootte van de zon alles is wat je moet weten, andere dan het feit dat het alleen werkt als je je jaar op 0 begint, en waarom de Maya-kalender na 2012 opnieuw begint, de staart van de vis het jaar 2060 is, en waarom de Gregoriaanse kalender werd geïntroduceerd, zodat deze hiermee zou overeenstemmen Bijbelcode, waardoor de berekening van Newton correct is, en waarom de Maya's de tijd bijhouden in Iteraties van 2012 jaar, dus de wiskunde werkt altijd voor hen, en ze wisten dat het zou gebeuren na 2012 en vóór de Vissenstaart, in het jaar 2103 ."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Max snelheid in MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Gebaseerd op de maximale snelheid waarmee de zon door het galactische vlak kan reizen."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min snelheid in MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Gebaseerd op de minimale snelheid die de zon kan reizen nadat hij door het galactische vlak is gegaan."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Frequentie in Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Gebaseerd op de kernfrequentie van de planeet, zouden de oppervlaktefrequenties veel hoger moeten zijn:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Leefbare planeetfrequentie van 7.830 Hz in het jaar: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Orbitale afstand:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Dit is als een track op een record, het is de omtrek van de track in mijlen."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Trackfrequentie in Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Dit is gebaseerd op de Helix-vorm waarin onze zon rond de Melkweg reist,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "het berekent ook wanneer we door het Galactische Vliegtuig gaan."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Het leven in de Melkweg bevindt zich:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Momenteel is Life in the Galaxy op schema * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Als een nieuwe Trinary Engine ons wereld- of zonnestelsel binnenkomt of verlaat, zullen we van baan veranderen."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Na de Polar Shift in 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "je moet een nieuwe kalender beginnen beginnend met jaar 0, of doorgaan en de datums in de dierenriemtabel gebruiken."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Dit is het tijdperk van Waterman, en een ijstijd zal zijn regen markeren."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Als u twee zonnen uitkiest op verschillende sporen tegenover elkaar: weergegeven in rood en groen,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "en ik stelde me voor dat terwijl ik deze afbeelding roteerde die de Suns Orbiting the Galaxy simuleerde,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "je zou opmerken dat alle zonnetjes in de Melkweg in lijn blijven terwijl ze eromheen draaien,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "dit is een slechte simulatie maar het maakt mijn punt duidelijk,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "deze wiskunde is niet hetzelfde als voor het zonnestelsel van de zon, dus de wetten en wiskunde van Kepler en Newton zullen je hier niet helpen, maar Trinary Math wel."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Trinary Math die ik op 9-jarige leeftijd heb gemaakt, werkt om dit probleem op te lossen dat de sterrenstelsels hebben gepresenteerd, met behulp van de logica: snelheid u003d afstand / tijd en afstand u003d snelheid * tijd, dus snelheid en afstand zijn relatief aan frequentie, zodat: frequentie u003d 1 / Tijd en tijd u003d 1 / Frequentie, zodat: Frequentie (Hz) u003d Snelheid van het licht (Afstand @ 670,616,629 mph * 1 uur; ~ Frequentie in mijlen in 1 uur of tijd) / Golflengte in mijlen, met standaardstroom schatting van 500.000 mijlen een uur gedurende 250.000.000 jaar, is een afstand van 1.095.000.000.000.000.000 mijlen, met behulp van mijn formule krijg ik 1.011.954.093.357.316.200 mijlen, zo dichtbij genoeg over die verre afstand. Trinary Science is gebaseerd op alle energie die uit het Licht van God komt in elk Trinary Atom, wat betekent 3 typen: Proton, Neutron en Electron in het geval van Licht, als zodanig is alle Trinary Math gebaseerd op elektriciteit. Wanneer de galaxy-calculator is voltooid, zal een Open Source github-project, dat al dezelfde tabel berekent, ook grafisch worden uitgezet het pad van t e Zonnen of Sterren, terwijl ze rond de Melkweg cirkelen, zal ik, eenmaal voltooid, de afbeeldingen in deze tabel vervangen door die. Je hebt twee keuzes, geloof Sir Isaac Newton dat God de zwaartekracht is in al zijn vergelijkingen, of je kunt Albert Einstein geloven die al zijn theorieën aan de kaak stelde ten gunste van Newton God als de zwaartekracht, hoe dan ook net als bij Mainstream Science, omdat het gebaseerd is op een theorie waar Einstein niet eens in geloofde. In deze formule tel ik de trackfrequenties op in plaats van Sine en Cosine te gebruiken, dit is geen simulator, het berekent alle tracks op basis van dezelfde Sun en Livable Planet Size, zodat het alleen werkt voor de Track (s) die Life ondersteunen, dus berekent het waar Life kan bestaan u200bu200bop basis van deze maten. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "De Galaxy draait alle zonnestelsels met dezelfde snelheid"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "De Galaxy draait alle zonnestelsels met dezelfde snelheid"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "De Galaxy draait alle zonnestelsels met dezelfde snelheid maar niet met snelheid"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Full Size"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Trinary Math is 3 dimensionale wiskunde omdat het gebaseerd is op elektriciteit ook bekend als licht, dat Newton God noemde."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Als je de zon ziet als een baan rond een donkere ster in het galactische vlak,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "en een Trinary Star-configuratie hebben, zodat Sirius onze Binary Star is,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "en er zijn ook Dark Star-metgezellen die rond de Trinary Star Systems (Our Sun, Sirius en een Dark Star) werken."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Deze tabel berekent de frequentie van deze golfvorm getoond in deze illustratie"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "evenals de snelheden waarmee het reist terwijl het vermogen op maximale snelheid in het Galactische Vliegtuig duikt,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "en hoe het op Minimale Snelheid is terwijl het het verst in Amplitude komt voordat het terug duikt in het Galactische Vliegtuig."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Baan van de zon rond Galaxy One-revolutie"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Baan van de zon rond Galaxy één complete baan"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Afbeelding A2: Voltooien baan van de zon rond Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Full Size"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Track"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Motoren"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Maximale snelheid"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min snelheid"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Frequentie"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "in Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Orbitale afstand"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "in Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Track"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Frequentie"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tabel Bijlage A: Trinary Matrix Mathematics Galactic Track Table"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Gebruik: (zongrootte in mijl in diameter) (leefbare planeetgrootte in mijl in diameter) (aantal trinaire motoren)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius van Galaxy in Miles) (Volledige bestandsnaam: appendix.a.xhtml) (Nde aantal rijen dat moet worden afgedrukt)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Hiermee kun je andere sterrenstelsels betreden en met verschillende zon- en planeetgroottes spelen."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Stel ThisPrintNth u003d 1 in als u alleen de nde rijen wilt afdrukken, stel trackNth in op nummer om over te slaan,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 geeft u ongeveer 21 nummers, als u dit op 1 zet, worden alle nummers afgedrukt,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "set DoNotSkipThis u003d 666 of welk nummer je ook wilt zien,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "dit bespaart papier door slechts een deel van de rijen in de tabel af te drukken; dit is het zesde argument, ik probeer dat te beperken."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Link naar Bash-bestand dat deze pagina heeft gemaakt (opslaan en machtigingen instellen om uit te voeren.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Als u het Bash-script uitvoert zoals: ./makeappendix.a.sh of ./makeappendix.a.sh --help, krijgt u Help en meer details."
+

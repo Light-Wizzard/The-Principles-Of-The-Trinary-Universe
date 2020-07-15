@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Trinary Matrix Math Galactic Disk Orodha ya Jedwali la Takwimu Inaunda"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Sasisha Mwisho"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Tarehe Iliyobadilishwa"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Saizi ya Jua"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Livable Planet size"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Idadi ya Injini za Kitamaduni"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Mionzi ya Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Jumla ya Nyimbo kwenye Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Kiashiria cha Shinisho cha Atmospheric"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "maili kwa kipenyo"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "maili"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Misingi ya Ulimwengu wa Kitamaduni: Kiambatisho A: Jedwali la Ufuatiliaji wa Triniti"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Mwandishi: Jeffrey Scott Flesher, kanuni za Wizzard Mwanga au wachawi kama Sir Isaac Newton na Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Nuru, Wizzard, mchawi, Newton, Newtonia, Tesla, Franklin, Mungu, Yesu, Bar / Abbas, Giza, Triniki, Ulimwengu, Sanifri, Fizikia, Jua, Hatua, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Mwandishi: Jeffrey Scott Flesher, kanuni za Wizzard Mwanga au wachawi kama Sir Isaac Newton na Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Kiambatisho A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Jalada la Orodha ya Galactic ya Triniki"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Kanuni za ulimwengu wa kawaida"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight na CopyLeft na"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Msimamizi wa Kikosi cha Wafanyakazi wa Kikosi cha Ndege cha Merikani"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Jalada la Orodha ya Galactic ya Triniki"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Kioo cha Triniki kimetokana na:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Kioo cha Triniki kimetokana na Mchezaji wa Kurekodi, Ndege ya Galactic ndio Rekodi au Diski."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Jua zote huzunguka kwenye Kiwango hicho kwa Kiwango kama hicho cha Kiwango cha Mchezaji, na kila wimbo una kasi yake mwenyewe."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Iteration ni kipindi cha wakati kinachofafanuliwa kama:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Iteration ni Kipindi cha wakati kilichoelezewa kwa miaka, nitahesabu hapa kama Upeo, Wastani, na kiwango cha chini,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Hesabu ya Matumbo ya Triniti ni msingi wa:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Hesabu ya Matumbo ya Triniti inategemea Jedwali la Matrix, kila safu ni Orodha katika Diski ya Galactic,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "kila safu inayo data juu ya Jua (s) kwenye Galaxy inayounga mkono Maisha."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Hii ni msingi wa safu zinazojulikana za Nishati ambazo Binadamu wangeweza kuishi nazo."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Dhana hii ya Kitamaduni imejikita katika:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Dhana ya Utatu ni moja kwamba nilikuja na mimi kama mtoto na umri wa miaka 9,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "inatokana na Jua kuwa na Habari yote ambayo inahitajika kujua kufanya kazi yake kwenye Galaxy."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Mara tu nilielewa kile Sir Isaac Newton alikuwa akielezea,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Niligundua kuwa ukubwa wa Jua lina kila kitu cha kufanya na Mfumo wake wa jua,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "kwa hivyo nilianza kuhesabu kila kitu ninachoweza: kulingana na Mali zake,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "na niliandika hii ya hati ya XHTML kuunda faili hii ya hati ya XHTML ambayo ina Jedwali la Matrix na, pia niliandika Jukwaa la Msisitizo la JavaScript la Qt Quick QML Open Source inayoitwa gala-Calculator, kiungo iko chini ya ukurasa."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Kulingana na ukubwa wa Jua la"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "maili kwa kipenyo"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Kulingana na"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Injini za Triniti"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Kulingana na Galaxy iliyo na Radius ya"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Jumla ya Nyimbo"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Kiwango cha kiwango cha juu"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Wastani wa Joto"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Chini ya kiwango cha chini"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Fuatilia:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Fuatilia nambari ya Galaxy yetu, kulingana na 0 hadi mara mbili 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Nyimbo chini ya 336 zina Injini mbaya za Kitamaduni kwa sababu ni Nyeusi za Giza,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "wanachanganya na pete za Nguvu za Galaxies Force, na kufanya idadi hiyo kuwa Namba Mbaya."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Injini za Triniti:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Kulingana na vitu vingapi (Sayari, Sayari ndogo za Mimea, Mio, Asteroids) au Injini za Triniti, Injini ya Triniki kwenye Jedwali inazungumzia tu Star Star Companion Stars, zinahitajika kuweka Mfumo wa jua pamoja, Nishati ya Giza katika aina hizi. Injini za Triniki ni Nuru Zote bila Giza, ingawa Mwanga bila Giza unamaanisha Spectra ya Mwanga sio kawaida kwenye Spectrum Humans binadamu anaweza kuona, bila Teknolojia ya Spectrum Kamili, aina hizi za Injini ya Triniki zimetengenezwa na Neutrinos ambazo ni Giza kwa kuonekana ikiwa zinatazamwa. na Teknolojia, kwa sababu Teknolojia haiwezi kuona Mwanga bila Giza ingawa Gombo la Neutron, linamaanisha chembe za nje za Atomi ya Triniki, kwa sasa hakuna Teknolojia ya kugundua Nyota za Giza, lakini Picha Kamili za Spectrum zinaweza kugundua Sampuli zao kama Nishati ya Giza. kudhibiti Jua au Nyota, kwa kuunda mtandao wa Nishati ya Giza, Mzunguko wa Miahaba wa Giza kati ya Jua katika Mfumo wa jua ambao una Sayari na Miezi, na mwenzake wa Binary. Kwa upande wetu ni Sirius Star Binary, kwa hivyo, Jua au Nyota ni karibu na Galaxy, Injini chache za Triniki zinahitaji kuiweka, kwa hivyo idadi ya Injini za Triniti inadhibiti kile Orodha ya Jua inayojulikana pia kama Nyota imeanza, kwa hivyo mbali zaidi na Galaxy, Injini za kitamaduni zaidi zinazoitwa marafiki wa Giza la Nyeusi, inahitajika kufunga umbali, ili iwe na Miradi mingine, wakati Nyota Nyeusi inashikilia Kiwango sawa cha Harakati kwa kasi tofauti tofauti. . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Kudumisha Kiwango kama hicho kwa kasi tofauti kumewekwa na Nyota ya Giza yenyewe, na iko kwenye Ndege ya Galactic, na Jua linalojulikana pia kama Stars inapitia. Kazi ya Masahaba ni kuweka mfumo wa jua pamoja. Katika Picha I. onyesha kuwa Biri ya Star Sirius na Jua letu ziko pande tofauti za Ndege ya Galactic, hii ni kweli tu wakati ukipitia na kutoka ndani, kwa kadri ninavyoweza kudhibitisha .. Njia ya Math ya Trinari ya Kuandaa au kupanga nje ya sasa. katika muundo wa muundo wa Heliero, ni msingi wa Mara kwa mara unaofanana na muda wa Suns katika suala la muda na umbali, lakini kwa sababu ya Sayansi ya sasa, kufunga kwa mfumo wa Kimbilio kunaweza kukadiria ni kati ya Miaka Milioni 30 hadi 33, kwa hivyo nilifanya hiyo Kubadilika, kwa hivyo inaweza kubadilishwa kwa bei sahihi, programu hii imeundwa kuingiza Dalili yoyote, kwa hivyo haiathiri hesabu yangu kwa wakati tutakaobadilisha Zari, kwa sababu hiyo ni jambo tu ambapo tuko kwenye Signal yenyewe, na haina hata haitegemei mwelekeo gani tunaelekea, tukimaanisha ndani ya Sayari ya Galactic, au mbali na hiyo, inajali tu ambapo tunako katika suala la Signal yenyewe. Ninaiita Mvuto kuwa Ishara, kwa sababu Mungu ni Mwanga wote bila Giza, na ni Nguvu ya Mimiro katika Vielelezo vipya vyote, na vile vile ni yangu, na huu ni Uwezo ambao ninahesabu kwa Galaxy, na Jua zake pia hujulikana kama Nyota. . Nyota za giza na wenzi wao ni aina maalum ya Injini ya Trinari, na kama Injini zote za Triniki, ni za kinadharia, kwa sababu haziwezi kudhibitishwa wala kubatilishwa, na akisema lazima uwe na Imani ya Mungu aliyepo, ndivyo Newton alisema biblia. hiyo haifanyi ni Sayansi, hata Newton alisema kuwa, badala yake nasema kwamba Injini za Triniki hutoa Ishara hizi ambazo zinaweza kugunduliwa na Teknolojia ya sasa, kwa hivyo naweza kusema kuwa wao ni ukweli katika Sayansi ya Triniti, na Ushuhuda wa kutumia Teknolojia ya sasa. Kuweka Takwimu kwenye Jedwali, nilitumia data zifuatazo kama vijiti, ukubwa wa Jua kama 864,575.9 Miles kwa kipenyo, saizi ya Sayari ya Livable kama Meta za 7926.2109, Idadi ya Injini za Triniki kama 333 kutoka kwa Bibilia, Radius ya Galaxy kama Miles 241828072282107.5071453596951. Jina kamili la Faili: appendix.a.xhtml, na safu 66 za kuchapisha, hiyo ni ya Kitabu cha Bash, nina udhibiti zaidi katika Programu ya Qt, Math ya Trin ni Rahisi, kupata kipindi cha wakati wa Mazungumzo, ninahitaji tu kujua saizi ya Jua, (864,575.9 * (1/137)) / 3 u003d Kiwango cha juu cha miaka 2103, Jalada la Wastani limetokana na Marekebisho ya Siasa ya Magnetic, hubadilika mara 10 (0 - 9) Karne: 100 - 9 u003d 91, kwa hivyo 2103 - 91 u003d 2012, kuhesabu Mwisho wa Wakati, tumia 42 kutoka kwa Mwongozo wa Hitchhikers hadi Galaxy, 42 hex ni 66 kwa decimal, na hiyo ni kutoka kwa Bibilia, na 2103 - 42 u003d 2061, na Sir Isaac Newton alihesabu hii katika mwaka wa 2060 chini ya Kalenda ya Julius, kwa hivyo ni 2061 chini ya Kalenda ya Gregori, kwa hivyo hii ni tarehe e Mwaka Dunia inapaswa kubadilisha Sehemu, na nisingechukua tukio hili Rahisi, ni Mwisho wa Wakati pia unajulikana kama Mwisho wa Ustaarabu kama tunavyoijua, kwa hivyo kujua ukubwa wa Jua ndio unahitaji kujua, kuliko ukweli kwamba inafanya kazi tu ikiwa utaanza mwaka wako kwa 0, na kwa nini kalenda ya Mayan inaanza baada ya 2012, mkia wa Samaki ni mwaka 2060, na kwa nini Kalenda ya Gregori ilianzishwa, ili iweze kuendana na hii Nambari ya Bibilia, kufanya hesabu za Newtons kuwa sahihi, na kwanini Mayans hufuata wakati katika Maagizo ya Miaka ya 2012, kwa hivyo hesabu zote huwafanyia kazi, na walijua itatokea baada ya 2012 na kabla ya mkia wa Samaki, ambao ni katika mwaka wa 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Kasi ya juu kwa MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Kulingana na kasi ya Upeo Jua linaweza kusafiri kupitia Ndege ya Galactic."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Kasi ndogo katika MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Kulingana na kasi ya chini Jua linaweza kusafiri baada ya kupita kwenye Ndege ya Galactic."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Mara kwa mara katika Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Kwa msingi wa Mara kwa mara wa Sayari, masafa ya uso yanapaswa kuwa juu zaidi:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Frequency inayojulikana ya Sayari ya 7.830 Hz katika mwaka: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Umbali wa Orbital:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Hii ni kama wimbo kwenye Rekodi, ni Mzunguko wa Nyimbo kwenye Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Fuatilia Frequency katika Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Hii ni kwa msingi wa sura ya Helieli ambayo jua letu husafiri kuzunguka Galaxy."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "inahesabu pia wakati tunapitia Plane ya Galactic."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Maisha katika Galaxy iko:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Hivi sasa Maisha katika Galaxy yapo kwenye Track * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Ikiwa Injini mpya ya Trinari itaingia au kuacha Dunia yetu au Mfumo wa jua, tutabadilisha nyimbo."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Baada ya mabadiliko ya Polar mnamo 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "unapaswa kuanza Kalenda Mpya kuanzia na mwaka 0, au endelea na utumie tarehe kwenye Jedwali la Zodiac."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Huu ni Enzi ya Aquarius, na Enzi ya Ice itaonyesha Mvua yake."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Ikiwa unachagua Jua mbili kwenye Nyimbo tofauti kutoka kwa kila mmoja: imeonyeshwa kwa Nyekundu na Kijani,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "na nilifikiria kwamba nilipokuwa nikizungusha picha hii simulisho la Jua linalozunguka Galaxy,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "utagundua kuwa Jua zote kwenye Galaxy hukaa kwenye mstari wakati zinaizunguka,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "Huu ni simulizi mbaya lakini inatoa maoni yangu,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "hesabu hii sio tofauti na ilivyo kwa Mfumo wa jua wa jua, kwa hivyo sheria za Kepler na Newton na Math hazitakusaidia hapa, lakini Trinary Math itasaidia."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Kiwango kidogo cha hesabu nilichounda nikiwa na umri wa miaka 9 hufanya kazi kutatua shida hii galaxies zilizowasilishwa, kwa kutumia Logic: Speed u200bu200bu003d Umbali / Wakati, na Umbali u003d Kasi * Wakati, kwa hivyo kasi na Umbali ni uhusiano na Mara kwa Mara, kama kwamba: Mara kwa mara u003d 1 / Saa na Wakati u003d 1 / Mara kwa mara, kama kwamba: Mara kwa mara (Hz) u003d Kasi ya Mwanga (Umbali @ 670,616,629 mph * saa 1; ~ Mara kwa mara maili katika Saa 1 au Saa) / Wavelength katika Maili, kwa kutumia Ukadiriaji wa Miles 500,000 saa moja kwa miaka 250,000,000, ni umbali wa maili 1,095,000,000,000,000,000, nikitumia formula yangu mimi hupata maili 1,011,954,073,357,316,200, karibu sana kwa umbali huo wa umbali.Sayansi ya Triniki inategemea Nishati yote inayokuja kutoka kwa Nuru ya Mungu ndani ya Atomiki ya Triniki, ikiwa na maana Aina 3: Proton, Neutron na Electron kwa upande wa Mwanga, kwa hivyo, hesabu zote za Triniki zinatokana na Umeme. Ikikamilishwa hesabu ya galaji, mradi wa Open Source github, ambao tayari umehesabu meza hii hiyo, pia utatoa mpango wa picha. njia ya t yeye Jua au Nyota, zinapozunguka kwenye Galaxy, mara zimekamilika, nitabadilisha picha kwenye jedwali hili na zile. Unayo chaguzi mbili, amini Sir Isaac Newton kuwa Mungu ndiye Nguvu ya Mvuto katika Viwango vyake vyote, au unaweza kumwamini Albert Einstein ambaye Alitangaza nadharia zake zote kwa kupendelea Mungu kwa vifungo vipya kama Nguvu ya Mvuto, njia yoyote ile niko karibu na kuwa haki kuliko Sayansi ya Utawala, kwa sababu ni msingi wa nadharia Einstein hata hakuamini. Katika fomula hii, ninaongeza Frequency ya Kufuatilia badala ya kutumia Sine na Cosine, hii sio Simulizi, huhesabu Nyimbo zote kulingana na ile ile. Jua, na sai ya sayari inayojulikana, kwa kuwa inafanya kazi tu kwa Orodha (s) ambayo inasaidia Maisha, kwa hivyo inahesabu ambapo Maisha yanaweza kutokea kulingana na ukubwa huu. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Inazingatia Mifumo yote ya jua kwa Kiwango sawa"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Inazingatia Mifumo yote ya jua kwa Kiwango sawa"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Inazingatia Mifumo yote ya Sola kwa Kiwango sawa lakini sio kasi"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Saizi kamili"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Trinary Math ni Math 3 ya Vipimo kwa sababu msingi wake Umeme pia hujulikana kama Nuru, kwamba Newton alimwita Mungu."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Ikiwa unaona Jua kama Mzunguko wa Nyota ya Giza kwenye Ndege ya Galactic,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "na kuwa na Usanidi wa Nyota wa Triniki, kama kwamba Sirius ndiye Nyota yetu ya Binary,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "na kuna pia Miahaba wa Nyota za Giza ambazo zinapita kwenye Mifumo ya Nyota ya Triniki (Jua letu, Sirius na Nyota Nyeusi)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Jedwali hili linahesabu Mara kwa Mara ya Wimbi hili lililoonyeshwa kwenye Mchoro huu"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "na vile vile kasi inavyosafiri wakati nguvu inavyoingia kwenye Ndege ya Galactic kwa kasi ya Upeo,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "na jinsi ilivyo kwa kasi ya chini kwani inakua mbali zaidi katika Amplitude kabla ya kuanza kurudi ndani ya Ndege ya Galactic."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Njia ya Orbital ya jua karibu na mapinduzi moja ya Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Njia ya Orbital ya jua karibu na Orbit moja kamili"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Mchoro A2: Njia kamili ya Orbital ya Jua karibu na Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Saizi kamili"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Fuatilia"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Triniti"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Injini"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Speed u200bu200bSpeed"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "katika MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Kasi ndogo"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "katika MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Mara kwa mara"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "katika Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Umbali wa Orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "katika Maili"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Fuatilia"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Mara kwa mara"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Kiambatisho cha Jedwali A: Jedwali la Kufuatilia Matumbo ya Matrix."
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Matumizi: (saizi ya Jua kwa Maili kwa kipenyo) (saizi ya Sayari ya Livable katika Maili kwa kipenyo) (Idadi ya Injini za Triniti)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius of Galaxy in Miles) (Jina kamili la Faili: appendix.a.xhtml) (Nthari ya safu ya kuchapisha)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Hii hukuruhusu kuingia katika Galaxies zingine, na unacheza na Vipande tofauti vya Jua na Sayari."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Weka hiiPrintNth u003d 1 ikiwa unataka kuchapisha safu za nth tu, weka wimbo wa Nambari ili uruke,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 inakupa juu ya Nyimbo 21, ukiweka 1 zitachapisha Nyimbo zote,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "weka DoNotSkipThis u003d 666 au nambari yoyote ambayo unataka kuona,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "hii inaokoa karatasi kwa kuchapisha sehemu tu ya safu kwenye meza; hii ni hoja ya 6, ninajaribu kuweka mipaka."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Unganisha na faili ya Bash ambayo imeunda Ukurasa huu (Hifadhi na Weka Ruhusa ya kuendesha.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Ikiwa utaendesha hati ya Bash kama: ./makeappendix.a.sh au ./makeappendix.a.sh --help, itakusaidia na maelezo zaidi."
+

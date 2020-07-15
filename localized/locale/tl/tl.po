@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Ang Trinary Matrix Math Galactic Disk Track Table Script ay Lumilikha"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Huling Pag-update"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Binago ang Petsa"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Laki ng Araw"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Nabubuhay na Laki ng Planet"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Bilang ng Mga Trines Engine"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Kabuuang bilang ng Mga Tracks sa Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Index ng Pressure ng Atmospheric"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "milya sa Diameter"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "milya"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Ang Mga Prinsipyo ng Unibersidad ng Trinary: Apendise A: Talahanayan ng Pagsubaybay ng Traktika ng Traktika"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "May-akda: Jeffrey Scott Flesher, Mga Prinsipyo ng Light Wizzard o Wizards tulad nina Sir Isaac Newton at Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Banayad, Wizzard, Wizard, Newton, Newtonian, Tesla, Franklin, Diyos, Jesus, Bar / Abbas, Kadiliman, Trinary, Unibersidad, Sanctuary, Physics, Araw, Hakbang, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "May-akda: Jeffrey Scott Flesher, Mga Prinsipyo ng Light Wizzard o Wizards tulad nina Sir Isaac Newton at Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Appendix A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Talahanayan ng Trace Galactic Track"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Ang Mga Prinsipyo ng Unibersidad ng Trinary"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight at CopyLeft ni"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Medikal na nagretiro sa United States Air Force Staff Sergeant"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Talahanayan ng Trace Galactic Track"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Ang Trinary Galaxy ay batay sa:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Ang Trinary Galaxy ay batay sa isang Record Player, ang Galactic Plane ay ang Record o Disk."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Ang lahat ng mga Suns ay nag-orbit ng Galaxy sa Parehong Rate Tulad ng Record Player Arm, at ang bawat Track ay may sariling Bilis."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Ang Iteration ay isang Oras ng Oras na tinukoy bilang:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Ang Iteration ay isang Oras ng Oras na tinukoy sa mga taon, makakalkula ako dito bilang Pinakamataas, Average, at Minimum,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "Ang mga panahong ito ay may label na gamit ang Mga Tanda ng Zodiac, at ginagamit ang Kalendaryong Julian, Gregorian at Mayan."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Ang Trinary Matrix Mathematics ay batay sa:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Ang Trinary Matrix Mathematics ay batay sa isang Matrix Table, ang bawat hilera ay isang Track sa Galactic Disk,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "ang bawat haligi ay may data tungkol sa Sun (s) sa Galaxy na sumusuporta sa Buhay."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Ito ay batay sa kilalang Ranges of Energy na maaaring makaligtas ang Tao."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Ang Konsepto sa Trinary na Ito ay Batay sa:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Ang Konsepto sa Trinary ay isa sa aking sarili bilang isang bata sa edad na 9,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "batay ito sa Araw na mayroong lahat ng Impormasyon na kinakailangan upang malaman na gawin ang Trabaho nito sa Galaxy."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Kapag naintindihan ko kung ano ang inilalarawan ni Sir Isaac Newton,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Napagtanto ko na ang Laki ng Suns ay may kinalaman sa lahat ng Solar System,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "kaya sinimulan ko ang pagkalkula ng lahat ng aking makakaya: batay sa Mga Katangian nito,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "at isinulat ang Bash Script na ito upang lumikha ng file na XHTML na dokumento na naglalaman ng talahanayan ng Matrix na ito at, sumulat din ako ng isang Qt Quick QML JavaScript cross platform Buksan ang Source Project na tinatawag na galaxy-calculator, ang link ay nasa ilalim ng pahina."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Batay sa isang Laki ng Araw ng"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "milya sa Diameter"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Batay sa"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Mga Mesin sa Trinary"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Batay sa isang Galaxy na may Radius ng"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Kabuuang bilang ng Mga Tracks"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Pinakamataas na Iteration"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Average Iteration"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Pinakamababang Iteration"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Subaybayan:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Subaybayan ang bilang ng aming Galaxy, batay sa 0 hanggang dalawang beses sa 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Ang mga track sa ibaba ng 336 ay may Negative Trinary Engines dahil ang mga ito ay Madilim na Bituin,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "pinaghalo nila ang mga Galaxies Force Field Rings, na ginagawang mga numero ng Negatibong Frequencies."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Mga Mesin sa Trinary:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Batay sa kung gaano karaming mga bagay (Planeta, Micro Planets, Moons, Asteroids) o Trinary Engines, Trinary Engine sa Talahanayan ay tinutukoy lamang ang mga Star ng Star Star na Bituin, kinakailangang panatilihing magkasama ang Solar System, ang Dark Energy sa mga ganitong uri ng Trinary Engines ay Lahat ng Liwanag nang walang Kadiliman, bagaman ang Liwanag nang walang Kadiliman ay tumutukoy sa isang Spectra ng Liwanag na hindi karaniwang sa nakikita ng Spectrum na Tao ay maaaring makita, nang walang Full Spectrum Technology, ang mga uri ng Trinary Engine ay gawa sa Neutrinos na Madilim sa hitsura kung titingnan kasama ang Teknolohiya, dahil hindi nakikita ng Teknolohiya ang Liwanag nang walang Kadiliman kahit na ang Neutron Shell, na nangangahulugang ang mga panlabas na partikulo ng isang Trinary Atom, sa kasalukuyan ay walang Teknolohiya na makakakita ng Madilim na Bituin, ngunit ang Buong Larawan ng Spectrum ay maaaring makita ang kanilang mga pattern bilang Madilim na Enerhiya. kontrolin ang Suns o Mga Bituin, sa pamamagitan ng paglikha ng isang network ng Madilim na Enerhiya,, Ang Dark Star Kasamahan ng orbit sa pagitan ng Sun sa isang Solar System na mayroong mga Planeta at Moons, at ang Binary counterpar nito T, sa aming kaso ito ay Sirius isang Binary Star, dahil dito, ang mas malapit na Araw o Bituin ay sa Galaxy, ang mas kaunting Mga Engine ng Trinary na kailangan nitong maglaman, kaya't ang bilang ng Trinary Engines ay nag-regulate kung ano ang Sinusubaybayan ng Track the Sun na kilala rin bilang ang isang Star ay nasa, samakatuwid ay mas malayo sa Galaxy, ang mas Trinary Engines na tinawag na Dark Star Mga Kasamahan, kinakailangan nito na mapalawak ang distansya, upang maglaman ng iba pang mga Planeta, habang pinapanatili ng Madilim na Star ang parehong rate ng Kilusan sa iba't ibang mga Pagsasalita . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Ang pagpapanatili ng parehong rate sa iba't ibang mga Bilis ay kinokontrol ng Madilim na Star mismo, at ito ay nasa Galactic Plane, at ang Araw na kilala rin bilang Mga Bituin ay dumaan dito. Ang trabaho ng mga Kasamahan ay panatilihin ang solar system nang magkasama. Sa Imahe I ipakita na ang Binary Star Sirius at ang aming Araw ay nasa kabaligtaran ng Galactic Plane, ito ay totoo lamang kapag dumadaan ito at lalabas ito, hangga't mapatunayan ko.Ang Formula ng Trinary Math para sa Grafting o Plotting ng Alternating Kasalukuyang sa isang alon na hugis ng Helix, ay batay sa Kadalasan na nakakaugnay sa agwat ng aming mga Suns sa mga tuntunin ng oras at distansya, ngunit dahil sa kasalukuyang Science, ang mga pagsasara ng Mainstream ay maaaring matantya ay sa pagitan ng 30 at 33 Milyong Taon, kaya ginawa ko iyon na isang Iba-iba. kaya maaari itong maiakma sa tamang halaga, ang app na ito ay idinisenyo upang mag-input ng anumang Galaxy, sa gayon ay hindi nakakaapekto sa aking pagkalkula para sa kung kailan namin Babaliktad ang mga Poles, sapagkat iyon ay isang bagay lamang kung nasaan tayo sa Signal mismo, at ginagawa hindi man nakasalalay sa kung anong direksyon pupunta kami, na nangangahulugang sa Galactic Plane, o malayo mula rito, mahalaga lamang kung nasaan tayo sa mga tuntunin ng Signal mismo. Tinawag ko ang Gravity na Signal, sapagkat ang Diyos ay Lahat ng Liwanag nang walang Kadiliman, at ang Force of Gravity sa Lahat ng Mga Equation ng Newtons, pati na rin sa akin, at ito ang Gravity na kinakalkula ko para sa Galaxy, at ang mga Suns na kilala rin bilang Mga Bituin . Ang mga Madilim na Bituin at ang kanilang mga Kasamahan ay isang espesyal na uri ng Trinary Engine, at tulad ng lahat ng Trinary Engines, sila ay Teoretikal, dahil hindi nila mapapatunayan o hindi naaprubahan, at sinabing dapat kang magkaroon ng Faith God Exist, ay ang sinabi ni Newton na sinasabi ng Bibliya, ngunit na hindi gumawa ay ang Agham, kahit na sinabi ni Newton na, sa halip ay sinabi ko na ang Trinary Engines ay naglalabas ng mga Signal na maaaring Alamin ng Kasalukuyang Teknolohiya, tulad ng maaari kong ipahiwatig na sila ay isang Fact sa Trinary Science, na may Proof gamit ang kasalukuyang Teknolohiya. Upang Plot ang Data sa Talahanayan, ginamit ko ang mga sumusunod na data bilang mga variable, Laki ng Araw bilang 864,575.9 Milya sa Diameter, Livable Planet Size bilang 7926.2109 Miles sa Diameter, Bilang ng Trinary Engines bilang 333 mula sa Bibliya, Radius ng Galaxy bilang 241828072282107.5071453596951 Miles, Buong Pangalan ng File: appendix.a.xhtml, at 66 na hilera upang I-print, iyon ay para sa Script ng Bash, mas may kontrol ako sa Qt App, Simple ang Trinary Math, upang makuha ang panahon ng Iterations, kailangan ko lang malaman ang laki ng Araw, (864,575.9 * (1/137)) / 3 u003d ang Pinakamataas na taon 2103, ang Average Iteration ay Batay sa Suns Magnetic Polarity Reversals, nagbabago ito ng polarity 10 (0 - 9) beses sa isang Siglo: 100 - 9 u003d 91, sa gayon 2103 - 91 u003d 2012, upang makalkula ang Katapusan ng Oras, gumamit ng 42 mula sa Gabay sa Hitchhikers hanggang sa Galaxy, 42 hex ay 66 sa desimal, at iyon ay mula sa Bibliya, at 2103 - 42 u003d 2061, at Kinakalkula ito ni Sir Isaac Newton sa taong 2060 sa ilalim ng Kalendaryong Julian, kaya ito ay 2061 sa ilalim ng Kalendaryong Gregorian, kaya ito ay ika e Taon ang Daigdig ay dapat baligtarin ang mga pole, at hindi ko gaanong gaganapin ang kaganapang ito, ito ay ang Wakas ng Oras na kilala rin bilang Wakas ng Sibilisasyon tulad ng alam natin, kaya alam ang Laki ng Araw ang kailangan mong malaman, iba pa kaysa sa katotohanan na gumagana lamang ito kung sisimulan mo ang iyong taon sa 0, at kung bakit nagsisimula ang Mayan Calendar pagkatapos ng 2012, ang buntot ng Isda ay taon 2060, at kung bakit ipinakilala ang Kalendaryong Gregorian, upang ito ay alinsunod sa Code ng Bibliya, na ginagawang tama ang pagkalkula ng Newtons, at kung bakit sinusubaybayan ng mga Mayans ang oras sa mga Iterations ng 2012 Taon, kaya't ang matematika ay laging gumagana para sa kanila, at alam nila na mangyayari pagkatapos ng 2012 at bago ang Fish Tail, na nasa taon 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Max Speed u200bu200bsa MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Batay sa Pinakamataas na bilis ng araw ay maaaring maglakbay sa Galactic Plane."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min Speed u200bu200bsa MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Batay sa Minimum na bilis ng araw ay maaaring maglakbay pagkatapos ng pagdaan sa Galactic Plane."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Kadalasan sa Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Batay sa Core Frequency ng Planet, ang mga dalas ng ibabaw ay dapat na mas mataas:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Nabubuhay na Planet Frequency ng 7.830 Hz sa taon: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Distansya ng Orbital:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Ito ay tulad ng isang Track sa isang Record, ito ay ang Circumference ng Track in Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Subaybayan ang Frequency sa Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Ito ay batay sa hugis ng Helix na aming paglalakbay sa Araw sa paligid ng Galaxy,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "kinakalkula din nito kapag dumaan kami sa Galactic Plane."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Matatagpuan ang Buhay sa Galaxy:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Kasalukuyang Buhay sa Galaxy ay nasa Track * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Kung ang isang bagong Engine Trinary ay pumapasok o umalis sa aming World o Solar System, babaguhin natin ang mga track."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Pagkatapos ng Polar Shift dahil sa 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "dapat mong simulan ang isang Bagong Kalendaryo na nagsisimula sa taong 0, o magpatuloy at gamitin ang mga petsa sa Zodiac Table."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Ito ang Panahon ng Aquarius, at isang Edad ng Yelo ay Markahan ang Ulan nito."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Kung pumili ka ng dalawang Suns sa iba't ibang mga Tracks sa kabuuan mula sa bawat isa: na ipinapakita sa Pula at berde,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "at naisip na habang pinaikot ko ang imaheng ito na gayahin ang Suns Orbiting the Galaxy,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "mapapansin mo na ang lahat ng mga Suns sa Galaxy ay nananatili sa linya habang ini-orbit nila ito,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "ito ay isang mahinang kunwa ngunit ginagawa nito ang aking punto,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "ang matematika na ito ay hindi pareho tulad ng para sa Suns Solar System, kaya ang Batas at matematika at matematika ni Kepler ay hindi makakatulong sa iyo dito, ngunit ang Trinary Math ay."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Ang Trinary Math na nilikha ko sa edad na 9 ay gumagana upang malutas ang problemang ito na ipinakita ng mga Galaxies, gamit ang lohika: Bilis u003d Distansya / Oras, at Distansya u003d Bilis * Oras, kaya ang Bilis at Distansya ay may kaugnayan sa Dalas, tulad na: Dalas u003d 1 / Oras at Oras u003d 1 / Dalas, tulad na: Dalas (Hz) u003d Bilis ng Ilaw (Distansya @ 670,616,629 mph * 1 oras; ~ Dalas sa milya sa 1 Oras o Oras) / haba ng haba sa Milya, gamit ang Mainstream na pagtatantya ng 500,000 Milya ang isang oras para sa 250,000,000 taon, ay isang distansya na 1,095,000,000,000,000,000,000 milya, gamit ang aking Formula Nakakuha ako ng 1,011,954,093,357,316,200 milya, kaya napakalapit sa sobrang layo na iyon.Ang Trinary Science ay batay sa lahat ng Enerhiya na nagmula sa Liwanag ng Diyos sa loob ng bawat Trinary Atom, ibig sabihin 3 mga uri: Proton, Neutron at Elektron sa kaso ng Liwanag, tulad ng lahat, ang lahat ng Trinary Math ay batay sa Elektrisidad.Katapos nakumpleto ang kalawakan-calculator, isang Open Source github project, na kinakalkula ang parehong talahanayan, ay magpa-graphic plan din ang landas ng t siya Suns o Stars, habang nag-orbit sila sa paligid ng Galaxy, sa sandaling nakumpleto, papalitan ko ang mga imahe sa talahanayan na ito. Mayroon kang dalawang mga pagpipilian, maniwala kay Sir Isaac Newton na ang Diyos ay ang Force ng Gravity sa Lahat ng kanyang mga Equation, o maaari kang maniwala kay Albert Einstein na tinanggihan ang lahat ng kanyang mga teorya na pabor sa Newtons God bilang Force of Gravity, alinman sa paraan na malapit ako sa pagiging tama kaysa sa Mainstream Science, dahil batay ito sa isang Teorya Einstein na hindi maniwala. Sa formula na ito, idinagdag ko ang Track Frequencies sa halip na gamitin ang Sine at Cosine, hindi ito isang Simulator, kinakalkula nito ang lahat ng mga Tracks batay sa parehong Araw, at Lustable na Laki ng Planet, tulad na ito ay gumagana lamang para sa (mga) Track na sumusuporta sa Buhay, kung kaya't kinakalkula nito kung saan maaaring mabuhay ang Buhay batay sa mga sukat na ito. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Ang Galaxy Spinning lahat ng Sistema ng Solar sa parehong Rate"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Ang Galaxy Spinning lahat ng Sistema ng Solar sa parehong Rate"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Ang Galaxy Spinning lahat ng Sistema ng Solar sa parehong Rate ngunit hindi bilis"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Buong Laki"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Ang Trinary Math ay 3 Dimensional Math dahil batay sa Elektrisidad na kilala rin bilang Liwanag, na tinawag ni Newton na Diyos."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Kung titingnan mo ang Araw bilang pag-i-orbit ng isang Madilim na Bituin sa Galactic Plane,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "at ang pagkakaroon ng isang Trinary Star Configur, tulad ng Sirius ay aming Binary Star,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "at mayroon ding mga Dark Star Kasamahan na gumugulo sa paligid ng Trinary Star Systems (Aming Araw, Sirius at isang Madilim na Bituin)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Ang Talahanayan na ito Kinakalkula ang Dalas ng Waveform na ito na ipinakita sa Guhit na ito"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "pati na rin ang Mga Bilis na ito ay naglalakbay habang ang kapangyarihan ay sumisid sa Galactic Plane sa Pinakamataas na Bilis,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "at kung paano ito sa Pinakamababang Bilis habang nakakakuha ito ng pinakamalayo sa Amplitude bago ito bumalik sa Galactic Plane."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Orbital path of Sun sa paligid ng Galaxy isang rebolusyon"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Orbital path of Sun sa paligid ng Galaxy isang kumpletong Orbit"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Paglalarawan A2: Kumpletong Orbital path ng Sun sa paligid ng Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Buong Laki"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Subaybayan"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Mga makina"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Pinakamabilis"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "sa MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min Bilis"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "sa MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Dalas"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "sa Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Distansya ng Orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "sa Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Subaybayan"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Dalas"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Table Apendise A: Trinary Matrix Mathematics Galactic Track Table"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Paggamit: (Laki ng Araw sa Mga Miles sa Diameter) (Livable Planet Size sa Miles sa Diameter) (Bilang ng Mga Trinary Engines)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius ng Galaxy sa Miles) (Buong Pangalan ng File: apendiks.a.xhtml) (Ika-Numero ng hilera sa I-print)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Pinapayagan ka nitong magpasok sa iba pang mga Galaxies, at maglaro sa iba't ibang mga Linya ng Linya at Planet."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Itakda ang ThisPrintNth u003d 1 kung nais mong i-print lamang ang nth row, itakda ang trackNth sa numero upang laktawan,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "Binibigyan ka ng 66 tungkol sa 21 Mga track, ang pagtatakda nito sa 1 ay mai-print ang lahat ng Mga Tracks,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "itakda ang DoNotSkipThis u003d 666 o kung anong numero na nais mong makita,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "nakakatipid ito ng papel sa pamamagitan lamang ng pag-print ng bahagi ng mga hilera sa talahanayan; ito ang ika-6 na Argumento, sinubukan kong limitahan ang mga iyon."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Mag-link sa Bash File na lumikha ng Pahina na ito (I-save at Itakda ang Mga Pahintulot upang tumakbo.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Kung nagpapatakbo ka ng script ng Bash tulad ng: ./makeappendix.a.sh o ./makeappendix.a.sh --help, bibigyan ka nito ng Tulong at maraming Mga Detalye."
+

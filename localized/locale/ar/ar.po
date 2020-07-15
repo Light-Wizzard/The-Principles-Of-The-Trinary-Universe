@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "                                                                                                                                                                                                                                      ﺔﻴﺿﺎﻳﺮﻟﺍ ﺕﺎﻓﻮﻔﺼﻤﻟﺍ ﻲﺛﻼ﻿ﺛ ﻑﻮﻔﺼﻤﻟﺍ ﺹﺮﻘﻟﺍ ﺭﺎﺴﻣ ﻝﻭﺪﺟ ءﺎﺸﻧﺇ ﺞﻣﺎﻧﺮﺑ"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "                                                                                                                                                                                                                                                                                         ﺚﻳﺪﺤﺗ ﺮﺧﺍ"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "                                                                                                                                                                                                                                                                                     ﺮﻴﻴﻐﺘﻟﺍ ﺦﻳﺭﺎﺗ"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "                                                                                                                                                                                                                                                                                         ﺲﻤﺸﻟﺍ ﻢﺠﺣ"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "                                                                                                                                                                                                                                                                           ﺶﻴﻌﻠﻟ ﻞﺑﺎﻘﻟﺍ ﺐﻛﻮﻜﻟﺍ ﻢﺠﺣ"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "                                                                                                                                                                                                                                                                              ﺔﻴﺛﻼ﻿ﺜﻟﺍ ﺕﺎﻛﺮﺤﻤﻟﺍ ﺩﺪﻋ"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "                                                                                                                                                                                                                                                                              ﺎﻫﺮﻄﻗ ﻒﺼﻧ ﺓﺮﺋﺍﺩ ﺓﺮﺠﻣ"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "                                                                                                                                                                                                                                                                     Galaxy ﻲﻓ ﺕﺍﺭﺎﺴﻤﻟﺍ ﺩﺪﻋ ﻲﻟﺎﻤﺟﺇ"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "                                                                                                                                                                                                                                                                                  ﻱﻮﺠﻟﺍ ﻂﻐﻀﻟﺍ ﺮﺷﺆﻣ"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "                                                                                                                                                                                                                                                                                   ﺮﻄﻘﻟﺍ ﻲﻓ ﻝﺎﻴﻣﻷ﻿ﺍ"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "                                                                                                                                                                                                                                                                                             ﻝﺎﻴﻣﺍ"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "                                                                                                                                                                                                                                             ﻲﺛﻼ﻿ﺜﻟﺍ ﺓﺮﺠﻤﻟﺍ ﺭﺎﺴﻣ ﻝﻭﺪﺟ :ﺃ ﻖﺤﻠﻤﻟﺍ :ﻲﺛﻼ﻿ﺜﻟﺍ ﻥﻮﻜﻟﺍ ﺉﺩﺎﺒﻣ"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "                                                                                                                                                                                                           ﻼ﻿ﺴﺗ ﻻ﻿ﻮﻜﻴﻧﻭ ﻦﺗﻮﻴﻧ ﻕﺎﺤﺳﺇ ﺮﻴﺴﻟﺍ ﻞﺜﻣ ﺯﺩﺭﺍﺰﻳﻭ ﻭﺃ ﺩﺭﺍﺰﻳﻭ ءﻮﺿ ﺉﺩﺎﺒﻣ ، ﺮﺸﻴﻠﻓ ﺕﻮﻜﺳ ﻱﺮﻔﻴﺟ :ﻒﻟﺆﻤﻟﺍ"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "                                                                                                                           ﺮﺸﻴﻠﻓ ﺕﻮﻜﺳ ﻱﺮﻔﻴﺟ ، ﺓﻮﻄﺨﻟﺍ ، ﺲﻤﺸﻟﺍ ، ءﺎﻳﺰﻴﻔﻟﺍ ، ﻡﺮﺤﻟﺍ ، ﻥﻮﻜﻟﺍ ، ﺙﻮﻟﺎﺜﻟﺍ ، ﻡﻼ﻿ﻈﻟﺍ ، ﺱﺎﺒﻋ / ﺭﺎﺑ ، ﻉﻮﺴﻳ ، ﻪﻠﻟﺍ ، ﻦﻴﻠﻜﻧﺍﺮﻓ ، ﻼ﻿ﺴﺗ ، ﻥﺎﻴﻨﺗﻮﻴﻧ ، ﻦﺗﻮﻴﻧ ، ﺮﺣﺎﺴﻟﺍ ، ﺩﺭﺍﺰﻳﻭ ، ﺭﻮﻨﻟﺍ"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "                                                                                                                                                                                                           ﻼ﻿ﺴﺗ ﻻ﻿ﻮﻜﻴﻧﻭ ﻦﺗﻮﻴﻧ ﻕﺎﺤﺳﺇ ﺮﻴﺴﻟﺍ ﻞﺜﻣ ﺯﺩﺭﺍﺰﻳﻭ ﻭﺃ ﺩﺭﺍﺰﻳﻭ ءﻮﺿ ﺉﺩﺎﺒﻣ ، ﺮﺸﻴﻠﻓ ﺕﻮﻜﺳ ﻱﺮﻔﻴﺟ :ﻒﻟﺆﻤﻟﺍ"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "                                                                                                                                                                                                                                                                                         :ﺃ ﻖﺤﻠﻤﻟﺍ"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "                                                                                                                                                                                                                                                                           ﻲﺛﻼ﻿ﺜﻟﺍ ﺓﺮﺠﻤﻟﺍ ﺭﺎﺴﻣ ﻝﻭﺪﺟ"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "                                                                                                                                                                                                                                                                                ﻲﺛﻼ﻿ﺜﻟﺍ ﻥﻮﻜﻟﺍ ﺉﺩﺎﺒﻣ"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight ﻭ CopyLeft ﺔﻄﺳﺍﻮﺑ"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "                                                                                                                                                                                                                                                                                  ﺮﺸﻴﻠﻓ ﺕﻮﻜﺳ ﻱﺮﻔﻴﺟ"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "                                                                                                                                                                                                                                                 ﺓﺪﺤﺘﻤﻟﺍ ﺕﺎﻳﻻ﻿ﻮﻠﻟ ﻱﻮﺠﻟﺍ ﺡﻼ﻿ﺴﻟﺎﺑ ﺎﻴﺒﻃ ﺪﻋﺎﻘﺘﻤﻟﺍ ﺐﻴﻗﺮﻟﺍ"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "                                                                                                                                                                                                                                                                           ﻲﺛﻼ﻿ﺜﻟﺍ ﺓﺮﺠﻤﻟﺍ ﺭﺎﺴﻣ ﻝﻭﺪﺟ"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "                                                                                                                                                                                                                                                                    :ﻰﻠﻋ Trinary Galaxy ﻡﺎﻈﻧ ﺪﻤﺘﻌﻳ"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "                                                                                                                                                                                                                     .ﺹﺮﻘﻟﺍ ﻭﺃ ﻞﺠﺴﻟﺍ ﻲﻫ ﺓﺮﺠﻤﻟﺍ ﺓﺮﺋﺎﻄﻟﺍﻭ ، ﻞﻴﺠﺴﺗ ﻞﻐﺸﻣ ﻰﻠﻋ Trinary Galaxy ﻡﺎﻈﻧ ﺪﻤﺘﻌﻳ"
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "                                                                                                                                                                                                                 .ﻪﺑ ﺔﺻﺎﺧ ﺔﻋﺮﺳ ﺭﺎﺴﻣ ﻞﻜﻟﻭ ، ﺕﻼ﻿ﻴﺠﺴﺘﻟﺍ ﻞﻐﺸﻣ ﻉﺍﺭﺫ ﻞﺜﻣ ﻝﺪﻌﻤﻟﺍ ﺲﻔﻨﺑ ﻲﺴﻛﻻ﻿ﺎﺟ ﺰﻨﺻ ﻊﻴﻤﺟ ﺭﻭﺪﺗ"
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "                                                                                                                                                                                                                                                     :ﻲﻟﺎﺘﻟﺍ ﻮﺤﻨﻟﺍ ﻰﻠﻋ ﺓﺩﺪﺤﻣ ﺔﻴﻨﻣﺯ ﺓﺮﺘﻓ ﻮﻫ ﺭﺍﺮﻜﺘﻟﺍ"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "                                                                                                                                                                                              ﻰﻧﺩﻷ﻿ﺍ ﺪﺤﻟﺍﻭu200bu200b ﻂﺳﻮﺘﻤﻟﺍﻭ ﻰﺼﻗﻷ﻿ﺍ ﺪﺤﻟﺍ ﺎﻬﻧﺃ ﻰﻠﻋ ﺎﻨﻫ ﺐﺴﺣﺄﺳﻭ ، ﺕﺍﻮﻨﺴﻟﺎﺑ ﺓﺩﺪﺤﻣ ﺔﻴﻨﻣﺯ ﺓﺮﺘﻓ ﻮﻫ ﺭﺍﺮﻜﺘﻟﺍ"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "                                                                                                                                                                                                       .ﻥﺎﻳﺎﻣﻭ ، ﻱﺩﻼ﻿ﻴﻤﻟﺍ ، ﻲﻧﺎﻴﻟﻮﻴﻟﺍ ﻢﻳﻮﻘﺘﻟﺍ ﻡﺪﺨﺘﺳﺍﻭ ، ﻙﺎﻳﺩﻭﺯ ﺕﺎﻣﻼ﻿ﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺕﺍﺮﺘﻔﻟﺍ ﻩﺬﻫ ﺔﻴﻤﺴﺗ ﻢﺘﻳ"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "                                                                                                                                                                                                                                                             :ﻰﻠﻋ ﺔﻴﻨﺒﻣ ﺕﺎﻴﺿﺎﻳﺮﻠﻟ ﺔﻴﺛﻼ﻿ﺜﻟﺍ ﺔﻓﻮﻔﺼﻤﻟﺍ"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "                                                                                                                                                                                                              ، ﺓﺮﺠﻤﻟﺍ ﺹﺮﻗ ﻲﻓ ﺭﺎﺴﻣ ﻦﻋ ﺓﺭﺎﺒﻋ ﻒﺻ ﻞﻛ ، ﺔﻓﻮﻔﺼﻣ ﻝﻭﺪﺟ ﻰﻟﺇ ﺕﺎﻴﺿﺎﻳﺮﻟﺍ ﺔﻴﺛﻼ﻿ﺛ ﺔﻓﻮﻔﺼﻤﻟﺍ ﺪﻨﺘﺴﺗ"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "                                                                                                                                                                                                                            .ﺓﺎﻴﺤﻟﺍ ﻢﻋﺪﺗ ﻲﺘﻟﺍ ﺓﺮﺠﻤﻟﺍ ﻲﻓ (ﺲﻤﺸﻟﺍ) ﺲﻤﺸﻟﺍ ﻝﻮﺣ ﺕﺎﻧﺎﻴﺑ ﻰﻠﻋ ﺩﻮﻤﻋ ﻞﻛ ﻱﻮﺘﺤﻳ"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "                                                                                                                                                                                                                                .ﺎﻬﻴﻠﻋ ءﺎﻘﺒﻟﺍ ﺮﺸﺒﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺔﻓﻭﺮﻌﻤﻟﺍ ﺔﻗﺎﻄﻟﺍ ﺕﺎﻗﺎﻄﻧ ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﺍﺬﻫ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "                                                                                                                                                                                                                                                                     :ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﻲﺛﻼ﻿ﺜﻟﺍ ﻡﻮﻬﻔﻤﻟﺍ ﺍﺬﻫ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "                                                                                                                                                                                                                                                   ، ﺔﻌﺳﺎﺘﻟﺍ ﻦﺳ ﻲﻓ ﻲﺴﻔﻨﻟ ﺕﺮﻄﺧ ﻥﺃ ﻮﻫ ﻲﺛﻼ﻿ﺜﻟﺍ ﻡﻮﻬﻔﻤﻟﺍ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "                                                                                                                                                                                                            .ﺓﺮﺠﻤﻟﺍ ﻲﻓ ﺎﻬﻠﻤﻌﺑ ﻡﺎﻴﻘﻟﺍ ﺔﻓﺮﻌﻤﻟ ﺎﻬﺟﺎﺘﺤﺗ ﻲﺘﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻞﻛ ﺎﻬﻳﺪﻟ ﺲﻤﺸﻟﺍ ﻥﺃ ﻰﻠﻋ ﻚﻟﺫ ﺪﻤﺘﻌﻳ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "                                                                                                                                                                                                                                                           ﻦﺗﻮﻴﻧ ﻕﺎﺤﺳﺇ ﺮﻴﺴﻟﺍ ﻪﻔﺻﻭ ﺎﻣ ﺖﻤﻬﻓ ﻥﺃ ﺩﺮﺠﻤﺑ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "                                                                                                                                                                                                                                                         ﻲﺴﻤﺸﻟﺍ ﻪﻣﺎﻈﻧ ﻊﻣ ﺔﻗﻼ﻿ﻋ ﻪﻟ Suns ﻢﺠﺣ ﻥﺃ ﺖﻛﺭﺩﺃ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "                                                                                                                                                                                                                                                     ﺎﻬﺼﺋﺎﺼﺧ ﻰﻠﻋ ًءﺎﻨﺑ :ﻲﻨﻨﻜﻤﻳ ﺎﻣ ﻞﻛ ﺏﺎﺴﺣ ﺕﺃﺪﺑ ﻚﻟﺬﻟ"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "                                                                              .ﺔﺤﻔﺼﻟﺍ ﻞﻔﺳﺃ ﻲﻓ ﺩﻮﺟﻮﻣ ﻁﺎﺒﺗﺭﻻ﻿ﺍ ، galaxy-calculator ﻰﻤﺴﻳ ﻲﺳﺎﺳﺃ ﻡﺎﻈﻧ ﺮﺒﻋ Qt Quick QML JavaScript ـﻟ ﺭﺪﺼﻤﻟﺍ ﺡﻮﺘﻔﻣ ﻉﻭﺮﺸﻣ ﺎًﻀﻳﺃ ﺖﺒﺘﻛ ﺎﻤﻛ ، ﺍﺬﻫ ﺕﺎﻓﻮﻔﺼﻤﻟﺍ ﻝﻭﺪﺟ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻱﺬﻟﺍ XHTML ﺪﻨﺘﺴﻣ ﻒﻠﻣ ءﺎﺸﻧﻹ﻿ ﺍﺬﻫ Bash Script ﺺﻧ ﺖﺒﺘﻛﻭ"
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "                                                                                                                                                                                                                                                                                ﺲﻤﺸﻟﺍ ﻢﺠﺣ ﻰﻠﻋ ًءﺎﻨﺑ"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "                                                                                                                                                                                                                                                                                   ﺮﻄﻘﻟﺍ ﻲﻓ ﻝﺎﻴﻣﻷ﻿ﺍ"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "                                                                                                                                                                                                                                                                                         ﻰﻠﻋ ﺰﻜﺗﺮﻣ"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "                                                                                                                                                                                                                                                                                      ﺔﻴﺛﻼ﻿ﺛ ﺕﺎﻛﺮﺤﻣ"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "                                                                                                                                                                                                                                                       ﺎﻫﺮﻄﻗ ﻒﺼﻧ ﺓﺮﺋﺍﺩ ﺕﺍﺫu200bu200b ﺓﺮﺠﻣ ﻰﻠﻋ ًءﺎﻨﺑ"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "                                                                                                                                                                                                                                                                               ﺕﺍﺭﺎﺴﻤﻟﺍ ﺩﺪﻋ ﻲﻟﺎﻤﺟﺇ"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "                                                                                                                                                                                                                                                                                ﺭﺍﺮﻜﺘﻠﻟ ﻰﺼﻗﻷ﻿ﺍ ﺪﺤﻟﺍ"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "                                                                                                                                                                                                                                                                           ﺭﺍﺮﻜﺘﻟﺍu200bu200b ﻂﺳﻮﺘﻣ"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "                                                                                                                                                                                                                                                                                ﺭﺍﺮﻜﺘﻠﻟ ﻰﻧﺩﻷ﻿ﺍ ﺪﺤﻟﺍ"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "                                                                                                                                                                                                                                                                                              ﻊﺒﺘﺗ"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "                                                                                                                                                                                                                                                             .666 ﻰﻟﺇ 0 ﻰﻠﻋ ًءﺎﻨﺑ ، ﺎﻨﺗﺮﺠﻣ ﻢﻗﺭ ﻊﺒﺘﺗ"
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "                                                                                                                                                                                                                                          ﺔﻘﻣﺎﻏ ﻡﻮﺠﻧ ﺎﻬﻧﻷ﻿ ﺐﻟﺎﺳ ﺔﻴﺛﻼ﻿ﺛ ﺕﺎﻛﺮﺤﻣ ﺎﻬﻟ 336 ﻩﺎﻧﺩﺃ ﺕﺍﺭﺎﺴﻤﻟﺍ"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "                                                                                                                                                                                                                            .ﺔﺒﻟﺎﺳ ﺕﺍﺩﺩﺮﺗ ﻡﺎﻗﺭﻷ﻿ﺍ ﻞﻌﺠﻳ ﺎﻤﻣ ، ﺕﺍﺮﺠﻤﻟﺍ ﺓﻮﻗ ﻝﺎﺠﻣ ﺕﺎﻘﻠﺣ ﻊﻣ ﻥﻮﻄﻠﺘﺨﻳ ﻢﻬﻧﺇ"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "                                                                                                                                                                                                                                                                                 :ﺔﻴﺛﻼ﻿ﺜﻟﺍ ﺕﺎﻛﺮﺤﻤﻟﺍ"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr ". ﺔﻔﻠﺘﺨﻣ ﺕﺎﻋﺮﺳ ﺪﻨﻋ ﺔﻛﺮﺤﻟﺍ ﻝﺪﻌﻣ ﺲﻔﻨﺑ Dark Star ﻆﻔﺘﺤﺗ ﺎﻤﻨﻴﺑ ، ﻯﺮﺧﻷ﻿ﺍ ﺐﻛﺍﻮﻜﻟﺍ ءﺍﻮﺘﺣﻻ﻿ ، ﺔﻓﺎﺴﻤﻟﺍ ﺪﻳﺪﻤﺗ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﺎﻬﻧﺈﻓ ، Dark Star Companions ﻰﻤﺴﺗ ﻲﺘﻟﺍ Trinary ﺕﺎﻛﺮﺤﻣ ﺩﺪﻋ ﺩﺍﺯ ﺎﻤﻠﻛ ، ﺓﺮﺠﻤﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ ﻥﺎﻛ ﺎﻤﻠﻛ ﻲﻟﺎﺘﻟﺎﺑﻭ ، ﻞﻴﻐﺸﺘﻟﺍ ﺪﻴﻗ ﻢﺠﻨﻟﺍ ﻢﺳﺎﺑ ﺎًﻀﻳﺃ ﺲﻤﺸﻟﺍ ﻊﺒﺘﺘﺑ ﻑﺮﻌﻳ ﺎﻣ ﻢﻈﻨﻳ Trinary ﺕﺎﻛﺮﺤﻣ ﺩﺪﻋ ﻥﺈﻓ ﻲﻟﺎ"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr ". 2103 ﻡﺎﻋ ﻲﻓ ﻮﻫ ﻱﺬﻟﺍ ، ﺔﻜﻤﺴﻟﺍ ﻞﻳﺫ ﻞﺒﻗﻭ 2012 ﻡﺎﻋ ﺪﻌﺑ ﺙﺪﺤﻴﺳ ﻚﻟﺫ ﻥﺃ ﻥﻮﻤﻠﻌﻳ ﻢﻫﻭ ، ﻢﻬﻟ ﺎًﻤﺋﺍﺩ ﺕﺎﻴﺿﺎﻳﺮﻟﺍ ﻞﻤﻌﺗ ﻚﻟﺬﻟ ، 2012 ﻡﺎﻋ ﺕﺍﺭﺍﺮﻜﺗ ﻲﻓ ﺖﻗﻮﻟﺍ ﺎﻳﺎﻤﻟﺍ ﺐﻘﻌﺘﻳ ﺍﺫﺎﻤﻟﻭ ، ﺎًﺤﻴﺤﺻ ﻦﺗﻮﻴﻧ ﺏﺎﺴﺣ ﻞﻌﺠﻳ ﺎﻤﻣ ، ﺱﺪﻘﻤﻟﺍ ﺏﺎﺘﻜﻟﺍ ﻥﻮﻧﺎﻗ ﺍﺬﻫ ﻊﻣ ﻰﺷﺎﻤﺘﻳ ﺚﻴﺤﺑ ، ﻱﺩﻼ﻿ﻴﻤﻟﺍ ﻢﻳﻮﻘﺘﻟﺍ ﻢﻳﺪﻘﺗ ﻢﺗ ﺍﺫﺎﻤﻟﻭ ، 2060 ﻡﺎﻋ ﻮﻫ ﺔﻜﻤﺴﻟﺍ ﻞﻳﺫ ، 2012"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "                                                                                                                                                                                                                                                                     :ﺔﻋﺎﺴﻟﺎﺑ ﻞﻴﻣ ﻲﻓ ﻯﻮﺼﻘﻟﺍ ﺔﻋﺮﺴﻟﺍ"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "                                                                                                                                                                                                                             .ﺓﺮﺠﻤﻟﺍ ﺓﺮﺋﺎﻃ ﺮﺒﻋ ﺲﻤﺸﻟﺍ ﺎﻬﺑ ﻞﻘﺘﻨﺗ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﻯﻮﺼﻘﻟﺍ ﺔﻋﺮﺴﻟﺍ ﻰﻠﻋ ًءﺎﻨﺑ"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "                                                                                                                                                                                                                                                                 :ﺔﻋﺎﺴﻟﺎﺑ ﻞﻴﻣ ﻲﻓ ﺔﻋﺮﺴﻠﻟ ﻰﻧﺩﻷ﻿ﺍ ﺪﺤﻟﺍ"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "                                                                                                                                                                                                               .ﺓﺮﺠﻤﻟﺍ ﺓﺮﺋﺎﻃ ﺮﺒﻋ ﺭﻭﺮﻤﻟﺍ ﺪﻌﺑ ﺲﻤﺸﻟﺍ ﺎﻬﺑ ﺮﻓﺎﺴﺗ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺎﻴﻧﺪﻟﺍ ﺔﻋﺮﺴﻟﺍ ﻰﻟﺇ ﺍًﺩﺎﻨﺘﺳﺍ"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "                                                                                                                                                                                                                                                                                  :ﺰﺗﺮﻫ ﻝﺎﺑ ﺩﺩﺮﺘﻟﺍ"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "                                                                                                                                                                                                                        :ﺮﻴﺜﻜﺑ ﻰﻠﻋﺃ ﺔﻴﺤﻄﺴﻟﺍ ﺕﺍﺩﺩﺮﺘﻟﺍ ﻥﻮﻜﺗ ﻥﺃ ﻲﻐﺒﻨﻳ ، ﺐﻛﻮﻜﻠﻟ ﻲﺳﺎﺳﻷ﻿ﺍ ﺩﺩﺮﺘﻟﺍ ﻰﻠﻋ ًءﺎﻨﺑ"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "                                                                                                                                                                                                                                                .2019 :ﺔﻨﺴﻟﺍ ﻲﻓ ﺰﺗﺮﻫ 7.830 ﻦﻣ ﺶﻴﻌﻠﻟ ﺢﻟﺎﺻ ﺐﻛﻮﻛ ﺩﺩﺮﺗ"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "                                                                                                                                                                                                                                                                                 :ﺔﻳﺭﺍﺪﻤﻟﺍ ﺔﻓﺎﺴﻤﻟﺍ"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "                                                                                                                                                                                                                                            .ﻝﺎﻴﻣﻷ﻿ﺍ ﻲﻓ ﺭﺎﺴﻤﻟﺍ ﻂﻴﺤﻣ ﻪﻧﺇ ، ﻞﺠﺴﻟﺍ ﻰﻠﻋ ﺭﺎﺴﻤﻟﺍ ﻪﺒﺸﻳ ﺍﺬﻫ"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "                                                                                                                                                                                                                                                                              :ﺰﺗﺮﻫ ﻲﻓ ﺩﺩﺮﺘﻟﺍ ﻊﺒﺘﺗ"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "                                                                                                                                                                                                                                          ﺓﺮﺠﻤﻟﺍ ﻝﻮﺣ ﺎﻨﺴﻤﺷ ﻪﻠﻘﺘﻨﺗ ﻱﺬﻟﺍ ﻲﺒﻟﻮﻠﻟﺍ ﻞﻜﺸﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﺍﺬﻫ"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "                                                                                                                                                                                                                                                          .ﺓﺮﺠﻤﻟﺍ ﺓﺮﺋﺎﻃ ﺮﺒﻋ ﺮﻤﻧ ﺎﻣﺪﻨﻋ ﺐﺴﺤﻳ ﻪﻧﺃ ﺎﻤﻛ"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "                                                                                                                                                                                                                                                                             :ﻊﻘﺗ ﺓﺮﺠﻤﻟﺍ ﻲﻓ ﺓﺎﻴﺤﻟﺍ"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "                                                                                                                                                                                                                                                           666 * ﺭﺎﺴﻤﻟﺍ ﻰﻠﻋ ﺎًﻴﻟﺎﺣ ﺓﺮﺠﻤﻟﺍ ﻲﻓ ﺓﺎﻴﺤﻟﺍ"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "                                                                                                                                                                                                              .ﺕﺍﺭﺎﺴﻤﻟﺍ ﺮﻴﻐﻨﺴﻓ ، ﻲﻤﻟﺎﻌﻟﺍ ﻭﺃ ﻲﺴﻤﺸﻟﺍ ﺎﻨﻣﺎﻈﻧ ﺭﺩﺎﻏ ﻭﺃ ﺪﻳﺪﺟ Trinary Engine ﻙﺮﺤﻣ ﻞﺧﺩ ﺍﺫﺇ"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "                                                                                                                                                                                                                                                            ، 2060 ﻡﺎﻋ ﻲﻓ ﺭﺮﻘﻤﻟﺍ ﻲﺒﻄﻘﻟﺍ ﻝﻮﺤﺘﻟﺍ ﺪﻌﺑ"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "                                                                                                                                                                                                          .ﺝﻭﺮﺒﻟﺍ ﻝﻭﺪﺟ ﻲﻓ ﺦﻳﺭﺍﻮﺘﻟﺍ ﻡﺍﺪﺨﺘﺳﺍﻭ ﺔﻌﺑﺎﺘﻤﻟﺍ ﻭﺃ ، 0 ﺔﻨﺴﻟﺍ ﻦﻣ ﺃﺪﺒﻳ ﺍًﺪﻳﺪﺟ ﺎًﻤﻳﻮﻘﺗ ﺃﺪﺒﺗ ﻥﺃ ﺐﺠﻳ"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "                                                                                                                                                                                                                                                    .ﺮﻄﻤﻟﺍ ﻞﺜﻤﻴﺳ ﻱﺪﻴﻠﺠﻟﺍ ﺮﺼﻌﻟﺍﻭ ، ﻮﻟﺪﻟﺍ ﺮﺼﻋ ﻮﻫ ﺍﺬﻫ"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "                                                                                                                                                                                                        ، ﺮﻀﺧﻷ﻿ﺍﻭ ﺮﻤﺣﻷ﻿ﺍ ﻥﻮﻠﻟﺎﺑ ﺮﻬﻈﺗ ﻯﺮﺧﻷ﻿ﺍ :ﺾﻌﺑ ﻦﻋ ﺎﻬﻀﻌﺑ ﺮﺒﻋ ﺔﻔﻠﺘﺨﻣ ﺕﺍﺭﺎﺴﻣ ﻰﻠﻋ ﻦﻴﺘﻤﺻ ﺭﺎﻴﺘﺧﺎﺑ ﺖﻤﻗ ﺍﺫﺇ"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "                                                                                                                                                                                                                          ﺓﺮﺠﻤﻟﺍ ﻝﻮﺣ ﺭﻭﺪﺗ ﻲﺘﻟﺍ ﺱﻮﻤﺸﻟﺍ ﻲﻛﺎﺤﺗ ﺓﺭﻮﺼﻟﺍ ﻩﺬﻫ ﺮﻳﻭﺪﺘﺑ ﺖﻤﻗ ﺎﻣﺪﻨﻋ ﻪﻧﺃ ﺖﻠﻴﺨﺗﻭ"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "                                                                                                                                                                                                                                       ، ﺎﻬﻟﻮﺣ ﺭﻭﺪﺗ ﺎﻬﻧﻷ﻿ ﺭﻮﺑﺎﻃ ﻲﻓ ﻰﻘﺒﺗ ﺓﺮﺠﻤﻟﺍ ﻲﻓ ﺰﻨﺻ ﻊﻴﻤﺟ ﻥﺃ ﻆﺣﻼ﻿ﺘﺳ"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "                                                                                                                                                                                                                                                                       ﻲﻨﻤﻬﺗ ﺎﻬﻨﻜﻟ ﺔﺌﻴﺳ ﺓﺎﻛﺎﺤﻣ ﻩﺬﻫ"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "                                                                                                                                                    .ﻚﻟﺫ ﻞﻌﻔﺘﺳ ﻢﻴﺛﺎﻣ ﻲﻠﻳﺮﺗ ﻦﻜﻟ ، ﺎﻨﻫ ﺕﺎﻴﺿﺎﻳﺮﻟﺍ ﻲﻓ ﻦﺗﻮﻴﻧﻭ ﺮﻠﺒﻴﻛ ﻥﺎﺠﻟﻭ ﻦﻴﻧﺍﻮﻗ ﻙﺪﻋﺎﺴﻳ ﻦﻟ ﻚﻟﺬﻟ ، ﻲﺴﻤﺸﻟﺍ ﺱﻮﻤﺷ ﻡﺎﻈﻨﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺎﻬﺴﻔﻧ ﻲﻫ ﺖﺴﻴﻟ ﺕﺎﻴﺿﺎﻳﺮﻟﺍ ﻩﺬﻫ"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr " .ﻡﺎﺠﺣﻷ﻿ﺍ ﻩﺬﻫ ﺱﺎﺳﺃ ﻰﻠﻋ ﺓﺎﻴﺤﻟﺍ ﺪﺟﻮﺗ ﻥﺃ ﻦﻜﻤﻳ ﺚﻴﺣ ﺐﺴﺤﻳ ﻪﻧﺈﻓ ﻲﻟﺎﺘﻟﺎﺑﻭ ، ﺓﺎﻴﺤﻟﺍ ﻢﻋﺪﻳ ﻱﺬﻟﺍ (ﺕﺍﺭﺎﺴﻤﻟﺍ) ﺭﺎﺴﻤﻟﺍ ﻊﻣ ﻂﻘﻓ ﻞﻤﻌﻳ ﺚﻴﺤﺑ ، ﺔﻳﻮﻴﺤﻠﻟ ﻞﺑﺎﻘﻟﺍ ﺐﻛﻮﻜﻟﺍﻭ ﺲﻤﺸﻟﺍ ﻢﺠﺣ ﺲﻔﻧ ﻰﻟﺇ ﺍًﺩﺎﻨﺘﺳﺍ ﺕﺍﺭﺎﺴﻤﻟﺍ ﻊﻴﻤﺟ ﺐﺴﺤﺗ ﻲﻬﻓ ، ﺎًﻴﻛﺎﺤﻣ ﺖﺴﻴﻟ ﻩﺬﻫ ، Cosine ﻭ Sine ﻡﺍﺪﺨﺘﺳﺍ ﻦﻣ ًﻻ﻿ﺪﺑ ﻊﺒﺘﺘﻟﺍ ﺕﺍﺩﺩﺮﺗ ﺔﻓﺎﺿﺈﺑ ﻡﻮﻗﺃ ، ﺔﻐﻴﺼﻟﺍ ﻩﺬﻫ ﻲﻓ .ﻦﻳﺎﺘ"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "                                                                                                                                                                                                                                                 ﻝﺪﻌﻤﻟﺍ ﺲﻔﻨﺑ ﺔﻴﺴﻤﺸﻟﺍ ﺔﻗﺎﻄﻟﺍ ﺔﻤﻈﻧﺃ ﻊﻴﻤﺟ ﺭﻭﺪﺗ ﺓﺮﺠﻤﻟﺍ"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "                                                                                                                                                                                                                                                 ﻝﺪﻌﻤﻟﺍ ﺲﻔﻨﺑ ﺔﻴﺴﻤﺸﻟﺍ ﺔﻗﺎﻄﻟﺍ ﺔﻤﻈﻧﺃ ﻊﻴﻤﺟ ﺭﻭﺪﺗ ﺓﺮﺠﻤﻟﺍ"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Galaxy Spinning ﺔﻋﺮﺴﻟﺎﺑ ﺲﻴﻟ ﻦﻜﻟﻭ ﻝﺪﻌﻤﻟﺍ ﺲﻔﻨﺑ ﺔﻴﺴﻤﺸﻟﺍ ﺔﻤﻈﻧﻷ﻿ﺍ ﻊﻴﻤﺟ"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "                                                                                                                                                                                                                                                                                      ﻞﻣﺎﻜﻟﺍ ﻢﺠﺤﻟﺍ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "                                                                                                                                                                  .ﻪﻠﻟﺍ ﻢﺳﺍ ﻦﺗﻮﻴﻧ ﺎﻬﻴﻠﻋ ﻖﻠﻃﺃ ﻲﺘﻟﺍﻭ ، ءﻮﻀﻟﺍ ﻢﺳﺎﺑ ﺎًﻀﻳﺃ ﺔﻓﻭﺮﻌﻤﻟﺍﻭ ءﺎﺑﺮﻬﻜﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﺗ ﺎﻬﻧﻷ﻿ ﺩﺎﻌﺑﻷ﻿ﺍ ﺔﻴﺛﻼ﻿ﺛ ﺕﺎﻴﺿﺎﻳﺮﻟﺍ ﻲﻫ ﺔﻴﺛﻼ﻿ﺜﻟﺍ ﺕﺎﻴﺿﺎﻳﺮﻟﺍ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "                                                                                                                                                                                                                                        ، ﺓﺮﺠﻤﻟﺍ ﺓﺮﺋﺎﻄﻟﺍ ﻲﻓ ﺔﻨﻛﺍﺩ ﺔﻤﺠﻧ ﻝﻮﺣ ﺭﻭﺪﺗ ﺲﻤﺸﻟﺍ ﻰﻟﺇ ﺕﺮﻈﻧ ﺍﺫﺇ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "                                                                                                                                                                                                                                            ﻲﺋﺎﻨﺜﻟﺍ ﺎﻨﻤﺠﻧ ﻮﻫ ﺱﻮﻳﺮﻴﺳ ﺚﻴﺤﺑ ، ﻡﻮﺠﻨﻟﺍ ﻲﺛﻼ﻿ﺛ ﻦﻳﻮﻜﺗ ﻚﻳﺪﻟﻭ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "                                                                                                                                                                                                   .(ﺔﻤﻠﻈﻣ ﺔﻤﺠﻧﻭ ﺱﻮﻳﺮﻴﺳ ، ﺎﻨﺴﻤﺷ) ﺔﻴﺛﻼ﻿ﺜﻟﺍ ﻡﻮﺠﻨﻟﺍ ﺔﻤﻈﻧﺃ ﻝﻮﺣ ﺭﻭﺪﺗ ﻲﺘﻟﺍ ﺔﻤﻠﻈﻤﻟﺍ ﺔﻤﺠﻨﻟﺍ ﺔﺒﺤﺻ ﺎًﻀﻳﺃ ﻙﺎﻨﻫﻭ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "                                                                                                                                                                                                                                       ﻲﺤﻴﺿﻮﺘﻟﺍ ﻢﺳﺮﻟﺍ ﺍﺬﻫ ﻲﻓ ﺢﺿﻮﻤﻟﺍ ﻞﻜﺸﻟﺍ ﺍﺬﻫ ﺩﺩﺮﺗ ﺐﺴﺤﻳ ﻝﻭﺪﺠﻟﺍ ﺍﺬﻫ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "                                                                                                                                                                                                                   ، ﺔﻋﺮﺳ ﻰﺼﻗﺄﺑ ﺓﺮﺠﻤﻟﺍ ﺓﺮﺋﺎﻄﻟﺍ ﻲﻓ ﺎﻬﺻﻮﻏ ءﺎﻨﺛﺃ ﺎﻬﻴﻟﺇ ﻞﻘﺘﻨﺗ ﻲﺘﻟﺍ ﺕﺎﻋﺮﺴﻟﺍ ﻰﻟﺇ ﺔﻓﺎﺿﻹ﻿ﺎﺑ"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "                                                                                                                                                                                                             .ﺓﺮﺠﻤﻟﺍ ﺓﺮﺋﺎﻃ ﻲﻓ ﻯﺮﺧﺃ ﺓﺮﻣ ﺹﻮﻐﻳ ﻥﺃ ﻞﺒﻗ ﺔﻌﺴﻟﺍ ﻲﻓ ﺪﺣ ﺪﻌﺑﺃ ﻰﻟﺇ ﺔﻋﺮﺴﻠﻟ ﻰﻧﺩﻷ﻿ﺍ ﺪﺤﻟﺍ ﻞﺼﻳ ﻒﻴﻛﻭ"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "                                                                                                                                                                                                                                                        ﺓﺪﺣﺍﻭ ﺓﺭﻮﺛ ﻲﺴﻛﻻ﻿ﺎﻏ ﻝﻮﺣ ﺲﻤﺸﻠﻟ ﻱﺭﺍﺪﻤﻟﺍ ﻖﻳﺮﻄﻟﺍ"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "                                                                                                                                                                                                                                                    ﻞﻣﺎﻛ ﺭﺍﺪﻣ ﺪﺣﺍﻭ ﻲﺴﻛﻻ﻿ﺎﻏ ﻝﻮﺣ ﺲﻤﺸﻠﻟ ﻱﺭﺍﺪﻤﻟﺍ ﺭﺎﺴﻤﻟﺍ"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "                                                                                                                                                                                                                                        ﺓﺮﺠﻤﻟﺍ ﻝﻮﺣ ﺲﻤﺸﻠﻟ ﻞﻣﺎﻜﻟﺍ ﻱﺭﺍﺪﻤﻟﺍ ﺭﺎﺴﻤﻟﺍ :A2 ﻲﺤﻴﺿﻮﺘﻟﺍ ﻝﺎﺜﻤﻟﺍ"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "                                                                                                                                                                                                                                                                                      ﻞﻣﺎﻜﻟﺍ ﻢﺠﺤﻟﺍ"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "                                                                                                                                                                                                                                                                                            ﺭﺎﺴﻤﻟﺍ"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "                                                                                                                                                                                                                                                                                            ﺕﺎﻛﺮﺤﻣ"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "                                                                                                                                                                                                                                                                                     ﻯﻮﺼﻘﻟﺍ ﺔﻋﺮﺴﻟﺍ"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "                                                                                                                                                                                                                                                                                    ﺔﻋﺎﺴﻟﺎﺑ ﻞﻴﻣ ﻲﻓ"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "                                                                                                                                                                                                                                                                                     ﺎﻴﻧﺪﻟﺍ ﺔﻋﺮﺴﻟﺍ"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "                                                                                                                                                                                                                                                                                    ﺔﻋﺎﺴﻟﺎﺑ ﻞﻴﻣ ﻲﻓ"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "                                                                                                                                                                                                                                                                                              ﺭﺮﻜﺗ"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "                                                                                                                                                                                                                                                                                           ﺰﺗﺮﻫ ﻲﻓ"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "                                                                                                                                                                                                                                                                                  ﺔﻳﺭﺍﺪﻤﻟﺍ ﺔﻓﺎﺴﻤﻟﺍ"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "                                                                                                                                                                                                                                                                                         ﻝﺎﻴﻣﻷ﻿ﺍ ﻲﻓ"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "                                                                                                                                                                                                                                                                                            ﺭﺎﺴﻤﻟﺍ"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "                                                                                                                                                                                                                                                                                              ﺭﺮﻜﺗ"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "                                                                                                                                                                                                                                            ﺕﺎﻴﺿﺎﻳﺮﻠﻟ ﺔﻴﺛﻼ﻿ﺜﻟﺍ ﺔﻓﻮﻔﺼﻤﻟﺍ ﺭﺎﺴﻣ ﻝﻭﺪﺟ : ﺃ ﻖﺤﻠﻤﻟﺍ ﻝﻭﺪﺟ"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "                                                                                                                                                                                          (ﺔﻴﺛﻼ﻿ﺜﻟﺍ ﺕﺎﻛﺮﺤﻤﻟﺍ ﺩﺪﻋ) (ﺮﻄﻘﻟﺍ ﻲﻓ ﻝﺎﻴﻣﻷ﻿ﺎﺑ ﺶﻴﻌﻠﻟ ﻞﺑﺎﻘﻟﺍ ﺐﻛﻮﻜﻟﺍ ﻢﺠﺣ) (ﺮﻄﻘﻟﺍ ﻲﻓ ﻝﺎﻴﻣﻷ﻿ﺎﺑ ﺲﻤﺸﻟﺍ ﻢﺠﺣ) :ﻡﺍﺪﺨﺘﺳﻻ﻿ﺍ"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "                                                                                                                                                                                                               (ﺔﻋﺎﺒﻄﻠﻟ ﻒﺼﻟﺍ ﻢﻗﺭ) (appendix.a.xhtml :ﻞﻣﺎﻜﻟﺎﺑ ﻒﻠﻤﻟﺍ ﻢﺳﺍ) (ﻝﺎﻴﻣﻷ﻿ﺍ ﻲﻓ ﺓﺮﺠﻤﻟﺍ ﺮﻄﻗ ﻒﺼﻧ)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "                                                                                                                                                                                                                         .ﺐﻛﻮﻜﻟﺍﻭ ﺲﻤﺸﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻡﺎﺠﺣﺄﺑ ﺐﻌﻠﻟﺍﻭ ﻯﺮﺧﺃ ﺕﺍﺮﺠﻣ ﻰﻟﺇ ﻝﻮﺧﺪﻟﺎﺑ ﺍﺬﻫ ﻚﻟ ﺢﻤﺴﻳ"
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "                                                                                                                                                                                         ، ﺎﻬﻴﻄﺨﺘﻟ ﻢﻗﺮﻟﺍ ﻰﻠﻋ trackNth ﻦﻴﻴﻌﺘﺑ ﻢﻗ ، ﻂﻘﻓ nth ﻑﻮﻔﺼﻟﺍ ﺔﻋﺎﺒﻃ ﺪﻳﺮﺗ ﺖﻨﻛ ﺍﺫﺇ ThisPrintNth u003d 1 ﻦﻴﻴﻌﺘﺑ ﻢﻗ"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "                                                                                                                                                                                                                             ﺕﺍﺭﺎﺴﻤﻟﺍ ﻊﻴﻤﺟ ﺔﻋﺎﺒﻃ ﻰﻟﺇ 1 ﻰﻟﺇ ﺎﻬﻨﻴﻴﻌﺗ ﻱﺩﺆﻴﺳ ، ﺔﻴﻨﻏﺃ 21 ﻲﻟﺍﻮﺣ ﻚﺤﻨﻤﻳ 66"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "                                                                                                                                                                                                                                   ، ﻪﺘﻳﺅﺭ ﺪﻳﺮﺗ ﻱﺬﻟﺍ ﻢﻗﺮﻟﺍ ﺎﻣ ﻭﺃ DoNotSkipThis u003d 666 ﻦﻴﻴﻌﺘﺑ ﻢﻗ"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "                                                                                                                                                                                             .ﺎﻬﻨﻣ ﺪﺤﻟﺍ ﻝﻭﺎﺣﺃﻭ ، ﺔﺳﺩﺎﺴﻟﺍ ﺔﻄﻴﺳﻮﻟﺍ ﻲﻫ ﻩﺬﻫ ؛ ﻝﻭﺪﺠﻟﺍ ﻲﻓ ﻑﻮﻔﺼﻟﺍ ﻦﻣ ﻂﻘﻓ ءﺰﺟ ﺔﻋﺎﺒﻃ ﻖﻳﺮﻃ ﻦﻋ ﻕﺭﻮﻟﺍ ﻆﻔﺤﻳ ﺍﺬﻫ"
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "                                                                                                                                                                                                                             :(.ﻞﻴﻐﺸﺘﻟ ﺕﺎﻧﻭﺫﺃ ﻦﻴﻴﻌﺗﻭ ﻆﻔﺣ) ﺔﺤﻔﺼﻟﺍ ﻩﺬﻫ ﺄﺸﻧﺃ ﻱﺬﻟﺍ Bash ﻒﻠﻣ ﻰﻟﺇ ﻁﺎﺒﺗﺭﺍ"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "                                                                                                                                                                        .ﻞﻴﺻﺎﻔﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻣﻭ ﺓﺪﻋﺎﺴﻣ ﻚﻟ ﺮﻓﻮﻳ ﻑﻮﺴﻓ ، makeappendix.a.sh --help/. ﻭﺃ makeappendix.a.sh/. :ﻞﺜﻣ Bash Script ﻞﻴﻐﺸﺘﺑ ﺖﻤﻗ ﺍﺫﺇ"
+

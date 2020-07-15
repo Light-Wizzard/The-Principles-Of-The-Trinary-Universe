@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Trinary Matrix Matrix Το γαλαξιακό δισκογραφικό κομμάτι του δίσκου δημιουργεί"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Τελευταία ενημέρωση"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Ημερομηνία αλλαγής"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Μέγεθος Κυρ"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Ζωντανό μέγεθος πλανήτη"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Αριθμός κινητήρων τρίγωνο"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Ακτίνα γαλαξίας"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Συνολικός αριθμός κομματιών στο γαλαξία"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Δείκτης Ατμοσφαιρικής Πίεσης"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "μίλια στη Διάμετρο"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "μίλια"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Οι Αρχές του Σύμπαντος Τριγάρων: Παράρτημα Α: Πίνακας Τραυματικών Γαλαξιακών Γραμμών"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Συγγραφέας: Jeffrey Scott Flesher, Αρχές του φωτός Wizzard ή Wizards όπως Sir Isaac Newton και Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Φως, Wizzard, Μάγος, Νεύτωνα, Νεύτωνα, Τέσλα, Φράνκλιν, Θεός, Ιησούς, Μπαρ / Αμπάς, Σκοτάδι, Τρινάρι, Σύμπαν, Ιερό,"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Συγγραφέας: Jeffrey Scott Flesher, Αρχές του φωτός Wizzard ή Wizards όπως Sir Isaac Newton και Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Παράρτημα Α: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Οι Αρχές του Τριριανού Σύμπαντος"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight και CopyLeft από"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Ορχήστρας στρατιωτικών αεροσκαφών των Ηνωμένων Πολιτειών"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Ο γαλαξίας Trinary βασίζεται σε:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Ο γαλαξίας Trinary βασίζεται σε συσκευή αναπαραγωγής εγγραφών, το γλαυκιστικό αεροπλάνο είναι η εγγραφή ή ο δίσκος."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Όλοι οι Ήλιοι περιστρέφονται γύρω από τον Γαλαξία με τον ίδιο ρυθμό όπως ο βραχίονας παίκτη εγγραφής και κάθε κομμάτι έχει τη δική του ταχύτητα."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Μια επανάληψη είναι μια χρονική περίοδος που ορίζεται ως:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Μια επανάληψη είναι μια χρονική περίοδος που ορίζεται σε χρόνια, θα υπολογίσω εδώ ως Μέγιστο, Μέσο και Ελάχιστο"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "αυτές οι Περίοδοι επισημαίνονται με τη χρήση των Ζωδιακών Σημείων και χρησιμοποιούν το ημερολόγιο Ιουλιανών, Γρηγοριανών και Μάγια."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Trinary Matrix Μαθηματικά βασίζεται σε:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Το Trinary Matrix Mathematics βασίζεται σε έναν Πίνακα Matrix, κάθε σειρά είναι ένα κομμάτι στον Γαλαξιακό Δίσκο"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "κάθε στήλη έχει δεδομένα σχετικά με τον (τους) ήλιο (α) του γαλαξία που υποστηρίζει τη ζωή."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Αυτό βασίζεται σε γνωστά πεδία ενέργειας που οι άνθρωποι θα μπορούσαν να επιβιώσουν."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Αυτή η έννοια Trinary βασίζεται σε:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Το Trinary Concept είναι ένα που ήρθα με τον εαυτό μου ως παιδί από την ηλικία των 9 ετών"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "βασίζεται στον Ήλιο που έχει όλες τις πληροφορίες που χρειάζεται να γνωρίζει για να κάνει το έργο του στον γαλαξία."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Μόλις κατάλαβα τι περιγράφει ο Sir Isaac Newton"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "«Συνειδητοποίησα ότι το μέγεθος των ηλιακών έχει πάντα να κάνει με το ηλιακό του σύστημα»."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "έτσι άρχισα να υπολογίζω ό, τι μπορούσα: με βάση τα ακίνητά του"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "και έγραψα αυτό το Bash Script για να δημιουργήσω αυτό το αρχείο XHTML εγγράφου που περιέχει αυτό τον Πίνακα Matrix και έγραψα επίσης ένα Qt Quick QML JavaScript cross-platform πλατφόρμα Open Source Project που ονομάζεται galaxy-calculator, σύνδεσμος βρίσκεται στο κάτω μέρος της σελίδας."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Βασισμένο σε μέγεθος Sun"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "μίλια στη Διάμετρο"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Βασισμένο στο"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Μηχανές τριφασικών"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Βασισμένο σε έναν γαλαξία με ακτίνα"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Συνολικός αριθμός κομματιών"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Μέγιστη επανάληψη"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Μέση επανάληψη"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Ελάχιστη επανάληψη"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Πίστα:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Παρακολουθήστε τον αριθμό του Γαλαξία μας, με βάση το 0 έως το διπλάσιο 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Τα ίχνη κάτω από τα 336 έχουν αρνητικές κινητήρες τριγώνου επειδή είναι σκοτεινά αστέρια"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "αναμιγνύονται με τους δακτυλίους πεδίου δυνάμεων γαλαξιών, κάνοντας τους αριθμούς Αρνητικές συχνότητες."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Μηχανές Τριγώνων:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Με βάση το πόσα αντικείμενα (Πλανήτες, Μικροί Πλανήτες, Σελήνη, Αστεροειδείς) ή Κινητήρες Τριγώνων, η Τριγιάρη Μηχανή στον Πίνακα αναφέρεται μόνο σε Dark Star Companion Stars, απαιτείται να κρατήσουν μαζί το Ηλιακό Σύστημα, των Τριφασικών Κινητήρων είναι Όλα Φως χωρίς Σκοτάδι, αν και το Φως χωρίς Σκούρο αναφέρεται σε ένα Φάσμα του Φωτός που κανονικά δεν βρίσκεται στο ορατό Φάσμα. Οι Άνθρωποι μπορούν να δουν, χωρίς την τεχνολογία Full Spectrum, αυτοί οι τύποι Trinary Engine είναι κατασκευασμένοι από Neutrinos με την Τεχνολογία, επειδή η Τεχνολογία δεν μπορεί να δει το Φως χωρίς Σκοτάδι, αν και το Neutron Shell, δηλαδή τα εξωτερικά σωματίδια ενός Trinary Atom, αυτή τη στιγμή δεν υπάρχει Τεχνολογία για να ανιχνεύσει Dark Stars, αλλά οι Full Spectrum Images μπορούν να ανιχνεύσουν τα Σχήματα Dark Energy. ελέγξτε τους ήλιους ή τα αστέρια, δημιουργώντας ένα δίκτυο σκοτεινής ενέργειας, την τροχιά του Dark Star Companions μεταξύ της ηλιόλουστης ηλιακής εγκατάστασης που έχει πλανήτες και φεγγάρια και του δυαδικού αντισυμβαλλόμενου t, στην περίπτωσή μας ο Sirius είναι ένας Δυαδικός Αστέρας, έτσι ώστε ο Ήλιος ή ο Αστέρας να είναι πιο κοντά στον Γαλαξία, οι λιγότεροι κινητήρες Τρίνια πρέπει να το περιέχουν, οπότε ο αριθμός των Κινητών Τριγώνων ρυθμίζει ποια Πορεία του Ήλιου είναι επίσης γνωστή ως ένα Αστέρι είναι ανοιχτό, κι έτσι όσο πιο μακριά από τον Γαλαξία οι περισσότεροι Μηχανισμοί Τριγώνων που ονομάζονται Dark Star Companion, χρειάζεται να περικλείσουν την απόσταση για να συγκρατήσουν τους άλλους Πλανήτες, ενώ το Dark Star διατηρεί το ίδιο Κίνημα σε διαφορετικές ταχύτητες . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Η διατήρηση του ίδιου ποσοστού σε διαφορετικές ταχύτητες ρυθμίζεται από το ίδιο το Dark Star, και βρίσκεται στο Γαλαξιακό Επίπεδο και ο Ήλιος που είναι γνωστός και ως Αστέρια περνάει από αυτό.Η δουλειά των Companions είναι να κρατήσει το ηλιακό σύστημα μαζί. δείχνουν ότι το δυαδικό αστέρι Sirius και ο ήλιος μας βρίσκονται στις απέναντι πλευρές του Γαλαξιακού Αεροπλάνου, αυτό ισχύει μόνο όταν περνάει μέσα από αυτό και εξέρχεται από αυτό, όσο μπορώ να αποδείξω. σε μια κυματομορφή σχήμα Helix, βασίζεται στην συχνότητα που συσχετίζεται με το διάστημα Suns μας όσον αφορά το χρόνο και την απόσταση, αλλά λόγω της τρέχουσας επιστήμης, το κλείσιμο Mainstream μπορεί να εκτιμήσει είναι μεταξύ 30 και 33 εκατομμύρια χρόνια, έτσι έκανα ότι μια μεταβλητή, έτσι ώστε να μπορεί να προσαρμοστεί στη σωστή τιμή, αυτή η εφαρμογή έχει σχεδιαστεί για να εισάγει οποιοδήποτε γαλαξία, έτσι δεν επηρεάζει τον υπολογισμό μου για το πότε θα αντιστρέψουμε τους πόλους, επειδή αυτό είναι μόνο θέμα του πού βρισκόμαστε στο ίδιο το σήμα, και δεν εξαρτώνται καν σε ποια κατεύθυνση κατευθυνόμαστε, εννοούμε στο Γαλαξιακό Επίπεδο ή μακριά από αυτό, έχει σημασία μόνο το πού είμαστε όσον αφορά το ίδιο το Σήμα. Ονομάζω Gravity a Signal, επειδή ο Θεός είναι Όλος ο Φως χωρίς Σκοτάδι και είναι η Δύναμη της Σοβαρότητας σε όλες τις εξισώσεις Newton καθώς και η δική μου και αυτή είναι η Βαρύτητα που υπολογίζω για τον Γαλαξία και οι Ήλιές της, . Τα σκοτεινά αστέρια και οι σύντροφοί τους είναι ένας ειδικός τύπος κινητήρων Trinary και, όπως όλες οι μηχανές τρίγωνων, είναι Θεωρητικές, επειδή δεν μπορούν να αποδειχθούν ούτε να διαψευσθούν, και δηλώνοντας ότι πρέπει να έχετε πίστη στον Θεό υπάρχει, είναι αυτό που είπε ο Newton, που δεν κάνει είναι η Επιστήμη, ακόμα και ο Νεύτωνας είπε ότι, αντίθετα, δηλώνω ότι οι Κινητήρες Τριγώνων εκπέμπουν αυτά τα Σήματα που μπορούν να ανιχνευτούν από την Τρέχουσα Τεχνολογία, έτσι μπορώ να δηλώσω ότι είναι ένα Γεγονός στην Τριναρική Επιστήμη, με Απόδειξη χρησιμοποιώντας την Τεχνολογία. Για να σχεδιάσω τα δεδομένα στον πίνακα, χρησιμοποίησα τα παρακάτω δεδομένα ως μεταβλητές, Μέγεθος Κυρ ως 864.575,9 Μίλια σε Διάμετρο, Ζωντανό Μέγεθος Πλανήτη ως 7926.2109 Μίλια σε Διάμετρο, Αριθμός Τριφασικών Κινητήρων ως 333 από τη Βίβλο, Ακτίνα του Γαλαξία ως 241828072282107.5071453596951 Μίλια, Πλήρες όνομα αρχείου: appendix.a.xhtml και 66 σειρές για εκτύπωση, δηλαδή για το Bash Script, έχω ακόμα περισσότερο έλεγχο στην εφαρμογή Qt, το Trinary Math είναι απλό, για να πάρει το χρονικό διάστημα επανάληψης, χρειάζεται μόνο να γνωρίζω το μέγεθος του Ήλιου, (864.575,9 * (1/137)) / 3 u003d το Μέγιστο έτος 2103, η μέση επανάληψη βασίζεται στις αναστροφές της μαγνητικής πολικότητας, αλλάζει την πολικότητα 10 (0 - 9) 9 u003d 91, έτσι 2103 - 91 u003d 2012, για να υπολογίσετε το Τέλος του Χρόνου, χρησιμοποιήστε το 42 από τον οδηγό του Hitchhikers για το Γαλαξία, 42 hex είναι 66 σε δεκαδικό, και αυτό είναι από τη Βίβλο και 2103 - 42 u003d 2061 Ο Sir Isaac Newton το υπολογίζει αυτό το έτος 2060 κάτω από το Ιουλιανό Ημερολόγιο, οπότε είναι το 2061 κάτω από το Γρηγοριανό Ημερολόγιο, γι 'αυτό e Έτος, η Γη θα πρέπει να αναστρέψει τους Πολωνούς και δεν θα έλαβα αυτό το γεγονός ελαφρώς, είναι το Τέλος του Χρόνου γνωστό και ως το τέλος του Πολιτισμού όπως το ξέρουμε, οπότε γνωρίζοντας το Μέγεθος του Ήλιου είναι το μόνο που χρειάζεται να γνωρίζετε, άλλα από το γεγονός ότι λειτουργεί μόνο αν ξεκινήσετε το έτος σας στο 0 και γιατί ξεκινάει το Ημερολόγιο των Μάγια μετά το 2012, η u200bu200bουρά των ψαριών είναι το έτος 2060 και γιατί εισήχθη το Γρηγοριανό Ημερολόγιο, ώστε να ευθυγραμμιστεί με αυτό Ο κώδικας της Βίβλου, οπότε ο υπολογισμός του Νεύτωνα είναι σωστός και γιατί οι Μάγια παρακολουθούν το χρόνο στις επαναλήψεις των ετών 2012, έτσι ώστε τα μαθηματικά πάντοτε να δουλεύουν γι 'αυτούς και γνώριζαν ότι θα συμβεί μετά το 2012 και πριν από το Fish Tail, το οποίο είναι το έτος 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Μέγιστη ταχύτητα σε MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Με βάση τη Μέγιστη ταχύτητα ο Ήλιος μπορεί να ταξιδέψει μέσα από το Γαλαξιακό Επίπεδο."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Ελάχιστη ταχύτητα σε MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Με βάση την Ελάχιστη ταχύτητα, ο Ήλιος μπορεί να ταξιδέψει αφού περάσει από το Γαλαξιακό Αεροδρόμιο."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Συχνότητα σε Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Με βάση την Κύρια Συχνότητα του Πλανήτη, οι επιφανειακές συχνότητες θα πρέπει να είναι πολύ υψηλότερες:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Ζωντανή συχνότητα Planet 7.830 Hz το έτος: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Τροχιακή Απόσταση:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Αυτό είναι σαν ένα κομμάτι σε ένα ρεκόρ, είναι το περίστροφο του στίβου στα μίλια."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Συχνότητα τροχιάς σε Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Αυτό βασίζεται στο σχήμα Helix που ο ήλιος μας ταξιδεύει γύρω από τον γαλαξία"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "υπολογίζει επίσης όταν περνάμε από το Γαλαξιακό Επίπεδο."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Η ζωή στο γαλαξία βρίσκεται:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Αυτήν τη στιγμή η ζωή στον γαλαξία βρίσκεται σε τροχιά * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Αν μια νέα μηχανή Trinary εισέλθει ή φεύγει από το Παγκόσμιο ή το Ηλιακό μας Σύστημα, θα αλλάξουμε κομμάτια."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Μετά το Polar Shift που αναμένεται το 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "θα πρέπει να ξεκινήσετε ένα νέο ημερολόγιο ξεκινώντας από το έτος 0, ή να συνεχίσετε και να χρησιμοποιήσετε τις ημερομηνίες στον πίνακα Zodiac."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Αυτή είναι η Εποχή του Υδροχόου, και μια εποχή των παγετώνων θα σηματοδοτήσει τη βροχή του."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Αν επιλέξετε δύο Suns σε διαφορετικά Tracks απέναντι από το άλλο: εμφανίζονται με κόκκινο και πράσινο,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "και φαντάστηκα ότι καθώς περιστράφηκα αυτή την εικόνα που προσομοιάζει τους Ήλιους που Orbiting τον γαλαξία,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "θα παρατηρούσατε ότι όλοι οι Ήλιοι του Γαλαξία παραμένουν στη γραμμή καθώς περιστρέφονται"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "αυτή είναι μια κακή προσομοίωση, αλλά κάνει το μυαλό μου"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "αυτό το Μαθηματικό δεν είναι το ίδιο όπως και για το Ηλιακό Ηλιακό Σύστημα, οπότε οι Κώδικες και τα Μαθηματικά του Kepler και του Νεύτωνα δεν θα σας βοηθήσουν εδώ, αλλά το Trinary Math θα."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Το Trinary Math που δημιούργησα στην ηλικία των 9 ετών προσπαθεί να λύσει αυτό το πρόβλημα που παρουσίασαν οι Γαλαξίες χρησιμοποιώντας τη λογική: Ταχύτητα u003d Απόσταση / Χρόνος και Απόσταση u003d Ταχύτητα * Χρόνος, επομένως η Ταχύτητα και η Απόσταση είναι Συχνά. / Χρόνος και ώρα u003d 1 / Συχνότητα, έτσι ώστε: Συχνότητα (Hz) u003d Ταχύτητα φωτός (απόσταση 670.616,629 mph * 1 ώρα, ~ Frequency in miles in 1 Hour / Time) / Μήκος κύματος σε Miles, μια ώρα για 250.000.000 χρόνια, είναι μια απόσταση 1.095.000.000.000.000.000.000 μιλίων, χρησιμοποιώντας τη Φόρμουλα μου που παίρνω 1.011.954.093.357.316.200 μίλια, τόσο πολύ κοντά σε τόσο μεγάλη απόσταση.Τριναρική Επιστήμη βασίζεται σε όλη την Ενέργεια που προέρχεται από το Φως του Θεού μέσα σε κάθε Τρινάριο Άτομ, 3 τύποι: Proton, Neutron και Electron στην περίπτωση του Φωτός, όλα τα Trinary Math βασίζονται στην ηλεκτρική ενέργεια. Όταν ολοκληρωθεί η αριθμομηχανή γαλαξίας, ένα έργο github ανοιχτού κώδικα, το οποίο υπολογίζει ήδη τον ίδιο πίνακα, θα γραφτεί επίσης γραφικά η διαδρομή του t οι Ήλιοι ή τα Αστέρια, καθώς περιστρέφονται γύρω από τον Γαλαξία, μόλις ολοκληρωθεί, θα αντικαταστήσω τις εικόνες σε αυτόν τον πίνακα με αυτές. Έχετε δύο επιλογές, πιστεύετε ότι ο Sir Isaac Newton ότι ο Θεός είναι η Δύναμη της Βαρύτητας σε όλες τις Εξισώσεις του ή μπορείτε να πιστέψετε ότι ο Albert Einstein, ο οποίος καταγγέλλει όλες τις Θεωρίες του υπέρ του Newton God ως Δύναμη της Βαρύτητας, δεξιά σε σχέση με την Mainstream Science, επειδή βασίζεται σε μια Θεωρία που ο Einstein δεν πίστευε καν. Σε αυτόν τον τύπο, προσθέτω τις συχνότητες τραγουδιών αντί να χρησιμοποιώ το Sine και το Cosine, αυτό δεν είναι ένας προσομοιωτής, υπολογίζει όλα τα τραγούδια με βάση το ίδιο Sun, and Livable Planet Size, έτσι ώστε να λειτουργεί μόνο για το Track (s) που υποστηρίζει τη ζωή, έτσι υπολογίζει πού μπορεί να υπάρχει Life με βάση αυτά τα μεγέθη. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Ο Γαλαξίας που μετατρέπει όλα τα ηλιακά συστήματα με τον ίδιο ρυθμό"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Ο Γαλαξίας που μετατρέπει όλα τα ηλιακά συστήματα με τον ίδιο ρυθμό"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Το Γαλαξία Το Spinning All Solar Systems με τον ίδιο ρυθμό αλλά όχι την ταχύτητα"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Πλήρες μέγεθος"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Το Trinary Math είναι 3 Μαθηματικά Διάστασης επειδή βασίζεται στην Ηλεκτρική ενέργεια, γνωστή και ως Φως, που ο Νεύτωνας ονομάζεται Θεός."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Αν δείτε τον Ήλιο σαν να περιστρέφεται γύρω από ένα Σκούρο Αστέρι στο Γαλαξιακό Αεροδρόμιο"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "και έχοντας μια διαμόρφωση Trinary Star, έτσι ώστε ο Sirius να είναι ο Δυαδικός μας Αστέρας"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "και υπάρχουν επίσης οι Dark Star Companion που ενοχλούν γύρω από τα Trinary Star Systems (ο ήλιος μας, ο Sirius και το Dark Star)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Αυτός ο πίνακας υπολογίζει τη συχνότητα αυτής της κυματομορφής που φαίνεται σε αυτή την απεικόνιση"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "καθώς και οι ταχύτητες που ταξιδεύει καθώς η δύναμη καταδύεται στο Γαλαξιακό Αεροπλάνο με τη Μέγιστη Ταχύτητα"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "και πώς η Ελάχιστη Ταχύτητά του, καθώς παίρνει το πιο απομακρυσμένο από το Amplitude πριν βυθιστεί πίσω στο Γαλαξιακό Αεροπλάνο."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Η τροχιακή πορεία του Ήλιου γύρω από το Γαλαξία μια επανάσταση"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Τροχιακή διαδρομή του Ήλιου γύρω από το Γαλαξία μια ολοκληρωμένη τροχιά"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Εικόνα A2: Πλήρης τροχιακή διαδρομή του ήλιου γύρω από τον γαλαξία"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Πλήρες μέγεθος"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Πίστα"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Κινητήρες"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Μέγιστη ταχύτητα"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "στο MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Ελάχιστη ταχύτητα"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "στο MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Συχνότητα"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "σε Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Η τροχιακή απόσταση"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "σε Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Πίστα"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Συχνότητα"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Πίνακας Προσάρτημα Α: Μαθηματικά Μαθηματικών Μαθηματικών Γαλαξιακού Πινάκου"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Χρήση: (Μέγεθος Κυρ σε Μίλια σε Διάμετρο) (Μέγεθος Ζωηρού Πλανήτη σε Μίλια σε Διάμετρο) (Αριθμός Κινητών Τριγώνων)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Ακτίνα του γαλαξία σε χιλιόμετρα) (πλήρες όνομα αρχείου: appendix.a.xhtml) (Nth Αριθμός γραμμής προς εκτύπωση)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Αυτό σας επιτρέπει να εισέλθετε σε άλλους γαλαξίες και να παίζετε με διαφορετικά μεγέθη Sun και Planet."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Ρυθμίστε το ThisPrintNth u003d 1 αν θέλετε να εκτυπώσετε μόνο τις nth γραμμές, ορίστε το trackNth στον αριθμό για να παραλείψετε"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 σας δίνει περίπου 21 τραγούδια, ορίζοντας το σε 1 θα εκτυπώσει όλα τα τραγούδια,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "ορίστε DoNotSkipThis u003d 666 ή ό, τι αριθμός που θέλετε να δείτε"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "αυτό εξοικονομεί χαρτί μόνο με την εκτύπωση μέρους των γραμμών στο τραπέζι, αυτό είναι το 6ο Argument, προσπαθώ να τα περιορίσω."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Σύνδεση με το αρχείο Bash που δημιούργησε αυτήν τη σελίδα (Αποθήκευση και ορισμός δικαιωμάτων για εκτέλεση):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Εάν εκτελέσετε το Script Bash όπως: ./makeappendix.a.sh ή ./makeappendix.a.sh --help, θα σας δώσει βοήθεια και περισσότερες λεπτομέρειες."
+

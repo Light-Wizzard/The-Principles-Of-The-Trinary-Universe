@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Tá Script Tábla Tábla Tábla Diosca Réaltrach ag Cruthú"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Nuashonrú Deiridh"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Dáta Dáta"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Méid na Gréine"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Méid an Phláinéid Inmhianaithe"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Líon Innill Thrialacha"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Réaltra Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Líon iomlán na Rianta i Réaltra"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Innéacs Brú Atmaisféarach"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "míle i trastomhas"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "mile"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Prionsabail na Trialach Cruinne: Aguisín A: Tábla Tréad Réaltrach"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Údar: Jeffrey Scott Flesher, Prionsabail Suaite Solas nó Draoi mar Sir Isaac Newton agus Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Solas, Meadhrán, Treoraí, Newton, Newtonian, Tesla, Franklin, Dia, Íosa, Bar / Abbas, Dorchadas, Triail, Cruinne, Tearmann, Fisic, Sun, Step, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Údar: Jeffrey Scott Flesher, Prionsabail Suaite Solas nó Draoi mar Sir Isaac Newton agus Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Aguisín A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Tábla Trialach Réaltrach"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Prionsabail na Troda Cruinne"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight agus CopyLeft le"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Sáirsint Foirne Aerfhórsa na Stát Aontaithe atá ar scor go teicniúil"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Tábla Trialach Réaltrach"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Tá an Réaltra Trialach bunaithe ar:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Tá an Réaltra Trialach bunaithe ar Imreoir Taifead, is é an Plána Réaltrach an Taifead nó an Diosca."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Fágann na Grianaí go léir an Réaltra ag an Ráta Aonair Cosúil leis an Lámh Imreoir Taifead, agus tá a Luas féin ag gach Rian."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Is Tréimhse Ama í an Idirthréimhse a shainmhínítear mar seo a leanas:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Is Tréimhse Ama a shainmhínítear i mblianta í an Idirthréimhse, ríomhfaidh mé anseo mar Uasmhéid, Meán, agus Íosta,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "Déantar na Tréimhsí seo a lipéadú ag úsáid na Comharthaí Stoidiaca, agus úsáideann siad an Féilire Julian, Gregorian agus Mayan."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Tá Matamaitic Triail Matamaitice bunaithe ar:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Tá Matamaitic Thrialach Matamaitice bunaithe ar Thábla Maitrís, is Rian sa Diosca Réaltrach gach sraith díobh,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "tá sonraí ag gach colún faoin nGrian (na Gruaigeanna) sa Réaltra a thacaíonn leis an Saol."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Tá sé seo bunaithe ar Raonta Fuinnimh atá ar eolas a bhféadfadh daoine maireachtáil iontu."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Tá an Coincheap Trialach seo bunaithe ar:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Is é an Coincheap Trialach ceann a tháinig mé liom féin mar pháiste faoi aois 9,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "tá sé bunaithe ar an bhfaisnéis go léir a theastaigh ón nGrian a fháil chun a Job in the Galaxy a dhéanamh."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Nuair a thuig mé an méid a bhí á chur síos ag Sir Isaac Newton,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Shíl mé go bhfuil gach rud le baint ag Méid na Gréine lena Chóras Gréine,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "mar sin thosaigh mé ag ríomh gach rud a raibh mé in ann: bunaithe ar a Airíonna,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "agus scríobh sé an Bash Script seo chun an doiciméad XHTML File seo a chruthú ina bhfuil an Tábla Maitrís seo agus, scríobh mé Tionscadal Foinse Oscailte Qt Quick QML JavaScript ar a dtugtar réaltra-áireamhán, tá an nasc ag bun an leathanaigh."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Bunaithe ar Méid Gréine de"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "míle i trastomhas"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Bunaithe ar"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Trinary Engines"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Bunaithe ar Réaltra le Ga de"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Líon iomlán na dTuairiscí"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Uastréimhse Iontrála"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Meán-Idirthréimhse"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Íosta is Lú"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Rian:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Uimhir rian ár Réaltra, bunaithe ar 0 go dhá uair 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Tá Innill Thrialacha Diúltacha ag na ráillí faoi bhun 336 toisc gur Réaltaí Dorcha iad,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "tá siad ag meascadh le Fáinní Allamuigh Fhórsa na Réaltraí, ag déanamh na n-uimhreacha minicíochtaí diúltacha."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Innill Thrialacha:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Bunaithe ar an méid rudaí (Pláinéid, Micrimhiléid, Moons, Asteroidí) nó Innill Thrialacha, níl ach Triail Innill sa Tábla ag tagairt ach amháin do Réaltaí Compallacha Réalt Dorcha, ceanglaítear orthu an Grianchóras a choinneáil le chéile, an Fuinneamh Dorcha sna cineálacha seo Is é an Solas Trialach Uile Solas gan Dorchadas, cé go dtagraíonn Solas gan Dorchadas do Spectra of Light nach gnách a fheiceáil sa Speictream infheicthe Is féidir le daoine a fheiceáil, gan Teicneolaíocht Speictrim Iomlán, go ndéantar na cineálacha seo Inneall Trialach as Neutrinos atá cuma dorcha. le Teicneolaíocht, toisc nach féidir le Teicneolaíocht an Lightless Darkness a fheiceáil ach an Nellón Shell, rud a chiallaíonn na cáithníní seachtracha a bhaineann le Trinary Atom, níl aon Teicneolaíocht ann faoi láthair chun Réaltaí Dorcha a bhrath, ach is féidir le Íomhánna Full Spectrum a bPatrúin a bhrath mar Fhuinneamh dorcha. rialú a dhéanamh ar na Gréine nó na Réaltaí, trí ghréasán de Fhuinneamh Dorcha a chruthú, An Foraois Dark Star ag fithis idir an Ghrian i gCóras Gréine a bhfuil Pláinéid agus Gealacha air, agus a Pháirtí Dénártha t, dar linn, is é atá i gceist le Sirius a Star Star, mar sin, is ea is dlúithe a bhíonn Grian nó Réalta leis an Réaltra, mar is lú an Innill Thrialacha a theastaíonn uaidh. tá Star ar siúl, dá bhrí sin níos faide ó Réaltra, níos mó Innill Thrialacha ar a dtugtar Compánaithe na Réalt Dorcha, éilíonn sé an fad a shíneadh, chun na Pláinéid eile a choinneáil, agus coinníonn an Réalt Dorcha an Ráta Gluaiseachta céanna ag luasanna éagsúla . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Is é an Dark Star féin a rialaíonn an Ráta céanna a choinneáil ag luasanna éagsúla, agus tá sé sa Phláta Réaltrach, agus tá an Ghrian ar a dtugtar Réaltaí air freisin. Is é an post Companions an córas gréine a choinneáil le chéile. taispeáin go bhfuil an Star Dénártha Sirius agus ár nGrian ar thaobhanna urchomhaireacha den Phláta Réaltrach, níl sé seo ach fíor nuair a théann sé tríd agus ag teacht amach as, chomh fada agus is féidir liom a chruthú. i dtonnfhoirm cruth Helix, tá sé bunaithe ar an Minicíocht a bhaineann lenár n-eatramh Suns ó thaobh ama agus faid de, ach de bharr na hEolaíochta reatha, is féidir leis an dúnadh Príomhshrutha meastachán a dhéanamh idir 30 agus 33 Milliún Bliana, agus mar sin rinne mé Athróg, ionas gur féidir é a choigeartú go dtí an luach ceart, tá an feidhmchlár seo ceaptha chun aon Réaltra a ionchur, mar sin ní dhéanann sé difear do mo ríomh nuair a dhéanfaimid Droim ar ais Polannaigh, toisc nach bhfuil ann ach an áit ina bhfuil muid sa Chomhartha féin, agus a dhéanann ní ag brath fiú ar cén treo táimid ag dul ar aghaidh go dtí an Plána Réaltrach, nó ar shiúl uaidh, ní bhaineann sé ach leis an áit a bhfuilimid i dtéarmaí an Chomhartha féin. Glaoim ar Domhantarraingt mar Chomhartha, toisc go bhfuil Dia Solas Uile gan Dorchadas, agus is é is Fórsa Domhantarraingt ann i ngach Cothromóid Newtons, chomh maith leis an mianach, agus is é seo an Domhantarraingt atá á ríomh agam don Réaltra, agus Stars . Is cineál speisialta Inneall Trialach iad na Réaltaí Dorcha agus a gCúntóirí, agus cosúil le gach Innill Thrialach, is Teoiriciúil iad, mar nach féidir iad a chruthú ná a dhiúltú, agus is é a dúirt Newton go bhfuil an Bíobla á rá ag Faith Dia, ach is é sin an Eolaíocht, fiú dúirt Newton go n-áitíonn mé, ina ionad sin, go n-astaíonn Trinary Engines na Comharthaí seo ar féidir a Aimsiú ag Teicneolaíocht Reatha, mar sin is féidir liom a rá gur Fíricí i Triail Eolaíochta iad, le Cruthúnas ag baint úsáide as Teicneolaíocht reatha. Chun na Sonraí a Thoirt sa Tábla, d'úsáid mé na sonraí seo a leanas mar athróga, Méid na Gréine mar 864,575.9 Mílte i dTrastomhas, Méid Pláinéad Inmhianaithe mar 7926.2109 Mílte i dTrastomhas, Líon Innill Thrialacha mar 333 ón mBíobla, ó Ré an Réaltra mar 241828072282107.5071453596951 Miles, Ainm Comhad Iomlán: append.a.xhtml, agus 66 sraitheanna le Priontáil, is é sin le haghaidh Script Bash, tá níos mó smachta agam sa Qt App, tá Math Trialach Simplí, chun tréimhse ama na nIdirghabhálacha a fháil. méid na Gréine, (864,575.9 * (1/137)) / 3 u003d an t-uasbhliain 2103, tá an Meán-Idirthréimhse bunaithe ar na Frithdhátaí Polainne Maighnéadaigh, athraíonn sí polaraíocht 10 (0 - 9) uair sa Chéad: 100 - 9 u003d 91, mar sin 2103 - 91 u003d 2012, chun Deireadh Ama a ríomh, bain úsáid as 42 as Treoir Hitchhikers don Réaltra, tá 42 heicsidheachán 66 i deachúil, agus sin ón mBíobla, agus 2103 - 42 u003d 2061, agus Ríomh Sir Isaac Newton é seo sa bhliain 2060 faoin bhFéilire Julian, mar sin tá sé 2061 faoin bhFéilire Gregorian, mar sin is é seo an Ba chóir do Bhliain an Domhain Polannaigh a aisiompú, agus ní dhéanfainn an imeacht seo Go héadrom, is é an Deireadh Am ar a dtugtar Deireadh na Sibhialtachta mar is eol dúinn é, agus mar sin is eol duit Méid na Gréine, eile ná nach n-oibríonn sé ach amháin má thosaíonn tú ar do bhliain ag 0, agus cén fáth a dtosaíonn Féilire na Bealtaine tar éis 2012, is é eireaball an Éisc an bhliain 2060, agus cén fáth ar tugadh Féilire Gregorian isteach, ionas go mbeadh sé ag teacht leis seo Cód an Bhíobla, rud a fhágann go ríomhtar Newtons an ceart, agus cén fáth a gcoinníonn na Mayans súil ar am i dTréimhsí 2012 Blianta, agus mar sin oibríonn an mata i gcónaí dóibh, agus bhí a fhios acu go dtarlódh sé tar éis 2012 agus roimh an Earca Éisc, atá sa bhliain 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Max Speed u200bu200bi MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Bunaithe ar an luas uasta is féidir leis an nGrian taisteal tríd an Plána Réaltrach."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min Gaoithe i MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Bunaithe ar an luas íosta is féidir leis an nGrian taisteal tar éis dul tríd an Plána Réaltrach."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Minicíocht in Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Bunaithe ar Chraobhmhinicíocht an Phláinéid, ba chóir go mbeadh na minicíochtaí dromchla i bhfad níos airde:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Livable Planet Minicíocht 7.830 Hz sa bhliain: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Fad Fithiseach:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Tá sé seo cosúil le Amhrán ar Thaifead, is é Imlíne an Amhráin i Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Minicíocht Amhrán in Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Tá sé seo bunaithe ar an gcruth Helix a dtaistealaíonn ár nGrian timpeall an Réaltra air,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "ríomhann sé freisin nuair a théann muid tríd an Plána Réaltrach."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Tá an saol sa Réaltra suite:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Tá Saol an Réaltra ar an Lorg * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Má théann Inneall Trialach nua isteach nó nuair a fhágann sé an Domhan nó an Grianchóras, athróimid rianta."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Tar éis an Shift Pholaigh atá dlite i 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "ba chóir duit Féilire Nua a thosú ag tosú le bliain 0, nó lean ort agus úsáid na dátaí sa Tábla Stoidiaca."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Is é seo Aois Aquarius, agus marcóidh Aois na hOighe a Báisteach."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Má roghnaíonn tú dhá Ghrian ar Rianta éagsúla trasna óna chéile: taispeáin i Dearg agus Glas,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "agus shamhlaigh mé agus mé ag rothlú na híomhá seo ag ionsamhlú na nGruacha ag Cuí leis an Réaltra,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "thabharfá faoi deara go bhfanann na Gréine go léir sa Réaltra ag teacht de réir mar a imríonn siad é,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "is insamhalta bocht é seo ach déanann sé mo phointe,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "níl an Math seo mar an gcéanna leis an gCóras Gréine Suns, mar sin ní bheidh Dlíthe agus Math Kepler's agus Newton ag cabhrú leat anseo, ach beidh Trinary Math."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Math Trialach a chruthaigh mé ag aois a 9 chun an fhadhb seo a réiteach na Réaltraí a cuireadh i láthair, ag baint úsáide as an loighic: Luas u003d Fad / Am, agus Fad u003d Luas * Am, mar sin tá Luas agus Fad i gcoibhneas le Minicíocht, mar sin: Minicíocht u003d 1 / Am agus Am u003d 1 / Minicíocht, mar seo: Minicíocht (Hz) u003d Luas Solais (Fad @ 670,616,629 mph * 1 uair; ~ Minicíocht i míle i 1 Uair nó Am) / Tonnfhad i Mílte, ag baint úsáide as meastachán Príomhshrutha de 500,000 Míl uair an chloig ar feadh 250,000,000 bliain, is é sin 1,095,000,000,000,000,000 míle míle, ag baint úsáide as mo Formula faighim 1,011,954,093,357,316,200 míle, chomh gar sin i bhfad uainn. 3 chineál: Proton, Neutron agus Leictreon i gcás Solais, mar sin, tá gach Math Trialach bunaithe ar an Leictreachas Nuair a bheidh an réaltra-áireamhán comhlánaithe, déanfaidh tionscadal github Open Source, a ríomhann an tábla céanna cheana féin, amach go grafach amach cosán t sé Suns nó Stars, de réir mar a imíonn siad timpeall an Réaltra, nuair a bheidh siad críochnaithe, cuirfidh mé na híomhánna sa tábla seo in ionad na n-íomhánna sa tábla seo. Tá dhá rogha agat, creidim Sir Isaac Newton go bhfuil Dia mar Fhórsa Domhantarraingt i All a Equations, nó is féidir leat a chreidiúint Albert Einstein a Shéan go raibh a Theoiricí go léir i bhfabhar Newtons Dia mar Fhórsa Domhantarraingt, cibé slí is gaire dom a bheith ceart ná Eolaíocht Phríomhshrutha, toisc go bhfuil sé bunaithe ar Theoiric ní chreid Creidim Einstein isteach. San fhoirmle seo, cuirim na hAmhánna Amhrán in ionad Sine agus Cosine a úsáid, ní Insamhlóir é seo, ríomhann sé na Rianta go léir atá bunaithe ar an gcéanna Méid na Gréine, agus Livable Planet, ionas nach n-oibríonn sé ach don Track (s) a thacaíonn leis an Saol, agus mar sin ríomhann sé an áit ar féidir an Saol a bheith ann bunaithe ar na méideanna seo. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "An Réaltra ag Spinning gach Córais Gréine ag an Ráta céanna"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "An Réaltra ag Spinning gach Córais Gréine ag an Ráta céanna"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "An Réaltra ag Spinning gach Córais Gréine ag an Ráta céanna ach gan luas"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Méid Iomlán"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Is ionann Math Trialach agus 3 Math Toiseach toisc go bhfuil sé bunaithe ar Leictreachas ar a dtugtar Solas, ar a dtugtar Newton ar Dhia."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Má fhéachann tú ar an nGrian a bheith ag treo Réalt Dorcha sa Phlás Réaltrach,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "agus Cumraíocht Star Trialach a bheith aige, sa chaoi is gurb é Sirius ár Sraith Dénártha,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "agus tá Comhaltaí Réalt Dorcha ann freisin a chuireann bac ar na Córais Star Trialacha (Ár nGrian, Sirius agus Réalta Dorcha)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Ríomhann an Tábla seo Minicíocht an Tonnfhoirm seo a thaispeántar sa Léaráid seo"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "chomh maith leis na Luasanna a thaistealaíonn sé de réir mar a théann sé i gcumhacht isteach sa Phláta Réaltrach ag an Uasluas,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "agus an chaoi a n-éiríonn sé leis an Luas Íosta de réir mar a fhaigheann sé a chuid is faide amach in Aimplitiúid sula dtéann sé ar ais isteach sa Phlás Réaltrach."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Cuarbhealach na Gréine timpeall réabhlóid Réaltra amháin"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Cuarbhealach na Gréine timpeall ar orbit iomlán Réaltra amháin"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Léaráid A2: Cuarbhealach na Gréine timpeall an Réaltra a chríochnú"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Méid Iomlán"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Rianaigh"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Triail"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Innill"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Max Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Minicíocht"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "in Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Fad Fithiseach"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "in Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Rianaigh"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Minicíocht"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tábla Aguisín A: Tábla Réalt Réaltrach na Matamaitice Trialach"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Úsáid: (Méid na Gréine i dTrastomhas) (Méid an Phláinéid Inmhéadaithe i Mílte ar Thrastomhas)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radharc na Réaltra i Miles) (Ainm Iomlán an Chomhaid: aguisín.a.xhtml) (Nú Uimhir Rae le Priontáil)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappNEX.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 aguisín.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Ligeann sé seo duit dul isteach i Réaltraí eile, agus súgradh le Méideanna éagsúla Sun agus Planet."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Socraigh ThisPrintNth u003d 1 más mian leat ach an naoú sraitheanna a phriontáil, socraigh an traein go dtí an uimhir le scipeáil,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "Tugann 66 tú thart ar 21 Amhráin, clóbhuailfidh sé go dtí 1 priontófar gach Amhráin,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "socraigh DoNotSkipThis u003d 666 nó cén uimhir is mian leat a fheiceáil,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Sábhálann sé seo páipéar ach trí chuid de na sraitheanna a phriontáil sa tábla; is é seo an 6ú argóint, déanaim iarracht iad siúd a theorannú."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Nasc le Comhad Bash a chruthaigh an Leathanach seo (Sábháil agus Socraigh Ceadanna le rith.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Má ritheann tú an Script Bash mar: ./makeappend.a.sh nó ./makeappend.a.sh - glaoigh ort, tabharfaidh sé cabhair agus sonraí breise duit."
+

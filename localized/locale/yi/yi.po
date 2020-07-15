@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "                                                                                                                                                                                                                                    גניטייירק זיא טפירש שיט טריּפש קסיד קיטקַאלַאג טַאמ ץירטַאמ רעניירט"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "                                                                                                                                                                                                                                                                                 ןקיטנַייהרעד עטצעל"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "                                                                                                                                                                                                                                                                                     טשיוטעג םוטאד"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "                                                                                                                                                                                                                                                                                         סיירג ןוז"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "                                                                                                                                                                                                                                                                             סיירג טענַאלּפ עלבַאוויל"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "                                                                                                                                                                                                                                                                        זנַאשזדנע רעניירט ןופ רעמונ"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "                                                                                                                                                                                                                                                                                    סוידַאר יסקַאלַאג"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "                                                                                                                                                                                                                                                                  יסקַאלַאג ןיא סקַארט ןופ רעמונ ץנַאג"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "                                                                                                                                                                                                                                                                           סקעדניא קורד קירעפסָאמטַא"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "                                                                                                                                                                                                                                                                                 רעטעמַאיד ןיא ליימ"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "                                                                                                                                                                                                                                                                                              ליימ"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "                                                                                                                                                                                                                                                              סרעווינוא ירַאנירט םעד ןופ ןּפיצנירּפ יד"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "                                                                                                                                                                                      Nikola Tesla ןוא Sir Isaac Newton יוו זדרעזיוו רעדָא דרעזיוו טכיל ןופ סעלּפיסנירּפ ,Jeffrey Scott Flesher :רבחמ"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "                                                                                                                            Universe, Sanctuary, Physics, Sun, Step, Jeffrey Scott Flesher ,ירַאנירט ,שינרעטצניפ ,Newton, Newtonian, Tesla, Franklin, God, Jesus, Bar / Abbas ,קעזַאמ ,דרַאזיוו ,טכיל"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "                                                                                                                                                                                      Nikola Tesla ןוא Sir Isaac Newton יוו זדרעזיוו רעדָא דרעזיוו טכיל ןופ סעלּפיסנירּפ ,Jeffrey Scott Flesher :רבחמ"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "                                                                                                                                                                                                                                                                                      :א סקידנעּפּפַא"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "                                                                                                                                                                                                                                                                         שיט רוּפש קיטקַאלַאג רעניירט"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "                                                                                                                                                                                                                                                             סרעווינוא רעניירט םעד ןופ ןּפיצנירּפ יד"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight and CopyLeft by"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "                                                                                                                                                                                                                                            טנַאעגרעס ףַאטס סרָאפ טפול רענאקירעמא טנידעגסיו יללַאקידעמ"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "                                                                                                                                                                                                                                                                         שיט רוּפש קיטקַאלַאג רעניירט"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "                                                                                                                                                                                                                                                               :ףיוא טריזאב זיא יסקַאלַאג רעניירט יד"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "                                                                                                                                                                                                     .קסיד רעדָא דרָאקער יד זיא ךַאלפ קיטקַאלַאג יד .רעליּפש דרָאקער ַא ףיוא טריזאב זיא יסקַאלַאג רעניירט יד"
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "                                                                                                                                                                                .דיּפס ענעגייא ןייז טאה רוּפש רעדעי ןוא ,םערָא רעליּפש דרָאקער יד יוו סרוק רעקיבלעז רעד ןיא יסקַאלַאג יד טיברָא זנַאס יד לכ"
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "                                                                                                                                                                                                                                                       :יוו דנייפיד דאירעפ טייצ א זיא עיצארעטיא ןא"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "                                                                                                                                                                                 .םומינימ ןוא רעכילטינשכרוד ,םומיסקאמ סלא אד ןענעכערסיוא לעוו ךיא .ןראי ןיא טריניפעד דאירעפ טייצ א זיא עיצארעטיא א"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "                                                                                                                                                                                                 .רַאדנעלַאק ןַאַיימ ןוא ןַאירָאגערג ,ןַאילושזד יד ןצונ ןוא ,סנגיס קַאידָאז יד טימ דלַאבייל ןענעז סדָאירעּפ יד"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "                                                                                                                                                                                                                                                     :ףיוא טריזאב זיא ץירטַאמ לאירטאמ ןיא קיטאמעטאמ"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "                                                                                                                                                                                          ,קסיד קיטקַאלַאג יד ןיא רוּפש ַא זיא ןרעדור רעדעי .שיט ץירטַאמ ַא ףיוא טריזאב זיא ץירטַאמ לאירטאמ ןיא קיטאמעטאמ"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "                                                                                                                                                                                                                              .ןבעל טציטש סָאוו יסקַאלַאג יד ןיא (s) ןוז יד ןגעוו ןטַאד טאה לַייז רעדעי"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "                                                                                                                                                                                                                .ןיא ןבעל נבַיילב ןעק סנַאמוה סָאוו עיגרענע ןופ זַאשזדנייר עטנַאקַאב ףיוא טריזאב זיא סָאד"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "                                                                                                                                                                                                                                                               :ףיוא טריזאב זיא ףירגַאב רעניירט םעד"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "                                                                                                                                                                                                              ,9 ןופ רעטלע יד ןיא דניק ַא ייב ךיז בָאה ךיא סָאוו רענייא ןעוועג זיא ףירגַאב רעניירט רעד"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "                                                                                                                                                                                             .יסקַאלַאג יד ןיא טעברַא ןייז רַאֿפ ןסיוו וצ ףראד סע סָאוו עיצַאמרָאֿפניא יד עלַא טימ ןוז יד ףיוא טריזאב זיא סע"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "                                                                                                                                                                                                                                          ,טביירשאב ןאטוינ קחצי ריס סאוו ןענאטשראפ ךיא באה לאמנייא"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "                                                                                                                                                                                                                                ,םעטסיס נוז ןַייז טימ ןָאט וצ ץלַא טאה סיירג סנוס יד זַא ןעזעגנייא ךיא"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "                                                                                                                                                                                                                          ,סעיטרעּפָארּפ ןַייז ףיוא טריזאב :ןעק ךיא ץלַא גניטיילַאיקלַאק דעטרַאטס ךיא יוזַא"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "                                                                 .טַאלב יד רעטנוא זיא קניל רעד ,רָאטַאלוקלַאק-יסקַאלַאג ןֿפורעג טקעיורּפ רוקמ ןֿפע עמרָאפטַאלּפ זַיירק טּפירקסַאווַאשזד למק קיווק Qt ַא ןבירשעג ךיוא ךיא ןוא ,עלבַאט ץירטַאמ םעד ללוּכ סָאוו עקעט טנעמוקָאד XHTML םעד ןֿפַאש וצ טּפירקס שַאב םעד ןבירשעג ןוא"
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "                                                                                                                                                                                                                                                                       ןופ סיירג ןוז ַא ףיוא טריזַאב"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "                                                                                                                                                                                                                                                                                 רעטעמַאיד ןיא ליימ"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "                                                                                                                                                                                                                                                                                       ףיוא טריזַאב"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "                                                                                                                                                                                                                                                                                  זנַאשזדנע רעניירט"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "                                                                                                                                                                                                                                                            ןופ סוידַאר ַא טימ יסקַאלַאג ַא ףיוא טריזַאב"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "                                                                                                                                                                                                                                                                              סקַארט ןופ רעמונ ץנַאג"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "                                                                                                                                                                                                                                                                                ןָאיטַארעטי םומיסקַאמ"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "                                                                                                                                                                                                                                                                             ןָאיטַארעטי ךעלטינשכרוד"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "                                                                                                                                                                                                                                                                                 ןָאיטַארעטי םומינימ"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "                                                                                                                                                                                                                                                                                             :רוּפש"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "                                                                                                                                                                                                                                   .666 לָאמ ייווצ וצ 0 ףיוא טריזאב ,יסקַאלַאג רעזדנוא ןופ רעמונ רוּפש"
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "                                                                                                                                                                                                                    ,ןרעטש רעטצניפ ןענעז ייז לַייוו זנַאשזדנע רעניירט וויטַאגענ ןבָאה 336 רעטנוא סקַארט"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "                                                                                                                                                                                                             .סעיסנעווקערפ וויטַאגענ ןרעמונ יד ןכאמ ,סגניר דלעיפ סרָאפ סעיסקַאלַאג יד טימ ךיז ןשימ ייז"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "                                                                                                                                                                                                                                                                                 :זנַאשזדנע רעניירט"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr " . זדיּפס ענעדישרַאפ ןיא סרוק גנוגעווַאב עבלעז יד טלאה ןרעטש קרַאד יד תעשב ,ץַאנַאלּפ ערעדנא יד ןטלַאהטנַא וצ ללוּכ יד רַאֿפ עסנַאטסיד זרעייווקיר סע ,רעטיילגַאב ןרעטש קרַאד ןֿפורעג זנַאשזדנע רעניירט רעמ יד ,יסקַאלַאג יד ןופ קעווַא רעטַייוו יד יוזַא ,ףיוא זיא ןרעטש ַא יוו טנאקאב ךיוא ןוז יד רוּפש סָאוו ןרילוגער זנַאש"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr " . 2103 רָאי ןיא ןעוועג זיא סָאוו ,קע שיפ יד רעדייא ןוא 2012 ךָאנ ןריסַאּפ טלָאוו סע זַא טסואוועג ייז ןוא ,ייז רַאֿפ טעברַא יללַאקיטַאמַאטַאמ יד יוזַא ,ןרָאי 2012 ןופ סנָאיטַארעטי ןיא טייצ ןופ רוּפש ןטלַאה סנַאַיימ יד סָאוו ןוא ,קיטכיר ןבשזעכ Newtons יד ןכאמ ,דוָאק לביב םעד טימ הרוש ןיא ןייז טלָאוו סע זַא יוזַא ,נענע"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "                                                                                                                                                                                                                                                                            :הבמ ןיא דיּפס םומיסקַאמ"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "                                                                                                                                                                                                                      .ךַאלפ קיטקַאלַאג יד ךרוד ןרָאפמורַא ןענעק ןוז יד טַייקכיג םומיסקַאמ יד ףיוא טריזאב"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "                                                                                                                                                                                                                                                                                 :הבמ ןיא דיּפס ןימ"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "                                                                                                                                                                                                          .ךַאלפ קיטקַאלַאג יד ךרוד ןעגנאגעג ךָאנ ןרָאפמורַא ןענעק ןוז יד טַייקכיג םומינימ יד ףיוא טריזאב"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "                                                                                                                                                                                                                                                                                   :זה ןיא טַייקטפָא"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "                                                                                                                                                                                                          :רעכעה ליפ ןייז לָאז זיסנַאווקירפ ךַאלפרעביי יד ,טענַאלּפ םעד ןופ טַייקטפָא ץרַאה יד ףיוא טריזַאב"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "                                                                                                                                                                                                                                           .2019 :רָאי םעד ןיא זה 7.830 ןופ טַייקטפָא טענַאלּפ עלבַאוויל"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "                                                                                                                                                                                                                                                                                 :עסנַאטסיד לַאטַאברָא"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "                                                                                                                                                                                                                      .ליימ ןיא רוּפש רעד ןופ םענמורַא רעד זיא סָאד ,דרָאקער ַא ףיוא רוּפש ַא יוו זיא סָאד"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "                                                                                                                                                                                                                                                                              :זה ןיא טַייקטפָא רוּפש"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "                                                                                                                                                                                                                         ,יסקַאלַאג יד םורַא זלַאווַארט ןוז רעזדנוא םערָאפ סקילעה יד ףיוא טריזאב זיא סָאד"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "                                                                                                                                                                                                                                           .ךַאלפ קיטקַאלַאג יד ךרוד ןרָאפ רימ ןעוו ךיוא ץיילַאיקלַאק סע"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "                                                                                                                                                                                                                                                                     :ןגיל זיא יסקַאלַאג יד ןיא ןבעל"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "                                                                                                                                                                                                                                                 666 * רוּפש ףיוא זיא יסקַאלַאג רעד ןיא ןבעל לַייוורעד"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "                                                                                                                                                                                                  .סקַארט ןשיוט ןלעוו רימ ,םעטסיס נוז רעדָא טלעוו רעזדנוא ןזָאלרַאפ רעדָא טמוק רָאטָאמ רעניירט ַיינ ַא ביוא"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "                                                                                                                                                                                                                                                                 ,2060 ןיא טכער טפיש רַאילָאּפ יד ךָאנ"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "                                                                                                                                                                                               .שיט קַאידָאז יד ןיא סעטַאד יד ןצונ ןוא ןצעזרָאפ רעדָא ,0 רָאי טימ בייהנָא רַאדנעלַאק עַיינ ַא ןבייהנָא לָאז ריא"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "                                                                                                                                                                                                                            .ןגער ןַייז ןכייצ טעוו עגַא זייא ןַא ןוא ,סוירַאווקַא ןופ רעטלע רעד זיא סָאד"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "                                                                                                                                                                                                   ,ןירג ןוא טיור ןיא ןזיוועג :ערעדנא רעדעי רעבירַא סקַארט ענעדישרַאפ ףיוא זנַאס ייווצ ןבַיילק ריא ביוא"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "                                                                                                                                                                                                                ,יסקַאלַאג יד םורַא זנַאס יד גניטיילַאימיס דליב םעד דיטייטוָאר ךיא ןעוו זַא דנַאשזדַאמי ןוא"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "                                                                                                                                                                                                                 ,סע טיברָא ייז יוו הרוש ןיא ןבַיילב יסקַאלַאג יד ןיא זנַאס יד עלַא זַא ןקרעמַאב טלָאוו ריא"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "                                                                                                                                                                                                                                               ,טנופ ןיימ טכאמ סע רעבָא ןַאשיילַאימיס ךעבענ ַא זיא סָאד"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "                                                                                                                                              .טַאמ ירַאנירט רעבָא ,ָאד ריא ןפלעה טשינ טעוו Newton ןוא Kepler ןופ סקיטַאמַאטַאמ ןוא ןצעזעג יד יוזַא ,םעטסיס רַאלָאס סנַאס יד רַאֿפ יוו עבלעז יד טשינ זיא טַאמ יד"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr " .סעזיס יד ףיוא טריזאב ןריטסיסקע ןעק ןבעל ווו ץיילַאיקלַאק סע יוזַא ,ןבעל טציטש סָאוו (s) רוּפש יד רַאֿפ טעברַא זיולב סע זַא יוזַא ,סיירג טענַאלּפ עלבַאוויל ןוא ןוז רעקיבלעז רעד ףיוא טריזאב סקַארט עלַא ץיילַאיקלַאק סע ,רעטיילַאימיס ַא טשינ זיא סָאד ,עניסָאק ןוא ןייס ןצינ ןופ טָאטשנַא סעיסנעווקערפ רוּפש יד גייל ךיא"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "                                                                                                                                                                                                                                       ָאּפמעט רעקיבלעז רעד ןיא ןעמעטסיס נוז עלַא גנינניּפס יסקַאלַאג יד"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "                                                                                                                                                                                                                                       ָאּפמעט רעקיבלעז רעד ןיא ןעמעטסיס נוז עלַא גנינניּפס יסקַאלַאג יד"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "                                                                                                                                                                                                                      טַייקכיג טשינ רעבָא ָאּפמעט רעקיבלעז רעד ןיא סמעטסיס נוז עלַא גנינניּפס יסקַאלַאג יד"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "                                                                                                                                                                                                                                                                                        סיירג ץנַאג"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "                                                                                                                                                                           .טָאג ןֿפורעג טָאה Newton סָאוו ,טכיל יוו טנאקאב ךיוא ערטקעלע ףיוא טריזאב זיא סע לַייוו טַאמ לַאנַאשנעמיד 3 זיא הטַאמ רעניירט יד"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "                                                                                                                                                                                                                                 ,ךַאלפ קיטקַאלַאג יד ןיא ןרעטש רעטצניפ ַא ייב יוו ןוז יד קוק ריא ביוא"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "                                                                                                                                                                                                                  ,ןרעטש ירענייב רעזדנוא זיא Sirius זַא ַאזַא ,ןַאשיירעיגיפנַאק ןרעטש רינירט ַא ןבָאה ןוא"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "                                                                                                                                                                             .(ןרעטש קרַאד ַא ןוא סויריס ,ןוז רעזדנוא) ןעמעטסיס ןרעטש רעניירט יד םורַא טיבָא זַא רעטיילגַאב ןרעטש קרַאד ךיוא ןענעז סע ןוא"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "                                                                                                                                                                                                                              לעמעג םעד ןיא ןזיוועג םרָאפעווַאוו םעד ןופ טַייקטפָא יד ןענעכער עלבַאט יד"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "                                                                                                                                                                                                     ,דיּפס םומיסקַאמ ןיא ךַאלפ קיטקַאלַאג יד ןיא זווייד טכַאמ יד ייב זלַאווַארט סע סָאוו זדיּפס יד ךיוא יוו"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "                                                                                                                                                                              .ךַאלפ קיטקַאלַאג יד ןיא קירוצ זווייד סע רעדייא דוטילּפמַא ןיא טסַאטייוו ןייז ץעג סע ןעוו דיּפס םומינימ ייב זיא סָאד יוו ןוא"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "                                                                                                                                                                                                                                                  עיצולָאווער ןייא יסקַאלַאג םורַא ןוז ןופ ךרד לַאטַאברָא"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "                                                                                                                                                                                                                                                  טיברָא ץנַאג ןייא יסקַאלַאג םורַא ןוז ןופ ךרד לַאטַאברָא"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "                                                                                                                                                                                                                                             יסקַאלַאג םורַא ןוז ןופ ךרד לַאטַאברָא ץנַאג :A2 עיצארטסוליא"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "                                                                                                                                                                                                                                                                                        סיירג ץנַאג"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "                                                                                                                                                                                                                                                                                              רוּפש"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "                                                                                                                                                                                                                                                                                           רעניירט"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "                                                                                                                                                                                                                                                                                          זנַאשזדנע"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "                                                                                                                                                                                                                                                                                         דיּפס סקַאמ"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "                                                                                                                                                                                                                                                                                           MPH ןיא"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "                                                                                                                                                                                                                                                                                          דיּפס ןימ"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "                                                                                                                                                                                                                                                                                           MPH ןיא"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "                                                                                                                                                                                                                                                                                        יסנעווקערפ"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "                                                                                                                                                                                                                                                                                            זה ןיא"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "                                                                                                                                                                                                                                                                                  עסנַאטסיד לַאטַאברָא"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "                                                                                                                                                                                                                                                                                          ליימ ןיא"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "                                                                                                                                                                                                                                                                                              רוּפש"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "                                                                                                                                                                                                                                                                                        יסנעווקערפ"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "                                                                                                                                                                                                                                    שיט רוּפש קיטקַאלַאג סקיטַאמַאטַאמ ץירטַאמ רעניירט :א סקידנעּפּפַא עלבַאט"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "                                                                                                                                                                               (זנַאשזדנע רעניירט ןופ רעמונ) (רעטעמַאיד ןיא ליימ ןיא סיירג טענַאלּפ לַאבַאוויל) (רעטעמַאיד ןיא ליימ ןיא סיירג ןוז) :ץינַאב"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius of Galaxy in Miles) (ןעמָאנ עקעט ץנַאג: appendix.a.xhtml) (ןקורד וצ ןרעדור יד ןופ רעמונ יד)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "                                                                                                                                                                                                             .סעזיס טענַאלּפ ןוא זיס ענעדישרַאפ טימ ןליּפש ןוא סעיסקַאלַאג ערעדנא ןַיירַא וצ ריא זוַאלַא סָאד"
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "                                                                                                                                                                                          .ןעקּפָאה וצ רעמונ וצ הטנקַארט ןלעטש ,זוָאר nth יד ןקורד זיולב טליוו ריא ביוא ThisPrintNth u003d 1 טקיטעטשַאב"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "                                                                                                                                                                                                                                ,סקַארט עלַא ןקורד טעוו 1 וצ סע ןקיטעטשַאב ,סקַארט 21 ןגעוו ריא טיג 66"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "                                                                                                                                                                                                                                   ,ןעז טליוו ריא רעמונ סָאוו רעדָא u003d 666 סיהטפיקסטָאנָאד קיטעטשַאב"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "                                                                                                                                                                              .יד ןצענערגַאב וצ ןריבורּפ ךיא .טנעמוגרַא 6 יד זיא סָאד ;שיט יד ןיא זוָאר יד ןופ לייט ַא ןקורד זיולב ךרוד ריּפַאּפ סעווַאס סָאד"
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "                                                                                                                                                                                                                     :(.ןפיול וצ זנַאשימרעּפ קיטעטשַאב ןוא טיה) טַאלב םעד ןפאשאב סָאוו עקעט שַאב וצ קניל"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "                                                                                                                                                                     .סליַאטעד רעמ ןוא ףליה ריא ןבעג טעוו סָאד ,makeappendix.a.sh --help/. רעדָא makeappendix.a.sh/. :יוו טפירש שַאב יד ןפיול ריא ביוא"
+

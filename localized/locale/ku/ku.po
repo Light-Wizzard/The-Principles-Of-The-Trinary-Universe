@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Skrîpta Tabela Rêzeya Disakînê ya Traktîkî Matrix Math Galactîk Afirandin "
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Nûvekirina Dawîn"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Date guherîn"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Mezinahiya Sun"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Mezinahiya Planet Livable"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Hejmara Enginesên Sêwasê"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Hejmara giştî ya şopên li Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Indeksa Zexta Atmosferî"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "Mîl di Diameterê de"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "mîlan"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Prensîbên Rêgezên Gerdûnî: Pêvek A: Tabloya Traktoya Galaktîkî ya Trinary"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Nivîskar: Jeffrey Scott Flesher, Prensîbên Light Wizzard an Wizardên mîna Sir Isaac Newton û Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Light, Wizzard, Wizard, Newton, Newtonian, Tesla, Franklin, Xwedê, Jesussa, Bar / Abbas, Darkness, Trinary, Universe, Sanctuary, Fizîk, Sun, Step, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Nivîskar: Jeffrey Scott Flesher, Prensîbên Light Wizzard an Wizardên mîna Sir Isaac Newton û Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Pêvek A:"
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Tr Table Galactic Track Table"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Prensîbên gerdûnî ya darayî"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "Ji hêla CopyRight û CopyLeft ve"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Serkêşkarê Fermandarê Hêza Hewayî ya Yekbûyî teqawidbûyî ye"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Tr Table Galactic Track Table"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Galeriya Sêwasê bingeh digire:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Galeriya Trinary-ê li ser bingeha Player Player-ê ye, Galeriya Avahîn Record an Disk ye."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Hemî Sun an Galaxy li Rêza Hemî Nêzîkê Like Armanê Record Player, û her Track xwedî Lezên xwe heye."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "An terapkirin Demek Demek e ku wekî tête binavkirin:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "An ationapkirin serdemek Demî ye ku di salan de tête diyar kirin, ez ê li vir wekî Max, Navîn û Nêmasî hesab bikim,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "Van Periodan nîşankirin bi karanîna Nîşanên Zodiac têne nîşankirin, û Salnameya Julian, Gregorian û Mayan bikar tînin."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Matematîka Zekerî ya Trinary li ser bingeh e:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Matrix Matrix Trinary is based on a Table Matrix, her row Rêzek di Baweriya Galaktîkî de,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "her kolon di Galaxy de daneyên di derbarê Sun (s) de hene ku Jiyan piştgirî dike."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Ev li ser bingeha Range ya Enerjiyê ya naskirî ye ku mirov dikare li Suriyê bimîne bingeha."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Ev têgîna Traryanî li ser bingehê ye:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Koncepta Trinary yek e ku ez bi xwe di 9 saliya xwe de bi zarokekî re derketim."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "ew li ser bingeha ku Sun heye hemî Agahdariya ku ew hewce dike ku bizanibe da ku Karê xwe di Galaxy-ê de bike."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Carekê min fêm kir ku Sir Isaac Newton çi şîrove dike,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Ez fêm kir ku Mezinahiya Sunsê her tiştî bi Pergala xwe ya Solar re heye,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "Ji ber vê yekê min dest bi hesabkirina her tiştê ku ez dikarim kir: Li ser bingeha Taybetmendiyên wê,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "û ev Bash Script nivîsand da ku vê pelê belgeya XHTML-ê ava bike, ku vê Tabloya Matrix heye û, min jî nivîsînek Qt Quick QML JavaScript platforma xaçerêya vekirî ya bi navê galaxy-kalkolevan nivîsand, girêdan li jêr rûpelê ye."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Li ser bingeha Mezinahiyek Tavê"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "Mîl di Diameterê de"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Çi qewimî"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Motors Trinary"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Li ser bingeha Galaxy-ya bi Radyek"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Jimara giştî ya Tracks"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Terermkirina Mezinahî"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Navgîniya Navîn"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Iteration Minimal"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Rê:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Hejmara Galaxy-ya me, li ser bingeha 0 heta du caran 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Rêzikên li jêr 336 xwedan Engên Zehfên Neyînî ne ji ber ku ew Stêrên Tarî ne,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "ew bi Rengên Zeviyê Hêza Galaktîkî re tevlihev dibin, û hêjmarên Frekansên negatîf digirin."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Motors Trinary:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Li ser bingeha çend hêmanan (Planets, Micro Planets, Moons, Asteroids) an Motors Trinary, Motora Trinary-ê di Sifrê de tenê ji Stêrên Hevpar Dark Star re vegotin, ew hewce ne ku Pergala Solar bi hev re bigirin, Enerjiya Dark di van cûreyan de of Motors Trinary All Light bêyî Darkness e, her çend Ronahî Bê Tarî Xwe vediguheze A Spectra of Light ku bi gelemperî di çavên Spektrûma xuya nebe Mirov dikare bibîne, bêyî Teknolojiya Full Spectrum, ev cûre Motora Trinary-ê ji Neutrinos-ê têne çêkirin ku di xuyanê de tarî ye. bi Teknolojiyê re, ji ber ku Teknolojî nikare Tarî bêyî Tarî Nexe Tewra Neutron Shell, tê wateya parçeyên biyanî yên Atomek Trinary, nuha teknolojiyek tune ku detayên Stêrên Zirav nas bike, lê Wêneyên Full Spectrum dikarin Modelên xwe wekî Enerjiya Tarî nas bikin. Sun û Stêr kontrol bikin, bi afirandina torê ya Enerjiya Dark, Stariyana Dark Star Companions di navbera Sêwrê de di Pergala Solar de ku xwedan Planet û Moon e, û dijberiya wê Binary. t, di doza me de ew Sirius a Binary Star e, ji ber vê yekê, Sunek an Stêr nêzê Galaxy ye, hindik Enginesên Trinary-ê hewce ne ku wê deynin, ji ber vê yekê hejmar Engîniyên Trinary rêve dike ku çi bike ku Sun bixwe jî tê zanîn. A Star li ser e, lewra ji Galaxy bêtir dûr e, bêtir Enginesên Sêwiranê yên bi navê Dark Star Companions têne binav kirin, ew hewce dike ku meriv dûr bikişîne, da ku Planên din bicîh bike, dema ku Dark Star bi heman rêjeya Tevgerê di Lezên cuda de digire. . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Nêzîkbûna heman Rêjeyê li Lezgîniyên cûda ji hêla Dark Star ve bixwe tê rêve kirin, û ew di Balefirxaneya Galaktîkî de ye, û theewê jî wekî Stêr tête nasîn ji hêla wê re derbas dibe. Karê hevalbendan ew e ku em pergala rojê di nav hev de bihêlin. Di wêneyê de nîşan bide ku Binary Star Sirius û Sunê me li aliyên berevajiya Plana Galaktîkî ne, ev bi tenê rast derbas dibe dema ku di ser re derbas dibin û ji derê derketin, bi qasî ku ez îspat bikim. Formula Math a Trinary for Grafting or Plotting Out Alternative Current di forma vala ya Helixê de, li ser bingeha Frekansê ye ku di navbera dem û dûr de ji intervalê me Suns re têkildar e, lê ji ber Zanistiya heyî, Mainstream-ê girtî dibe ku texmîn bike di navbera 30 û 33 Milyon Salan de, ji ber vê yekê min çêkir ku Variable, Ji ber vê yekê ew dikare bi nirxa rast were sererast kirin, ev sepanê hatiye çêkirin da ku her Galaxy lê bike, bi vî rengî ew bandor li ser hesabê min bandor nake dema ku em ê Reverse Poles bikin, ji ber ku ew tenê pirsek e ku em di bin alanakalê de bixwe ne, û dike. di heman demê de ne bi çi rê ve girêdayî ye em diçin serî, tê wateya Plankirina Galaktîkî, an jê dûr in, tenê li cîhê ku em ji hêla alanakalê ve ne girîng e. Ez Gravity-ê îşaretê dibêjim, ji ber ku Xwedê Hemî Tarî bêyî Tarî ye, û Hêza Gravîtiyê ye Di Hemî Wekheviyên Newtons-ê de, û hem jî ya min, û ev Gravity e ku ez ji bo Galaxy-ê dihejmêrim, û Sunên wê jî wekî Stars têne zanîn. . Stêrên tarî û hevrêyên wan celebek taybetî ya Motora Trinary ne, û mîna hemî motorên Trinary, ew Teorîkî ne, ji ber ku ew ne dikarin îsbat bikin û ne jî bêne şaş kirin, û diyar kir ku divê hûn Baweriya Xwedê Hebûna Bikin, ew e ku Newton gotiye Incîlê, lê belê Zanist nabe, di heman demê de Newton jî got ku, berevajî ez diyar dikim ku Firotgehên Trinary van Signals ku ji hêla teknolojiya heyî ve hatine tespîtkirin derxînin, wekî wiha ez dikarim diyar bikim ku ew di Zanîngeha Trinary-ê de fakterek in, bi Proof Bikaranîna Teknolojiya heyî. Ji bo Plotkirina Daneyan di Tabloyê de, min daneyên jêrîn wekî guherbar bikar anî, Mezinahiya Sun wek 864,575.9 Miles Di Diameter de, Mezinahiya Planet Livable wek Di Mîlan de 7926.2109 Miles, Hejmara Engên Sêwiranê wekî 333 ji Biblencîlê, Rêzika Galaxy jî wekî 241828072282107.5071453596951 Miles, Navê Pelê Bi tevahî: appendix.a.xhtml, û 66 rêzikan ji bo çapkirinê, ku ji bo Bash Script e, ez di Qt App de hê bêtir kontrolê me heye, Trinary Math Simple e, da ku ji bo dema Iterations bistîne, ez tenê hewce dikim ku bizanibim mezinahiya Tavê, (864,575.9 * (1/137)) / 3 u003d Nêzîktirîn sal 2103, Navgîniya Navîn li ser bingeha arityoreşên Polarîkî Magnetic ên Sûnî ye, ew polariyeta 10 (0 - 9) carinan guherandine sedsalek: 100 - 9 u003d 91, bi vî rengî 2103 - 91 u003d 2012, da ku Dawiya Demê hesab bike, 42 ji Rêbernameya Hitchhikers-ê Galaxy-ê bikar bînin, 42 hex di dehjimêr de 66 e, û ew ji Mizgîniyê ye, û 2103 - 42 u003d 2061, û Sir Isaac Newton ev di sala 2060-an de di bin Salnameya Julian de tê hesab kirin, lewra ew sala 2061 di bin Salnameya Gregorian de ye, lewra ev e Sala Parastina Erdê divê Polonyayê paşve bixin, û ez ê vê bûyerê bi rengek sivik nekim, ew Dawiya Demê ye ku wekî Dawiya izationaristanî jî tê zanîn wekî ku em wê pê dizanin, ji ber vê yekê zanîna Mezinahiya Rojê her tiştê ku hûn hewce ne bizanin, wekî din. ji rastiya ku ew tenê kar dike heger hûn salê xwe di 0 de dest pê bikin, û çima Salnameya Mayan piştî sala 2012-an dest pê dike, dûvê masiyan sala 2060 e, û çima Salnameya Gregoriyan hate danîn, da ku ew bi vê re hevaheng bike Koda Mizgîniyê, hesabkirina Newtons rast dike, û çima Mayayan dema xwe di terilavên 2012 Salan de didomînin, lewra math ji bo wan timam dixebitin, û wan dizanibû ku ew dê piştî 2012 û berî Teyra Masî, ya ku di sala 2103 de ye . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Max Leza li MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Li ser bingeha Leza Zelal Tarî dikare biçe Firoşgeha Galaktîkî."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min Leza MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Li ser bingeha herî hindiktirîn ku Sunîn dikare bikeve balafira Galaktîkî rêwîtiyê bike."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Zehf li Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Li ser bingeha Frekansa Core ya Planetê, divê pêlên erdê pir zêde bin:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Frekansa Planet a Livable ya 7.830 Hz di salê de: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Dûrdana Orbitalê:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Ev mîna tomarek li ser tomarê ye, ew Rêzeya Dirêj ya li Mîlan e."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Frequency Track li Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Ev li ser binyata Helix-ê ye ku Sun-a me li dora Galaxy vedigire,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "Dema ku em di balafira Galaktîkî re derbas dibin ev jî hesab dike."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Jiyana li Galaxy cih digire:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Naha Jiyana Galaxy li ser Pêkan e * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Heke Motorek nû ya Trinary têkeve nav pergala meya Cîhanê an Solar."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Piştî guherîna Polar ji ber sala 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "Divê hûn Salvegera Nû ji sala 0-an dest pê bikin, an di tarîxa Zodiac de date bidomandin û bikar bînin."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Ev Hêlîna Aquarius e, û Agirînek Ava Berê Xwe Dike."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Heke hûn du Sunsên li ser Tracks cuda cuda ji hev û din hilbijêrin: Bi Sor û kesk ve tê nîşandan,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "û xeyal kir ku dema ku min ev wêne li ser Suns Orbîta Galerîkê simul kir,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "hûn bala xwe didin ku hemî Sun di Galaxy-ê de dema ku ew dorpêç dikin di rêzikê de bimînin,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "Ev simulasyonek belengaz e lê ev xala min dide,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "ev Math ne yek e ku ew ji bo Sîstema Solar ya Suns e, ji ber vê yekê Qanûnên Kepler û Newton û Math dê li vir alîkariya we nekin, lê dê Trinity Math."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Math Mînakî ya ku min di 9 saliya xwe de çêkir ji bo çareserkirina vê pirsgirêkê Galaxîyên pêşkêşkirî, bi karanîna Logic: Leza u003d Dûr / Dem, û Dûr u003d Leza * Dem, Ji ber vê yekê Lez û Dûr Bi Frequency re têkildar e, bi vî rengî: Frequency u003d 1 / Dem û Dem u003d 1 / Frekuja, weha ye: Pîvana (Hz) u003d Leziya Ronahiyê (Dûz @ 670,616,629 mph * 1 saet; ~ Frekansa di mîlan de 1 Demjimêran an Dem) / Dirêjbûn di Mîlan de, bi texmîna Mainstream 500,000 Miles demjimêrek ji bo 250,000,000 salan, dûrbûna 1,095,000,000,000,000,000 mîl e, bi karanîna Formula min ez 1,011,954,093,357,316,200 mîlan distînim, ewqas bi qasê dûr û pir dûr û dirêj e. Zanyariya Trinary li ser bingeha hemî Enerjiya ku ji Ronahiya Xwedê tê, di hundurê her Atomê Trîkî de ye, wate. 3 celeb: Di mijara Ronahiyê de Proton, Neutron û Electron, wekî vî rengî, hemî Trinity Math-ê li ser Elektrîkî-yê têne damezirandin. Dema ku galaxy-kalkulasyonê qedand, projeyek github-a çavkaniya vekirî, ku jixwe vê tabloya heman hesab dike, dê di heman demê de grafîkî jî xilas bike. riya t Ew Suns an Stars, dema ku ew dora Galaxy-ê digerin, gava ku ew temam kirin, ez ê wêneyên di vê tabloyê de bi wan re biguhezim. Du vebijarkên we hene, baweriyê bi Isasahak Newton re bikin ku Xwedê Hêza Gravîtiyê Di Hemî Wekheviyên Wî de ye, an hûn dikarin bawer bikin Albert Einstein ku hemî Teoriyên Wî di berjewendiya Xwedayê Newtonsê de wekî Hêza Gravîtiyê Daxuyan kir, bi vî awayî ez nêziktir im. Rast e ji zanistiya Mainstream, ji ber ku ew bingeha Teoriyê ye Einstein jî bawer nedikir. Di vê formulasyonê de, ez li şûna ku Sine û Cosine bikar bînim, li ser Freixulên Track zêde dikim, ev yek Simulatorek nine, ew hemî Tracks-ê li ser heman yekê dihesîne. Sun, û Livable Planet Size, bi vî rengî ku ew tenê ji bo Track (s) ku Jiyan piştgirî dike, dixebite, bi vî rengî ew tê hesabê ku Jiyan dikare li gorî van pîvan were jiyan kirin. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Galaxy Spinning hemî Pergalên Solar di heman rêjeyê de"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Galaxy Spinning hemî Pergalên Solar di heman rêjeyê de"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Galaxy Spinning hemî Pergalên Solar di heman rêjeyê de lê belê bilez nabin"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Mezinahiya Full"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Trath Math 3 Math Dimensional e ji ber ku bingeha wê ya Elektrîkî jî wekî Light tête zanîn, ku Newton gazî Xwedê dike."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Heke hûn Sunê wekî orbitîn Stêrkek Tarî di Pevçûnê Galaktîkî de dibînin,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "û xwedan konfêransek Stêrkek Bişkojkî, wekî Sirius Stara Binary ya me ye,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "there Hevalbendên Dark Star jî hene ku li dora Sîstema Stêrkek Bîrdariyê (Siya me, Sirius û Stêrkek Dark) dimînin."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Vê Tabloyê Frekansa vê Waveformê ku di vê Mûzeyê de hatî xuyang kirin hesab dike"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "û herweha Lezên ku ew bi rê ve diçin dema ku hêza xwe di Leza Lezgîn de dixe nav Gola Galaktîkî,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "û çawa ew di Pîvana Nîvrîn de ye her ku diçe di Amplitude de dûrtirîn dibe pêşiya ku ew paşde vegere nav Balafirgeha Galaktîkî."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Pathoreşa gerdûnî ya Sunê ya li dora Galaxy yek şoreş"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Riya Orbital ya Sunê ya li dora Galaxy yek Orbitek temamî"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Airovekirin A2: Riya Orbitalê temam a Sun li dora Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Mezinahiya Full"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Rê"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Engines"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Leza Max"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "di MPH de"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Leza Min"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "di MPH de"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Pircarînî"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "li Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Dûr Orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "li Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Rê"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Pircarînî"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tabloya Pêvek A: Tabloya Track Galaktîkî Matematika Matrixê Trîjonal"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Bikaranîn: (Mezinahiya Tîrêjê Di Miles Di Diametê de) (Mezinahiya Planet Livable Di Miles Di Diameterê de) (Hejmara Enginesên Sûnî)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radyus ya Galaxy li Miles) (Navê pelê bi tevahî: appendix.a.xhtml) (Hejmara N-ê ya rêzikan ji bo çapkirinê)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Ev dihêle hûn bikevin Galaxîyên din, û bi Sun û Planet Mezinên cûda re bilîzin."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Heke hûn bixwazin ku rêzikên yekemîn çap bikin, Set ThisPrintNth u003d 1 bicîh bikin, ji bo şopandina hejmara trackNth-ê bicîh bikin,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 li ser 21 Tracks we dide we, dema ku 1 hilbijêrin wê hemû Tracks çap bike,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "set DoNotSkipThis u003d 666 an kîjan hejmarek ku hûn dixwazin bibînin,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Vê kaxezê tenê bi çapkirina beşek ji rêzikên li maseyê çap dike; ev Argumana 6-an e, ez hewl didim ku wan sînordar bikim."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Zencîreya Pelê Bashê ku vê Rûpelê çêkir (Destpêkirin û Destûrdana Destûrdankirin.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Heke hûn Script Sêv-ê wekî: ./makeappendix.a.sh an ./makeappendix.a.sh --help rakî, ew ê Alîkarî û Hûrguliyên zêdetir bide we."
+

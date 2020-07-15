@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "„Trwa tworzenie skryptu Matrix Matrix Galactic Disk Track Table Script”"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Ostatnia aktualizacja"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "„Data zmiany”"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "„Rozmiar słońca”"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "„Rozmiar planety do życia”"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "„Liczba silników trójrzędnych”"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "„Promień galaktyki”"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "„Całkowita liczba utworów w galaktyce”"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "„Wskaźnik ciśnienia atmosferycznego”"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "„mile średnicy”"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "„mile”"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "„Zasady wszechświata trójdzielnego: Dodatek A: Trójnikowa galaktyczna tablica śladów”"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "„Autor: Jeffrey Scott Flesher, Principles of Light Wizzard lub Czarodzieje tacy jak Sir Isaac Newton i Nikola Tesla”"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "„Światło, Wizzard, Wizard, Newton, Newtonian, Tesla, Franklin, Bóg, Jezus, Bar / Abbas, Ciemność, Trójmiasto, Wszechświat, Sanktuarium, Fizyka, Słońce, Step, Jeffrey Scott Flesher”"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "„Autor: Jeffrey Scott Flesher, Principles of Light Wizzard lub Czarodzieje tacy jak Sir Isaac Newton i Nikola Tesla”"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Załącznik A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "„Trinary Galactic Track Table”"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "„Zasady wszechświata trójdzielnego”"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "„CopyRight i CopyLeft by”"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "„Jeffrey Scott Flesher”"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "„Sierżant sztabu sił powietrznych Stanów Zjednoczonych w stanie spoczynku”"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "„Trinary Galactic Track Table”"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "„Trinary Galaxy opiera się na:”"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "„Galaktyka trinary oparta jest na odtwarzaczu, a płaszczyzna galaktyczna to płyta lub dysk”."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "„Wszystkie Słońca okrążają Galaktykę w tym samym tempie, jak ramię gramofonu, a każda ścieżka ma swoją własną prędkość”."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "„Iteracja to okres zdefiniowany jako:”"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "„Iteracja jest okresem czasu zdefiniowanym w latach, obliczę tutaj jako maksimum, średnią i minimum”"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "„Okresy te są oznakowane przy użyciu Znaków Zodiaku i używają kalendarza juliańskiego, gregoriańskiego i kalendarza Majów”."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "„Matematyka trinary Matrix opiera się na:”"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "„Matematyka trinary Matrix opiera się na tabeli macierzy, każdy rząd jest ścieżką na dysku galaktycznym”"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "„każda kolumna zawiera dane o Słońcu (-ach) w Galaktyce, które obsługują Życie”."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "„Jest to oparte na znanych zakresach energii, w których ludzie mogliby przetrwać”."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "„Ta trójstronna koncepcja opiera się na:”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "„Trinary Concept to taki, który wymyśliłem jako dziecko w wieku 9 lat”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "„jest oparty na tym, że Słońce ma wszystkie informacje, których potrzebuje, aby wykonywać swoją pracę w Galaktyce”."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "„Kiedy zrozumiałem, co opisuje Sir Isaac Newton”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "„Zrozumiałem, że Rozmiar Słońca ma wszystko wspólnego z Układem Słonecznym”"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "„więc zacząłem obliczać wszystko, co mogłem: na podstawie jego właściwości”,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "„i napisałem ten skrypt Bash, aby utworzyć ten plik dokumentu XHTML, który zawiera tę tabelę macierzy, a także napisałem międzyplatformowy projekt Open Source Qt Quick QML JavaScript o nazwie galaktyczny kalkulator, link znajduje się na dole strony”."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "„Na podstawie rozmiaru słońca”"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "„mile średnicy”"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Oparte na"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "„Silniki trójstronne”"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "„Na podstawie galaktyki o promieniu”"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "„Łączna liczba utworów”"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "„Maksymalna iteracja”"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "„Średnia iteracja”"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "„Minimalna iteracja”"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Tor:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "„Śledź numer naszej Galaktyki w oparciu o 0 do dwukrotności 666.”"
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "„Ścieżki poniżej 336 mają ujemne silniki trójdzielne, ponieważ są ciemnymi gwiazdami”"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "„mieszają się z pierścieniami pola sił Galaktyki, tworząc liczby ujemne częstotliwości”."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "„Silniki trójstronne:”"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "„W oparciu o liczbę obiektów (planety, mikroplanety, księżyce, asteroidy) lub silniki trójdzielne, silnik trójdzielny w tabeli odnosi się tylko do gwiazd towarzyszących ciemnej gwiazdy, są one wymagane, aby utrzymać układ słoneczny razem, ciemną energię tego typu z silników trójrzędnych jest całe światło bez ciemności, chociaż światło bez ciemności odnosi się do widma światła normalnie niewidocznego w widmie Widmo, które ludzie mogą zobaczyć, bez technologii pełnego spektrum, te typy silnika trójwymiarowego są wykonane z neutrin, które wyglądają ciemno dzięki technologii, ponieważ technologia nie widzi światła bez ciemności przez powłokę neutronową, co oznacza zewnętrzne cząstki atomu trójdzielnego, obecnie nie ma technologii do wykrywania ciemnych gwiazd, ale obrazy o pełnym spektrum mogą wykryć ich wzory jako ciemną energię. kontroluj Słońce lub Gwiazdy, tworząc sieć Ciemnej Energii, Towarzyszy Ciemnej Gwiazdy krążą między Słońcem w Układzie Słonecznym, który ma Planety i Księżyce, i jego Binarny odpowiednik t, w naszym przypadku jest to Syriusz Gwiazda Binarna, jako taka, im bliżej Słońca lub Gwiazdy jest galaktyka, tym mniej Potrójnych Silników musi ją pomieścić, w ten sposób liczba Silników Trójnikowych reguluje to, co Śledzi Słońce znane również jako gwiazda jest włączona, a więc im dalej od Galaktyki, tym bardziej Trójcy Silniki zwane Towarzyszami Ciemnej Gwiazdy, wymaga rozproszenia odległości, aby pomieścić inne Planety, podczas gdy Ciemna Gwiazda utrzymuje tę samą Szybkość Ruchu przy różnych Prędkościach . ”"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "„Utrzymywanie tej samej prędkości przy różnych prędkościach jest regulowane przez samą Ciemną Gwiazdę i znajduje się ona w Płaszczyźnie Galaktycznej, a Słońce zwane także Gwiazdami przechodzi obok niej. Zadaniem Towarzyszy jest utrzymywanie układu słonecznego razem. Na zdjęciu I pokazują, że Gwiazda Binarna Syriusz i nasze Słońce znajdują się po przeciwnych stronach Płaszczyzny Galaktycznej, jest to prawdą tylko wtedy, gdy przechodzimy przez nią i wychodzimy z niej, o ile mogę to udowodnić. w kształcie fali Helix, opiera się na częstotliwości, która koreluje z naszym przedziałem Słońca pod względem czasu i odległości, ale ze względu na obecną naukę, główny strumień zamknięcia może oszacować na 30 do 33 milionów lat, więc zrobiłem zmienną, więc można ją dostosować do prawidłowej wartości, ta aplikacja jest przeznaczona do wprowadzania dowolnej Galaktyki, więc nie ma to wpływu na moje obliczenia dotyczące tego, kiedy odwrócimy bieguny, ponieważ jest to tylko kwestia tego, gdzie jesteśmy w samym sygnale, i robi to nawet nie zależy od tego, w jakim kierunku zmierzamy, czyli do Płaszczyzny Galaktycznej, lub z dala od niej, ma to znaczenie tylko tam, gdzie jesteśmy pod względem samego Sygnału. Grawitację nazywam sygnałem, ponieważ Bóg jest całym światłem bez ciemności i jest siłą grawitacji we wszystkich równaniach Newtona, a także moją, i to właśnie grawitację obliczam dla galaktyki, a jej słońca znane również jako gwiazdy . Ciemne Gwiazdy i ich Towarzysze są szczególnym typem Silnika Trojnego, i podobnie jak wszystkie Silniki Tarynowe, są Teoretyczne, ponieważ nie można ich udowodnić ani obalić, a stwierdzenie, że musisz mieć Wiarę Boga, istnieje, jak Newton powiedział, że Biblia mówi, ale to nie czyni nauki, nawet Newton powiedział, że zamiast tego oświadczam, że silniki trinarne emitują te sygnały, które mogą być wykryte przez aktualną technologię, jako takie mogę stwierdzić, że są one faktem w naukach trinary, z dowodem przy użyciu obecnej technologii. Aby wykreślić dane w tabeli, wykorzystałem następujące dane jako zmienne, rozmiar Słońca jako 864 575.9 mil średnicy, żywy rozmiar planety 7979.2109 mil średnicy, liczba silników trójdzielnych jak 333 z Biblii, promień galaktyki 241828072282107.5071453596951 mil, Pełna nazwa pliku: dodatek.a.xhtml i 66 wierszy do wydrukowania, czyli dla skryptu Bash, mam jeszcze większą kontrolę w aplikacji Qt, Trinary Math jest prosta, aby uzyskać okres Iteracje, muszę tylko wiedzieć wielkość Słońca, (864 575.9 * (1/137)) / 3 u003d maksymalny rok 2103, średnia iteracja oparta jest na odwróceniu biegunowości magnetycznej Słońca, zmienia biegunowość 10 (0 - 9) razy Century: 100 - 9 u003d 91, a zatem 2103 - 91 u003d 2012, aby obliczyć Koniec Czasu, użyj 42 z Przewodnika Autostopowiczów po Galaktyce, 42 hex ma 66 w systemie dziesiętnym, a to z Biblii, a 2103 - 42 u003d 2061, i Sir Isaac Newton obliczył to w roku 2060 zgodnie z kalendarzem juliańskim, a więc rok 2061 zgodnie z kalendarzem gregoriańskim, więc jest to e Rok, w którym Ziemia powinna odwrócić bieguny, i nie chciałbym wziąć tego wydarzenia Lekko, jest to Koniec Czasu znany również jako Koniec Cywilizacji, jaki znamy, więc wiedza o Wielkości Słońca jest wszystkim, co musisz wiedzieć, inne niż fakt, że działa tylko wtedy, gdy zaczniesz swój rok od 0, i dlaczego Kalendarz Majów zaczyna się po 2012 roku, ogonem Ryby jest rok 2060 i dlaczego wprowadzono Kalendarz Gregoriański, aby był zgodny z tym Kod Biblijny, poprawianie obliczeń Newtona i dlaczego Majowie śledzą czas w Iteracjach 2012 roku, więc matematyka zawsze dla nich działa i wiedzieli, że stanie się to po 2012 roku, a przed Ogonem Ryb, czyli w 2103 roku . ”"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "„Maksymalna prędkość w MPH:”"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "„W oparciu o maksymalną prędkość, jaką Słońce może pokonać przez płaszczyznę galaktyczną”."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "„Min. Prędkość w MPH:”"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "„W oparciu o minimalną prędkość, jaką Słońce może podróżować po przejściu przez Galaktyczną Płaszczyznę”."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "„Częstotliwość w Hz:”"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "„W oparciu o częstotliwość rdzenia planety częstotliwości na powierzchni powinny być znacznie wyższe:”"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "„Częstotliwość planety mieszkalnej 7,830 Hz w roku: 2019”."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "„Odległość orbitalna:”"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "„To jest jak ślad na płycie, to obwód ścieżki w milach”."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "„Częstotliwość ścieżki w Hz:”"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "„Jest to oparte na kształcie Helix, w którym Słońce podróżuje po Galaktyce”"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "„oblicza się także, kiedy przechodzimy przez płaszczyznę galaktyczną”."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "„Życie w galaktyce się znajduje:”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "„Obecnie Life in the Galaxy jest na dobrej drodze * 666”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "„Jeśli nowy silnik trójosiowy wejdzie lub opuści nasz świat lub układ słoneczny, zmienimy ścieżki.”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "„Po zmianie biegunowej w 2060 r.”"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "„powinieneś rozpocząć nowy kalendarz od roku 0 lub kontynuować i używać dat w tabeli zodiaku”."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "„To epoka Wodnika, a epoka lodowcowa zaznaczy swój deszcz”."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "„Jeśli wybierzesz dwa słońca na różnych torach naprzeciw siebie: pokazane na czerwono i zielono”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "„i wyobrażałem sobie, że gdy obracam ten obraz symulujący Słońca Orbitujące Galaktykę”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "„zauważylibyście, że wszystkie Słońca w Galaktyce pozostają w tej samej linii na orbicie,”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "„To kiepska symulacja, ale o to mi chodzi”"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "„ta matematyka nie jest taka sama, jak w przypadku Układu Słonecznego Słońca, więc prawa i matematyka Keplera i Newtona nie pomogą ci tutaj, ale matematyka trinarna to zrobi”."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "„Matematyka trójwymiarowa, którą stworzyłem w wieku 9 lat, działa w celu rozwiązania tego problemu w przedstawionych galaktykach, używając logiki: prędkość u003d odległość / czas i odległość u003d prędkość * czas, więc prędkość i odległość są zależne od częstotliwości, na przykład: częstotliwość u003d 1 / Czas i czas u003d 1 / Częstotliwość, taka, że: Częstotliwość (Hz) u003d Prędkość światła (Dystans przy 6661 66,629 mil / h * 1 godzina; ~ Częstotliwość w milach w ciągu 1 godziny lub czasu) / Długość fali w milach, przy użyciu szacunku głównego strumienia na 500 000 mil godzina przez 250 000 000 lat, to odległość 1 095 000 000 000 000 000 mil, używając mojej Formuły I, dostaję 1 011,954 093 357 316 200 mil, tak blisko na taką odległość. Nauka o Trójcy oparta jest na całej Energii pochodzącej ze Światła Bożego wewnątrz każdego Atomu Trójdzielnego, co oznacza 3 typy: proton, neutron i elektron w przypadku światła, jako taka, cała matematyka trójdzielna oparta jest na elektryczności. Po ukończeniu kalkulatora galaktyki, projekt github z otwartym źródłem, który już oblicza tę samą tabelę, również wykreśli graficznie ścieżka t Gdy Słońce lub Gwiazdy krążą wokół Galaktyki, po ukończeniu zastąpię je zdjęciami z tej tabeli. Masz dwie możliwości, uwierz sir Isaacowi Newtonowi, że Bóg jest siłą grawitacji we wszystkich swoich równaniach, lub możesz uwierzyć Albertowi Einsteinowi, który potępił wszystkie swoje teorie na korzyść Boga Newtona jako mocy grawitacji, w każdym razie jestem bliżej bycia dokładnie niż nauka głównego nurtu, ponieważ opiera się na teorii, w którą Einstein nawet nie wierzył. W tym wzorze sumuję częstotliwości ścieżek zamiast używania sinusoidy i cosinusa, to nie jest symulator, oblicza wszystkie ścieżki na podstawie tego samego Słońce i rozmiar planety nadającej się do życia, tak, że działa tylko na torze (torach), które obsługują Życie, a zatem oblicza, gdzie Życie może istnieć na podstawie tych rozmiarów ”."
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "„Galaxy obraca wszystkie układy słoneczne w tym samym tempie”"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "„Galaxy obraca wszystkie układy słoneczne w tym samym tempie”"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "„Galaxy obraca wszystkie układy słoneczne w tym samym tempie, ale nie z prędkością”"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "„Pełny rozmiar”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "„Matematyka trójwymiarowa to matematyka trójwymiarowa, ponieważ opiera się na elektryczności znanej również jako Światło, którą Newton nazywał Bogiem”."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "„Jeśli postrzegasz Słońce jako krążącą wokół Ciemnej Gwiazdy na płaszczyźnie galaktycznej”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "„i posiadający konfigurację gwiazdy tryginalnej, dzięki której Syriusz jest naszą gwiazdą binarną”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "„istnieją także Towarzysze Ciemnej Gwiazdy, którzy opitują się wokół Układów Gwiezdnych Trójcy (Nasze Słońce, Syriusz i Ciemna Gwiazda)”."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "„W tej tabeli obliczono częstotliwość tego przebiegu pokazanego na tej ilustracji”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "„jak również prędkości, z którymi porusza się, gdy moc zanurza się w płaszczyźnie galaktycznej z maksymalną prędkością”"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "„i jak przy minimalnej prędkości, gdy osiąga najdalszy poziom amplitudy, zanim zanurzy się z powrotem w płaszczyźnie galaktycznej”."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "„Ścieżka Słońca na orbicie wokół jednej rewolucji Galaxy”"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "„Ścieżka orbitalna Słońca wokół Galaktyki jedna kompletna Orbita”"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "„Ilustracja A2: Pełna orbitalna ścieżka Słońca wokół Galaktyki”"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "„Pełny rozmiar”"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Tor"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trójkowy"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "„Silniki”"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Maksymalna prędkość"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "„w MPH”"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "„Min. Prędkość”"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "„w MPH”"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Częstotliwość"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "„w Hz”"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "„Odległość orbitalna”"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "„w milach”"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Tor"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Częstotliwość"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "„Tabela Dodatek A: Matryca trygoniczna Matematyka Galaktyczna tabela śladów”"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "„Zastosowanie: (rozmiar słońca w milach w średnicy) (rozmiar planety do życia w milach w średnicy) (liczba silników trójrzędnych)”"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "„(Promień galaktyki w milach) (Pełna nazwa pliku: dodatek.a.xhtml) (n-ta liczba wierszy do wydrukowania)”"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "„./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appliance.a.xhtml 66”"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "„Pozwala to wejść w inne galaktyki i grać z różnymi rozmiarami Słońca i planet”."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "„Ustaw ThisPrintNth u003d 1, jeśli chcesz wydrukować tylko n-ty wiersz, ustaw trackNth na liczbę, aby pominąć”"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "„66 daje około 21 ścieżek, ustawienie wartości 1 spowoduje wydrukowanie wszystkich ścieżek”"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "„ustaw DoNotSkipThis u003d 666 lub jakąkolwiek liczbę, którą chcesz zobaczyć”,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "„oszczędza to papier, drukując tylko część wierszy w tabeli; jest to 6. argument, staram się je ograniczyć”."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "„Link do pliku Bash, który utworzył tę stronę (Zapisz i ustaw uprawnienia do uruchamiania.):”"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "„Jeśli uruchomisz Skrypt Bash, taki jak: ./makeappendix.a.sh lub ./makeappendix.a.sh --help, da Ci Pomoc i więcej szczegółów.”"
+

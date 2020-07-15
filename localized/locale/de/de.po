@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Trinary Matrix Math Galactic Disk Track-Tabellenskript wird erstellt"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Letztes Update"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Datum geändert"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Sun Size"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Lebenswerte Planetengröße"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Anzahl der Trinary Engines"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Gesamtzahl der Tracks in Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Atmosphärendruckindex"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "Meilen im Durchmesser"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "Meilen"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Die Prinzipien des Trinary Universums: Anhang A: Trinary Galactic Track Table"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Autor: Jeffrey Scott Flesher, Principles of Light Wizzard oder Zauberer wie Sir Isaac Newton und Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Licht, Zauberer, Zauberer, Newton, Newton, Tesla, Franklin, Gott, Jesus, Bar / Abbas, Dunkelheit, Trinary, Universum, Heiligtum, Physik, Sonne, Schritt, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Autor: Jeffrey Scott Flesher, Principles of Light Wizzard oder Zauberer wie Sir Isaac Newton und Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Anhang A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Die Prinzipien des Trinary Universums"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight und CopyLeft by"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Medizinisch pensionierter US Air Force Staff Sergeant"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Trinary Galactic Track Table"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Die Trinary Galaxy basiert auf:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Die Trinary Galaxy basiert auf einem Plattenspieler, die Galaktische Ebene ist die Platte oder der Datenträger."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Alle Sonnen umkreisen die Galaxie mit der gleichen Geschwindigkeit wie der Plattenspielerarm, und jeder Track hat seine eigene Geschwindigkeit."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Eine Iteration ist ein Zeitraum, der wie folgt definiert ist:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Eine Iteration ist ein Zeitraum, der in Jahren definiert ist. Ich berechne hier als Maximum, Durchschnitt und Minimum."
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "Diese Perioden sind mit den Sternzeichen gekennzeichnet und verwenden den Julianischen, Gregorianischen und Maya-Kalender."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Trinary Matrix Mathematics basiert auf:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Trinary Matrix Mathematics basiert auf einer Matrixtabelle, jede Zeile ist eine Spur auf der Galaktischen Platte."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "Jede Spalte enthält Daten über die Sonne (n) in der Galaxie, die das Leben unterstützen."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Dies basiert auf bekannten Energiebereichen, in denen Menschen überleben könnten."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Dieses trinäre Konzept basiert auf:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Das Trinary-Konzept ist eines, das ich mir als Kind mit 9 Jahren ausgedacht habe."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "Es basiert darauf, dass die Sonne über alle Informationen verfügt, die sie benötigt, um ihre Aufgabe in der Galaxis zu erfüllen."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Sobald ich verstanden habe, was Sir Isaac Newton beschrieb,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Mir wurde klar, dass die Größe der Sonnen alles mit ihrem Sonnensystem zu tun hat."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "Also habe ich angefangen, alles zu berechnen, was ich konnte: basierend auf seinen Eigenschaften."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "und schrieb dieses Bash-Skript, um dieses XHTML-Dokument zu erstellen. Datei, die diese Matrixtabelle enthält. Außerdem habe ich ein plattformübergreifendes Qt-Quick-QML-JavaScript-Open-Source-Projekt mit dem Namen galaxy-calculator geschrieben. Der Link befindet sich unten auf der Seite."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Basierend auf einer Sonnengröße von"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "Meilen im Durchmesser"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Beyogen auf"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Trinary Engines"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Basierend auf einer Galaxie mit einem Radius von"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Gesamtzahl der Tracks"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Maximale Iteration"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Durchschnittliche Iteration"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Minimale Iteration"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Spur:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Titelnummer unserer Galaxie, basierend auf 0 bis zweimal 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Tracks unter 336 haben Negative Trinary Engines, weil sie Dark Stars sind."
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "Sie mischen sich mit den Galaxies Force Field Rings und machen die Zahlen zu Negativen Frequenzen."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Trinary Engines:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Basierend auf der Anzahl der Objekte (Planeten, Mikroplaneten, Monde, Asteroiden) oder Trinary Engines bezieht sich Trinary Engine in der Tabelle nur auf Begleitsterne von dunklen Sternen. Sie müssen das Sonnensystem zusammenhalten, die Dunkle Energie in diesen Typen von Trinary Engines ist alles Licht ohne Dunkelheit, obwohl sich Licht ohne Dunkelheit auf ein Lichtspektrum bezieht, das normalerweise nicht im sichtbaren Spektrum zu sehen ist. Ohne die Full Spectrum-Technologie bestehen diese Trinary Engines aus Neutrinos, die bei Betrachtung ein dunkles Aussehen haben mit Technologie, weil Technologie das Licht ohne Dunkelheit nicht sehen kann, obwohl die Neutronenhülle, das heißt die äußeren Teilchen eines Trinary Atoms, derzeit keine Technologie zum Erkennen von dunklen Sternen gibt, aber Vollspektrumbilder können ihre Muster als Dunkle Energie erkennen Steuern Sie die Sonnen oder Sterne, indem Sie ein Netzwerk aus Dunkler Energie erstellen. Die Dunklen Stern-Gefährten kreisen zwischen der Sonne in einem Sonnensystem mit Planeten und Monden und ihrem binären Gegenstück In unserem Fall handelt es sich bei Sirius um einen binären Stern. Je näher eine Sonne oder ein Stern an der Galaxie ist, desto weniger Trinary Engines müssen sich darin befinden. Die Anzahl der Trinary Engines regelt also, was Track the Sun auch als Track the Sun bezeichnet wird Ein Stern ist eingeschaltet. Je weiter er sich von der Galaxie entfernt befindet, desto mehr Trinary Engines, so genannte Dark Star Companions, müssen die Entfernungen zurücklegen, um die anderen Planeten einzudämmen, während der Dark Star die gleiche Bewegungsrate bei unterschiedlichen Geschwindigkeiten beibehält . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Die Aufrechterhaltung der gleichen Geschwindigkeit bei unterschiedlichen Geschwindigkeiten wird vom Dunklen Stern selbst geregelt, und zwar in der Galaktischen Ebene, und die Sonne, auch als Sterne bekannt, zieht daran vorbei. Die Aufgabe der Gefährten besteht darin, das Sonnensystem zusammenzuhalten. In Bild I Zeigen Sie, dass sich der binäre Stern Sirius und unsere Sonne auf entgegengesetzten Seiten der Galaktischen Ebene befinden. Dies gilt, soweit ich beweisen kann, nur, wenn Sie durch die Galaktische Ebene hindurchgehen und aus ihr herauskommen basiert in einer Helix-Form-Wellenform auf der Frequenz, die in Bezug auf Zeit und Entfernung mit unserem Sonnenintervall korreliert, aber aufgrund der aktuellen wissenschaftlichen Erkenntnisse kann der Closes-Mainstream auf zwischen 30 und 33 Millionen Jahre geschätzt werden. Damit es auf den richtigen Wert eingestellt werden kann, ist diese App für die Eingabe einer beliebigen Galaxie ausgelegt. Daher hat es keinen Einfluss auf meine Berechnung, wann wir die Pole umkehren, da dies nur eine Frage ist, wo wir uns im Signal selbst befinden und tun nicht einmal davon abhängen, in welche Richtung wir bewegen uns in die galaktische Ebene, oder es kommt nur darauf an, wo wir uns in Bezug auf das Signal selbst befinden. Ich nenne die Schwerkraft ein Signal, weil Gott alles Licht ohne Dunkelheit ist und die Schwerkraft in allen Newton-Gleichungen ist, und dies ist die Schwerkraft, die ich für die Galaxie und ihre Sonnen, die auch als Sterne bekannt sind, berechne . Dunkle Sterne und ihre Gefährten sind eine besondere Art von Trinary Engine, und wie alle Trinary Engines sind sie theoretisch, weil sie weder bewiesen noch widerlegt werden können, und laut Newton müssen Sie glauben, dass Gott existiert Das macht Wissenschaft nicht aus, selbst Newton sagte, stattdessen sage ich, dass Trinary Engines diese Signale aussenden, die von der aktuellen Technologie erkannt werden können, und als solche kann ich behaupten, dass sie eine Tatsache in Trinary Science sind, mit dem Beweis, dass die aktuelle Technologie verwendet wird. Um die Daten in der Tabelle darzustellen, habe ich die folgenden Daten als Variablen verwendet: Sonnengröße als 864.575,9 Meilen im Durchmesser, lebenswerte Planetengröße als 7926,2109 Meilen im Durchmesser, Anzahl der Trinary Engines als 333 aus der Bibel, Radius der Galaxie als 241828072282107.5071453596951 Meilen, Vollständiger Dateiname: Anhang.a.xhtml, und 66 Zeilen zum Drucken, dh für das Bash-Skript habe ich noch mehr Kontrolle in der Qt-App, Trinary Math ist einfach, um den Iterationszeitraum zu erhalten, muss ich nur wissen die Größe der Sonne, (864,575,9 * (1/137)) / 3 u003d das maximale Jahr 2103, die durchschnittliche Iteration basiert auf den Umkehrungen der magnetischen Polarität der Sonne, sie ändert die Polarität 10 (0 - 9) mal pro Jahrhundert: 100 - 9 u003d 91, also 2103 - 91 u003d 2012, um das Ende der Zeit zu berechnen, verwenden Sie 42 aus dem Per Anhalter durch die Galaxie, 42 hex ist 66 dezimal und das ist aus der Bibel, und 2103 - 42 u003d 2061, und Sir Isaac Newton berechnete dies im Jahr 2060 nach dem julianischen Kalender, also ist es 2061 nach dem gregorianischen Kalender, also ist dies th Das Jahr, in dem die Erde die Pole umkehren sollte, und ich würde dieses Ereignis nicht leicht nehmen. Es ist das Ende der Zeit, auch bekannt als das Ende der Zivilisation, so wie wir es kennen. Das Wissen um die Größe der Sonne ist also alles, was Sie wissen müssen als die Tatsache, dass es nur funktioniert, wenn Sie Ihr Jahr bei 0 beginnen, und warum der Maya-Kalender nach 2012 neu beginnt, der Schwanz des Fisches das Jahr 2060 ist und warum der Gregorianische Kalender eingeführt wurde, damit er mit diesem übereinstimmt Bible Code, der Newtons Berechnung korrekt macht, und warum die Mayas die Zeit in Iterationen von 2012 Jahren verfolgen, so dass die Mathematik immer für sie funktioniert, und sie wussten, dass es nach 2012 und vor dem Fischschwanz passieren würde, der im Jahr 2103 liegt . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Maximale Geschwindigkeit in MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Basierend auf der Höchstgeschwindigkeit kann sich die Sonne durch die Galaktische Ebene bewegen."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min. Geschwindigkeit in MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Basierend auf der Mindestgeschwindigkeit kann sich die Sonne nach dem Durchqueren der Galaktischen Ebene fortbewegen."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Frequenz in Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Basierend auf der Kernfrequenz des Planeten sollten die Oberflächenfrequenzen viel höher sein:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Livable Planet Frequenz von 7.830 Hz im Jahr: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Umlaufdistanz:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Dies ist wie ein Track in einem Datensatz, es ist der Umfang des Tracks in Meilen."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Spurfrequenz in Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Dies basiert auf der Helix-Form, in der sich unsere Sonne um die Galaxie bewegt."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "Es berechnet auch, wann wir die Galaktische Ebene passieren."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Das Leben in der Galaxis befindet sich:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Derzeit ist das Leben in der Galaxis auf Kurs * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Wenn eine neue Trinary Engine unsere Welt oder unser Sonnensystem betritt oder verlässt, werden wir die Spur wechseln."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Nach der Polarverschiebung im Jahr 2060"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "Sie sollten einen neuen Kalender beginnen, der mit dem Jahr 0 beginnt, oder fortfahren und die Daten in der Zodiac-Tabelle verwenden."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Dies ist das Zeitalter des Wassermanns und eine Eiszeit wird ihren Regen markieren."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Wenn Sie zwei Sonnen auf unterschiedlichen Spuren auswählen, die sich gegenüberliegen: in Rot und Grün dargestellt."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "und stellte mir vor, als ich dieses Bild drehte, das die Sonnen simuliert, die die Galaxie umkreisen"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "Sie würden bemerken, dass alle Sonnen in der Galaxie in einer Linie bleiben, während sie sie umkreisen."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "Dies ist eine schlechte Simulation, aber es macht meinen Standpunkt,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "Diese Mathematik ist nicht die gleiche wie für das Sonnensystem der Sonne, daher werden die Gesetze und die Mathematik von Kepler und Newton Ihnen hier nicht helfen, aber Trinary Math."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Trinary Math, das ich im Alter von 9 Jahren erstellt habe, arbeitet an der Lösung dieses Problems der vorgestellten Galaxien unter Verwendung der Logik: Geschwindigkeit u003d Distanz / Zeit und Distanz u003d Geschwindigkeit * Zeit, so dass Geschwindigkeit und Distanz relativ zur Frequenz sind, so dass: Frequenz u003d 1 / Zeit und Zeit u003d 1 / Frequenz, so dass: Frequenz (Hz) u003d Lichtgeschwindigkeit (Distanz @ 670.616.629 km / h * 1 Stunde; ~ Frequenz in Meilen in 1 Stunde oder Zeit) / Wellenlänge in Meilen unter Verwendung der Mainstream-Schätzung von 500.000 Meilen Eine Stunde für 250.000.000 Jahre ist eine Entfernung von 1.095.000.000.000.000.000 Meilen. Mit meiner Formel I erhalte ich 1.011.954.093.357.316.200 Meilen, die weit genug entfernt sind 3 Typen: Proton, Neutron und Elektron Im Falle von Licht basiert die gesamte Trinary Math auf Elektrizität. Wenn der Galaxienrechner fertiggestellt ist, wird auch ein Open Source Github-Projekt, das dieselbe Tabelle bereits berechnet, grafisch dargestellt der Weg von t Wenn die Sonnen oder Sterne, die um die Galaxie kreisen, einmal fertig sind, ersetze ich die Bilder in dieser Tabelle durch diese. Sie haben zwei Möglichkeiten: Glauben Sie, Sir Isaac Newton, dass Gott in all seinen Gleichungen die Schwerkraft ist, oder glauben Sie Albert Einstein, der alle seine Theorien zugunsten von Newtons Gott als Schwerkraft denunziert, so oder so, wie ich näher dran bin Richtig als die Mainstream-Wissenschaft, weil sie auf einer Theorie basiert, an die Einstein nicht einmal geglaubt hat. In dieser Formel zähle ich die Track-Frequenzen auf, anstatt Sinus und Cosinus zu verwenden. Dies ist kein Simulator, sondern berechnet alle Tracks auf der Grundlage derselben Sun und Livable Planet Size, so dass es nur für die Tracks funktioniert, die Life unterstützen. Auf Basis dieser Größen wird berechnet, wo Life existieren kann. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Die Galaxie dreht alle Sonnensysteme mit der gleichen Geschwindigkeit"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Die Galaxie dreht alle Sonnensysteme mit der gleichen Geschwindigkeit"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Die Galaxie dreht alle Sonnensysteme mit der gleichen Geschwindigkeit, aber nicht mit Geschwindigkeit"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Volle Größe"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Die dreidimensionale Mathematik basiert auf Elektrizität, die auch als Licht bekannt ist und von Newton Gott genannt wird."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Wenn Sie die Sonne als einen dunklen Stern in der Galaktischen Ebene umkreisen,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "und mit einer Trinary Star-Konfiguration, so dass Sirius unser Binary Star ist"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "Und es gibt auch Dark Star Companions, die sich um die Trinary Star-Systeme (Unsere Sonne, Sirius und ein Dark Star) drehen."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Diese Tabelle berechnet die Frequenz dieser in dieser Illustration gezeigten Wellenform."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "Wie schnell es fährt, wenn es mit maximaler Geschwindigkeit in die galaktische Ebene eintaucht"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "und wie es bei minimaler Geschwindigkeit ist, wenn es in der Amplitude am weitesten kommt, bevor es zurück in die Galaktische Ebene taucht."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Umlaufbahn der Sonne um Galaxy One Revolution"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Umlaufbahn der Sonne um Galaxie eine vollständige Umlaufbahn"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Abbildung A2: Vollständige Bahn der Sonne um die Galaxie"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Volle Größe"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Spur"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Motoren"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Höchstgeschwindigkeit"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min Geschwindigkeit"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "in MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Frequenz"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "in Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Orbitalabstand"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "in Meilen"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Spur"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Frequenz"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tabelle Anhang A: Trinary Matrix Mathematics Galactic Track Table"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Verwendung: (Sonnengröße in Meilen im Durchmesser) (Größe des lebensfähigen Planeten in Meilen im Durchmesser) (Anzahl der Triebwerke)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius der Galaxie in Meilen) (Vollständiger Dateiname: Appendix.a.xhtml)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Auf diese Weise können Sie in andere Galaxien eintreten und mit verschiedenen Sonnen- und Planetengrößen spielen."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Setzen Sie ThisPrintNth u003d 1, wenn Sie nur die n-ten Zeilen drucken möchten, und setzen Sie trackNth auf die zu überspringende Zahl."
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 gibt Ihnen ungefähr 21 Tracks, wenn Sie 1 wählen, werden alle Tracks gedruckt."
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "Setze DoNotSkipThis u003d 666 oder welche Zahl du auch immer sehen willst"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Dies spart Papier, indem nur ein Teil der Zeilen in der Tabelle gedruckt wird. Dies ist das sechste Argument, das ich einschränken möchte."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Link zu Bash-Datei, die diese Seite erstellt hat (Berechtigungen zum Speichern und Ausführen festlegen.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Wenn Sie das Bash-Skript wie folgt ausführen: ./makeappendix.a.sh oder ./makeappendix.a.sh --help, erhalten Sie Hilfe und weitere Details."
+

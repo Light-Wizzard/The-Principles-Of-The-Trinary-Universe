@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Kolminaisuusmatriisin matematiikan galaktisen levyn jäljitystaulukon skripti on luomassa"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Viimeisin päivitys"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Päiväys muutettu"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Auringon koko"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Livable Planet koko"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Kolminaisuuksien moottorien lukumäärä"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Säde"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Kappaleiden kokonaismäärä galaksissa"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Ilmakehän paineindeksi"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "mailia halkaisijassa"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "Mailia"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Kolminaisuuden universumin periaatteet: Liite A: Kolminaisuuden galaktisen seurataulukko"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Kirjoittaja: Jeffrey Scott Flesher, Light Wizzard -periaatteet tai velhot kuten Sir Isaac Newton ja Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Valo, Wizzard, velho, Newton, Newtonin, Tesla, Franklin, Jumala, Jeesus, Baari / Abbas, Pimeys, Kolminaisuus, Universumi, Pyhäkkö, Fysiikka, Aurinko, Askel, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Kirjoittaja: Jeffrey Scott Flesher, Light Wizzard -periaatteet tai velhot kuten Sir Isaac Newton ja Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Liite A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Kolminaisuuden galaktinen seurataulu"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Kolminaisuuden maailmankaikkeuden periaatteet"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight ja CopyLeft kirjoittanut"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Lääketieteellisesti eläkkeellä oleva Yhdysvaltain ilmavoimien kersantti"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Kolminaisuuden galaktinen seurataulu"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Kolminaisuuden galaksi perustuu:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Kolminaisuuden galaksi perustuu levysoittimeen, galaktinen taso on levy tai levy."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Kaikki auringot kiertävät galaksia samalla nopeudella kuin levysoittimen varsi, ja jokaisella kappaleella on oma nopeutensa."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Iteraatio on ajanjakso, joka määritetään seuraavasti:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Iteraatio on vuosina määritelty ajanjakso, lasketaan tässä maksimiarvoksi, keskiarvoksi ja minimiksi"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "Nämä jaksot on merkitty horoskooppimerkkeillä ja ne käyttävät juliaanista, gregoriaanista ja mayalaista kalenteria."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Kolminaisuusmatriisin matematiikka perustuu:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Kolminaisuusmatriisin matematiikka perustuu matriisitaulukkoon, jokainen rivi on raita galaktisen levyn"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "Jokaisessa sarakkeessa on tietoja galaksissa olevista aurinkoista, jotka tukevat elämää."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Tämä perustuu tunnettuihin energia-alueisiin, joissa ihmiset voivat selviytyä."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Tämä kolminaisuuskonsepti perustuu:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Kolminaisuuden käsite on sellainen, jonka keksin itseni lapsena 9-vuotiaana,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "Se perustuu siihen, että Auringolla on kaikki tiedot, jotka se tarvitsi tietääkseen työnsä tekemiseksi galaksissa."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Kun ymmärsin, mitä Sir Isaac Newton kuvaili,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Tajusin, että Suns-koolla on kaikki tekeminen aurinkokunnan kanssa"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "Joten aloin laskea kaiken, mitä pystyin: sen ominaisuuksien perusteella"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "ja kirjoitti tämän Bash-komentosarjan luodakseen tämän XHTML-tiedostotiedoston, joka sisältää tämän matriisitaulukon, ja kirjoitin myös Qt Quick QML JavaScriptin ristikkäisen avoimen lähdekoodin projektin nimeltään galaxy-calculator, linkki sivun alaosassa."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Perustuu auringon kokoon"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "mailia halkaisijassa"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Perustuen"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Kolmimoottorit"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Perustuu galaksiin, jonka säde on"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Kappaleiden kokonaismäärä"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Suurin toisto"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Keskimääräinen toisto"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Minimi toisto"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Seurata:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Galaksiamme raidan numero, joka perustuu 0: sta kahdesti 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Alle 336-kappaleilla on negatiivisia kolminaisuusmoottoreita, koska ne ovat tummia tähtiä"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "ne sekoittuvat galaksien joukkokenttärenkaisiin, tekemällä numeroista negatiivisia taajuuksia."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Kolmimoottorit:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Perustuen siihen, kuinka monta objektia (planeettoja, mikroplaneettoja, kuita, asteroideja) tai kolminaisuusmoottoreita, taulukossa oleva kolminaisuusmoottori viittaa vain pimeiden tähtiä seuraaviin tähtiin, niitä vaaditaan pitämään aurinkojärjestelmä yhdessä, pimeä energia näissä tyypeissä Kolminaisuusmoottorit ovat kaikki valo ilman pimeyttä, vaikka valo ilman pimeyttä viittaa valonspektriin, jota ei normaalisti ole näkyvässä spektrissä. Ihmiset voivat nähdä, ilman täyspektritekniikkaa, nämä kolminaisuusmoottorit on valmistettu neutriineista, jotka ovat tummia ulkonäöltään katsottaessa koska tekniikka ei näe valoa ilman pimeyttä, vaikka neutronikuori, joka tarkoittaa kolminaisuuden atomin ulkohiukkasia, tällä hetkellä ei ole tekniikkaa, joka havaitsisi pimeitä tähtiä, mutta täysispektrikuvat voivat havaita niiden kuviot tumman energiana. hallita aurinkoa tai tähtiä luomalla pimeän energian verkko, Dark Star Companions-kiertorata aurinkojen välillä aurinkojärjestelmässä, jossa on planeettoja ja kuut, sekä sen binaarinen vastin t, meidän tapauksessamme se on Sirius, binaaritähti, sellaisenaan, mitä lähempänä aurinko tai tähti on galaksille, sitä vähemmän kolmivaihemoottoreita se tarvitsee sen sisältämiseksi, joten kolminaisuuden moottorien määrä säätelee sitä, mitä Track the Sun tunnetaan nimellä tähti on päällä, siis mitä kauemmas galaksista, sitä enemmän kolminaisia u200bu200bmoottoreita, joita kutsutaan Dark Star Companionsiksi, se vaatii etäisyyden ylittämisen, jotta muut planeetat voisivat sisältää, kun taas Dark Star ylläpitää samaa liikkeenopeutta eri nopeuksilla. ."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Saman nopeuden ylläpitämistä eri nopeuksilla säätelee itse Tumma Tähti, ja se on galaktisessa tasossa, ja aurinko, joka tunnetaan myös nimellä Tähdet, ohittaa sen. Seuralaisten tehtävä on pitää aurinkokunta yhdessä. Kuvassa I osoittavat, että binaaritähti Sirius ja aurinkomme sijaitsevat galaktisen tason vastakkaisilla puolilla, tämä on totta vain kulkiessaan sen läpi ja tullessa siitä ulos, sikäli kuin voin todistaa. Kolminaisuuden matematiikan kaava vaihtovirtaan varttamista tai piirtämistä varten perustuu Helix-muodon aaltomuodossa taajuuteen, joka korreloi auringonvälillä ajan ja etäisyyden suhteen, mutta nykyisen tieteen takia sulkeutuvan valtavirran arvio voi olla 30-33 miljoonaa vuotta, joten tein, että muuttuja, joten se voidaan säätää oikeaan arvoon, tämä sovellus on suunniteltu syöttämään mikä tahansa galaksi, joten se ei vaikuta laskelmiini siitä, milloin käännämme navat, koska kyse on vain siitä, missä olemme itse signaalissa, ja ei eivät edes riippu siitä mihin suuntaan olemme menossa, tarkoittaen galaktiseen tasoon tai pois siitä, sillä on merkitystä vain missä olemme itse signaalin suhteen. Kutsun painovoimaa signaaliksi, koska Jumala on kaikki valo ilman pimeyttä ja on painovoima kaikissa Newtonin yhtälöissä, samoin kuin minun, ja tämä on painovoima, jonka lasken galaksille ja sen aurinkoille, jotka tunnetaan myös nimellä tähdet . Newton sanoi, että Raamattu totesi, että tummat tähdet ja heidän seuralaisensa ovat erityinen kolminaisuuden moottori, ja kuten kaikki kolminaisuuden moottorit, ne ovat teoreettisia, koska niitä ei voida todistaa eikä kiistää, ja toteaa, että sinulla on oltava usko jumalaa olemassa. Se ei tee tiedeksi, edes Newton sanoi, että sen sijaan totean, että kolminaisuusmoottorit lähettävät näitä signaaleja, jotka voidaan havaita nykytekniikalla, sellaisena voin sanoa, että ne ovat tosiasia kolminaisuuden tieteessä, kun todisteena käytetään nykyistä tekniikkaa. Taulukoiden tietojen piirtämiseen käytin seuraavia tietoja muuttujina: Auringon koko oli 864 575,9 mailia halkaisijassa, Liikkuvan planeetan koko 7926,2109 mailia halkaisijassa, kolmikkömoottorien lukumäärä 333 Raamatusta, galaksin säde kuin 241828072282107.5071453596951 mailia, Koko tiedostonimi: appendix.a.xhtml, ja 66 tulostettavaa riviä, eli Bash-komentosarjaa varten, minulla on entistä enemmän hallintaa Qt-sovelluksessa, kolminaisuuden matematiikka on yksinkertaista, jotta saadaan toistojen ajanjakso, minun tarvitsee vain tietää auringon koko (864 575,9 * (1/137)) / 3 u003d enimmäisvuosi 2103, keskimääräinen toisto perustuu auringon magneettisen polaarisuuden käänteisiin, se muuttaa polaarisuutta 10 (0 - 9) kertaa vuosisadan: 100 - 9 u003d 91, siis 2103 - 91 u003d 2012, laskeaksesi ajan lopun, käytä 42: tä Hitchhikers Guide to Galaxy -oppaasta, 42 hex on 66 desimaalin tarkkuudella, ja se on Raamatusta, ja 2103 - 42 u003d 2061, ja Sir Isaac Newton laski tämän vuonna 2060 Julian-kalenterin mukaan, eli gregoriaanisen kalenterin mukaan se on 2061, joten tämä on th e Vuosi maan pitäisi kääntää puolalaiset, enkä ota tätä tapahtumaa kevyesti, se on ajan loppu, joka tunnetaan myös sivilisaation lopuna sellaisena kuin me sen tiedämme, joten auringon koon tunteminen on kaikki mitä sinun tarvitsee tietää, muut kuin se, että se toimii vain, jos aloitat vuoden nolla, ja miksi mayakalenteri alkaa yli vuoden 2012 jälkeen, Kalan häntä on vuosi 2060, ja miksi gregoriaaninen kalenteri otettiin käyttöön, jotta se vastaisi tätä Raamatun koodi, mikä tekee Newtonin laskelmista oikein ja miksi mayat seuraavat ajankohtaa 2012-vuoden toistoissa, joten matematiikka toimii aina heidän puolestaan, ja he tiesivät sen tapahtuvan vuoden 2012 jälkeen ja ennen kalanpäätä, joka on vuosi 2103 ."
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Suurin nopeus MPH: ssa"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Perustuu suurimpaan nopeuteen, jota aurinko voi kuljettaa galaktisen tason läpi."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Miniminopeus MPH: ssa"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Perustuu vähimmäisnopeuteen, jonka aurinko voi kulkea galaktisen tason läpi käymisen jälkeen."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Taajuus Hz: ssä"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Planeedin ydintaajuuden perusteella pintataajuuksien tulisi olla paljon korkeampia:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Suunniteltavissa oleva planeetan taajuus 7,830 Hz vuonna: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Kiertoradan etäisyys:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Tämä on kuin levyn raita, se on kappaleen ympärysmitta mailia."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Seuraa taajuutta hertseinä:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Tämä perustuu heeliksin muotoon, jonka aurinko kulkee galaksin ympärillä,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "se laskee myös, kun kuljemme galaktisen tason läpi."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Elämä galaksissa sijaitsee:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Elämä galaksissa on tällä hetkellä raiteilla * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Jos uusi kolminaisuusmoottori saapuu maailmaan tai aurinkokuntamme tai poistuu siitä, me vaihdamme kappaleita."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Vuonna 2060 erääntyvän polaarivaiheen jälkeen"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "sinun pitäisi aloittaa uusi kalenteri vuodesta 0 alkaen, tai jatkaa ja käyttää päiväystapaa horoskooppitaulukossa."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Tämä on Vesimiehen aikakausi, ja jääkausi merkitsee sateensa."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Jos valitset kaksi aurinkoa eri reiteillä toistensa poikki: näytetään punaisena ja vihreänä,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "ja kuvittelin, että kiertäessäni tätä kuvaa, joka simuloi galaksia kiertäviä aurinkoja,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "Huomaa, että kaikki galaksissa olevat auringot pysyvät linjassa kiertämällä sitä"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "Tämä on huono simulaatio, mutta se tuo mieleeni"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "tämä matematiikka ei ole sama kuin Sunsin aurinkokunnassa, joten Keplerin ja Newtonin lait ja matematiikka eivät auta sinua täällä, mutta kolminaisuuden matematiikka auttaa."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Kolminaisuuden matematiikka, jonka luin 9-vuotiaana, ratkaisee esitetyn galaksien ongelman logiikan avulla: Nopeus u003d Etäisyys / Aika ja Etäisyys u003d Nopeus * Aika, joten nopeus ja etäisyys ovat suhteessa taajuuteen, joten: Taajuus u003d 1 / Aika ja aika u003d 1 / Taajuus, sellainen, että: Taajuus (Hz) u003d Valon nopeus (etäisyys @ 670,616,629 mph * 1 tunti; ~ taajuus maileissa 1 tunnissa tai ajassa) / aallonpituus mailia, käyttäen valtavirran arviota 500 000 mailia tunti 250 000 000 vuoden ajan, on 1 095 000 000 000 000 000 mailin etäisyys, ja saan kaavani avulla 1,011,954,093,357,316,200 mailia, joka on riittävän lähellä niin kaukana etäisyydestä. Kolminaisuusoppi perustuu kaikkeen energiaan, joka tulee Jumalan valosta jokaisen kolminaisuuden atomin sisällä, mikä tarkoittaa Kolme tyyppiä: protoni, neutroni ja elektron valon tapauksessa sellaisenaan kaikki kolminaisuusmatematiikka perustuu sähköön. Kun galaksilaskin on valmis, Open Source github -projekti, joka laskee jo saman taulukon, piirtää myös graafisesti polku t hän Suns tai Stars, kun ne kiertävät ympäri galaksia, valmistuttuaan korvaan tämän taulukon kuvat niillä. Sinulla on kaksi vaihtoehtoa, usko Sir Isaac Newtoniin, että Jumala on painovoima kaikissa yhtälöissään, tai voit uskoa Albert Einsteiniin, joka tuomitsi kaikki teoriansa Newtonin Jumalan puolesta painovoiman voimana, kummallakin tavalla olen lähempänä olemista oikeassa kuin valtavirran tiede, koska se perustuu teoriaan, johon Einstein ei edes uskonut. Tässä kaavassa yhdistän kappaleitaajuudet sen sijaan, että käytettäisiin siniä ja kosinusota, tämä ei ole simulaattori, se laskee kaikki kappaleet saman perusteella Aurinko ja Livable Planet -koko siten, että se toimii vain kappaleita, jotka tukevat elämää, joten se laskee näiden kokojen perusteella, missä elämää voi olla. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Galaxy kehrättää kaikkia aurinkokuntia samalla nopeudella"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Galaxy kehrättää kaikkia aurinkokuntia samalla nopeudella"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Galaxy kehrättää kaikkia aurinkokunnan järjestelmiä samalla nopeudella, mutta ei nopeudella"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Täysikokoinen"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Kolminaisuuden matematiikka on kolmiulotteista matematiikkaa, koska se perustuu sähköyn, joka tunnetaan myös nimellä valo, että Newton kutsui Jumalaa."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Jos katsot Auringon kiertävän Pimeän Tähteen galaktisessa tasossa,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "ja jolla on kolmiosainen tähtikonfiguraatio, sellainen, että Sirius on meidän binaaritähtimme"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "ja siellä on myös Dark Star -kumppaneita, jotka kiertävät Kolme tähteä-järjestelmiä (meidän aurinko, Sirius ja tumma tähti)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Tämä taulukko laskee tässä kuvassa esitetyn aaltomuodon taajuuden"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "samoin kuin nopeudet, joita se kuljettaa, kun teho sukenee galaktiseen tasoon suurimmalla nopeudella"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "ja kuinka sen miniminopeudella saavutetaan kauimpana amplitudissa ennen kuin se sukeltaa takaisin galaktiseen tasoon."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Auringon kiertorata Galaxy one -vallankumouksen ympärillä"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Auringon kiertorata galaksin ympärillä yksi täydellinen kiertorata"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Kuva A2: Auringon täydellinen kiertorata galaksin ympärillä"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Täysikokoinen"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Seurata"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Moottorit"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Maksiminopeus"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "MPH: ssa"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Min Speed"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "MPH: ssa"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Taajuus"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Kiertoradan etäisyys"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "Milesissä"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Seurata"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Taajuus"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Taulukko Liite A: Kolminaisuusmatriisin matematiikan galaktinen seurataulukko"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Käyttö: (Auringon koko mittarina halkaisijaltaan) (Liikkuvan planeetan koko mittarina halkaisijassa) (kolmimoottorien lukumäärä)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Galaksin säde mailiassa) (Koko tiedostonimi: appendix.a.xhtml) (Tulostettavan rivin yhdeksäs numero)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 liite.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Tämän avulla voit päästä muihin galakseihin ja pelata erilaisilla aurinko- ja planeettakooilla."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Aseta tämäPrintNth u003d 1, jos haluat tulostaa vain n. Rivit, aseta trackNth numeroon ohitettavaksi"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 antaa sinulle noin 21 raitaa, asettamalla arvoksi 1 tulostaa kaikki raidat"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "aseta DoNotSkipThis u003d 666 tai mikä tahansa numero, jonka haluat nähdä"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Tämä säästää paperia tulostamalla vain osa taulukon riveistä; tämä on kuudes väite, yritän rajoittaa niitä."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Linkki Bash-tiedostoon, joka on luonut tämän sivun (Tallenna ja aseta käyttöoikeudet.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Jos suoritat Bash-komentosarjan kuten: ./makeappendix.a.sh tai ./makeappendix.a.sh --help, se antaa sinulle ohjeita ja lisätietoja."
+

@@ -1,0 +1,2635 @@
+/* ****************************************************************************
+ * 1 Document 2 Rule All 3
+ * Created: 14 January 2018
+ * Last Update: 27 May 2018
+ */
+/* Anchor: href, id */
+a
+{
+    /* iBooks override (iOS 9 + El Capitan in night mode) */
+    color: inherit;
+    /* inherit = text color */
+    /* Note: KF8 will force this value unless you use "el.class a" */
+    font-weight: bold;
+    text-decoration: underline;
+}
+/* Bold: id */
+b
+{
+    font-weight: bold;
+}
+/* Blockquote: id */
+blockquote
+{
+    font-style: italic;
+    margin: 1.5em 5%;
+}
+/* Body: */
+body
+{
+    /* KF8 does not support this in body
+     * font-size: 100%;
+     * line-height: 1.5;
+     * line-height: 150%;
+    font-feature-settings: "kern", "liga", "clig", "onum", "pnum";
+    font-kerning: normal;
+    font-variant: common-ligatures oldstyle-nums proportional-nums;
+     */
+    height: 100%;
+    /* RS will override margins anyways */
+    margin: 0;
+    /* iBooks and Kobo support widows and orphans */
+    orphans: 2;
+    padding: 0;
+    widows: 2;
+}
+/* html */
+html
+{
+    height: 100%;
+}
+/* cite */
+cite
+{
+    font-style: italic;
+}
+/* dd */
+dd
+{
+    display: block;
+    margin: 1.5em 0 0 3em;
+}
+/* Definition List */
+dl
+{
+    margin: 1.5em 0 1.5em 5%;
+}
+/* Definition Term */
+dt
+{
+    font-weight: bold;
+    margin: 1.5em 0 0 0;
+}
+/* dt > dfn */
+dt > dfn
+{
+    font-style: normal;
+    font-weight: bold;
+}
+/* del */
+del
+{
+    text-decoration: line-through;
+}
+/* div */
+div
+{
+    margin: 1.5em 0 0 0;
+}
+/* ****************************************************************************
+ * figure
+figure
+{
+    margin: 0 1.5em 0 1.5em;
+}
+ */
+/* Header: h1 */
+h1
+{
+    font-size: 366%;
+    font-style: normal;
+    font-weight: bold;
+    /* line-height: inherit; */
+    /* line-height: 104.347826%; */
+    /* 104.347826% > 1.04347826; */
+    margin-bottom: 2.666%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.666%;
+    padding: 0;
+    page-break-before: always;
+    page-break-after: always;
+    text-align: center;
+    text-indent: 0;
+}
+/* Header: h2 */
+h2
+{
+    font-size: 266%;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 2.333%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.666%;
+    padding: 0;
+    page-break-before: always;
+    page-break-after: always;
+    text-align: center;
+    text-indent: 0;
+}
+/* Header: h3 */
+h3
+{
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 1.666%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.666%;
+    padding: 0;
+    page-break-before: always;
+    page-break-after: always;
+    text-align: center;
+    text-indent: 0;
+}
+/* Header: h4 */
+h4
+{
+    font-size: x-large;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 1.666%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.666%;
+    padding: 0;
+    page-break-before: always;
+    page-break-after: always;
+    text-align: center;
+    text-indent: 0;
+}
+/* Header: h5 */
+h5
+{
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 1.666%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.666%;
+    padding: 0;
+    page-break-before: always;
+    page-break-after: always;
+    text-align: center;
+    text-indent: 0;
+}
+/* Header: h6 */
+h6
+{
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 1.333%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.666%;
+    padding: 0;
+    page-break-before: always;
+    page-break-after: always;
+    text-align: center;
+    text-indent: 0;
+}
+/* ********************************** p ************************************ */
+p
+{
+    margin-bottom: 1.33em;
+    margin-left: 1.33em;
+    margin-right: 1.33em;
+    margin-top: 0.2em;
+    text-indent: 0;
+}
+/* ****************************************************************************
+ *  a_quote
+ */
+.a_quote
+{
+    font-family: "Times New Roman", "Comic Sans MS", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+/* .a_quote */
+.a_quote::before
+{
+    content: open-quote;
+}
+/* .a_quote */
+.a_quote::after
+{
+    content: close-quote;
+}
+/* ****************************************************************************
+ * Ordered List with Numbers
+ */
+ol
+{
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.2em;
+}
+/* Unordered List without Numbers: Bullets */
+ul
+{
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.2em;
+}
+/* Styling is improved to prevent sub from affecting line-height */
+sub
+{
+    font-size: 75%;
+    /* line-height: 120%; */    /* 1.2 */
+    vertical-align: sub;
+    /* Fallback */
+    vertical-align: -20%;
+}
+/* Styling is improved to prevent sup from affecting line-height */
+sup
+{
+    font-size: 75%;
+    /* line-height: 120%; */   /* 1.2 */
+    vertical-align: super;
+    /* Fallback */
+    vertical-align: 33%;
+}
+/* TABLES */
+table
+{
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 1.5em auto;
+    /* Note: legacy RMSDK sets auto to 0, which is permitted in a footnote of the EPUB2 specs */
+    /* font-feature-settings: "tnum" 1; */
+    /* font-variant-numeric: tabular-nums; */
+    page-break-inside: avoid !important;
+    table-layout: auto;
+    /* Note: KF8 does not support "max-width: 100%;" hence "width: auto;" as fallback */
+    width: auto;
+}
+/* tbody */
+tbody
+{
+    page-break-inside: avoid !important;
+}
+/* thead */
+thead
+{
+    page-break-inside: avoid !important;
+}
+/* tfoot */
+tfoot
+{
+    page-break-inside: avoid !important;
+}
+/* tr */
+tr
+{
+    page-break-inside: avoid !important;
+}
+/* th */
+th
+{
+    /* Current color = color of text (inverted in night mode) */
+    /* border-bottom: 0.125em solid currentColor; */
+    border-bottom: 0.125em solid #808080;
+    empty-cells: show;
+    font-weight: bold;
+    padding: 0.6875em 2% 0.6875em 0;
+    page-break-inside: avoid !important;
+    text-align: left;
+}
+/* td */
+td
+{
+    /* border-bottom: 0.0625em solid currentColor; */
+    border-bottom: 0.0625em solid #808080;
+    empty-cells: show;
+    /* Current color = color of text (inverted in night mode) */
+    padding: 0.75em 2% 0.6875em 0;
+    page-break-inside: avoid !important;
+    text-align: left;
+}
+/* ************************************************************************* */
+.table-fixed
+{
+    table-layout: fixed;
+}
+/* dropcaps1 */
+.dropcaps1
+{
+    font-family: cursive, serif, Georgia;
+    font-size: 2.7em;
+    float: left;
+    /* line-height: 0.8em; */
+    margin-bottom: -0.1em;
+    /* text-shadow: 5px -3px #151B54; */
+}
+/* dropcaps2 */
+.dropcaps2
+{
+    font-family: Zapfino, cursive, serif, Georgia;
+    font-size: 2.7em;
+    font-weight: bold;
+    float: left;
+    /* line-height: 0.8em; */
+    margin-bottom: -0.1em;
+}
+/* Floats */
+/* If there are too many floating elements in a XHTML file,
+ * performance of legacy RMSDK takes a huge hit (+- 4 seconds to render page on eInk devices)
+ */
+.float-left
+{
+    float: left;
+    margin: 0 1.5% 0 0;
+}
+/* : */
+.float-right
+{
+    float: right;
+    margin: 0 0 0 1.5%;
+}
+/* UTILITIES */
+/* Display */
+.block
+{
+    display: block;
+}
+/* : */
+.inline-block
+{
+    display: inline-block;
+}
+/* : */
+.inline
+{
+    display: inline;
+}
+/* : */
+.hidden
+{
+    /* Typical usage: EPUB 3 landmarks inline TOC */
+    display: none;
+}
+/* May be useful for EPUB 3.1, warning .absolute in ePubCheck in EPUB 3.0.1
+.relative { position: relative; }
+.absolute { position: absolute; }
+*/
+/* Clearings */
+.clear
+{
+    /* may be useful if an element is floating in a container */
+    clear: both;
+}
+/* : */
+.clear-left
+{
+    clear: left;
+}
+/* : */
+.clear-right
+{
+    clear: right;
+}
+/* Bordered content */
+.boxed
+{
+    /* border: 0.0625em solid currentColor; */
+    border: 0.0625em solid #808080;
+    /* Current color = color of text (inverted in night mode) */
+    padding: 0.6875em;
+}
+/* Margins */
+.no-margin
+{
+    margin: 0;
+}
+/* : */
+.no-margin-top
+{
+    margin-top: 0;
+}
+/* : */
+.no-margin-bottom
+{
+    margin-bottom: 0;
+}
+/* : */
+.no-margin-left
+{
+    margin-left: 0;
+}
+/* : */
+.no-margin-right
+{
+    margin-right: 0;
+}
+/* : */
+.margin-top-s
+{
+    margin-top: 0.75em;
+}
+/* : */
+.margin-top-m
+{
+    margin-top: 1.5em;
+}
+/* : */
+.margin-top-l
+{
+    margin-top: 3em;
+}
+/* : */
+.margin-top-xl
+{
+    margin-top: 4.5em;
+}
+/* : */
+.margin-top-xxl
+{
+    margin-top: 6em;
+}
+/* : */
+.margin-bottom-s
+{
+    margin-bottom: 0.75em;
+}
+/* : */
+.margin-bottom-m
+{
+    margin-bottom: 1.5em;
+}
+/* : */
+.margin-bottom-l
+{
+    margin-bottom: 3em;
+}
+/* : */
+.margin-bottom-xl
+{
+    margin-bottom: 4.5em;
+}
+/* : */
+.margin-bottom-xxl
+{
+    margin-bottom: 6em;
+}
+/* : */
+.margin-left-s
+{
+    margin-left: 2.5%;
+    /* % would not reflow with font-size user setting */
+}
+/* : */
+.margin-left-m
+{
+    margin-left: 5%;
+}
+/* : */
+.margin-left-l
+{
+    margin-left: 7.5%;
+}
+/* : */
+.margin-left-xl
+{
+    margin-left: 10%;
+}
+/* : */
+.margin-left-xxl
+{
+    margin-left: 15%;
+}
+/* : */
+.margin-right-s
+{
+    margin-right: 2.5%;
+    /* % would not reflow with font-size user setting */
+}
+/* : */
+.margin-right-m
+{
+    margin-right: 5%;
+}
+/* : */
+.margin-right-l
+{
+    margin-right: 7.5%;
+}
+/* : */
+.margin-right-xl
+{
+    margin-right: 10%;
+}
+/* : */
+.margin-right-xxl
+{
+    margin-right: 15%;
+}
+/* Font-stacks */
+.sans
+{
+    /* Typical usage: headings */
+    font-family: sans-serif;
+}
+/* : */
+.serif
+{
+    font-family: serif;
+}
+/* : */
+.monospace
+{
+    font-family: monospace;
+}
+/* We try to rely on RS’ typefaces, hence the huge font-stack */
+.humanist
+{
+    font-family: "Myriad Pro", Seravek, "Trebuchet MS", "BN Trebuchet MS", "PT Sans", "Frutiger Neue", Roboto, sans-serif;
+}
+/* We try to rely on RS’ typefaces, hence the huge font-stack */
+.oldstyle
+{
+    font-family: "Minion Pro", "Iowan Old Style", Palatino, "Palatino Linotype", "Palatino Nova", "BN Amasis", Cambria, FreeSerif, "Times New Roman", serif;
+}
+/* Text align */
+.justified
+{
+    /* Designed as a class for body — We Does not enforce as user setting > author */
+    text-align: justify;
+    /* proprietary for Legacy RMSDK */
+    /* hyphens: auto; */
+}
+/* : */
+.align-left
+{
+    text-align: left;
+    margin: 0 1em 0 1em;
+}
+/* : */
+.align-center
+{
+    text-indent: 0;
+    /* Necessary as RS may define text-indent for p */
+    text-align: center;
+}
+/* : */
+.align-right
+{
+    text-indent: 0;
+    /* Necessary as RS may define text-indent for p */
+    text-align: right;
+}
+/* Indents */
+.indent
+{
+    text-indent: 1em;
+}
+/* : */
+.no-indent
+{
+    text-indent: 0;
+}
+/* : */
+.hanging-indent
+{
+    text-indent: -5%;
+    margin-left: 5%;
+    /* Since em will reflow with font-size user setting, we’re using % */
+}
+/* Font sizes */
+.fs-xxs
+{
+    font-size: 0.8125em;
+    /* line-height: 184.615385%; */
+    /* 184.615385% = 1.84615385 */
+}
+/* : */
+.fs-xs
+{
+    font-size: 0.875em;
+    /* line-height: 171.428571%; */
+    /* 1.71428571 */
+}
+/* : */
+.fs-s
+{
+    font-size: 0.9375em;
+    /* line-height: 120%; */
+    /* 1.2 */
+}
+/* : */
+.fs-m
+{
+    font-size: 1em;
+    /* line-height: inherit; */
+}
+/* : */
+.fs-l
+{
+    font-size: 1.125em;
+    /* line-height: 133.333333%; */ /* 1.33333333 */
+}
+/* : */
+.fs-xl
+{
+    font-size: 1.3125em;
+    /* line-height: 114.285714%; */ /* 1.14285714 */
+}
+/* : */
+.fs-xxl
+{
+    font-size: 1.4375em;
+    /* line-height: 104.347826%; */ /* 1.04347826 */
+}
+/* : */
+.fs-jumbo
+{
+    font-size: 1.625em;
+    /* line-height: 92.307692%; */ /* 0.92307692 */
+}
+/* Font styles */
+.bold
+{
+    /* Does not use that with span if b or strong can be used */
+    font-weight: bold;
+}
+/* : */
+.italic
+{
+    /* Does not use that with span if i, cite, dfn or em can be used */
+    font-style: italic;
+}
+/* : */
+.bold-italic
+{
+    font-weight: bold;
+    font-style: italic;
+}
+/* : */
+.small-caps
+{
+    text-transform: lowercase;
+    /* Does not rely on this property, text should be typed in uppercase (legacy RMSDK) */
+    font-variant: small-caps;
+    letter-spacing: 0.0625em;
+    /* The two previous props are not supported in legacy RMSDK */
+}
+/* : */
+.underline
+{
+    text-decoration: underline;
+}
+/* Misc */
+.no-list-type
+{
+    /* Typical usage: hiding numbers in toc */
+    list-style-type: none;
+}
+/* PAGE BREAKS */
+.break-before
+{
+    page-break-before: always;
+    /* break-before: always; */
+    /* Future according to https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-before */
+}
+/* For some reason, after has better support than before (Google, Kobo, etc.) */
+.break-after
+{
+    page-break-after: always;
+    /* break-after: always; */
+}
+/*
+.break-inside
+{
+    page-break-inside: auto;
+    break-inside: auto;
+}
+*/
+/* Let’s pretend it is supported (legacy RMSDK does, others not so much) */
+/*
+.no-break-before
+{
+    page-break-before: avoid;
+    break-before: avoid;
+}
+*/
+/* Let’s pretend it is supported (legacy RMSDK does, others not so much) */
+/*
+.no-break-after
+{
+    page-break-after: avoid;
+    break-after: avoid;
+}
+*/
+/* This one works in iBooks, useful for figure or to keep 2 elements together */
+/*
+.no-break-inside
+{
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+*/
+/* mark */
+.mark
+{
+    background-color: yellow;
+    color: inherit;
+}
+/* ************************************************************
+ * Custom CSS
+ * Written by Jeffrey Scott Flesher for
+ * http://TrinaryUniversity.org/papers/
+ */
+/* ****************************************************************************
+ * Javascript only: Enabled with Javascript
+ *  Kindlegen does not like this line when applied on anything but a span
+ */
+.js_only
+{
+    display: none;
+}
+/* *****************************
+ *  Show only for PDF
+ *  JavaScript SetAgent will set to block if js enabled, Book are not shown
+ *  Kindlegen does not like this line when applied on anything but a span
+ */
+.showpdfs
+{
+    display: none;
+}
+/* *****************************
+ *  Do not show in Book
+ *  Kindlegen does not like this line when applied on anything but a span
+ */
+.no_show_book
+{
+    display: none;
+}
+/* *****************************
+ *  Do not show in PDF
+ *  Kindlegen does not like this line when applied on anything but a span
+ */
+.no_show_pdf
+{
+    display: none;
+}
+/* ****************************************************************************
+ *  Show if not show in PDF or Book or js_only
+ *  JavaScript SetAgent will set to none if js_only, PDF or Book are not shown
+ */
+.show_if_js_only_no_show_pdf_book
+{
+    display: block;
+}
+/* *****************************
+ *  Show only for Web Page
+ *  JavaScript SetAgent will set to block if js enabled, PDF or Book are not shown
+ *  Kindlegen does not like this line when applied on anything but a span
+ */
+.show_web_page_only
+{
+    display: none;
+    margin: 0 0;
+    padding: 0;
+}
+/* *****************************
+ * a_line_show_break_html that gets drawn for Page Breaks on the Website,
+ * but display none set on them so only Javascript can enable them.
+ */
+.a_line_show_break_html
+{
+    display: none;
+    border: 0;
+    border-top: 0.1em solid #000;
+    height: 0.3em;
+    margin: 0 0;
+    padding: 0;
+}
+/* *****************************
+ * a_hard_line gets drawn
+ */
+.a_hard_line
+{
+    display: block;
+    height: 0.3em;
+    border: 0;
+    border-top: 0.1em solid #000;
+    margin: 0 0;
+    padding: 0;
+}
+/* 1st level TOC */
+.toc_level_1
+{
+    margin: 0 1.5em 0 1.5em;
+    text-indent: 0;
+    text-align: left;
+}
+/* 2nd level TOC */
+.toc_level_2
+{
+    margin: 0 2.5em 0 2.5em;
+    text-indent: 0;
+    text-align: left;
+}
+/* 3rd level TOC */
+.toc_level_3
+{
+    margin: 0 3.6em 0 3.6em;
+    text-indent: 0;
+    text-align: left;
+}
+/* 4th level TOC */
+.toc_level_4
+{
+    margin: 0 6.6em 0 6.6em;
+    text-indent: 0;
+    text-align: left;
+}
+/* 5th level TOC */
+.toc_level_5
+{
+    margin: 0 9.6em 0 9.6em;
+    text-indent: 0;
+    text-align: left;
+}
+/* 6th level TOC */
+.toc_level_6
+{
+    margin: 0 12.6em 0 12.6em;
+    text-indent: 0;
+    text-align: left;
+}
+/* *****************************
+ *  Table of Content no numbers
+ */
+.toc
+{
+    list-style-type: none;
+    margin: 0.3em 0;
+    padding-left: 5%;
+}
+/* *****************************
+ * a_anchor
+ */
+.a_anchor
+{
+    text-decoration: none;
+}
+/* **** Table Borders ****************************************************** */
+/* *****************************
+ * normal
+ */
+table.normal
+{
+    border: 0.1em solid rgb(162, 169, 177);
+    border-collapse: separate;
+    margin: 0 0.6em 0 0.6em;
+    text-align: left;
+    vertical-align: middle;
+    width: 70%;
+}
+/* : */
+tr.normal,
+td.normal
+{
+    border: 1px solid;
+    border-collapse: separate;
+    font-size: 100%;
+    margin: 0;
+    padding: 0.2em 0.4em;
+    text-align: left;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* : */
+th.normal
+{
+    /* background-color: rgb(234, 236, 240); */
+    border: 1px solid;
+    border-collapse: separate;
+    font-size: 100%;
+    margin: 0;
+    padding: 0.2em 0.4em;
+    text-align: left;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * normal_center
+ */
+table.normal_center
+{
+    margin: 0;
+    border: 1px solid;
+    padding: 0.2em 0.4em;
+    border-collapse: separate;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* : */
+tr.normal_center,
+td.normal_center
+{
+    margin: 0;
+    border: 1px solid;
+    padding: 0.2em 0.4em;
+    border-collapse: separate;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* : */
+th.normal_center
+{
+    /* background-color: rgb(234, 236, 240); */
+    border: 1px solid;
+    border-collapse: separate;
+    font-size: 100%;
+    margin: 0;
+    padding: 0.2em 0.4em;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* *****************************
+ * subdue
+ */
+table.subdue
+{
+    border-width: 0.1em;
+    border-color: #808080;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/* : */
+tr.subdue,
+td.subdue
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.1em solid #808080;
+    border-width: 0.09em;
+    font-size: 100%;
+    text-indent: 0;
+}
+/* : */
+th.subdue
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.1em solid #808080;
+    border-color: #808080;
+    border-width: 0.1em;
+    font-size: 100%;
+    text-indent: 0;
+}
+/* *****************************
+ * subdue_center
+ */
+table.subdue_center
+{
+    border-width: 0.09em;
+    border-color: #808080;
+    margin: 0 1em 0 1em;
+    text-align: center;
+    vertical-align: middle;
+}
+/* : */
+tr.subdue_center,
+td.subdue_center
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.1em solid #808080;
+    border-width: 0.09em;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* : */
+th.subdue_center
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.1em solid #808080;
+    border-width: 0.09em;
+    background-color: #dcdcdc;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* *****************************
+ * groove
+ */
+table.groove
+{
+    border-style: groove;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 0.6em 0 0.6em;
+    vertical-align: middle;
+}
+/*
+ * groove
+ */
+tr.groove,
+th.groove,
+td.groove
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.3em groove #0ff;
+    border-collapse: separate;
+    font-size: 100%;
+    text-indent: 0;
+}
+/* *****************************
+ * groove_center
+ */
+table.groove_center
+{
+    border-style: groove;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 0.6em 0 0.6em;
+    text-align: center;
+    vertical-align: middle;
+}
+/*
+ * groove_center
+ */
+tr.groove_center,
+th.groove_center,
+td.groove_center
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.3em groove #0ff;
+    border-collapse: separate;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* *****************************
+ * groove_center_round
+ */
+table.groove_center_round
+{
+    border-style: groove;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 0.6em 0 0.6em;
+    text-align: center;
+    vertical-align: middle;
+    /* border-radius: 0.6em; */
+}
+/*
+ * groove_center_round
+ */
+tr.groove_center_round,
+th.groove_center_round,
+td.groove_center_round
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.3em groove #0ff;
+    border-collapse: separate;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+    /* border-radius: 0.6em; */
+}
+/* *****************************
+ * groove_black
+ */
+table.groove_black
+{
+    border-style: groove;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: black;
+    border-collapse: separate;
+    margin: 0 0.6em 0 0.6em;
+    vertical-align: middle;
+}
+/*
+ * groove_black
+ */
+tr.groove_black,
+th.groove_black,
+td.groove_black
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.3em groove black;
+    border-collapse: separate;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * dotted
+ */
+table.dotted
+{
+    border-style: dotted;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/*
+ * dotted
+ */
+tr.dotted,
+th.dotted,
+td.dotted
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em dotted #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * dotted_center
+ */
+table.dotted_center
+{
+    border-style: dotted;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    text-align: center;
+    vertical-align: middle;
+}
+/*
+ * dotted_center
+ */
+tr.dotted_center,
+th.dotted_center,
+td.dotted_center
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em dotted #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* *****************************
+ * dotted_black
+ */
+table.dotted_black
+{
+    border-style: dotted;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: black;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/*
+ * dotted_black
+ */
+tr.dotted_black,
+th.dotted_black,
+td.dotted_black
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em dotted black;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * solid
+ */
+table.solid
+{
+    border-style: solid;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/*
+ * solid
+ */
+tr.solid,
+th.solid,
+td.solid
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em solid #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * solid_black
+ */
+table.solid_black
+{
+    border-style: solid;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: black;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/*
+ * solid_black
+ */
+tr.solid_black,
+th.solid_black,
+td.solid_black
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em solid black;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * double
+ */
+table.double
+{
+    border-style: double;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/*
+ * double
+ */
+tr.double,
+th.double,
+td.double
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em double #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * double_center
+ */
+table.double_center
+{
+    border-style: double;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    text-align: center;
+    vertical-align: middle;
+}
+/*
+ * double_center
+ */
+tr.double_center,
+th.double_center,
+td.double_center
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em double #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* *****************************
+ * ridge
+ */
+table.ridge
+{
+    border-style: ridge;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/*
+ * ridge
+ */
+tr.ridge,
+th.ridge,
+td.ridge
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em ridge #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * ridge_center
+ */
+table.ridge_center
+{
+    border-style: ridge;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    text-align: center;
+    vertical-align: middle;
+}
+/*
+ * ridge_center
+ */
+tr.ridge_center,
+th.ridge_center,
+td.ridge_center
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em ridge #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* *****************************
+ * inset
+ */
+table.inset
+{
+    border-style: inset;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/* tr.inset */
+tr.inset,
+th.inset,
+td.inset
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em inset #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * inset_center
+ */
+table.inset_center
+{
+    border-style: inset;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    text-align: center;
+    vertical-align: middle;
+}
+/* : */
+tr.inset_center,
+th.inset_center,
+td.inset_center
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em inset #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* *****************************
+ * outset
+ */
+table.outset
+{
+    border-style: outset;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    vertical-align: middle;
+}
+/*
+ * outset
+ */
+tr.outset,
+th.outset,
+td.outset
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em outset #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    vertical-align: middle;
+}
+/* *****************************
+ * outset_center
+ */
+table.outset_center
+{
+    border-style: outset;
+    border-spacing: 0.3em;
+    border-width: 0.3em;
+    border-color: #0ff;
+    border-collapse: separate;
+    margin: 0 1em 0 1em;
+    text-align: center;
+    vertical-align: middle;
+}
+/*
+ * outset_center
+ */
+tr.outset_center,
+th.outset_center,
+td.outset_center
+{
+    margin: 0;
+    padding: 0.3em;
+    border: 0.6em outset #0ff;
+    border-width: 0.3em;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+/* ****************************************************************************
+ *  a_signature
+ */
+.a_signature
+{
+    font-family: "Comic Sans MS", cursive, "Times New Roman", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+/* : */
+.a_signature_normal
+{
+    font-family: "Comic Sans MS", cursive, "Times New Roman", sans-serif;
+    font-weight: bold;
+}
+/* : */
+.a_signature_light
+{
+    font-family: "Comic Sans MS", cursive, "Times New Roman", sans-serif;
+}
+/* ******* First sentence in chapters following heading ******* */
+.text_standard
+{
+    font-family: initial;
+    font-style: normal;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    text-indent: 0;
+}
+/* : */
+.text_top
+{
+    margin: 1em 1em 1em 1em;
+    text-indent: 1em;
+    text-align: left;
+}
+/* sentence in chapters */
+.text_normal
+{
+    margin: 1em 1em 1em 1em !important;
+    text-align: left;
+    width: 96%;
+}
+/* sentence in chapters indented */
+.text_indent
+{
+    margin: 1em 1em 1em 1em !important;
+    text-indent: 1em !important;
+    text-align: left;
+    width: 96%;
+}
+/* : */
+.text_indent_narrow
+{
+    display: inline-block;
+    width: 60% !important;
+    text-indent: 1em !important;
+    text-align: left !important;
+}
+/* : */
+.text_narrow
+{
+    display: inline-block;
+    width: 60% !important;
+    text-align: left;
+}
+/* sentence in chapters are centered */
+.text_center
+{
+    text-align: center;
+    margin: 1em 1em 1em 1em !important;
+    width: 96%;
+}
+/* : */
+.text_centerit
+{
+    text-align: center;
+    margin: 0 auto;
+    width: 99%;
+}
+/* : */
+.text_center_caption
+{
+    text-align: center;
+    margin: 1em 1em 1em 1em !important;
+    width: 99%;
+    /* font-weight: bold; */
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: large;
+}
+/* ****************************************************************************
+ *  text_code
+ */
+.text_code
+{
+    font-family: "Courier New", Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+/* : */
+.text_code_normal
+{
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+/* ****************************************************************************
+ *  text_light
+ */
+.text_light
+{
+    font-family: Garamond, Georgia, "Trebuchet MS", Bookman, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+/* : */
+.text_light_slanted
+{
+    font-family: Garamond, Georgia, "Trebuchet MS", Bookman, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+/* : */
+.text_light_normal
+{
+    font-family: Garamond, Georgia, "Trebuchet MS", Bookman, serif;
+    font-weight: bold;
+}
+/* ****************************************************************************
+ *  text_dark
+ */
+.text_dark
+{
+    font-family: "Comic Sans MS", Impact, serif;
+    font-weight: bold;
+}
+/* : */
+.text_dark_slanted
+{
+    font-family: "Comic Sans MS", Impact, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+/* : */
+.text_dark_normal
+{
+    font-family: "Comic Sans MS", Impact, serif;
+    font-weight: bold;
+}
+/* ****************************************************************************
+ *  text_arial
+ */
+.text_arial
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* ****************************************************************************
+ *  text_arial_black
+ */
+.text_arial_black
+{
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+/* ****************************************************************************
+ *  text_comic
+ */
+.text_comic
+{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+/* ****************************************************************************
+ *  text_georgia
+ */
+.text_georgia
+{
+    font-family: Georgia, "Courier New", serif;
+}
+/* : */
+.text_georgia_bold_italic
+{
+    font-family: Georgia, "Courier New", serif;
+    font-style: italic;
+    font-weight: bold;
+}
+/* : */
+.text_georgia_bold
+{
+    font-family: Georgia, "Courier New", serif;
+    font-weight: bold;
+}
+/* ****************************************************************************
+ *  text_impact
+ */
+.text_impact
+{
+    font-family: Impact, Charcoal, sans-serif;
+}
+/* ****************************************************************************
+ *  text_lucida_sans
+ */
+.text_lucida_sans
+{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+/* ****************************************************************************
+ *  text_tahoma
+ */
+.text_tahoma
+{
+    font-family: Tahoma, Geneva, sans-serif;
+}
+/* ****************************************************************************
+ *  text_trebuchet
+ */
+.text_trebuchet
+{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+/* ****************************************************************************
+ *  text_verdana
+ */
+.text_verdana
+{
+    font-family: Verdana, Geneva, sans-serif;
+}
+/* ****************************************************************************
+ *  text_lucida
+ */
+.text_lucida
+{
+    font-family: "Lucida Console", Monaco, monospace;
+}
+/* ****************************************************************************
+ *  text_mono
+ */
+.text_mono
+{
+    font-family: "Courier New", Courier, monospace;
+}
+/* ****************************************************************************
+ * the_chapter
+ */
+.the_chapter
+{
+    margin: 0 1.5em 0 1.5em;
+}
+/* ****************************************************************************
+ *  a_term
+ */
+.a_term
+{
+    text-indent: 3em;
+    font-weight: bold;
+}
+/* : */
+dl.a_term
+{
+    margin: 1.5em 0 1.5em 5%;
+}
+/* : */
+dt.a_term
+{
+    margin: 1.5em 0 0 0;
+    font-weight: bold;
+}
+/* ****************************************************************************
+ *  a_description
+ */
+.a_description
+{
+    margin-left: 9em;
+}
+/* : */
+dd.a_description
+{
+    margin: 1.5em 0 0 3em;
+}
+/* ****************************************************************************
+ *  a_table
+ */
+.a_table
+{
+    margin-left: 2.5%;
+    /* % would not reflow with font-size user setting */
+}
+/* ****************************************************************************
+ *  a_ref
+ */
+.a_ref
+{
+    /* proprietary for Legacy RMSDK */
+    /* hyphens: none; */
+    text-indent: 0;
+    /* Necessary as RS may define text-indent for p */
+    font-weight: bold;
+    text-align: left;
+}
+/* ****************************************************************************
+ *  a_blank_line
+ */
+.a_blank_line
+{
+    display: block;
+    white-space: nowrap;
+}
+/* ****************************************************************************
+ *  a_header
+ */
+.a_header
+{
+    cursor: url("favicon.ico"), auto;
+    font-weight: bold;
+    /* proprietary for Legacy RMSDK */
+    /* hyphens: none; */
+    text-align: center;
+    /* Necessary as RS may define text-indent for p */
+    text-indent: 0;
+}
+/* *****************************
+ *  a_button
+ */
+.a_button
+{
+    border-style: outset;
+    border-width: 0.3em;
+    border-color: green;
+    cursor: progress;
+    display: inline-block;
+    font-size: 100%;
+    /* line-height: 52%; */
+    margin: 0;
+    margin-left: 1em;
+    padding: 0.01em 0.3em 0.13em 0.3em;
+    text-align: center;
+    text-indent: 0;
+    /* transition-duration: 0.4s; */
+    text-decoration: none;
+    vertical-align: middle;
+}
+/*
+ *  a_button Hover
+ */
+.a_button:hover
+{
+    border-color: #dc143c;
+    border-style: inset;
+}
+/* *****************************
+ *  button_blank_target_link
+ */
+.button_blank_target_link
+{
+    border-style: outset;
+    border-width: 0.3em;
+    border-color: green;
+    cursor: progress;
+    display: inline-block;
+    font-size: 100%;
+    /* line-height: 52%; */
+    margin: 0;
+    margin-left: 1em;
+    padding: 0.01em 0.3em 0.13em 0.3em;
+    vertical-align: middle;
+    text-indent: 0;
+    text-align: center;
+    /* transition-duration: 0.4s; */
+    text-decoration: none;
+}
+/*
+ *  Hover
+ */
+.button_blank_target_link:hover
+{
+    border-color: #dc143c;
+    border-style: inset;
+}
+/* *****************************
+ *  a_button_notice
+ */
+.a_button_notice
+{
+    border-style: outset;
+    border-width: 0.3em;
+    border-color: red;
+    display: inline-block;
+    margin: 1em;
+    padding: 0.5em;
+    font-size: 100%;
+    text-indent: 0;
+    text-align: center;
+    /* transition-duration: 0.4s; */
+    cursor: progress;
+    text-decoration: none;
+}
+/*
+ *  a_button_notice
+ */
+.a_button_notice:hover
+{
+    border-color: red;
+    border-style: inset;
+}
+/* *****************************
+ *  a_button normal
+ */
+.a_button_normal
+{
+    color: black;
+    background-color: white;
+    border: 2px solid #4caf50;
+}
+/* : */
+.a_button_normal:hover
+{
+    color: white;
+    background-color: #4caf50;
+}
+/* ****************************************************************************
+ *  Red
+ */
+.red
+{
+    color: Red;
+}
+/* ****************************************************************************
+ *  Blue
+ */
+.blue
+{
+    color: Blue;
+}
+/* ****************************************************************************
+ *  Green
+ */
+.green
+{
+    color: Green;
+}
+/* ***********************
+ *
+ */
+.video_center
+{
+    margin: 0 auto;
+    width: 400px;
+    display: block;
+}
+/* *****************************
+ * Used for textarea
+ */
+.resizable
+{
+    /* resize: both; */
+    /* overflow not support in KF8 */
+    /* overflow: auto; */
+    /*
+     * not support in KF8
+     *
+        min-width: 75%;
+        max-width: 100%;
+    */
+    width: 90%;
+    margin: 1em 1em 1em 1em;
+}
+/* *****************************
+ * button_it
+ */
+.button_it
+{
+    /* Current color = color of text (inverted in night mode)
+       border: 0.0625em solid currentColor;
+    */
+    border: 0.0625em solid #808080;
+    padding: 0.6875em;
+    background-color: #d3d3d3;
+    display: inline-block;
+    cursor: pointer;
+}
+/* *****************************
+ * center_bold
+ */
+.center_bold
+{
+    text-indent: 0;
+    /* Necessary as RS may define text-indent for p */
+    text-align: center;
+    /* Does not use that with span if i, cite, dfn or em can be used */
+    font-weight: bold;
+}
+/* *****************************
+ * center_italic
+ */
+.center_italic
+{
+    text-indent: 0;
+    /* Necessary as RS may define text-indent for p */
+    text-align: center;
+    /* Does not use that with span if i, cite, dfn or em can be used */
+    font-style: italic;
+}
+/* *****************************
+ * center_italic_bold
+ */
+.center_italic_bold
+{
+    text-indent: 0;
+    /* Necessary as RS may define text-indent for p */
+    text-align: center;
+    /* Does not use that with span if i, cite, dfn or em can be used */
+    font-weight: bold;
+    font-style: italic;
+}
+/*
+ * Fix problem with wkhtmltopdf when tables flow into next page and it overwrites text in first row.
+ */
+/* *****************************
+ * a_link
+ */
+a.a_link
+{
+    /* color: #0000ff; */
+    /* Taking nestiog of inline elements into account (e.g. em nested in strong) */
+    color: inherit;
+    cursor: pointer; /* pointer; help; wait; zoom-in; zoom-out alias */
+    font-size: inherit;
+    font-style: inherit;
+    /* Taking nesting of inline elements into account (e.g. sup nested in em) */
+    font-weight: inherit;
+    padding: 0.1em 0.2em 0.1em 0.2em;
+    vertical-align: baseline;
+    text-decoration: underline;
+    /* transition: all 0.2s; */
+}
+/* : */
+a.a_link:hover
+{
+    color: green;
+    outline-style: outset;
+    text-decoration: none;
+}
+/* : */
+a.a_link:focus
+{
+    outline-style: inset;
+}
+/* *****************************
+ * blank_target_link
+ */
+.blank_target_link
+{
+    /*
+    text-align: center;
+    */
+    display: inline-block;
+    border-style: outset;
+    border-width: 0.19em;
+    border-color: red;
+    margin: 0.1em 0.2em 0.1em 0.2em;
+    padding: 0.1em 0.2em 0.1em 0.2em;
+    font-size: 100%;
+    text-indent: 0;
+    /* transition-duration: 0.4s; */
+    cursor: progress;
+    text-decoration: none;
+}
+/* : */
+.blank_target_link:hover
+{
+    border-color: green;
+    border-style: inset;
+}
+/* : */
+a.blank_target_link:focus
+{
+    color: green;
+    outline-style: inset;
+}
+/* : */
+.blank_target_link_https
+{
+    border-color: red;
+    border-style: outset;
+    border-width: 0.19em;
+    cursor: progress;
+    display: inline-block;
+    font-size: 100%;
+    margin: 0.1em 0.2em 0.1em 0.2em;
+    padding: 0.1em 0.2em 0.1em 0.2em;
+    text-indent: 0;
+    /* transition-duration: 0.4s; */
+    text-decoration: none;
+}
+/* : */
+.blank_target_link_https:hover
+{
+    border-color: green;
+    border-style: inset;
+}
+/* : */
+a.blank_target_link_https:focus
+{
+    color: green;
+    outline-style: inset;
+}
+/* *****************************
+ * toc_link
+ */
+a.toc_link
+{
+    cursor: pointer; /* pointer; help wait zoom-in zoom-out alias */
+    /* color: #0000ff; */
+    margin: 1em 1em 1em 1em;
+    text-indent: 1em;
+    /* transition: all 0.2s; */
+}
+/* : */
+a.toc_link:hover,
+a.toc_link:focus
+{
+    /* color: green; */
+    outline-style: outset;
+}
+/* : */
+a.toc_link:focus
+{
+    outline-style: inset;
+}
+/* ******************* List *************
+ *  list_alpha
+ */
+.list_alpha
+{
+    list-style-type: upper-alpha;
+}
+/* : */
+ol.alpha
+{
+    list-style-type: lower-alpha;
+}
+/* ****************************************************************************
+ *  list_start_0
+ */
+ol.list_start
+{
+    list-style-type: none;
+    /*
+    counter-reset: start -1;
+    */
+}
+/* : */
+li.list_start
+{
+    display: block;
+}
+/* : */
+/*
+li.list_start::before
+{
+    content: ")";
+    content: counter(start) ".) ";
+    counter-increment: start;
+    display: marker;
+}
+*/
+/* ****************************************************************************
+ *  list_roman
+ */
+.list_roman
+{
+    list-style-type: upper-roman;
+}
+/* ****************************************************************************
+ *  list_square
+ */
+.list_square
+{
+    list-style-type: square;
+}
+/* ****************************************************************************
+ *  list_circle
+ */
+.list_circle
+{
+    list-style-type: circle;
+}
+/* *****************************
+ * list_pyramid
+ */
+.list_pyramid
+{
+    list-style-type: circle;
+    list-style-image: url("images/pyramid-icon-large.png");
+}
+/* : */
+.pyramid_large
+{
+    background-image: url("images/pyramid-icon-large.png");
+    background-repeat: no-repeat;
+}
+/* *****************************
+ * list_pyramid_small
+ */
+.list_pyramid_small
+{
+    list-style-type: circle;
+    list-style-image: url("images/pyramid-icon-small.png");
+}
+/* : */
+.pyramid_small
+{
+    background-image: url("images/pyramid-icon-small.png");
+    background-repeat: no-repeat;
+}
+/* : */
+.boxit
+{
+    margin-left: 1em;
+    margin-right: 1em;
+    border-style: double;
+    border-width: 0.3em;
+    padding: 0.6em 0.6em 0.6em 0.6em;
+}
+/* : */
+.boxitcenter
+{
+    border-style: double;
+    border-width: 0.3em;
+    padding: 0.3em 0.3em 0.3em 0.3em;
+    text-align: center;
+    margin: 0 auto;
+    /*
+    margin-left: 1em;
+    margin-right: 1em;
+    width: 66%;
+    display: block;
+    */
+}
+/* ********************************** font-size **************************** */
+/* font-size:large */
+.large
+{
+    font-size: large;
+}
+/* font-size:large_x */
+.large_x
+{
+    font-size: x-large;
+}
+/* font-size:large_xx */
+.large_xx
+{
+    font-size: xx-large;
+}
+/* font-size:large_xxx */
+.large_xxx
+{
+    font-size: 3.33em;
+}
+/* font-size:medium */
+.medium
+{
+    font-size: medium;
+}
+/* font-size:small */
+.small
+{
+    font-size: small;
+}
+/* font-size: */
+.small_x
+{
+    font-size: x-small;
+}
+/* font-size:small_xx */
+.small_xx
+{
+    font-size: xx-small;
+}
+/* font-size:small_xxx */
+.small_xxx
+{
+    font-size: 0.03em;
+}
+/* font-size: */
+.bignbold
+{
+    font-size: xx-large;
+}
+/* font-size: */
+.bignboldncenter
+{
+    font-size: xx-large;
+    text-indent: 0;
+    /* Necessary as RS may define text-indent for p */
+    text-align: center;
+}
+/* *****************************
+ * the_image_cover
+ */
+img.the_image_cover
+{
+    /*
+    display: block;
+    object-fit: cover;
+    */
+    /* position: fixed; Not Support by Kindle */
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    /* max-height: 100%; */
+    /* max-width: 100%; */
+    /* overflow: auto; */
+}
+/* : */
+.cover_body
+{
+    height: 100%;
+    width: 100%;
+}
+/* ****************************************************************************
+ *  a_caption
+ */
+.a_caption
+{
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 1em;
+}
+/* ****************************************************************************
+ *  a_illustration
+ */
+.a_illustration
+{
+    margin-left: 2.5%;
+    /*
+    width: 25%;
+    height: 33%;
+    width: 33vw;
+    height: 33vh;
+    */
+    /* height: 99%; */
+    /* % woould not reflow with font-size user setting */
+}
+/* : */
+.image_wrapper
+{
+    display: block;
+    /* object-fit: contain; */
+    text-align: left;
+}
+/* 320x480 */
+img.the_image
+{
+    /* border-radius: 0.6em; */
+    display: block;
+    height: 11.688em; /* 187px; */
+    /* object-fit: contain; */
+    width: 20.813em;  /* 333px; */
+}
+/*
+img.the_image:hover
+{
+    box-shadow: 0 0 0.2em 0.1em rgba(0, 140, 186, 0.5);
+}
+*/
+/* style="width: 320px; height: 480px;" */
+img.the_image_size
+{
+    display: block;
+    /* border-radius: 0.6em; */
+    /* object-fit: contain; */
+}
+/*
+img.the_image_size:hover
+{
+    box-shadow: 0 0 0.2em 0.1em rgba(0, 140, 186, 0.5);
+}
+*/
+.image_wrapper_center
+{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+/* : */
+img.image_center
+{
+    display: block;
+    /* border-radius: 0.6em; */
+    /* object-fit: contain; */
+    height: 11.688em; /* 187px; */
+    margin: 0 auto;
+    width: 20.813em;  /* 333px; */
+}
+/* Image Enlarge: Animation */
+/* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+/*
+.zoom
+{
+    transition: transform .2s;
+}
+.zoom:hover
+{
+    transform: scale(1.5);
+}
+*/
+.zoomin
+{
+    display: inline-block;
+}
+/* : */
+.zoomin img
+{
+    width: 50%;
+    /* transition: all 2s ease; */
+}
+/* : */
+.zoomin img:hover
+{
+    width: 99%;
+}
+/* : */
+.textarea
+{
+    background-color: white;
+    border: 1px inset #ccc;
+    border-style: double;
+    border-width: 0.3em;
+    font-family: monospace;
+    margin-left: 0.6em;
+    margin-right: 0.6em;
+    padding: 0.3em 0.3em 0.3em 0.3em;
+    /* font: small courier, monospace black; */
+    width: 96%;
+}
+/* : */
+.pretag
+{
+    margin: 1.5em 0 1.5em 5%;
+    /* word-wrap: break-word; */
+    white-space: pre-wrap;
+    /* white-space: pre; */
+    /* tab-size: 3; */
+    font-family: monospace;
+}
+/* ****************************************************************************
+ * pre with a text area
+ * Note you can not use a textarea
+ */
+.pretextarea
+{
+    background-color: white;
+    border: 0.6em inset silver;
+    /* font: small courier, monospace black; */
+    font-family: monospace;
+    margin: 0.3em 0.3em 0.3em 0.3em;
+    padding: 0.1em 1.3em 0.1em 0.6em;
+    width: 93%;
+    /* word-wrap: break-word; */
+    white-space: pre-wrap;
+    /* white-space: pre; */
+    /* tab-size: 3; */
+}
+/* ****************************************************************************
+ * Center Yewtube embedded iframe
+ */
+.yewtube
+{
+    display: block;
+    margin: auto;
+}
+/* : */
+.videowrapper
+{
+    /*
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative; not allowed by kindle
+    */
+    height: 0;
+    padding-bottom: 56.25%; /* 16:9 */
+    /* padding-top: 25px; */
+    padding-top: 1.5em;
+}
+/* : */
+.videowrapper2
+{
+    left: 0;
+    height: 100%;
+    /* Not allowed in Kindle
+    position: absolute; */
+    top: 0;
+    width: 100%;
+}
+/* : */
+.video_centerit
+{
+    display: block;
+}
+/* : */
+.video-wrapper
+{
+    display: block;
+}
+/* : */
+.video-container
+{
+    /* Not allowed in Kindle
+    position: relative;
+    overflow: hidden;  */
+    display: block;
+}
+/* : */
+.video-container iframe,
+.video-container object,
+.video-container embed
+{
+    /* Not allowed in Kindle position: absolute; */
+    /* max-height: 50vh; */
+    /* max-width: 100%; */
+    display: block;
+}
+/* ****** Video5 ****** */
+/* Put in Video to control its size  */
+.video5
+{
+    /* border-radius: 0.6em; */
+    /* object-fit: cover; */
+    width: 42%;
+}
+/* : */
+.video5_centerit
+{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 99%;
+}
+/* : */
+.nowrap
+{
+    white-space: nowrap;
+}
+/* : */
+.valign_top
+{
+    vertical-align: top;
+}
+/* : */
+.valign_middle
+{
+    vertical-align: middle;
+}
+/* : */
+.valign_bottom
+{
+    vertical-align: bottom;
+}
+/* : */
+@media print
+{
+    .noprint,
+    .noprint *
+    {
+        display: none !important;
+    }
+}
+/* : */
+.noprint,
+.noprint *
+{
+    display: none;
+}
+/* : */
+#google_translate_element
+{
+    margin: 0 auto;
+    padding: 0;
+    z-index: 99999;
+}
+/* : */
+.goog-te-gadget
+{
+    font-family: "Open Sans", sans-serif;
+}
+/* : */
+.goog-te-gadget-simple
+{
+    border-left: 1px solid #d5d5d5;
+    border-top: 1px solid #9b9b9b;
+    border-bottom: 1px solid #e8e8e8;
+    border-right: 1px solid #d5d5d5;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13pt;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    /* zoom: 1; */
+}
+/* : */
+.goog-te-menu2
+{
+    width: 100%;
+}
+/* : */
+.goog-te-menu-value
+{
+    margin: 0 auto;
+    padding: 0;
+}
+/* End of File */

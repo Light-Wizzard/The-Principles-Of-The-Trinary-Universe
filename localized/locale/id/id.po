@@ -1,0 +1,474 @@
+# Trinary Galactic Table Translation File
+
+# msgcomment: InputStatus
+msgid "InputStatus0"
+msgstr "Script Table Tract Matrix Math Galactic Script is Creating"
+
+# msgcomment: InputStatus
+msgid "InputStatus1"
+msgstr "Pembaharuan Terakhir"
+
+# msgcomment: InputStatus
+msgid "InputStatus2"
+msgstr "Tanggal Berubah"
+
+# msgcomment: InputStatus
+msgid "InputStatus3"
+msgstr "Ukuran Matahari"
+
+# msgcomment: InputStatus
+msgid "InputStatus4"
+msgstr "Ukuran Planet yang Layak Huni"
+
+# msgcomment: InputStatus
+msgid "InputStatus5"
+msgstr "Jumlah Mesin Triner"
+
+# msgcomment: InputStatus
+msgid "InputStatus6"
+msgstr "Galaxy Radius"
+
+# msgcomment: InputStatus
+msgid "InputStatus7"
+msgstr "Total jumlah Trek di Galaxy"
+
+# msgcomment: InputStatus
+msgid "InputStatus8"
+msgstr "Indeks Tekanan Atmosfer"
+
+# msgcomment: InputStatus
+msgid "InputStatus9"
+msgstr "mil dalam Diameter"
+
+# msgcomment: InputStatus
+msgid "InputStatus10"
+msgstr "mil"
+
+# msgcomment: Header
+msgid "Header0"
+msgstr "Prinsip-Prinsip Semesta Triner: Lampiran A: Trake Galactic Track Table"
+
+# msgcomment: Header
+msgid "Header1"
+msgstr "Penulis: Jeffrey Scott Flesher, Prinsip Cahaya Wizzard atau Penyihir seperti Sir Isaac Newton dan Nikola Tesla"
+
+# msgcomment: Header
+msgid "Header2"
+msgstr "Cahaya, Wizzard, Penyihir, Newton, Newton, Tesla, Franklin, Tuhan, Yesus, Bar / Abbas, Kegelapan, Triner, Alam Semesta, Suaka, Fisika, Matahari, Langkah, Jeffrey Scott Flesher"
+
+# msgcomment: Header
+msgid "Header3"
+msgstr "Penulis: Jeffrey Scott Flesher, Prinsip Cahaya Wizzard atau Penyihir seperti Sir Isaac Newton dan Nikola Tesla"
+
+# msgcomment: TitlePage
+msgid "TitlePage0"
+msgstr "Lampiran A: "
+
+# msgcomment: TitlePage
+msgid "TitlePage1"
+msgstr "Trake Galactic Track Table"
+
+# msgcomment: TitlePage
+msgid "TitlePage2"
+msgstr "Prinsip-Prinsip Semesta Triner"
+
+# msgcomment: TitlePage
+msgid "TitlePage3"
+msgstr "CopyRight dan CopyLeft oleh"
+
+# msgcomment: TitlePage
+msgid "TitlePage4"
+msgstr "Jeffrey Scott Flesher"
+
+# msgcomment: TitlePage
+msgid "TitlePage5"
+msgstr "Sersan Staf Angkatan Udara Amerika Serikat yang pensiun secara medis"
+
+# msgcomment: TitlePage
+msgid "TitlePage6"
+msgstr "Trake Galactic Track Table"
+
+# msgcomment: Galaxy
+msgid "Galaxy0"
+msgstr "Galaxy Trinary didasarkan pada:"
+
+# msgcomment: Galaxy
+msgid "Galaxy1"
+msgstr "Galaxy Trinary didasarkan pada Record Player, Galactic Plane adalah Record atau Disk."
+
+# msgcomment: Galaxy
+msgid "Galaxy2"
+msgstr "Semua Matahari mengorbit Galaksi dengan Kecepatan yang Sama Seperti Lengan Pemutar Rekaman, dan masing-masing Lagu memiliki Kecepatannya sendiri."
+
+# msgcomment: Iteration
+msgid "Iteration0"
+msgstr "Iterasi adalah Periode Waktu yang didefinisikan sebagai:"
+
+# msgcomment: Iteration
+msgid "Iteration1"
+msgstr "Iterasi adalah Periode Waktu yang ditentukan dalam tahun, saya akan menghitung di sini sebagai Maksimum, Rata-rata, dan Minimum,"
+
+# msgcomment: Iteration
+msgid "Iteration2"
+msgstr "Periode-periode ini diberi label menggunakan Zodiac Signs, dan menggunakan Kalender Julian, Gregorian, dan Maya."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics0"
+msgstr "Matematika Matriks Triner didasarkan pada:"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics1"
+msgstr "Matematika Matriks Trinary didasarkan pada Tabel Matriks, setiap baris adalah Track di Galactic Disk,"
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics2"
+msgstr "Setiap kolom memiliki data tentang Matahari di Galaxy yang mendukung Life."
+
+# msgcomment: TrinaryMatrixMathematics
+msgid "TrinaryMatrixMathematics3"
+msgstr "Ini didasarkan pada Rentang Energi yang diketahui manusia dapat bertahan."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn0"
+msgstr "Konsep Trinary Ini Berdasarkan:"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn1"
+msgstr "Konsep Trinary adalah konsep yang saya buat sendiri saat saya kanak-kanak pada usia 9,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn2"
+msgstr "Itu didasarkan pada Matahari yang memiliki semua Informasi yang perlu diketahui untuk melakukan tugasnya di Galaxy."
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn3"
+msgstr "Pernah saya mengerti apa yang digambarkan Sir Isaac Newton,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn4"
+msgstr "Saya menyadari bahwa Ukuran Matahari berhubungan dengan Tata Suryanya,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn5"
+msgstr "jadi saya mulai menghitung semua yang saya bisa: berdasarkan Properties-nya,"
+
+# msgcomment: ThisTrinaryConceptIsBasedOn
+msgid "ThisTrinaryConceptIsBasedOn6"
+msgstr "dan menulis Bash Script ini untuk membuat File dokumen XHTML ini yang berisi Tabel Matriks ini dan, saya juga menulis Qt Quick QML JavaScript lintas platform Proyek Sumber Terbuka yang disebut galaxy-calculator, tautan ada di bawah halaman."
+
+# msgcomment: InputStats
+msgid "InputStats0"
+msgstr "Berdasarkan Ukuran Matahari"
+
+# msgcomment: InputStats
+msgid "InputStats1"
+msgstr "mil dalam Diameter"
+
+# msgcomment: InputStats
+msgid "InputStats2"
+msgstr "Berdasarkan"
+
+# msgcomment: InputStats
+msgid "InputStats3"
+msgstr "Mesin Trinary"
+
+# msgcomment: InputStats
+msgid "InputStats4"
+msgstr "Berdasarkan Galaxy dengan Radius"
+
+# msgcomment: InputStats
+msgid "InputStats5"
+msgstr "Total jumlah Trek"
+
+# msgcomment: InputStats
+msgid "InputStats6"
+msgstr "Iterasi Maksimum"
+
+# msgcomment: InputStats
+msgid "InputStats7"
+msgstr "Iterasi Rata-Rata"
+
+# msgcomment: InputStats
+msgid "InputStats8"
+msgstr "Iterasi Minimum"
+
+# msgcomment: Track
+msgid "Track0"
+msgstr "Jalur:"
+
+# msgcomment: Track
+msgid "Track1"
+msgstr "Lacak nomor Galaxy kita, berdasarkan 0 hingga dua kali 666."
+
+# msgcomment: Track
+msgid "Track2"
+msgstr "Trek di bawah 336 memiliki Mesin Trinary Negatif karena mereka adalah Bintang Gelap,"
+
+# msgcomment: Track
+msgid "Track3"
+msgstr "Mereka bercampur dengan Cincin Galaksi Galaxies Force, membuat angka Frekuensi Negatif."
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines0"
+msgstr "Mesin Trinary:"
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines1"
+msgstr "Berdasarkan pada berapa banyak objek (Planet, Planet Mikro, Bulan, Asteroid) atau Mesin Trinary, Mesin Trinary dalam Tabel ini hanya mengacu pada Bintang Pengiring Bintang Gelap, mereka diharuskan untuk menjaga Tata Surya bersama, Energi Gelap dalam jenis ini Trinary Engine adalah Semua Terang tanpa Kegelapan, meskipun Terang tanpa Kegelapan mengacu pada Spektrum Cahaya yang biasanya tidak terlihat dalam Spektrum yang dapat dilihat manusia, tanpa Teknologi Spektrum Penuh, Trinary Engine jenis ini terbuat dari Neutrino yang Gelap dalam penampilan jika dilihat dengan Teknologi, karena Teknologi tidak dapat melihat Cahaya tanpa Kegelapan melalui Neutron Shell, yang berarti partikel luar dari Trinary Atom, saat ini tidak ada Teknologi untuk mendeteksi Bintang Gelap, tetapi Gambar Spektrum Penuh dapat mendeteksi Pola mereka sebagai Energi Gelap. mengontrol Matahari atau Bintang, dengan menciptakan jaringan Energi Gelap,, The Dark Star Companions mengorbit antara Matahari di Tata Surya yang memiliki Planet dan Bulan, dan pasangan Binernya t, dalam kasus kami ini adalah Sirius a Binary Star, dengan demikian, semakin dekat Matahari atau Bintang dengan Galaxy, semakin sedikit Mesin Trinary yang dibutuhkan untuk menampungnya, sehingga jumlah Mesin Trinary mengatur apa yang juga dikenal dengan Track the Sun. sebuah bintang aktif, sehingga semakin jauh dari galaksi, semakin banyak Mesin Trinary yang disebut Dark Star Companions, ia perlu merentangkan jarak, untuk mengandung planet-planet lain, sementara Bintang Gelap mempertahankan laju pergerakan yang sama pada kecepatan berbeda. . "
+
+# msgcomment: TrinaryEngines
+msgid "TrinaryEngines2"
+msgstr "Mempertahankan laju yang sama pada Kecepatan yang berbeda diatur oleh Bintang Gelap itu sendiri, dan itu berada di Galactic Plane, dan Matahari juga dikenal sebagai Bintang melewatinya. Tugas Sahabat adalah untuk menjaga tata surya bersama. Dalam Gambar I menunjukkan bahwa Bintang Biner Sirius dan Matahari kita berada pada sisi yang berlawanan dari Pesawat Galaksi, ini hanya berlaku ketika melewatinya dan keluar darinya, sejauh yang saya bisa buktikan. Formula Matematika Tren untuk Mencangkok atau Merencanakan Arus Bolak-Balik dalam bentuk gelombang Helix, didasarkan pada Frekuensi yang berkorelasi dengan interval Matahari kita dalam hal waktu dan jarak, tetapi karena Sains saat ini, perkiraan Mainstream dapat memperkirakan antara 30 dan 33 Juta Tahun, jadi saya membuat Variabel, sehingga dapat disesuaikan dengan nilai yang benar, aplikasi ini dirancang untuk memasukkan Galaxy, jadi itu tidak mempengaruhi perhitungan saya ketika kita akan Membalik Polandia, karena itu hanya masalah di mana kita berada di Sinyal itu sendiri, dan tidak bahkan tidak bergantung pada arah apa kita sedang menuju, artinya ke dalam Pesawat Galaksi, atau menjauh darinya, itu hanya masalah di mana kita berada dalam hal Sinyal itu sendiri. Saya menyebut Gravity sebagai Sinyal, karena Tuhan adalah Semua Terang tanpa Kegelapan, dan adalah Gaya Gravitasi dalam Semua Persamaan Newton, juga milik saya, dan ini adalah Gravitasi yang saya hitung untuk Galaksi, dan Mataharinya juga dikenal sebagai Bintang . Bintang-bintang Gelap dan Sahabat mereka adalah tipe khusus dari Mesin Trinary, dan seperti semua Mesin Trinary, mereka adalah Teoretis, karena mereka tidak dapat dibuktikan atau dibantah, dan menyatakan bahwa Anda harus memiliki Faith God Exist, adalah apa yang dikatakan oleh Newton, tetapi yang tidak membuat adalah Sains, bahkan Newton mengatakan bahwa, sebagai gantinya saya menyatakan bahwa Mesin Trinary memancarkan Sinyal-sinyal ini yang dapat Terdeteksi oleh Teknologi Saat Ini, dengan demikian saya dapat menyatakan mereka adalah Fakta dalam Ilmu Triner, dengan Bukti menggunakan Teknologi saat ini. Untuk Memplot Data dalam Tabel, saya menggunakan data berikut sebagai variabel, Ukuran Matahari sebagai Diameter 864.575,9 Mil, Ukuran Planet yang Dapat Dihiasi sebagai Diameter 7926.2109 Mil, Jumlah Mesin Trinary 333 dari Alkitab, Radius Galaxy sebagai 241828072282107.5071453596951 Mil, Nama File Lengkap: appendix.a.xhtml, dan 66 baris untuk dicetak, yaitu untuk Bash Script, saya bahkan memiliki lebih banyak kontrol di App Qt, Trinary Math is Simple, untuk mendapatkan periode waktu Iterasi, saya hanya perlu tahu ukuran Matahari, (864.575,9 * (1/137)) / 3 u003d Maksimum tahun 2103, Iterasi Rata-Rata Berdasarkan Pembalikan Polaritas Magnetik Matahari, ia mengubah polaritas 10 (0 - 9) kali dalam satu Abad: 100 - 9 u003d 91, jadi 2103 - 91 u003d 2012, untuk menghitung Akhir Waktu, gunakan 42 dari Panduan Hitchhikers ke Galaxy, 42 hex adalah 66 dalam desimal, dan itu dari Alkitab, dan 2103 - 42 u003d 2061, dan Sir Isaac Newton menghitung ini pada tahun 2060 di bawah Kalender Julian, jadi ini adalah 2061 di bawah Kalender Gregorian, jadi ini adalah e Tahun Bumi seharusnya membalikkan Polandia, dan saya tidak akan menganggap enteng peristiwa ini, itu adalah Akhir Zaman yang juga dikenal sebagai Akhir Peradaban seperti yang kita kenal, jadi mengetahui Ukuran Matahari adalah semua yang perlu Anda ketahui, lainnya daripada fakta bahwa itu hanya bekerja jika Anda memulai tahun Anda pada 0, dan mengapa Kalender Maya dimulai setelah 2012, ekor Ikan adalah tahun 2060, dan mengapa Kalender Gregorian diperkenalkan, sehingga akan sejalan dengan ini Kode Alkitab, membuat perhitungan Newton benar, dan mengapa bangsa Maya melacak waktu dalam Iterasi tahun 2012, sehingga matematika selalu bekerja untuk mereka, dan mereka tahu itu akan terjadi setelah 2012 dan sebelum Ekor Ikan, yaitu pada tahun 2103 . "
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH0"
+msgstr "Kecepatan Maks dalam MPH:"
+
+# msgcomment: MaxSpeedInMPH
+msgid "MaxSpeedInMPH1"
+msgstr "Berdasarkan kecepatan maksimum, Matahari dapat melakukan perjalanan melalui Pesawat Galactic."
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH0"
+msgstr "Min Speed u200bu200bdalam MPH:"
+
+# msgcomment: MinSpeedInMPH
+msgid "MinSpeedInMPH1"
+msgstr "Berdasarkan kecepatan minimum, Matahari dapat melakukan perjalanan setelah melalui Galactic Plane."
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz0"
+msgstr "Frekuensi dalam Hz:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz1"
+msgstr "Berdasarkan Frekuensi Inti Planet, frekuensi permukaan seharusnya jauh lebih tinggi:"
+
+# msgcomment: FrequencyInHz
+msgid "FrequencyInHz2"
+msgstr "Frekuensi Planet yang Dapat Dihidupkan dari 7,830 Hz pada tahun: 2019."
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance0"
+msgstr "Jarak Orbital:"
+
+# msgcomment: OrbitalDistance
+msgid "OrbitalDistance1"
+msgstr "Ini seperti Track pada Rekam, itu adalah Lingkaran Track dalam Miles."
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency0"
+msgstr "Lacak Frekuensi dalam Hz:"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency1"
+msgstr "Ini didasarkan pada bentuk Helix yang dilalui Matahari kita di sekitar Galaksi,"
+
+# msgcomment: TrackFrequency
+msgid "TrackFrequency2"
+msgstr "Itu juga menghitung ketika kita melewati Pesawat Galactic."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy0"
+msgstr "Life in the Galaxy is Located:"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy1"
+msgstr "Saat ini Life in the Galaxy berada di Track * 666"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy2"
+msgstr "Jika Mesin Trinary baru memasuki atau meninggalkan Dunia atau Tata Surya kita, kita akan mengubah trek."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy3"
+msgstr "Setelah Pergeseran Kutub karena pada 2060,"
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy4"
+msgstr "Anda harus memulai Kalender Baru mulai dengan tahun 0, atau melanjutkan dan menggunakan tanggal di Tabel Zodiac."
+
+# msgcomment: LifeInTheGalaxy
+msgid "LifeInTheGalaxy5"
+msgstr "Ini adalah Zaman Aquarius, dan Zaman Es akan Menandai Hujan."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy0"
+msgstr "Jika kamu memilih dua Suns di Track yang berbeda satu sama lain: diperlihatkan dalam warna Merah dan Hijau,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy1"
+msgstr "Dan membayangkan bahwa ketika saya memutar gambar ini mensimulasikan Matahari Mengorbit Galaksi,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy2"
+msgstr "Anda akan mencatat bahwa semua Matahari di Galaksi tetap sejalan saat mereka mengorbitnya,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy3"
+msgstr "Ini simulasi yang buruk tapi itu yang saya maksudkan,"
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy4"
+msgstr "Matematika ini tidak sama dengan untuk Tata Surya Matahari, jadi Hukum dan Matematika Kepler dan Newton tidak akan membantu Anda di sini, tetapi Matematika Trinary akan."
+
+# msgcomment: ImagesOfGalaxy
+msgid "ImagesOfGalaxy5"
+msgstr "Matematika Trinary yang saya buat pada usia 9 berfungsi untuk menyelesaikan masalah ini, Galaksi yang disajikan, menggunakan Logika: Kecepatan u003d Jarak / Waktu, dan Jarak u003d Kecepatan * Waktu, sehingga Kecepatan dan Jarak Relatif terhadap Frekuensi, sehingga: Frekuensi u003d 1 / Waktu dan Waktu u003d 1 / Frekuensi, sedemikian sehingga: Frekuensi (Hz) u003d Kecepatan Cahaya (Jarak @ 670.616.629 mph * 1 jam; ~ Frekuensi dalam mil dalam 1 Jam atau Waktu) / Panjang gelombang dalam Mil, menggunakan estimasi Mainstream dari 500.000 Mil satu jam selama 250.000.000 tahun, adalah jarak 1.095.000.000.000.000.000 mil, menggunakan Formula I saya mendapatkan 1.011.954.093.357.316.200 mil, sangat dekat dengan jarak sejauh itu. Ilmu Triner didasarkan pada semua Energi yang berasal dari Cahaya Dewa di dalam setiap Trinary Atom, yang berarti 3 jenis: Proton, Neutron, dan Elektron dalam kasus Cahaya, dengan demikian, semua Trinary Math didasarkan pada Listrik. Ketika menyelesaikan galaksi-kalkulator, proyek github Open Source, yang sudah menghitung tabel yang sama ini, juga akan secara grafik memplot jalan t Suns or Stars, saat mereka mengorbit di sekitar Galaxy, setelah selesai, saya akan mengganti gambar di tabel ini dengan yang itu. Anda memiliki dua pilihan, percayalah kepada Sir Isaac Newton bahwa Tuhan adalah Kekuatan Gravitasi dalam Semua Persamaannya, atau Anda dapat mempercayai Albert Einstein yang Mengecam semua Teorinya demi Dewa Newton sebagai Kekuatan Gravitasi, atau saya lebih dekat untuk menjadi benar daripada Mainstream Science, karena didasarkan pada Teori Einstein bahkan tidak percaya. Dalam rumus ini, saya menjumlahkan Frekuensi Track alih-alih menggunakan Sine dan Cosine, ini bukan Simulator, ini menghitung semua Track berdasarkan pada yang sama Matahari, dan Ukuran Planet yang Layak Huni, sehingga hanya berfungsi untuk Trek yang mendukung Kehidupan, sehingga menghitung di mana Kehidupan bisa ada berdasarkan ukuran ini. "
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems0"
+msgstr "Galaksi Memutar Semua Sistem Tenaga Surya dengan Kecepatan yang Sama"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems1"
+msgstr "Galaksi Memutar Semua Sistem Tenaga Surya dengan Kecepatan yang Sama"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems2"
+msgstr "Galaksi Memutar semua Sistem Surya pada Kecepatan yang sama tetapi tidak dengan kecepatan"
+
+# msgcomment: ImagesGalaxySpinningAllSolarSystems
+msgid "ImagesGalaxySpinningAllSolarSystems3"
+msgstr "Ukuran Penuh"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern0"
+msgstr "Matematika Trinary adalah Matematika 3 Dimensi karena didasarkan pada Listrik yang juga dikenal sebagai Cahaya, yang oleh Newton disebut Tuhan."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern1"
+msgstr "Jika Anda melihat Matahari mengorbit Bintang Gelap di Pesawat Galactic,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern2"
+msgstr "Dan memiliki Konfigurasi Trinary Star, sehingga Sirius adalah Binary Star kita,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern3"
+msgstr "Dan ada juga Sahabat Bintang Gelap yang melakukan obituasi di sekitar Sistem Trinary Star (Matahari, Sirius, dan Bintang Gelap)."
+
+# msgcomment: HelixPattern
+msgid "HelixPattern4"
+msgstr "Tabel Ini Menghitung Frekuensi Bentuk Gelombang ini seperti yang diperlihatkan dalam Ilustrasi ini"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern5"
+msgstr "Serta Kecepatan yang dilewatinya saat daya menyelinap ke Galactic Plane dengan Kecepatan Maksimum,"
+
+# msgcomment: HelixPattern
+msgid "HelixPattern6"
+msgstr "Dan bagaimana ini pada Kecepatan Minimum saat mendapatkan Amplitude terjauh sebelum ia kembali ke Galactic Plane."
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun0"
+msgstr "Jalur orbit Matahari di sekitar revolusi Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun1"
+msgstr "Jalur orbit Matahari mengelilingi Galaxy satu Orbit lengkap"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun2"
+msgstr "Ilustrasi A2: Jalur Orbital Lengkap Matahari di Sekitar Galaxy"
+
+# msgcomment: ImagesOfOrbitalPathOfSun
+msgid "ImagesOfOrbitalPathOfSun3"
+msgstr "Ukuran Penuh"
+
+# msgcomment: TableHeader
+msgid "TableHeader0"
+msgstr "Jalur"
+
+# msgcomment: TableHeader
+msgid "TableHeader1"
+msgstr "Trinary"
+
+# msgcomment: TableHeader
+msgid "TableHeader2"
+msgstr "Mesin"
+
+# msgcomment: TableHeader
+msgid "TableHeader3"
+msgstr "Kecepatan maksimum"
+
+# msgcomment: TableHeader
+msgid "TableHeader4"
+msgstr "dalam MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader5"
+msgstr "Kecepatan Min"
+
+# msgcomment: TableHeader
+msgid "TableHeader6"
+msgstr "dalam MPH"
+
+# msgcomment: TableHeader
+msgid "TableHeader7"
+msgstr "Frekuensi"
+
+# msgcomment: TableHeader
+msgid "TableHeader8"
+msgstr "dalam Hz"
+
+# msgcomment: TableHeader
+msgid "TableHeader9"
+msgstr "Jarak Orbital"
+
+# msgcomment: TableHeader
+msgid "TableHeader10"
+msgstr "dalam Miles"
+
+# msgcomment: TableHeader
+msgid "TableHeader11"
+msgstr "Jalur"
+
+# msgcomment: TableHeader
+msgid "TableHeader12"
+msgstr "Frekuensi"
+
+# msgcomment: TableCaption
+msgid "TableCaption0"
+msgstr "Tabel Lampiran A: Trinary Matrix Mathematics Galactic Track Table"
+
+# msgcomment: TableCaption
+msgid "TableCaption1"
+msgstr "Penggunaan: (Ukuran Matahari dalam Mil dalam Diameter) (Ukuran Planet yang Dapat Dihiasi dalam Diameter dalam Mil) (Jumlah Mesin Triner)"
+
+# msgcomment: TableCaption
+msgid "TableCaption2"
+msgstr "(Radius Galaksi dalam Miles) (Nama File Lengkap: appendix.a.xhtml) (Jumlah Baris ke-7 untuk Dicetak)"
+
+# msgcomment: Footer
+msgid "Footer0"
+msgstr "./makeappendix.a.sh 864575.9 7926.2109 333 241828072282107.5071453596951 appendix.a.xhtml 66"
+
+# msgcomment: Footer
+msgid "Footer1"
+msgstr "Ini memungkinkanmu untuk masuk dalam Galaksi lain, dan bermain dengan Ukuran Matahari dan Planet yang berbeda."
+
+# msgcomment: Footer
+msgid "Footer2"
+msgstr "Set ThisPrintNth u003d 1 jika Anda hanya ingin mencetak baris ke-n, atur trackNth ke angka untuk dilewati,"
+
+# msgcomment: Footer
+msgid "Footer3"
+msgstr "66 memberi Anda sekitar 21 Lagu, mengaturnya ke 1 akan mencetak semua Lagu,"
+
+# msgcomment: Footer
+msgid "Footer4"
+msgstr "atur DoNotSkipThis u003d 666 atau angka apa pun yang ingin Anda lihat,"
+
+# msgcomment: Footer
+msgid "Footer5"
+msgstr "Ini menghemat kertas dengan hanya mencetak sebagian dari baris di tabel; ini adalah argumen ke-6, saya mencoba membatasi itu."
+
+# msgcomment: Footer
+msgid "Footer6"
+msgstr "Tautan ke File Bash yang membuat Halaman ini (Simpan dan Tetapkan Izin untuk dijalankan.):"
+
+# msgcomment: Footer
+msgid "Footer7"
+msgstr "Jika Anda menjalankan Bash Script seperti: ./makeappendix.a.sh atau ./makeappendix.a.sh --help, itu akan memberi Anda Bantuan dan Detail lebih lanjut."
+
