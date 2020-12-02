@@ -1,5 +1,7 @@
 # The-Principles-Of-The-Trinary-Universe
 
+Please see [Wiki](https://github.com/Light-Wizzard/The-Principles-Of-The-Trinary-Universe/wiki) for more information.
+
 The Principles of the Trinary Universe Pages of Book for Galaxy Calculator Source Code
 
 This Project is part of my Galaxy Calculator that is hosted here at:
