@@ -60,7 +60,7 @@ because in reality I really am a Medically Retired United States Air Force Staff
 who was a Computer Programmer, Electronic Engineer, Mathematician for the (E)F-111,
 Computer Test Station program during the Gulf War,
 then transferred into Air Rescue and Special Operations as a Helicopter Crew Chief,
-that is all documented here: http://VetsHelpCenter.com/about-vets.html
+that is all documented here: http://vetshelpcenter.com/about/
 but this Project is not about me or my Math,
 this is just the reason why I am telling you this Calculator is different then all others,
 and it would not be without knowing why,
