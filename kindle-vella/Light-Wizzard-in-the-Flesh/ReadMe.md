@@ -1,1 +1,1 @@
-Light Wizzard in the Flesh Series of 33 Steps.
+This is where I store my files for my series the Light Wizzard in the Flesh for Kindle Vella Episodes, 33 in all, I wanted a safe place to store them, and have access to them should I need to update them, should anyone find errors that need to be corrected, please submite an Issue.
