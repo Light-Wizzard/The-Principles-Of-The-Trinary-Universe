@@ -1,1 +1,1 @@
-Trinary Universe Kindle Vella Episodes, 33 in all.
+This is where I store my files for my series the Trinary Universe for Kindle Vella Episodes, 33 in all, I wanted a safe place to store them, and have access to them should I need to update them, should anyone find errors that need to be corrected, please submite an Issue.
