@@ -1,4 +1,4 @@
-# Files
+# Light Wizzard PDF Files to read or print out
 
 This is the 666 page text book, note this is not the same as the Web Site, but the same as the books you can order online or at your favoirite book store: [the.principles.of.the.trinary.universe.pdf](https://github.com/Light-Wizzard/The-Principles-Of-The-Trinary-Universe/blob/master/misc/the.principles.of.the.trinary.universe.pdf)
 
